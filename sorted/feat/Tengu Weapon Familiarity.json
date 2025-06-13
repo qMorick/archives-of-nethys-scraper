@@ -1,40 +1,58 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Tengu Weapon Familiarity"
  ],
  "feat_markdown": "Tengu Weapon Familiarity",
- "id": "feat-1314",
+ "id": "feat-5679",
+ "legacy_id": [
+  "feat-1314",
+  "feat-1319",
+  "feat-1321"
+ ],
+ "legacy_name": [
+  "Eclectic Sword Training",
+  "Tengu Weapon Expertise"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Tengu Weapon Familiarity](/Feats.aspx?ID=1314) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Tengu\" url=\"/Traits.aspx?ID=240\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 26 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou've trained with a blade and other tengu weapons ever since you hatched. You gain access to [khakkaras](/Weapons.aspx?ID=126). Additionally, choose two weapons from the [sword](/WeaponGroups.aspx?ID=15) group. You can choose from among all common martial swords, plus the [katana](/Weapons.aspx?ID=55), [temple sword](/Weapons.aspx?ID=61), and [wakizashi](/Weapons.aspx?ID=129). For the purpose of determining your proficiency, that weapon is a simple weapon, and if the weapon isn't common, you gain access to it. If you are trained in all martial weapons, you add common advanced swords to the swords you can choose from.\n\n You also gain access to all uncommon tengu weapons. For the purpose of determining your proficiency, martial tengu weapons are simple weapons, and advanced tengu weapons are martial weapons.\n\n<title level=\"2\">Tengu Weapon Familiarity leads to...</title>\r\n[Eclectic Sword Training](/Feats.aspx?ID=1319), [Tengu Weapon Expertise](/Feats.aspx?ID=1321), [Tengu Weapon Study](/Feats.aspx?ID=1318)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Tengu Weapon Familiarity](/Feats.aspx?ID=5679) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Tengu\" url=\"/Traits.aspx?ID=776\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 34 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou gain access to all uncommon weapons with the [tengu](/Traits.aspx?ID=776) trait plus the [katana](/Weapons.aspx?ID=411), [khakkara](/Weapons.aspx?ID=412), [temple sword](/Weapons.aspx?ID=418), and [wakizashi](/Weapons.aspx?ID=419). You have familiarity with these weapons—for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.\n\n During your daily preparations, you can practice with a weapon from the [sword](/Rules.aspx?ID=15) group that's in your possession. You gain familiarity with that weapon as well. This lasts until you practice with a different sword in the same way.\n\n At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.",
  "name": "Tengu Weapon Familiarity",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 34",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Tengu\" url=\"/Traits.aspx?ID=240\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 26 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou've trained with a blade and other tengu weapons ever since you hatched.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Tengu\" url=\"/Traits.aspx?ID=776\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 34 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain access to all uncommon weapons with the [tengu](/Traits.aspx?ID=776) trait plus the [katana](/Weapons.aspx?ID=411), [khakkara](/Weapons.aspx?ID=412), [temple sword](/Weapons.aspx?ID=418), and [wakizashi](/Weapons.aspx?ID=419).\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 26"
+  "Player Core 2 pg. 34"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 26 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 34 <sup>1.1</sup>",
  "speed": {},
- "summary": "You've trained with a blade and other tengu weapons ever since you hatched.",
- "summary_markdown": "You've trained with a blade and other tengu weapons ever since you hatched.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Tengu Weapon Familiarity Source Advanced Player's Guide pg. 26 2.0 --- You've trained with a blade and other tengu weapons ever since you hatched. You gain access to khakkaras. Additionally, choose two weapons from the sword group. You can choose from among all common martial swords, plus the katana, temple sword, and wakizashi. For the purpose of determining your proficiency, that weapon is a simple weapon, and if the weapon isn't common, you gain access to it. If you are trained in all martial weapons, you add common advanced swords to the swords you can choose from. You also gain access to all uncommon tengu weapons. For the purpose of determining your proficiency, martial tengu weapons are simple weapons, and advanced tengu weapons are martial weapons. Tengu Weapon Familiarity leads to... Eclectic Sword Training, Tengu Weapon Expertise, Tengu Weapon Study",
+ "summary": "You gain access to all uncommon weapons with the  tengu  trait plus the  katana ,  khakkara ,  temple sword , and  wakizashi .",
+ "summary_markdown": "You gain access to all uncommon weapons with the [tengu](/Traits.aspx?ID=776) trait plus the [katana](/Weapons.aspx?ID=411), [khakkara](/Weapons.aspx?ID=412), [temple sword](/Weapons.aspx?ID=418), and [wakizashi](/Weapons.aspx?ID=419).",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Tengu Weapon Familiarity Source Player Core 2 pg. 34 1.1 --- You gain access to all uncommon weapons with the tengu trait plus the katana, khakkara, temple sword, and wakizashi. You have familiarity with these weapons—for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons. During your daily preparations, you can practice with a weapon from the sword group that's in your possession. You gain familiarity with that weapon as well. This lasts until you practice with a different sword in the same way. At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.",
  "trait": [
   "Tengu"
  ],
- "trait_markdown": "[Tengu](/Traits.aspx?ID=240)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Tengu](/Traits.aspx?ID=776)",
  "trait_raw": [
   "Tengu"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1314",
+ "url": "/Feats.aspx?ID=5679",
  "weakness": {}
 }

@@ -3,35 +3,46 @@
   "Chapter 6: Equipment",
   "Weapons"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-222",
- "markdown": "<title level=\"1\" right=\"Rules\">[Critical Hits](/Rules.aspx?ID=222)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 278 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nWhen you make an attack and succeed with a natural 20 (the number on the die is 20), or if the result of your attack exceeds the target's AC by 10, you achieve a critical success (also known as a critical hit).\n\n If you critically succeed at a Strike, your attack deals [double damage](/Rules.aspx?ID=339). Other attacks, such as spell attack rolls and some uses of the [Athletics](/Skills.aspx?ID=3) skill, describe the specific effects that occur when their outcomes are critical successes.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2190",
+ "legacy_id": [
+  "rules-222"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Critical Hits](/Rules.aspx?ID=2190)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 275 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nWhen you make a Strike with a weapon or unarmed attack and succeed with a natural 20 (the number on the die is 20), or if the result of your attack exceeds the target’s AC by 10, you achieve a critical success (also known as a critical hit). If you critically succeed at a Strike (page 418), your attack deals double damage.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Critical Hits",
  "next_link": {
   "label": "Unarmed Attacks",
-  "url": "/Rules.aspx?ID=223"
+  "url": "/Rules.aspx?ID=2191"
  },
  "previous_link": {
   "label": "Damage Rolls",
-  "url": "/Rules.aspx?ID=221"
+  "url": "/Rules.aspx?ID=2189"
  },
+ "primary_source": "Player Core",
+ "primary_source_raw": "Player Core pg. 275",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 278 <sup>4.0</sup></row>\r\n\r\nChapter 6: Equipment / Weapons\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 275 <sup>2.0</sup>\r\n\r\nChapter 6: Equipment / Weapons\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen you make a Strike with a weapon or unarmed attack and succeed with a natural 20 (the number on the die is 20), or if the result of your attack …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 278"
+  "Player Core pg. 275"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 278 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 275 <sup>2.0</sup>",
  "speed": {},
- "text": " Critical Hits Source Core Rulebook pg. 278 4.0 When you make an attack and succeed with a natural 20 (the number on the die is 20), or if the result of your attack exceeds the target's AC by 10, you achieve a critical success (also known as a critical hit). If you critically succeed at a Strike, your attack deals double damage. Other attacks, such as spell attack rolls and some uses of the Athletics skill, describe the specific effects that occur when their outcomes are critical successes. ",
+ "summary": "When you make a Strike with a weapon or unarmed attack and succeed with a natural 20 (the number on the die is 20), or if the result of your attack …",
+ "summary_markdown": "When you make a Strike with a weapon or unarmed attack and succeed with a natural 20 (the number on the die is 20), or if the result of your attack …",
+ "text": " Critical Hits Source Player Core pg. 275 2.0 When you make a Strike with a weapon or unarmed attack and succeed with a natural 20 (the number on the die is 20), or if the result of your attack exceeds the target’s AC by 10, you achieve a critical success (also known as a critical hit). If you critically succeed at a Strike (page 418), your attack deals double damage. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=222",
+ "url": "/Rules.aspx?ID=2190",
  "weakness": {}
 }

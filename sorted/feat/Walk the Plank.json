@@ -1,46 +1,59 @@
 {
  "actions": "Two Actions",
+ "actions_number": 4,
  "archetype": [
   "Pirate"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Walk the Plank"
  ],
  "feat_markdown": "Walk the Plank",
- "id": "feat-2035",
+ "id": "feat-6381",
+ "legacy_id": [
+  "feat-2035"
+ ],
  "level": 8,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Walk the Plank](/Feats.aspx?ID=2035) <actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 185 <sup>2.0</sup></row>\n\n**Archetype** [Pirate](/Archetypes.aspx?ID=70)\n\n**Prerequisites**\r\n[Pirate Dedication](/Feats.aspx?ID=2032)\n\n</column>\r\n\r\n---\r\n\r\nYou frighten a foe into moving where you want them, traditionally demanding they walk the plank. Attempt to [Demoralize](/Actions.aspx?ID=53) an opponent; this check gains the [incapacitation](/Traits.aspx?ID=93) trait. On a success, in addition to the normal effects, you can also force the target to Stride up to its Speed. You choose the path the target takes, and it does so as part of your Walk the Plank action. You can't force the target to move into a harmful space (one where it will take damage, fall, provoke reactions, or similar) unless the result of your check to Demoralize was a critical success. The target then becomes temporarily immune to Walk the Plank for 24 hours.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Walk the Plank](/Feats.aspx?ID=6381) <actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 209 <sup>1.1</sup>\n\n**Archetype** [Pirate](/Archetypes.aspx?ID=258)\n\n**Prerequisites**\r\n[Pirate Dedication](/Feats.aspx?ID=6378)\n\n</column>\r\n\r\n---\r\n\r\nYou [frighten](/Conditions.aspx?ID=76)  a foe into moving where you want them, traditionally demanding they walk the plank. Attempt to [Demoralize](/Actions.aspx?ID=2395) an opponent. On a success, in addition to the normal effects, you can also force the target to [Stride](/Actions.aspx?ID=2305) up to its Speed immediately. You choose the path the target takes, but you can't force it to move into an obviously harmful space (such as into hazardous terrain or a space where it would fall) unless your check was a critical success. As normal for forced movement, this movement doesn't trigger reactions. The target then becomes temporarily immune to Walk the Plank for 10 minutes.",
  "name": "Walk the Plank",
  "pfs": "Standard",
  "prerequisite": "Pirate Dedication",
- "prerequisite_markdown": "[Pirate Dedication](/Feats.aspx?ID=2032)",
+ "prerequisite_markdown": "[Pirate Dedication](/Feats.aspx?ID=6378)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 209",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 185 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Pirate Dedication](/Feats.aspx?ID=2032)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou frighten a foe into moving where you want them, traditionally demanding they walk the plank.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 209 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Pirate Dedication](/Feats.aspx?ID=6378)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou [frighten](/Conditions.aspx?ID=76)  a foe into moving where you want them, traditionally demanding they walk the plank.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 185"
+  "Player Core 2 pg. 209"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 185 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 209 <sup>1.1</sup>",
  "speed": {},
- "summary": "You frighten a foe into moving where you want them, traditionally demanding they walk the plank.",
- "summary_markdown": "You frighten a foe into moving where you want them, traditionally demanding they walk the plank.",
- "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Walk the Plank Two Actions Source Advanced Player's Guide pg. 185 2.0 Archetype Pirate Prerequisites Pirate Dedication --- You frighten a foe into moving where you want them, traditionally demanding they walk the plank. Attempt to Demoralize an opponent; this check gains the incapacitation trait. On a success, in addition to the normal effects, you can also force the target to Stride up to its Speed. You choose the path the target takes, and it does so as part of your Walk the Plank action. You can't force the target to move into a harmful space (one where it will take damage, fall, provoke reactions, or similar) unless the result of your check to Demoralize was a critical success. The target then becomes temporarily immune to Walk the Plank for 24 hours.",
+ "summary": "You  frighten   a foe into moving where you want them, traditionally demanding they walk the plank.",
+ "summary_markdown": "You [frighten](/Conditions.aspx?ID=76)  a foe into moving where you want them, traditionally demanding they walk the plank.",
+ "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Walk the Plank Two Actions Source Player Core 2 pg. 209 1.1 Archetype Pirate Prerequisites Pirate Dedication --- You frighten a foe into moving where you want them, traditionally demanding they walk the plank. Attempt to Demoralize an opponent. On a success, in addition to the normal effects, you can also force the target to Stride up to its Speed immediately. You choose the path the target takes, but you can't force it to move into an obviously harmful space (such as into hazardous terrain or a space where it would fall) unless your check was a critical success. As normal for forced movement, this movement doesn't trigger reactions. The target then becomes temporarily immune to Walk the Plank for 10 minutes.",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2035",
+ "url": "/Feats.aspx?ID=6381",
  "weakness": {}
 }

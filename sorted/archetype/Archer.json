@@ -6,32 +6,44 @@
   "Combat Style",
   "Core"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-47",
+ "id": "archetype-238",
+ "image": [
+  "/Images/Archetypes/Archetype_Archer.webp"
+ ],
+ "legacy_id": [
+  "archetype-47"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Archer](/Archetypes.aspx?ID=47)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 157 <sup>2.0</sup></row>\n\nBows of all types are powerful weapons. Generals and hunters alike recognize the power in dealing death from long distances, and from behind cover. Those dedicated to the bow—from mysterious cloaked strangers to heartless snipers—are often viewed with a mixture of respect and fear. Like any weapon adept, the archer's skill is forged through experience and constant practice. A true archer becomes one with the bow and is able to accomplish with that weapon things that most would consider impossible, or at least nearly magical.\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-1885\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-364\"\r\noverride-title-right=\"Feat 4*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-358\"\r\noverride-title-right=\"Feat 4*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1886\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1887\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1888\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-370\"\r\noverride-title-right=\"Feat 6*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1724\"\r\noverride-title-right=\"Feat 6*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-504\"\r\noverride-title-right=\"Feat 6*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-3616\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1889\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-387\"\r\noverride-title-right=\"Feat 8*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-392\"\r\noverride-title-right=\"Feat 10*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-424\"\r\noverride-title-right=\"Feat 18*\"\r\n\r\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Archer](/Archetypes.aspx?ID=238)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 185 <sup>1.1</sup>\n\nBows of all types are powerful weapons. Generals and hunters alike recognize the power in dealing death from a distance, and from behind safe cover. Those dedicated to the bow—from mysterious cloaked strangers to heartless snipers—are often viewed with a mixture of respect and fear. Like any weapons adept, the archer's skill is forged through experience and constant practice. A true archer becomes one with their bow and is able to make incredible shots with their weapon that most would consider impossible, or at the very least magical.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Archer.webp\" />\r\n</column>\r\n\r\n</row>\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-6252\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4777\"\r\noverride-title-right=\"Feat 4*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4860\"\r\noverride-title-right=\"Feat 4*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4771\"\r\noverride-title-right=\"Feat 4*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6253\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6254\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4788\"\r\noverride-title-right=\"Feat 6*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4790\"\r\noverride-title-right=\"Feat 6*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4875\"\r\noverride-title-right=\"Feat 6*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6255\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4808\"\r\noverride-title-right=\"Feat 8*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4814\"\r\noverride-title-right=\"Feat 10*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6256\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4851\"\r\noverride-title-right=\"Feat 18*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4854\"\r\noverride-title-right=\"Feat 20*\"\r\n\r\n/>",
  "name": "Archer",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 185",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 157 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBows of all types are powerful weapons. Generals and hunters alike recognize the power in dealing death from long distances, and from behind cover. …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 185 <sup>1.1</sup>\n\n**Archetype Categories**\r\nCombat Style, Core\r\n\r\n**Number of Feats** 15\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBows of all types are powerful weapons. Generals and hunters alike recognize the power in dealing death from a distance, and from behind safe cover. …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 157"
+  "Player Core 2 pg. 185"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 157 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 185 <sup>1.1</sup>",
  "speed": {},
- "summary": "Bows of all types are powerful weapons. Generals and hunters alike recognize the power in dealing death from long distances, and from behind cover. …",
- "summary_markdown": "Bows of all types are powerful weapons. Generals and hunters alike recognize the power in dealing death from long distances, and from behind cover. …",
- "text": " Archer Source Advanced Player's Guide pg. 157 2.0 Bows of all types are powerful weapons. Generals and hunters alike recognize the power in dealing death from long distances, and from behind cover. Those dedicated to the bow—from mysterious cloaked strangers to heartless snipers—are often viewed with a mixture of respect and fear. Like any weapon adept, the archer's skill is forged through experience and constant practice. A true archer becomes one with the bow and is able to accomplish with that weapon things that most would consider impossible, or at least nearly magical. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-364\" override-title-right=\"Feat 4 \" /> <document level=\"2\" id=\"feat-358\" override-title-right=\"Feat 4 \" /> <document level=\"2\" id=\"feat-1886\" /> <document level=\"2\" id=\"feat-1887\" /> <document level=\"2\" id=\"feat-1888\" /> <document level=\"2\" id=\"feat-370\" override-title-right=\"Feat 6 \" /> <document level=\"2\" id=\"feat-1724\" override-title-right=\"Feat 6 \" /> <document level=\"2\" id=\"feat-504\" override-title-right=\"Feat 6 \" /> <document level=\"2\" id=\"feat-3616\" /> <document level=\"2\" id=\"feat-1889\" /> <document level=\"2\" id=\"feat-387\" override-title-right=\"Feat 8 \" /> <document level=\"2\" id=\"feat-392\" override-title-right=\"Feat 10 \" /> <document level=\"2\" id=\"feat-424\" override-title-right=\"Feat 18 \" />",
+ "summary": "Bows of all types are powerful weapons. Generals and hunters alike recognize the power in dealing death from a distance, and from behind safe cover. …",
+ "summary_markdown": "Bows of all types are powerful weapons. Generals and hunters alike recognize the power in dealing death from a distance, and from behind safe cover. …",
+ "text": " Archer Source Player Core 2 pg. 185 1.1 Bows of all types are powerful weapons. Generals and hunters alike recognize the power in dealing death from a distance, and from behind safe cover. Those dedicated to the bow—from mysterious cloaked strangers to heartless snipers—are often viewed with a mixture of respect and fear. Like any weapons adept, the archer's skill is forged through experience and constant practice. A true archer becomes one with their bow and is able to make incredible shots with their weapon that most would consider impossible, or at the very least magical. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-4777\" override-title-right=\"Feat 4 \" /> <document level=\"2\" id=\"feat-4860\" override-title-right=\"Feat 4 \" /> <document level=\"2\" id=\"feat-4771\" override-title-right=\"Feat 4 \" /> <document level=\"2\" id=\"feat-6253\" /> <document level=\"2\" id=\"feat-6254\" /> <document level=\"2\" id=\"feat-4788\" override-title-right=\"Feat 6 \" /> <document level=\"2\" id=\"feat-4790\" override-title-right=\"Feat 6 \" /> <document level=\"2\" id=\"feat-4875\" override-title-right=\"Feat 6 \" /> <document level=\"2\" id=\"feat-6255\" /> <document level=\"2\" id=\"feat-4808\" override-title-right=\"Feat 8 \" /> <document level=\"2\" id=\"feat-4814\" override-title-right=\"Feat 10 \" /> <document level=\"2\" id=\"feat-6256\" /> <document level=\"2\" id=\"feat-4851\" override-title-right=\"Feat 18 \" /> <document level=\"2\" id=\"feat-4854\" override-title-right=\"Feat 20 \" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=47",
+ "url": "/Archetypes.aspx?ID=238",
  "weakness": {}
 }

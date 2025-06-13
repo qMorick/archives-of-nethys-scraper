@@ -1,61 +1,105 @@
 {
- "ability": [
+ "attribute": [
   "Intelligence",
   "Wisdom"
  ],
- "alignment": "LN",
- "breadcrumbs_spa": [],
- "category": "deity",
- "deity": [
-  "Esoteric Order of the Palatine Eye"
+ "anathema": "destroy rare or ancient lore, dismiss or remain ignorant to the newly found texts, reveal the Order’s secrets to those outside the organization",
+ "area_of_concern": [
+  "history",
+  "occultism",
+  "secret lore"
  ],
- "deity_markdown": "[Esoteric Order of the Palatine Eye](/Deities.aspx?ID=199)",
+ "area_of_concern_raw": "history, occultism, secret lore",
+ "category": "deity",
+ "cleric_spell": [
+  "Mindlink",
+  "Time Pocket",
+  "Synaptic Pulse"
+ ],
+ "deity": [
+  "Esoteric Order Of The Palatine Eye"
+ ],
  "deity_category": "Faiths & Philosophies",
  "deity_category_markdown": "[Faiths & Philosophies](/DeityCategories.aspx?ID=0)",
  "deity_category_order": "3Faiths & Philosophies",
- "divine_font_markdown": "",
- "domain_markdown": "",
- "domain_alternate_markdown": "",
- "domain_primary_markdown": "",
- "exclude_from_search": false,
- "favored_weapon_markdown": "",
- "follower_alignment": [
-  "LG",
-  "LN",
-  "LE",
-  "N"
+ "divine_font": [
+  "Harm",
+  "Heal"
  ],
- "id": "deity-199",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Esoteric Order of the Palatine Eye](/Deities.aspx?ID=199)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"LN\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 94 <sup>2.0</sup></row>\n\nBased in Ustalav but active in aristocratic salons and cloistered academies across Avistan and Garund, the Esoteric Order of the Palatine Eye is a mystic order of occultist-nobles who seek philosophical self-awareness and mastery of celestial truths. The order was founded in 3988 AR when the gentleman-explorer Aldus Canter returned from the Osirian desert where he had been lost for 3 years. Aldus spoke of meeting a cult following a desiccated angel named Tabris. Tabris revealed the secret history of the multiverse and tasked Aldus with acting as a messenger of mystic secrets. Upon his return, Aldus gathered a coterie of his fellow Ustalavic nobles eager to plumb these secrets. His message was far from clear, however, consisting of garbled and coded texts in an untidy medley of Osirian mysticism, Pharasmin rites, and Varisian occult lore. Scouring Aldus’s texts—both those brought from Osirion and his many annotations and reinterpretations penned thereafter—has been the order’s primary activity for centuries, even before the increasingly erratic Aldus disappeared in 4028 AR. The Esoteric Order’s meticulous research has produced occult secrets and mystical rites known nowhere else on Golarion and hints at further secret lore for the enlightened. The order’s greatest accomplishment, however, was averting a doomsday few on Golarion will ever realize was imminent: in 4718 AR, the order’s greatest heroes prevented the planet Aucturn from devouring Golarion.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Faiths &amp; Philosophies](/DeityCategories.aspx?ID=0)\r\n\r\n**Edicts** seek out wisdom of ancient cultures (particularly Ancient Osirion), provide succor to scholars, honor the rites of the order\r\n\r\n**Anathema** reveal the order’s secrets to those outside the organization (or even to insufficiently ranked members), destroy rare or ancient lore\r\n\r\n**Area of Concern**\r\nhistory, occultism, secret lore\r\n\r\n**Follower Alignments**\r\nLG, LN, LE, N\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
- "name": "Esoteric Order of the Palatine Eye",
+ "divine_font_markdown": "[Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)",
+ "domain": [
+  "Ambition",
+  "Duty",
+  "Glyph",
+  "Knowledge",
+  "Secrecy",
+  "Truth"
+ ],
+ "domain_markdown": "[Ambition](/Domains.aspx?ID=64), [Duty](/Domains.aspx?ID=108), [Glyph](/Domains.aspx?ID=109), [Knowledge](/Domains.aspx?ID=80), [Secrecy](/Domains.aspx?ID=91), [Truth](/Domains.aspx?ID=95)",
+ "domain_alternate": [
+  "Glyph",
+  "Truth"
+ ],
+ "domain_alternate_markdown": "[Glyph](/Domains.aspx?ID=109), [Truth](/Domains.aspx?ID=95)",
+ "domain_primary": [
+  "Ambition",
+  "Duty",
+  "Knowledge",
+  "Secrecy"
+ ],
+ "domain_primary_markdown": "[Ambition](/Domains.aspx?ID=64), [Duty](/Domains.aspx?ID=108), [Knowledge](/Domains.aspx?ID=80), [Secrecy](/Domains.aspx?ID=91)",
+ "edict": "honor the rites of the Order while pushing for change, provide succor to scholars and truth-seekers, pursue the wisdom of ancient forgotten texts such as  The Lost Gospels of Tabris ",
+ "exclude_from_search": false,
+ "favored_weapon": [
+  "Sword Cane"
+ ],
+ "favored_weapon_markdown": "[Sword Cane](/Weapons.aspx?ID=400)",
+ "id": "deity-362",
+ "legacy_id": [
+  "deity-199"
+ ],
+ "legacy_name": [
+  "Esoteric Order of the Palatine Eye"
+ ],
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Esoteric Order Of The Palatine Eye](/Deities.aspx?ID=362)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 200\r\n\r\n_[**PFS Note**](/pathfinder-society) This deity grants [_hypercognition_](/Spells.aspx?ID=1563) instead of time pocket_\r\n\r\nBased in Ustalav but active in aristocratic salons and cloistered academies across Avistan and Garund, the Esoteric Order of the Palatine Eye is a mystic order of occultist-nobles who seek philosophical self-awareness and mastery of celestial truths. The order was founded in 3988 AR when the gentleman-explorer Aldus Canter returned from the Osirian desert where he had been lost for 3 years. Aldus spoke of meeting a cult following a desiccated angel named Tabris. Tabris revealed the secret history of the multiverse and tasked Aldus with acting as a messenger of mystic secrets. Upon his return, Aldus gathered a coterie of his fellow Ustalavic nobles eager to plumb these secrets. His message was far from clear, however, consisting of garbled and coded texts in an untidy medley of Osirian mysticism, Pharasmin rites, and Varisian occult lore. Scouring Aldus’s texts—both those brought from Osirion and his many annotations and reinterpretations penned thereafter—has been the order’s primary activity for centuries, even before the increasingly erratic Aldus disappeared in 4028 AR. The Esoteric Order’s meticulous research has produced occult secrets and mystical rites known nowhere else on [Golarion](/Rules.aspx?ID=3298) and hints at further secret lore for the enlightened. The order’s greatest accomplishment, however, was averting a doomsday few on Golarion will ever realize was imminent: in 4718 AR, the order’s greatest heroes prevented the planet Aucturn from devouring Golarion.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Faiths &amp; Philosophies](/DeityCategories.aspx?ID=0)\r\n\r\n**Edicts** honor the rites of the Order while pushing for change, provide succor to scholars and truth-seekers, pursue the wisdom of ancient forgotten texts such as _The Lost Gospels of Tabris_\r\n\r\n**Anathema** destroy rare or ancient lore, dismiss or remain ignorant to the newly found texts, reveal the Order’s secrets to those outside the organization\r\n\r\n**Area of Concern**\r\nhistory, occultism, secret lore\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nIntelligence or Wisdom\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** none\r\n\r\n**Divine Skill** [Occultism](/Skills.aspx?ID=44)\r\n\r\n**Favored Weapon** [Sword Cane](/Weapons.aspx?ID=400)\r\n\r\n**Domains** [Ambition](/Domains.aspx?ID=64), [Duty](/Domains.aspx?ID=108), [Knowledge](/Domains.aspx?ID=80), [Secrecy](/Domains.aspx?ID=91)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** [Glyph](/Domains.aspx?ID=109), [Truth](/Domains.aspx?ID=95)\r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Mindlink](/Spells.aspx?ID=1603)\n\n- **3rd**\r\n[Time Pocket](/Spells.aspx?ID=1192)\n\n- **5th**\r\n[Synaptic Pulse](/Spells.aspx?ID=1710)\n\n</column>",
+ "name": "Esoteric Order Of The Palatine Eye",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 200",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "golden scarab beetle with outstretched wings revealing an eye",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 94 <sup>2.0</sup></row>\r\n\r\n**Divine Font** \r\n\r\n**Divine Skill** [Occultism](/Skills.aspx?ID=11)\r\n\r\n**Favored Weapon** \r\n\r\n**Domains** \r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBased in Ustalav but active in aristocratic salons and cloistered academies across Avistan and Garund, the Esoteric Order of the Palatine Eye is a …\r\n</summary>",
+ "sanctification_raw": "none",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 200\r\n\r\n**Divine Font** Harm or Heal\r\n\r\n**Divine Skill** [Occultism](/Skills.aspx?ID=44)\r\n\r\n**Favored Weapon** [Sword Cane](/Weapons.aspx?ID=400)\r\n\r\n**Domains** [Ambition](/Domains.aspx?ID=64), [Duty](/Domains.aspx?ID=108), [Glyph](/Domains.aspx?ID=109), [Knowledge](/Domains.aspx?ID=80), [Secrecy](/Domains.aspx?ID=91), [Truth](/Domains.aspx?ID=95)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBased in Ustalav but active in aristocratic salons and cloistered academies across Avistan and Garund, the Esoteric Order of the Palatine Eye is a …\r\n</summary>",
  "skill": [
   "Occultism"
  ],
- "skill_markdown": "[Occultism](/Skills.aspx?ID=11)",
+ "skill_markdown": "[Occultism](/Skills.aspx?ID=44)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 94"
+  "Divine Mysteries pg. 200"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 94 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 200",
  "speed": {},
+ "spell": [
+  "Mindlink",
+  "Time Pocket",
+  "Synaptic Pulse"
+ ],
+ "spell_markdown": "[Mindlink](/Spells.aspx?ID=1603), [Synaptic Pulse](/Spells.aspx?ID=1710), [Time Pocket](/Spells.aspx?ID=1192)",
  "summary": "Based in Ustalav but active in aristocratic salons and cloistered academies across Avistan and Garund, the Esoteric Order of the Palatine Eye is a …",
  "summary_markdown": "Based in Ustalav but active in aristocratic salons and cloistered academies across Avistan and Garund, the Esoteric Order of the Palatine Eye is a …",
- "text": " Esoteric Order of the Palatine Eye Source Gods &amp; Magic pg. 94 2.0 Based in Ustalav but active in aristocratic salons and cloistered academies across Avistan and Garund, the Esoteric Order of the Palatine Eye is a mystic order of occultist-nobles who seek philosophical self-awareness and mastery of celestial truths. The order was founded in 3988 AR when the gentleman-explorer Aldus Canter returned from the Osirian desert where he had been lost for 3 years. Aldus spoke of meeting a cult following a desiccated angel named Tabris. Tabris revealed the secret history of the multiverse and tasked Aldus with acting as a messenger of mystic secrets. Upon his return, Aldus gathered a coterie of his fellow Ustalavic nobles eager to plumb these secrets. His message was far from clear, however, consisting of garbled and coded texts in an untidy medley of Osirian mysticism, Pharasmin rites, and Varisian occult lore. Scouring Aldus’s texts—both those brought from Osirion and his many annotations and reinterpretations penned thereafter—has been the order’s primary activity for centuries, even before the increasingly erratic Aldus disappeared in 4028 AR. The Esoteric Order’s meticulous research has produced occult secrets and mystical rites known nowhere else on Golarion and hints at further secret lore for the enlightened. The order’s greatest accomplishment, however, was averting a doomsday few on Golarion will ever realize was imminent: in 4718 AR, the order’s greatest heroes prevented the planet Aucturn from devouring Golarion. Category Faiths &amp; Philosophies Edicts seek out wisdom of ancient cultures (particularly Ancient Osirion), provide succor to scholars, honor the rites of the order Anathema reveal the order’s secrets to those outside the organization (or even to insufficiently ranked members), destroy rare or ancient lore Area of Concern history, occultism, secret lore Follower Alignments LG, LN, LE, N\n",
- "trait": [
-  "LN"
- ],
- "trait_raw": [
-  "LN"
- ],
+ "text": " Esoteric Order Of The Palatine Eye Source Divine Mysteries pg. 200 PFS Note This deity grants hypercognition instead of time pocket Based in Ustalav but active in aristocratic salons and cloistered academies across Avistan and Garund, the Esoteric Order of the Palatine Eye is a mystic order of occultist-nobles who seek philosophical self-awareness and mastery of celestial truths. The order was founded in 3988 AR when the gentleman-explorer Aldus Canter returned from the Osirian desert where he had been lost for 3 years. Aldus spoke of meeting a cult following a desiccated angel named Tabris. Tabris revealed the secret history of the multiverse and tasked Aldus with acting as a messenger of mystic secrets. Upon his return, Aldus gathered a coterie of his fellow Ustalavic nobles eager to plumb these secrets. His message was far from clear, however, consisting of garbled and coded texts in an untidy medley of Osirian mysticism, Pharasmin rites, and Varisian occult lore. Scouring Aldus’s texts—both those brought from Osirion and his many annotations and reinterpretations penned thereafter—has been the order’s primary activity for centuries, even before the increasingly erratic Aldus disappeared in 4028 AR. The Esoteric Order’s meticulous research has produced occult secrets and mystical rites known nowhere else on Golarion and hints at further secret lore for the enlightened. The order’s greatest accomplishment, however, was averting a doomsday few on Golarion will ever realize was imminent: in 4718 AR, the order’s greatest heroes prevented the planet Aucturn from devouring Golarion. Category Faiths &amp; Philosophies Edicts honor the rites of the Order while pushing for change, provide succor to scholars and truth-seekers, pursue the wisdom of ancient forgotten texts such as The Lost Gospels of Tabris Anathema destroy rare or ancient lore, dismiss or remain ignorant to the newly found texts, reveal the Order’s secrets to those outside the organization Area of Concern history, occultism, secret lore Devotee Benefits Divine Attribute Intelligence or Wisdom Divine Font Harm or Heal Divine Sanctification none Divine Skill Occultism Favored Weapon Sword Cane Domains Ambition, Duty, Knowledge, Secrecy Alternate Domains Glyph, Truth Cleric Spells - 1st Mindlink - 3rd Time Pocket - 5th Synaptic Pulse\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=199",
+ "url": "/Deities.aspx?ID=362",
  "weakness": {}
 }

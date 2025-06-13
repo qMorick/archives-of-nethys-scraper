@@ -5,34 +5,46 @@
  "archetype_category": [
   "Multiclass"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-4",
+ "id": "archetype-230",
+ "image": [
+  "/Images/Archetypes/Archetype_Champion.webp"
+ ],
+ "legacy_id": [
+  "archetype-4"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Champion](/Archetypes.aspx?ID=4)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 223 <sup>4.0</sup></row>\n\nYou have sworn a solemn oath to your deity, who has granted you champion powers to aid you in your cause.\r\n\r\n<title level=\"3\">Multiclass Champion characters</title>\r\n\r\nThe champion archetype greatly improves defenses, particularly armor. It’s a great way for a character to gain armor proficiency or a powerful defensive reaction.\n\n<document level=\"2\" id=\"feat-686\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-687\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-688\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-689\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-690\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-691\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-692\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-693\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Champion](/Archetypes.aspx?ID=230)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 177 <sup>1.1</sup>\n\nYou've sworn a solemn oath to your deity, who has granted you champion powers to aid you in your cause.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Champion.webp\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"3\">Multiclass Champion Characters</title>\r\n\r\nThe champion archetype greatly improves defenses, particularly armor. It's a great way for a character to gain armor proficiency or a powerful defensive reaction. You might choose a deity closely themed to your class, such as Nethys for a wizard. \n\n<document level=\"2\" id=\"feat-6196\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6197\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6198\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6199\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6200\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6201\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6202\"\n\n/>",
  "name": "Champion",
  "pfs": "Standard",
- "prerequisite": "Strength 14; Charisma 14",
- "prerequisite_markdown": "Strength 14; Charisma 14",
+ "prerequisite": "Charisma +2; Strength +2",
+ "prerequisite_markdown": "Charisma +2; Strength +2",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 177",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 223 <sup>4.0</sup></row>\r\n\r\n**Prerequisites**\r\nStrength 14; Charisma 14\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have sworn a solemn oath to your deity, who has granted you champion powers to aid you in your cause.\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 177 <sup>1.1</sup>\r\n\r\n**Prerequisites**\r\nCharisma +2; Strength +2\n\n**Archetype Category**\r\nMulticlass\r\n\r\n**Number of Feats** 7\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou've sworn a solemn oath to your deity, who has granted you champion powers to aid you in your cause.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 223"
+  "Player Core 2 pg. 177"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 223 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 177 <sup>1.1</sup>",
  "speed": {},
- "summary": "You have sworn a solemn oath to your deity, who has granted you champion powers to aid you in your cause.",
- "summary_markdown": "You have sworn a solemn oath to your deity, who has granted you champion powers to aid you in your cause.",
- "text": " Champion Source Core Rulebook pg. 223 4.0 You have sworn a solemn oath to your deity, who has granted you champion powers to aid you in your cause. Multiclass Champion characters The champion archetype greatly improves defenses, particularly armor. It’s a great way for a character to gain armor proficiency or a powerful defensive reaction. <document level=\"2\" id=\"feat-687\" /> <document level=\"2\" id=\"feat-688\" /> <document level=\"2\" id=\"feat-689\" /> <document level=\"2\" id=\"feat-690\" /> <document level=\"2\" id=\"feat-691\" /> <document level=\"2\" id=\"feat-692\" /> <document level=\"2\" id=\"feat-693\" />",
+ "summary": "You've sworn a solemn oath to your deity, who has granted you champion powers to aid you in your cause.",
+ "summary_markdown": "You've sworn a solemn oath to your deity, who has granted you champion powers to aid you in your cause.",
+ "text": " Champion Source Player Core 2 pg. 177 1.1 You've sworn a solemn oath to your deity, who has granted you champion powers to aid you in your cause. Multiclass Champion Characters The champion archetype greatly improves defenses, particularly armor. It's a great way for a character to gain armor proficiency or a powerful defensive reaction. You might choose a deity closely themed to your class, such as Nethys for a wizard. <document level=\"2\" id=\"feat-6197\" /> <document level=\"2\" id=\"feat-6198\" /> <document level=\"2\" id=\"feat-6199\" /> <document level=\"2\" id=\"feat-6200\" /> <document level=\"2\" id=\"feat-6201\" /> <document level=\"2\" id=\"feat-6202\" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=4",
+ "url": "/Archetypes.aspx?ID=230",
  "weakness": {}
 }

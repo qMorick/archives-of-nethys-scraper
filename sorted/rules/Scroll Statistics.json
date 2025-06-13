@@ -1,38 +1,48 @@
 {
  "breadcrumbs": [
-  "Chapter 11: Crafting & Treasure",
-  "Consumables",
+  "Chapter 5: Treasure Trove",
   "Scrolls"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-722",
- "markdown": "<title level=\"1\" right=\"Rules\">[Scroll Statistics](/Rules.aspx?ID=722)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 564 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nAll scrolls have the same base statistics unless noted otherwise. A scroll has light Bulk, and it must be held in one hand to be activated.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-3199",
+ "legacy_id": [
+  "rules-722"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Scroll Statistics](/Rules.aspx?ID=3199)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 262 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nAll scrolls have the same base statistics unless noted otherwise. A scroll has light Bulk and must be held in one hand to be activated.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-3200\" />",
  "name": "Scroll Statistics",
  "next_link": {
-  "label": "Varying Statistics",
-  "url": "/Rules.aspx?ID=723"
+  "label": "Crafting a Scroll",
+  "url": "/Rules.aspx?ID=3201"
  },
  "previous_link": {
   "label": "Casting a Spell from a Scroll",
-  "url": "/Rules.aspx?ID=721"
+  "url": "/Rules.aspx?ID=3198"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 262",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 564 <sup>4.0</sup></row>\r\n\r\nChapter 11: Crafting &amp; Treasure / Consumables / Scrolls\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 262 <sup>2.0</sup>\r\n\r\nChapter 5: Treasure Trove / Scrolls\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAll scrolls have the same base statistics unless noted otherwise. A scroll has light Bulk and must be held in one hand to be activated.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 564"
+  "GM Core pg. 262"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 564 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 262 <sup>2.0</sup>",
  "speed": {},
- "text": " Scroll Statistics Source Core Rulebook pg. 564 4.0 All scrolls have the same base statistics unless noted otherwise. A scroll has light Bulk, and it must be held in one hand to be activated. ",
+ "summary": "All scrolls have the same base statistics unless noted otherwise. A scroll has light Bulk and must be held in one hand to be activated.",
+ "summary_markdown": "All scrolls have the same base statistics unless noted otherwise. A scroll has light Bulk and must be held in one hand to be activated.",
+ "text": " Scroll Statistics Source GM Core pg. 262 2.0 All scrolls have the same base statistics unless noted otherwise. A scroll has light Bulk and must be held in one hand to be activated. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=722",
+ "url": "/Rules.aspx?ID=3199",
  "weakness": {}
 }

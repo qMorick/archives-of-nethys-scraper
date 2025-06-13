@@ -1,23 +1,36 @@
 {
  "actions": "Three Actions",
- "bloodline_markdown": "",
- "breadcrumbs_spa": [],
- "category": "spell",
- "component": [
-  "material",
-  "somatic",
-  "verbal"
+ "actions_number": 6,
+ "area": [
+  30
  ],
- "deity_markdown": "",
+ "area_raw": "five 30-foot <%RULES%2388%%>lines<%END>",
+ "area_type": [
+  "line"
+ ],
+ "bloodline_markdown": "",
+ "category": "spell",
  "domain": [
   "Star"
  ],
- "domain_markdown": "[Star](/Domains.aspx?ID=52)",
+ "domain_markdown": "[Star](/Domains.aspx?ID=119)",
  "duration": 60,
  "duration_raw": "1 minute",
+ "element": [
+  "Fire"
+ ],
  "exclude_from_search": false,
  "heighten": [
   "+1"
+ ],
+ "heighten_group": [
+  "4th rank",
+  "Heightened 5th rank",
+  "Heightened 6th rank",
+  "Heightened 7th rank",
+  "Heightened 8th rank",
+  "Heightened 9th rank",
+  "Heightened 10th rank"
  ],
  "heighten_level": [
   4,
@@ -28,46 +41,72 @@
   9,
   10
  ],
- "id": "spell-619",
+ "id": "spell-2412",
+ "legacy_id": [
+  "spell-619"
+ ],
  "level": 4,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Focus 4\" pfs=\"Standard\">[Asterism](/Spells.aspx?ID=619)</title>\n\n<traits>\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=100\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 117 <sup>2.0</sup></row>\n\n**Domain**\r\n[Star](/Domains.aspx?ID=52)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Three Actions\" /></row>\r\n<row>[material](/Rules.aspx?ID=282), [somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 150 feet\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** [basic](/Rules.aspx?ID=329) Reflex\r\n\r\n**Duration** 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nLines of burning starlight form a constellation around you. Draw five lines, one at a time; each line must anchor at you or a creature or object already connected to a previous line, and it must end at a creature or object within 30 feet of its anchor (possibly allowing the _asterism_ to extend to its full 150-foot range). A creature that begins its turn in one of these lines or enters one of these lines on its turn takes 4d6 fire damage (basic Reflex save). A creature can take this damage only once per turn, even if it moves through several lines. Targets that are part of the _asterism_ do not take damage from it. If the distance between two targets (or you and a target) ever exceeds 30 feet, the line of starlight between the two breaks, and any lines that now no longer have a direct path back to you also break. You can Dismiss the spell.\n\n---\r\n**Heightened (+1)** The damage increases by 1d6.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Focus 4\" pfs=\"Standard\">\r\n[Asterism](/Spells.aspx?ID=2412)\r\n<actions string=\"Three Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=100\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 269\n\n**Domain**\r\n[Star](/Domains.aspx?ID=119)\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 150 feet\r\n\r\n**Area** five 30-foot [lines](/Rules.aspx?ID=2388)\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\n[basic](/Rules.aspx?ID=2297) reflex\r\n\r\n**Duration** 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nLines of burning starlight form a constellation around you. Draw five lines, one at a time; each line must anchor at you or a creature or object already connected to a previous line, and it must end at a creature or object within 30 feet of its anchor (possibly allowing the asterism to extend to its full 150-foot range). A creature that begins its turn in one of these lines or enters one of these lines on its turn takes 4d6 [fire](/Traits.aspx?ID=604) damage (basic Reflex save). A creature can take this damage only once per turn, even if it moves through several lines. Targets that are part of the asterism do not take damage from it. If the distance between two targets (or you and a target) ever exceeds 30 feet, the line of starlight between the two breaks, and any lines that now no longer have a direct path back to you also break. You can [Dismiss](/Actions.aspx?ID=2311) the spell.\n\n---\r\n**Heightened (+1)** The damage increases by 1d6.",
  "name": "Asterism",
- "patron_theme_markdown": "",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 269",
+ "primary_source_category": "Lost Omens",
  "range": 150,
  "range_raw": "150 feet",
- "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity": "uncommon",
+ "rarity_id": 2,
+ "release_date": "2025-01-30",
  "resistance": {},
- "saving_throw": "basic  Reflex",
- "saving_throw_markdown": "[basic](/Rules.aspx?ID=329) Reflex",
- "school": "evocation",
- "search_markdown": "<traits>\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=100\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 117 <sup>2.0</sup></row>\n\n**Domain**\r\n[Star](/Domains.aspx?ID=52)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Three Actions\" /></row>\r\n<row>[material](/Rules.aspx?ID=282), [somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 150 feet\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** [basic](/Rules.aspx?ID=329) Reflex\r\n\r\n**Duration** 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLines of burning starlight form a constellation around you.\r\n</summary>",
+ "saving_throw": "basic  reflex",
+ "saving_throw_markdown": "[basic](/Rules.aspx?ID=2297) reflex",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=100\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 269\n\n**Domain**\r\n[Star](/Domains.aspx?ID=119)\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 150 feet\r\n\r\n**Area** five 30-foot [lines](/Rules.aspx?ID=2388)\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\n[basic](/Rules.aspx?ID=2297) reflex\r\n\r\n**Duration** 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLines of burning starlight form a constellation around you.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 117"
+  "Divine Mysteries pg. 269"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 117 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 269",
  "speed": {},
+ "spell_type": "Focus",
  "summary": "Lines of burning starlight form a constellation around you.",
  "summary_markdown": "Lines of burning starlight form a constellation around you.",
- "text": " Asterism Source Gods &amp; Magic pg. 117 2.0 Domain Star Cast Three Actions material, somatic, verbal Range 150 feet Saving Throw basic Reflex Duration 1 minute --- Lines of burning starlight form a constellation around you. Draw five lines, one at a time; each line must anchor at you or a creature or object already connected to a previous line, and it must end at a creature or object within 30 feet of its anchor (possibly allowing the asterism to extend to its full 150-foot range). A creature that begins its turn in one of these lines or enters one of these lines on its turn takes 4d6 fire damage (basic Reflex save). A creature can take this damage only once per turn, even if it moves through several lines. Targets that are part of the asterism do not take damage from it. If the distance between two targets (or you and a target) ever exceeds 30 feet, the line of starlight between the two breaks, and any lines that now no longer have a direct path back to you also break. You can Dismiss the spell. --- Heightened (+1) The damage increases by 1d6.",
+ "text": "\nAsterism Three Actions Source Divine Mysteries pg. 269 Domain Star Range 150 feet Area five 30-foot lines Defense basic reflex Duration 1 minute --- Lines of burning starlight form a constellation around you. Draw five lines, one at a time; each line must anchor at you or a creature or object already connected to a previous line, and it must end at a creature or object within 30 feet of its anchor (possibly allowing the asterism to extend to its full 150-foot range). A creature that begins its turn in one of these lines or enters one of these lines on its turn takes 4d6 fire damage (basic Reflex save). A creature can take this damage only once per turn, even if it moves through several lines. Targets that are part of the asterism do not take damage from it. If the distance between two targets (or you and a target) ever exceeds 30 feet, the line of starlight between the two breaks, and any lines that now no longer have a direct path back to you also break. You can Dismiss the spell. --- Heightened (+1) The damage increases by 1d6.",
  "tradition_markdown": "",
  "trait": [
-  "Evocation",
-  "Light"
+  "Cleric",
+  "Concentrate",
+  "Fire",
+  "Focus",
+  "Light",
+  "Manipulate",
+  "Uncommon"
  ],
- "trait_markdown": "[Evocation](/Traits.aspx?ID=65), [Light](/Traits.aspx?ID=100)",
+ "trait_group": [
+  "Class",
+  "Mechanics",
+  "Energy",
+  "Elemental",
+  "Planar",
+  "Monster",
+  "Rarity"
+ ],
+ "trait_markdown": "[Cleric](/Traits.aspx?ID=26), [Concentrate](/Traits.aspx?ID=32), [Fire](/Traits.aspx?ID=72), [Focus](/Traits.aspx?ID=511), [Light](/Traits.aspx?ID=100), [Manipulate](/Traits.aspx?ID=104), [Uncommon](/Traits.aspx?ID=159)",
  "trait_raw": [
-  "Evocation",
-  "Light"
+  "Cleric",
+  "Concentrate",
+  "Fire",
+  "Focus",
+  "Light",
+  "Manipulate",
+  "Uncommon"
  ],
- "type": "Focus",
- "url": "/Spells.aspx?ID=619",
+ "type": "Spell",
+ "url": "/Spells.aspx?ID=2412",
  "weakness": {}
 }

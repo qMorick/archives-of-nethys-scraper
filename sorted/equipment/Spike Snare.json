@@ -1,41 +1,55 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
+ "bulk": 0,
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-343",
+ "id": "equipment-3385",
  "item_category": "Snares",
+ "legacy_id": [
+  "equipment-343"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Spike Snare](/Equipment.aspx?ID=343)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Snare\" url=\"/Traits.aspx?ID=146\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 591 <sup>4.0</sup></row>\n\n**Price** 3 gp\r\n\r\n<row gap=\"medium\">\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis basic snare consists of hidden spikes that rely on a creature’s momentum to lacerate or potentially impale it as it enters the snare’s square, dealing 2d8 piercing damage. The creature must attempt a DC 17 basic Reflex saving throw.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Spike Snare](/Equipment.aspx?ID=3385)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=646\" />\r\n<trait label=\"Snare\" url=\"/Traits.aspx?ID=809\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=715\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 300 <sup>1.1</sup>\n\n**Price** 3 gp\r\n\r\n<row gap=\"medium\">\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis basic snare consists of hidden spikes that rely on a creature's momentum to lacerate or potentially impale it as it enters the snare's square, dealing 2d8 piercing damage. The creature must attempt a DC 17 [basic](/Actions.aspx?ID=2765) Reflex saving throw.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Spike Snare",
  "pfs": "Standard",
  "price": 300,
  "price_raw": "3 gp",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 300",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Snare\" url=\"/Traits.aspx?ID=146\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 591 <sup>4.0</sup></row>\r\n\r\n**Price** 3 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis basic snare consists of hidden spikes that rely on a creature’s momentum to lacerate or potentially impale it as it enters the snare’s square, …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=646\" />\r\n<trait label=\"Snare\" url=\"/Traits.aspx?ID=809\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=715\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 300 <sup>1.1</sup>\r\n\r\n**Price** 3 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis basic snare consists of hidden spikes that rely on a creature's momentum to lacerate or potentially impale it as it enters the snare's square, …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 591"
+  "Player Core 2 pg. 300"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 591 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 300 <sup>1.1</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "This basic snare consists of hidden spikes that rely on a creature’s momentum to lacerate or potentially impale it as it enters the snare’s square, …",
- "summary_markdown": "This basic snare consists of hidden spikes that rely on a creature’s momentum to lacerate or potentially impale it as it enters the snare’s square, …",
- "text": "<title level=\"1\" right=\"Item 1\" pfs=\"Standard\" > Spike Snare Source Core Rulebook pg. 591 4.0 Price 3 gp --- This basic snare consists of hidden spikes that rely on a creature’s momentum to lacerate or potentially impale it as it enters the snare’s square, dealing 2d8 piercing damage. The creature must attempt a DC 17 basic Reflex saving throw.\n",
+ "summary": "This basic snare consists of hidden spikes that rely on a creature's momentum to lacerate or potentially impale it as it enters the snare's square, …",
+ "summary_markdown": "This basic snare consists of hidden spikes that rely on a creature's momentum to lacerate or potentially impale it as it enters the snare's square, …",
+ "text": "<title level=\"1\" right=\"Item 1\" pfs=\"Standard\" > Spike Snare Source Player Core 2 pg. 300 1.1 Price 3 gp --- This basic snare consists of hidden spikes that rely on a creature's momentum to lacerate or potentially impale it as it enters the snare's square, dealing 2d8 piercing damage. The creature must attempt a DC 17 basic Reflex saving throw.\n",
  "trait": [
   "Consumable",
   "Mechanical",
   "Snare",
   "Trap"
  ],
- "trait_markdown": "[Consumable](/Traits.aspx?ID=36), [Mechanical](/Traits.aspx?ID=105), [Snare](/Traits.aspx?ID=146), [Trap](/Traits.aspx?ID=158)",
+ "trait_group": [
+  "Equipment",
+  "Hazard"
+ ],
+ "trait_markdown": "[Consumable](/Traits.aspx?ID=564), [Mechanical](/Traits.aspx?ID=646), [Snare](/Traits.aspx?ID=809), [Trap](/Traits.aspx?ID=715)",
  "trait_raw": [
   "Consumable",
   "Mechanical",
@@ -43,6 +57,6 @@
   "Trap"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=343",
+ "url": "/Equipment.aspx?ID=3385",
  "weakness": {}
 }

@@ -1,50 +1,68 @@
 {
- "actions": "Reaction",
  "archetype": [
-  "Gladiator"
+  "Dandy"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Play to the Crowd"
  ],
  "feat_markdown": "Play to the Crowd",
- "id": "feat-1978",
- "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Play to the Crowd](/Feats.aspx?ID=1978) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 175 <sup>2.0</sup></row>\n\n**Archetype** [Gladiator](/Archetypes.aspx?ID=61)\n\n**Prerequisites**\r\n[Gladiator Dedication](/Feats.aspx?ID=1976)\n\n**Trigger**\r\nYou reduce an enemy to 0 Hit Points during a non-trivial combat encounter with spectators.\n\n</column>\r\n\r\n---\r\n\r\nYou show off for the crowd. Attempt a [Performance](/Skills.aspx?ID=12) check; the DC is determined by the GM but is typically the standard DC for your level or the DC to [Make an Impression](/Actions.aspx?ID=50) on the spectators, whichever is higher. On a success, choose one of the following benefits; on a critical success, choose two benefits: \n<ul><li>A number of temporary Hit Points equal to your character level; these last for 1 minute.</li><li>A +1 circumstance bonus to AC until the end of your next turn.</li><li>A +1 circumstance bonus to your next attack roll before the end of your next turn.</li></ul>\n\n<title level=\"2\">Play to the Crowd leads to...</title>\r\n[Call Your Shot](/Feats.aspx?ID=1981)",
+ "id": "feat-7637",
+ "level": 12,
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Limited\"\r\n>\r\n[Play to the Crowd](/Feats.aspx?ID=7637) <actions string=\"\" />\r\n</title>\r\n\r\n<spoilers>May contain spoilers from Curtain Call</spoilers>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=144\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Pathfinder #204: Stage Fright](/Sources.aspx?ID=245) pg. 82\n\n**Archetype** [Dandy](/Archetypes.aspx?ID=246) (Level 12)\n\n**Prerequisites**\r\n[Dandy Dedication](/Feats.aspx?ID=6302); Master in [Deception](/Skills.aspx?ID=38)\n\n</column>\r\n\r\n---\r\n\r\nYou have a knack for knowing just how to manipulate groups by saying exactly what needs to be said. When you Lie in a public area in front of a crowd, you can gauge the reactions of the crowd as you speak to know how your [Lie](/Actions.aspx?ID=2389) is working, and Lie loses its [secret](/Traits.aspx?ID=690) trait. You gain the Reactive Falsehood reaction.\n\n**Reactive Falsehood** <actions string=\"Reaction\" /> ([fortune](/Traits.aspx?ID=612)) **Frequency** once per hour; **Trigger** You fail to Lie to a creature in public; Effect As your target sees through your lie, you spin your falsehood in a way that utilizes the crowd’s reaction to bolster believability. Re-roll your [Deception](/Skills.aspx?ID=38) check to Lie with a +2 status bonus and use this check’s result as the actual result to Lie.",
  "name": "Play to the Crowd",
- "pfs": "Standard",
- "prerequisite": "Gladiator Dedication",
- "prerequisite_markdown": "[Gladiator Dedication](/Feats.aspx?ID=1976)",
- "rarity": "common",
- "release_date": "2020-07-30",
+ "pfs": "Limited",
+ "prerequisite": "Dandy Dedication; Master in Deception",
+ "prerequisite_markdown": "[Dandy Dedication](/Feats.aspx?ID=6302); Master in [Deception](/Skills.aspx?ID=38)",
+ "primary_source": "Pathfinder #204: Stage Fright",
+ "primary_source_raw": "Pathfinder #204: Stage Fright pg. 82",
+ "primary_source_category": "Adventure Paths",
+ "primary_source_group": "Curtain Call",
+ "rarity": "uncommon",
+ "rarity_id": 2,
+ "release_date": "2024-07-15",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 175 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Gladiator Dedication](/Feats.aspx?ID=1976)\n\n**Trigger**\r\nYou reduce an enemy to 0 Hit Points during a non-trivial combat encounter with spectators.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou show off for the crowd.\r\n</summary>",
+ "search_markdown": "<spoilers>May contain spoilers from Curtain Call</spoilers>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=144\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Pathfinder #204: Stage Fright](/Sources.aspx?ID=245) pg. 82\n\n**Prerequisites**\r\n[Dandy Dedication](/Feats.aspx?ID=6302); Master in [Deception](/Skills.aspx?ID=38)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have a knack for knowing just how to manipulate groups by saying exactly what needs to be said.\r\n</summary>",
+ "skill": [
+  "Deception",
+  "Deception"
+ ],
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Pathfinder #204: Stage Fright"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 175"
+  "Pathfinder #204: Stage Fright pg. 82"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 175 <sup>2.0</sup></row>",
+ "source_category": [
+  "Adventure Paths"
+ ],
+ "source_group": [
+  "Curtain Call"
+ ],
+ "source_markdown": "[Pathfinder #204: Stage Fright](/Sources.aspx?ID=245) pg. 82",
  "speed": {},
- "summary": "You show off for the crowd.",
- "summary_markdown": "You show off for the crowd.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Play to the Crowd Reaction Source Advanced Player's Guide pg. 175 2.0 Archetype Gladiator Prerequisites Gladiator Dedication Trigger You reduce an enemy to 0 Hit Points during a non-trivial combat encounter with spectators. --- You show off for the crowd. Attempt a Performance check; the DC is determined by the GM but is typically the standard DC for your level or the DC to Make an Impression on the spectators, whichever is higher. On a success, choose one of the following benefits; on a critical success, choose two benefits: A number of temporary Hit Points equal to your character level; these last for 1 minute. A +1 circumstance bonus to AC until the end of your next turn. A +1 circumstance bonus to your next attack roll before the end of your next turn. Play to the Crowd leads to... Call Your Shot",
+ "spoilers": "Curtain Call",
+ "summary": "You have a knack for knowing just how to manipulate groups by saying exactly what needs to be said.",
+ "summary_markdown": "You have a knack for knowing just how to manipulate groups by saying exactly what needs to be said.",
+ "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Limited\" > Play to the Crowd May contain spoilers from Curtain Call Source Pathfinder #204: Stage Fright pg. 82 Archetype Dandy (Level 12) Prerequisites Dandy Dedication; Master in Deception --- You have a knack for knowing just how to manipulate groups by saying exactly what needs to be said. When you Lie in a public area in front of a crowd, you can gauge the reactions of the crowd as you speak to know how your Lie is working, and Lie loses its secret trait. You gain the Reactive Falsehood reaction. Reactive Falsehood Reaction (fortune) Frequency once per hour; Trigger You fail to Lie to a creature in public; Effect As your target sees through your lie, you spin your falsehood in a way that utilizes the crowd’s reaction to bolster believability. Re-roll your Deception check to Lie with a +2 status bonus and use this check’s result as the actual result to Lie.",
  "trait": [
   "Archetype",
-  "Concentrate"
+  "Skill",
+  "Uncommon"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Concentrate](/Traits.aspx?ID=32)",
+ "trait_group": [
+  "Feat",
+  "Rarity"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Skill](/Traits.aspx?ID=144), [Uncommon](/Traits.aspx?ID=159)",
  "trait_raw": [
   "Archetype",
-  "Concentrate"
+  "Skill",
+  "Uncommon"
  ],
- "trigger": "You reduce an enemy to 0 Hit Points during a non-trivial combat encounter with spectators.",
- "trigger_markdown": "You reduce an enemy to 0 Hit Points during a non-trivial combat encounter with spectators.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=1978",
+ "url": "/Feats.aspx?ID=7637",
  "weakness": {}
 }

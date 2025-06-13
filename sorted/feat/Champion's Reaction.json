@@ -2,44 +2,56 @@
  "archetype": [
   "Champion"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Champion's Reaction"
  ],
  "feat_markdown": "Champion's Reaction",
- "id": "feat-691",
+ "id": "feat-6201",
+ "legacy_id": [
+  "feat-691"
+ ],
  "level": 6,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Champion's Reaction](/Feats.aspx?ID=691) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 223 <sup>4.0</sup></row>\n\n**Archetype** [Champion](/Archetypes.aspx?ID=4)\n\n**Prerequisites**\r\n[Champion Dedication](/Feats.aspx?ID=686)\n\n</column>\r\n\r\n---\r\n\r\nYou can use the champion’s reaction associated with your cause.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Champion's Reaction](/Feats.aspx?ID=6201) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 177 <sup>1.1</sup>\n\n**Archetype** [Champion](/Archetypes.aspx?ID=230)\n\n**Prerequisites**\r\n[Champion Dedication](/Feats.aspx?ID=6196)\n\n</column>\r\n\r\n---\r\n\r\nYou can gain and use the champion’s reaction associated with your [cause](Causes.aspx).",
  "name": "Champion's Reaction",
  "pfs": "Standard",
  "prerequisite": "Champion Dedication",
- "prerequisite_markdown": "[Champion Dedication](/Feats.aspx?ID=686)",
+ "prerequisite_markdown": "[Champion Dedication](/Feats.aspx?ID=6196)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 177",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 223 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Champion Dedication](/Feats.aspx?ID=686)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can use the champion’s reaction associated with your cause.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 177 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Champion Dedication](/Feats.aspx?ID=6196)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can gain and use the champion’s reaction associated with your cause\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 223"
+  "Player Core 2 pg. 177"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 223 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 177 <sup>1.1</sup>",
  "speed": {},
- "summary": "You can use the champion’s reaction associated with your cause.",
- "summary_markdown": "You can use the champion’s reaction associated with your cause.",
- "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Champion's Reaction Source Core Rulebook pg. 223 4.0 Archetype Champion Prerequisites Champion Dedication --- You can use the champion’s reaction associated with your cause.",
+ "summary": "You can gain and use the champion’s reaction associated with your cause",
+ "summary_markdown": "You can gain and use the champion’s reaction associated with your cause",
+ "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Champion's Reaction Source Player Core 2 pg. 177 1.1 Archetype Champion Prerequisites Champion Dedication --- You can gain and use the champion’s reaction associated with your cause.",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=691",
+ "url": "/Feats.aspx?ID=6201",
  "weakness": {}
 }

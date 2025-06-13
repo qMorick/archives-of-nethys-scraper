@@ -1,47 +1,61 @@
 {
  "actions": "Two Actions",
- "breadcrumbs_spa": [],
+ "actions_number": 4,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Mixed Maneuver"
  ],
  "feat_markdown": "Mixed Maneuver",
- "id": "feat-460",
+ "id": "feat-6012",
+ "legacy_id": [
+  "feat-460"
+ ],
  "level": 8,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Mixed Maneuver](/Feats.aspx?ID=460) <actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 163 <sup>4.0</sup></row>\n\n**Prerequisites**\r\nMaster in [Athletics](/Skills.aspx?ID=3)\n\n</column>\r\n\r\n---\r\n\r\nYou combine two different maneuvers together into a single flowing whole. Choose any two of Grapple, Shove, and Trip. Attempt both of the attacks you chose against the same or different creatures, but don’t apply the multiple attack penalty until after resolving both attacks.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Mixed Maneuver](/Feats.aspx?ID=6012) <actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 123 <sup>1.1</sup>\n\n**Prerequisites**\r\nMaster in [Athletics](/Skills.aspx?ID=36)\n\n</column>\r\n\r\n---\r\n\r\nYou leverage your knowledge of martial arts to mix different maneuvers together into a single flowing combination. Choose any two of [Grapple](/Actions.aspx?ID=2376), [Reposition](/Actions.aspx?ID=2379), [Shove](/Actions.aspx?ID=2380), and [Trip](/Actions.aspx?ID=2382). Attempt both of the attacks you chose against the same or different creatures, but don't apply the multiple attack penalty until after resolving both attacks.",
  "name": "Mixed Maneuver",
  "pfs": "Standard",
  "prerequisite": "Master in Athletics",
- "prerequisite_markdown": "Master in [Athletics](/Skills.aspx?ID=3)",
+ "prerequisite_markdown": "Master in [Athletics](/Skills.aspx?ID=36)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 123",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 163 <sup>4.0</sup></row>\n\n**Prerequisites**\r\nMaster in [Athletics](/Skills.aspx?ID=3)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou combine two different maneuvers together into a single flowing whole.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 123 <sup>1.1</sup>\n\n**Prerequisites**\r\nMaster in [Athletics](/Skills.aspx?ID=36)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou leverage your knowledge of martial arts to mix different maneuvers together into a single flowing combination.\r\n</summary>",
  "skill": [
   "Athletics",
   "Athletics"
  ],
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 163"
+  "Player Core 2 pg. 123"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 163 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 123 <sup>1.1</sup>",
  "speed": {},
- "summary": "You combine two different maneuvers together into a single flowing whole.",
- "summary_markdown": "You combine two different maneuvers together into a single flowing whole.",
- "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Mixed Maneuver Two Actions Source Core Rulebook pg. 163 4.0 Prerequisites Master in Athletics --- You combine two different maneuvers together into a single flowing whole. Choose any two of Grapple, Shove, and Trip. Attempt both of the attacks you chose against the same or different creatures, but don’t apply the multiple attack penalty until after resolving both attacks.",
+ "summary": "You leverage your knowledge of martial arts to mix different maneuvers together into a single flowing combination.",
+ "summary_markdown": "You leverage your knowledge of martial arts to mix different maneuvers together into a single flowing combination.",
+ "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Mixed Maneuver Two Actions Source Player Core 2 pg. 123 1.1 Prerequisites Master in Athletics --- You leverage your knowledge of martial arts to mix different maneuvers together into a single flowing combination. Choose any two of Grapple, Reposition, Shove, and Trip. Attempt both of the attacks you chose against the same or different creatures, but don't apply the multiple attack penalty until after resolving both attacks.",
  "trait": [
   "Monk"
  ],
- "trait_markdown": "[Monk](/Traits.aspx?ID=112)",
+ "trait_group": [
+  "Class",
+  "Weapon"
+ ],
+ "trait_markdown": "[Monk](/Traits.aspx?ID=656)",
  "trait_raw": [
   "Monk"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=460",
+ "url": "/Feats.aspx?ID=6012",
  "weakness": {}
 }

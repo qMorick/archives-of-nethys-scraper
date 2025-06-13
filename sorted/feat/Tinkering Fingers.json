@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Tinkering Fingers"
  ],
  "feat_markdown": "Tinkering Fingers",
- "id": "feat-1300",
+ "id": "feat-5656",
+ "legacy_id": [
+  "feat-1300"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Tinkering Fingers](/Feats.aspx?ID=1300) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Ratfolk\" url=\"/Traits.aspx?ID=234\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 22 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou're good with your hands and can quickly improvise a fix for broken or damaged equipment. You're trained in [Crafting](/Skills.aspx?ID=4). If you would automatically become trained in Crafting (from your background or class, for example), you instead become trained in a skill of your choice. You can [Repair](/Actions.aspx?ID=42) an item without using a [repair kit](/Equipment.aspx?ID=43) without taking the –2 circumstance penalty, improvising tools from whatever you have at hand.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Tinkering Fingers](/Feats.aspx?ID=5656) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Ratfolk\" url=\"/Traits.aspx?ID=769\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 30 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou're trained in [Crafting](/Skills.aspx?ID=37). If you are trained in Crafting from another source (from your background or class, for example), you instead become trained in a skill of your choice. You can [Repair](/Actions.aspx?ID=2384) an item without using a [repair toolkit](/Equipment.aspx?ID=2747) without taking the –2 circumstance penalty, improvising tools from whatever you have at hand. You gain a +1 circumstance bonus to Crafting checks to Repair an item when you have a repair toolkit.",
  "name": "Tinkering Fingers",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 30",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Ratfolk\" url=\"/Traits.aspx?ID=234\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 22 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou're good with your hands and can quickly improvise a fix for broken or damaged equipment.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Ratfolk\" url=\"/Traits.aspx?ID=769\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 30 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou're trained in [Crafting](/Skills.aspx?ID=37).\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 22"
+  "Player Core 2 pg. 30"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 22 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 30 <sup>1.1</sup>",
  "speed": {},
- "summary": "You're good with your hands and can quickly improvise a fix for broken or damaged equipment.",
- "summary_markdown": "You're good with your hands and can quickly improvise a fix for broken or damaged equipment.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Tinkering Fingers Source Advanced Player's Guide pg. 22 2.0 --- You're good with your hands and can quickly improvise a fix for broken or damaged equipment. You're trained in Crafting. If you would automatically become trained in Crafting (from your background or class, for example), you instead become trained in a skill of your choice. You can Repair an item without using a repair kit without taking the –2 circumstance penalty, improvising tools from whatever you have at hand.",
+ "summary": "You're trained in  Crafting .",
+ "summary_markdown": "You're trained in [Crafting](/Skills.aspx?ID=37).",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Tinkering Fingers Source Player Core 2 pg. 30 1.1 --- You're trained in Crafting. If you are trained in Crafting from another source (from your background or class, for example), you instead become trained in a skill of your choice. You can Repair an item without using a repair toolkit without taking the –2 circumstance penalty, improvising tools from whatever you have at hand. You gain a +1 circumstance bonus to Crafting checks to Repair an item when you have a repair toolkit.",
  "trait": [
   "Ratfolk"
  ],
- "trait_markdown": "[Ratfolk](/Traits.aspx?ID=234)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Ratfolk](/Traits.aspx?ID=769)",
  "trait_raw": [
   "Ratfolk"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1300",
+ "url": "/Feats.aspx?ID=5656",
  "weakness": {}
 }

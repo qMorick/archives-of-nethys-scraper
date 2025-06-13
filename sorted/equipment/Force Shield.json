@@ -2,55 +2,66 @@
  "base_item": [
   "Steel Shield"
  ],
- "base_item_markdown": "[Steel Shield](/Shields.aspx?ID=3)",
- "breadcrumbs_spa": [],
+ "base_item_markdown": "[Steel Shield](/Shields.aspx?ID=19)",
  "bulk": 0.1,
  "bulk_raw": "L",
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-320",
+ "id": "equipment-2820",
  "item_category": "Shields",
  "item_subcategory": "Specific Shields",
+ "legacy_id": [
+  "equipment-320"
+ ],
  "level": 9,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 9\"\r\n    pfs=\"Standard\"\r\n>\r\n[Force Shield](/Equipment.aspx?ID=320)\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Force\" url=\"/Traits.aspx?ID=75\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 587 <sup>4.0</sup></row>\n\n**Price** 650 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Base Shield** [Steel Shield](/Shields.aspx?ID=3)\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThe edges of this elaborately engraved [steel shield](/Shields.aspx?ID=3) (Hardness 8, HP 32, BT 16) bear tiny glass tiles set in mosaic patterns. \n\n<document level=\"2\" id=\"action-192\" />\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 9\"\r\n    pfs=\"Standard\"\r\n>\r\n[Force Shield](/Equipment.aspx?ID=2820)\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Force\" url=\"/Traits.aspx?ID=610\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 234 <sup>2.0</sup>\n\n**Price** 650 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Base Shield** [Steel Shield](/Shields.aspx?ID=19)\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThe edges of this elaborately engraved steel shield (Hardness 8, HP 32, BT 16) bear tiny glass tiles set in mosaic patterns.\n\n**Activate—Force Bubble** <actions string=\"Single Action\" /> ([concentrate](/Traits.aspx?ID=32), [force](/Traits.aspx?ID=610)) **Frequency** once per day;   **Effect** The shield surrounds you with a bubble of force that protects you from harm, granting you resistance 5 to physical damage for 1 minute. The activation ends if you cease holding the shield. \n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Force Shield",
  "pfs": "Standard",
  "price": 65000,
  "price_raw": "650 gp",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 234",
+ "primary_source_category": "Rulebooks",
  "rarity": "uncommon",
- "release_date": "2019-08-01",
+ "rarity_id": 2,
+ "release_date": "2023-11-15",
  "resistance": {},
- "school": "evocation",
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Force\" url=\"/Traits.aspx?ID=75\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 587 <sup>4.0</sup></row>\r\n\r\n**Price** 650 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe edges of this elaborately engraved  steel shield  (Hardness 8, HP 32, BT 16) bear tiny glass tiles set in mosaic patterns.  \r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Force\" url=\"/Traits.aspx?ID=610\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 234 <sup>2.0</sup>\r\n\r\n**Price** 650 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Base Shield** [Steel Shield](/Shields.aspx?ID=19)\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe edges of this elaborately engraved steel shield (Hardness 8, HP 32, BT 16) bear tiny glass tiles set in mosaic patterns. \r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 587"
+  "GM Core pg. 234"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 587 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 234 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "The edges of this elaborately engraved  steel shield  (Hardness 8, HP 32, BT 16) bear tiny glass tiles set in mosaic patterns.  ",
- "summary_markdown": "The edges of this elaborately engraved  steel shield  (Hardness 8, HP 32, BT 16) bear tiny glass tiles set in mosaic patterns.  ",
- "text": "<title level=\"1\" right=\"Item 9\" pfs=\"Standard\" > Force Shield Source Core Rulebook pg. 587 4.0 Price 650 gp Usage held in 1 hand Bulk L Base Shield Steel Shield --- The edges of this elaborately engraved steel shield (Hardness 8, HP 32, BT 16) bear tiny glass tiles set in mosaic patterns. ",
+ "summary": "The edges of this elaborately engraved steel shield (Hardness 8, HP 32, BT 16) bear tiny glass tiles set in mosaic patterns. ",
+ "summary_markdown": "The edges of this elaborately engraved steel shield (Hardness 8, HP 32, BT 16) bear tiny glass tiles set in mosaic patterns. ",
+ "text": "<title level=\"1\" right=\"Item 9\" pfs=\"Standard\" > Force Shield Source GM Core pg. 234 2.0 Price 650 gp Usage held in 1 hand Bulk L Base Shield Steel Shield --- The edges of this elaborately engraved steel shield (Hardness 8, HP 32, BT 16) bear tiny glass tiles set in mosaic patterns. Activate—Force Bubble Single Action (concentrate, force) Frequency once per day; Effect The shield surrounds you with a bubble of force that protects you from harm, granting you resistance 5 to physical damage for 1 minute. The activation ends if you cease holding the shield. ",
  "trait": [
-  "Evocation",
   "Force",
   "Magical",
   "Uncommon"
  ],
- "trait_markdown": "[Evocation](/Traits.aspx?ID=65), [Force](/Traits.aspx?ID=75), [Magical](/Traits.aspx?ID=103), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Energy",
+  "Mechanics",
+  "Rarity"
+ ],
+ "trait_markdown": "[Force](/Traits.aspx?ID=610), [Magical](/Traits.aspx?ID=644), [Uncommon](/Traits.aspx?ID=721)",
  "trait_raw": [
-  "Evocation",
   "Force",
   "Magical",
   "Uncommon"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=320",
+ "url": "/Equipment.aspx?ID=2820",
  "usage": "held in 1 hand",
  "usage_markdown": "held in 1 hand",
  "weakness": {}

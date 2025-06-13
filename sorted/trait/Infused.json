@@ -1,26 +1,35 @@
 {
- "breadcrumbs_spa": [],
  "category": "trait",
  "exclude_from_search": false,
- "id": "trait-94",
- "markdown": "<title level=\"1\" right=\"Trait\">[Infused](/Traits.aspx?ID=94)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 75 <sup>4.0</sup></row>\n\nYou created an [alchemical item](/equipment/alchemical-items) with the infused trait using your infused reagents, and it has a limited time before it becomes inert. Any nonpermanent effects from your infused alchemical items, with the exception of afflictions such as slow-acting [poisons](/Traits.aspx?ID=126), end when you make your daily preparations again.",
+ "id": "trait-797",
+ "legacy_id": [
+  "trait-94"
+ ],
+ "markdown": "<title level=\"1\" right=\"Trait\">[Infused](/Traits.aspx?ID=797)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 61 <sup>1.1</sup>\n\nAn alchemical item with the infused trait has a limited time before it becomes inert. Any non-permanent effects from your infused alchemical items, with the exception of afflictions such as slow-acting poisons, end when you make your daily preparations again.",
  "name": "Infused",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 61",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 75 <sup>4.0</sup></row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou created an  alchemical item  with the infused trait using your infused reagents, and it has a limited time before it becomes inert. Any …\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 61 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn alchemical item with the infused trait has a limited time before it becomes inert. Any non-permanent effects from your infused alchemical items, …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 75"
+  "Player Core 2 pg. 61"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 75 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 61 <sup>1.1</sup>",
  "speed": {},
- "summary": "You created an  alchemical item  with the infused trait using your infused reagents, and it has a limited time before it becomes inert. Any …",
- "summary_markdown": "You created an  alchemical item  with the infused trait using your infused reagents, and it has a limited time before it becomes inert. Any …",
- "text": " Infused Source Core Rulebook pg. 75 4.0 You created an alchemical item with the infused trait using your infused reagents, and it has a limited time before it becomes inert. Any nonpermanent effects from your infused alchemical items, with the exception of afflictions such as slow-acting poisons, end when you make your daily preparations again.",
+ "summary": "An alchemical item with the infused trait has a limited time before it becomes inert. Any non-permanent effects from your infused alchemical items, …",
+ "summary_markdown": "An alchemical item with the infused trait has a limited time before it becomes inert. Any non-permanent effects from your infused alchemical items, …",
+ "text": " Infused Source Player Core 2 pg. 61 1.1 An alchemical item with the infused trait has a limited time before it becomes inert. Any non-permanent effects from your infused alchemical items, with the exception of afflictions such as slow-acting poisons, end when you make your daily preparations again.",
  "trait": [
   "Infused"
  ],
@@ -32,6 +41,6 @@
   "Infused"
  ],
  "type": "Trait",
- "url": "/Traits.aspx?ID=94",
+ "url": "/Traits.aspx?ID=797",
  "weakness": {}
 }

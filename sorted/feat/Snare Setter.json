@@ -1,46 +1,58 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Snare Setter"
  ],
  "feat_markdown": "Snare Setter",
- "id": "feat-1275",
+ "id": "feat-5617",
+ "legacy_id": [
+  "feat-1275"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Snare Setter](/Feats.aspx?ID=1275) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=224\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 14 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nTrained in [Crafting](/Skills.aspx?ID=4)\n\n</column>\r\n\r\n---\r\n\r\nYou are adept at the time-honored kobold art of trap making. You gain the trained proficiency in [Crafting](/Skills.aspx?ID=4). If you were already trained in Crafting, you instead become trained in a skill of your choice. You gain access to all uncommon [kobold](/Traits.aspx?ID=224) snares. You gain the [Snare Crafting](/Feats.aspx?ID=843) feat, though when choosing your formulas for that feat, you can also choose from uncommon kobold snares, as well as common snares.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Snare Setter](/Feats.aspx?ID=5617) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=759\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 22 <sup>1.1</sup>\n\n**Prerequisites**\r\nTrained in [Crafting](/Skills.aspx?ID=37)\n\n</column>\r\n\r\n---\r\n\r\nYou are adept at the time-honored kobold art of making traps. You gain the trained proficiency in Crafting. If you were already trained in Crafting, you instead become trained in a skill of your choice. You gain access to all uncommon [kobold](/Traits.aspx?ID=759) [snares](/Traits.aspx?ID=146). You gain the [Snare Crafting](/Feats.aspx?ID=843) feat, though when choosing your formulas for that feat, you can also choose from uncommon kobold snares, as well as common snares.",
  "name": "Snare Setter",
  "pfs": "Standard",
  "prerequisite": "Trained in Crafting",
- "prerequisite_markdown": "Trained in [Crafting](/Skills.aspx?ID=4)",
+ "prerequisite_markdown": "Trained in [Crafting](/Skills.aspx?ID=37)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 22",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=224\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 14 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nTrained in [Crafting](/Skills.aspx?ID=4)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou are adept at the time-honored kobold art of trap making.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=759\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 22 <sup>1.1</sup>\n\n**Prerequisites**\r\nTrained in [Crafting](/Skills.aspx?ID=37)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou are adept at the time-honored kobold art of making traps.\r\n</summary>",
  "skill": [
   "Crafting",
   "Crafting"
  ],
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 14"
+  "Player Core 2 pg. 22"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 14 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 22 <sup>1.1</sup>",
  "speed": {},
- "summary": "You are adept at the time-honored kobold art of trap making.",
- "summary_markdown": "You are adept at the time-honored kobold art of trap making.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Snare Setter Source Advanced Player's Guide pg. 14 2.0 Prerequisites Trained in Crafting --- You are adept at the time-honored kobold art of trap making. You gain the trained proficiency in Crafting. If you were already trained in Crafting, you instead become trained in a skill of your choice. You gain access to all uncommon kobold snares. You gain the Snare Crafting feat, though when choosing your formulas for that feat, you can also choose from uncommon kobold snares, as well as common snares.",
+ "summary": "You are adept at the time-honored kobold art of making traps.",
+ "summary_markdown": "You are adept at the time-honored kobold art of making traps.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Snare Setter Source Player Core 2 pg. 22 1.1 Prerequisites Trained in Crafting --- You are adept at the time-honored kobold art of making traps. You gain the trained proficiency in Crafting. If you were already trained in Crafting, you instead become trained in a skill of your choice. You gain access to all uncommon kobold snares. You gain the Snare Crafting feat, though when choosing your formulas for that feat, you can also choose from uncommon kobold snares, as well as common snares.",
  "trait": [
   "Kobold"
  ],
- "trait_markdown": "[Kobold](/Traits.aspx?ID=224)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Kobold](/Traits.aspx?ID=759)",
  "trait_raw": [
   "Kobold"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1275",
+ "url": "/Feats.aspx?ID=5617",
  "weakness": {}
 }

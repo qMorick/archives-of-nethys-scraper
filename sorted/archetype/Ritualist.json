@@ -6,40 +6,55 @@
   "Mystical",
   "Core"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-72",
+ "id": "archetype-260",
+ "image": [
+  "/Images/Archetypes/Archetype_Ritualist.webp"
+ ],
+ "legacy_id": [
+  "archetype-72"
+ ],
  "level": 4,
- "markdown": "<title level=\"1\" right=\"Archetype 4\" pfs=\"Standard\">[Ritualist](/Archetypes.aspx?ID=72)</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 187 <sup>2.0</sup></row>\n\nWhile some learn the art of ritual casting through rigorous study, other gifted individuals may find that a combination of natural talent and luck gives them surprising skill at performing [rituals](/Rules.aspx?ID=777), whether they want that power or not.\n\n<document level=\"2\" id=\"feat-2041\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2042\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2043\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2044\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2045\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2046\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 4\" pfs=\"Standard\">[Ritualist](/Archetypes.aspx?ID=260)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 211 <sup>1.1</sup>\n\nWhile some learn the art of ritual casting through rigorous study, other gifted individuals may find that a combination of natural talent and luck grants them surprising skill at performing rituals, whether they want that power or not. Undertaking rituals always carries an element of risk, but the potential rewards are undeniable and difficult to resist. You have learned how to perform rituals and can decide how to best use their powerful benefits.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Ritualist.webp\" />\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"feat-6388\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6389\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6390\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6391\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6392\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6393\"\n\n/>",
  "name": "Ritualist",
  "pfs": "Standard",
- "prerequisite": "Expert in Arcana, Expert in Nature, Expert in Occultism, or Expert in Religion",
- "prerequisite_markdown": "Expert in [Arcana](/Skills.aspx?ID=2), Expert in [Nature](/Skills.aspx?ID=10), Expert in [Occultism](/Skills.aspx?ID=11), or Expert in [Religion](/Skills.aspx?ID=13)",
+ "prerequisite": "Expert in Occultism, Expert in Arcana, Expert in Nature, or Expert in Religion",
+ "prerequisite_markdown": "Expert in [Occultism](/Skills.aspx?ID=44), Expert in [Arcana](/Skills.aspx?ID=35), Expert in [Nature](/Skills.aspx?ID=43), or Expert in [Religion](/Skills.aspx?ID=46)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 211",
+ "primary_source_category": "Rulebooks",
  "rarity": "uncommon",
- "release_date": "2020-07-30",
+ "rarity_id": 2,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 187 <sup>2.0</sup></row>\r\n\r\n**Prerequisites**\r\nExpert in [Arcana](/Skills.aspx?ID=2), Expert in [Nature](/Skills.aspx?ID=10), Expert in [Occultism](/Skills.aspx?ID=11), or Expert in [Religion](/Skills.aspx?ID=13)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile some learn the art of ritual casting through rigorous study, other gifted individuals may find that a combination of natural talent and luck …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 211 <sup>1.1</sup>\r\n\r\n**Prerequisites**\r\nExpert in [Occultism](/Skills.aspx?ID=44), Expert in [Arcana](/Skills.aspx?ID=35), Expert in [Nature](/Skills.aspx?ID=43), or Expert in [Religion](/Skills.aspx?ID=46)\n\n**Archetype Categories**\r\nMystical, Core\r\n\r\n**Number of Feats** 6\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile some learn the art of ritual casting through rigorous study, other gifted individuals may find that a combination of natural talent and luck …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 187"
+  "Player Core 2 pg. 211"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 187 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 211 <sup>1.1</sup>",
  "speed": {},
  "summary": "While some learn the art of ritual casting through rigorous study, other gifted individuals may find that a combination of natural talent and luck …",
  "summary_markdown": "While some learn the art of ritual casting through rigorous study, other gifted individuals may find that a combination of natural talent and luck …",
- "text": " Ritualist Source Advanced Player's Guide pg. 187 2.0 While some learn the art of ritual casting through rigorous study, other gifted individuals may find that a combination of natural talent and luck gives them surprising skill at performing rituals, whether they want that power or not. <document level=\"2\" id=\"feat-2042\" /> <document level=\"2\" id=\"feat-2043\" /> <document level=\"2\" id=\"feat-2044\" /> <document level=\"2\" id=\"feat-2045\" /> <document level=\"2\" id=\"feat-2046\" />",
+ "text": " Ritualist Source Player Core 2 pg. 211 1.1 While some learn the art of ritual casting through rigorous study, other gifted individuals may find that a combination of natural talent and luck grants them surprising skill at performing rituals, whether they want that power or not. Undertaking rituals always carries an element of risk, but the potential rewards are undeniable and difficult to resist. You have learned how to perform rituals and can decide how to best use their powerful benefits. <document level=\"2\" id=\"feat-6389\" /> <document level=\"2\" id=\"feat-6390\" /> <document level=\"2\" id=\"feat-6391\" /> <document level=\"2\" id=\"feat-6392\" /> <document level=\"2\" id=\"feat-6393\" />",
  "trait": [
   "Uncommon"
  ],
- "trait_markdown": "[Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Rarity"
+ ],
+ "trait_markdown": "[Uncommon](/Traits.aspx?ID=721)",
  "trait_raw": [
   "Uncommon"
  ],
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=72",
+ "url": "/Archetypes.aspx?ID=260",
  "weakness": {}
 }

@@ -1,5 +1,4 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
@@ -7,35 +6,48 @@
  ],
  "feat_markdown": "Miracle Worker",
  "frequency": "once every 10 minutes",
- "id": "feat-125",
+ "id": "feat-5801",
+ "legacy_id": [
+  "feat-125"
+ ],
  "level": 18,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 18\"\r\n    pfs=\"Standard\"\r\n>\r\n[Miracle Worker](/Feats.aspx?ID=125) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 81 <sup>4.0</sup></row>\n\n**Frequency**\r\nonce every 10 minutes\n\n</column>\r\n\r\n---\r\n\r\nYour alchemical mastery can resuscitate the recently slain. You can administer a [true elixir of life](/Equipment.aspx?ID=91) to a creature who has been dead for no more than 2 rounds. When you do, that creature is immediately returned to life with 1 Hit Point and becomes wounded 1.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 18\"\r\n    pfs=\"Standard\"\r\n>\r\n[Miracle Worker](/Feats.aspx?ID=5801) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=812\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 69 <sup>1.1</sup>\n\n**Frequency**\r\nonce every 10 minutes\n\n</column>\r\n\r\n---\r\n\r\nYour alchemical mastery can resuscitate the recently slain. You can administer a [major or true elixir of life](/Equipment.aspx?ID=3308) to a creature who has been dead for no more than 2 rounds. When you do, that creature is immediately returned to life with 1 Hit Point and becomes [wounded 1](/Conditions.aspx?ID=99).",
  "name": "Miracle Worker",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 69",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 81 <sup>4.0</sup></row>\r\n\r\n**Frequency**\r\nonce every 10 minutes\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour alchemical mastery can resuscitate the recently slain.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=812\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 69 <sup>1.1</sup>\n\n**Frequency**\r\nonce every 10 minutes\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour alchemical mastery can resuscitate the recently slain.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 81"
+  "Player Core 2 pg. 69"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 81 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 69 <sup>1.1</sup>",
  "speed": {},
  "summary": "Your alchemical mastery can resuscitate the recently slain.",
  "summary_markdown": "Your alchemical mastery can resuscitate the recently slain.",
- "text": "<title level=\"1\" right=\"Feat 18\" pfs=\"Standard\" > Miracle Worker Source Core Rulebook pg. 81 4.0 Frequency once every 10 minutes --- Your alchemical mastery can resuscitate the recently slain. You can administer a true elixir of life to a creature who has been dead for no more than 2 rounds. When you do, that creature is immediately returned to life with 1 Hit Point and becomes wounded 1.",
+ "text": "<title level=\"1\" right=\"Feat 18\" pfs=\"Standard\" > Miracle Worker Source Player Core 2 pg. 69 1.1 Frequency once every 10 minutes --- Your alchemical mastery can resuscitate the recently slain. You can administer a major or true elixir of life to a creature who has been dead for no more than 2 rounds. When you do, that creature is immediately returned to life with 1 Hit Point and becomes wounded 1.",
  "trait": [
   "Alchemist"
  ],
- "trait_markdown": "[Alchemist](/Traits.aspx?ID=7)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Alchemist](/Traits.aspx?ID=812)",
  "trait_raw": [
   "Alchemist"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=125",
+ "url": "/Feats.aspx?ID=5801",
  "weakness": {}
 }

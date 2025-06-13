@@ -1,20 +1,26 @@
 {
- "ability": [
+ "attribute": [
   "Dexterity",
   "Charisma"
  ],
- "alignment": "CN",
- "breadcrumbs_spa": [],
+ "anathema": "deny shelter to the desperate, destroy harmless art you dislike, finish a work of art during daylight hours",
+ "area_of_concern": [
+  "artists",
+  "exiles",
+  "midnight"
+ ],
+ "area_of_concern_raw": "artists, exiles, midnight",
  "category": "deity",
  "cleric_spell": [
   "Penumbral Shroud",
-  "Nondetection",
+  "Veil of Privacy",
   "Creation"
  ],
  "deity": [
-  "Nocticula"
+  "Nocticula",
+  "Wheels Of Innovation"
  ],
- "deity_markdown": "[Nocticula](/Deities.aspx?ID=45)",
+ "deity_markdown": "[Wheels Of Innovation](/Deities.aspx?ID=385)",
  "deity_category": "Other Gods",
  "deity_category_markdown": "[Other Gods](/DeityCategories.aspx?ID=2)",
  "deity_category_order": "2Other Gods",
@@ -26,62 +32,84 @@
   "Change",
   "Creation",
   "Darkness",
+  "Introspection",
+  "Protection",
   "Travel"
  ],
- "domain_markdown": "[Change](/Domains.aspx?ID=40), [Creation](/Domains.aspx?ID=5), [Darkness](/Domains.aspx?ID=6), [Travel](/Domains.aspx?ID=30)",
- "domain_alternate_markdown": "",
+ "domain_markdown": "[Change](/Domains.aspx?ID=102), [Creation](/Domains.aspx?ID=68), [Darkness](/Domains.aspx?ID=69), [Introspection](/Domains.aspx?ID=110), [Protection](/Domains.aspx?ID=90), [Travel](/Domains.aspx?ID=93)",
+ "domain_alternate": [
+  "Introspection",
+  "Protection"
+ ],
+ "domain_alternate_markdown": "[Introspection](/Domains.aspx?ID=110), [Protection](/Domains.aspx?ID=90)",
  "domain_primary": [
   "Change",
   "Creation",
   "Darkness",
   "Travel"
  ],
- "domain_primary_markdown": "[Change](/Domains.aspx?ID=40), [Creation](/Domains.aspx?ID=5), [Darkness](/Domains.aspx?ID=6), [Travel](/Domains.aspx?ID=30)",
+ "domain_primary_markdown": "[Change](/Domains.aspx?ID=102), [Creation](/Domains.aspx?ID=68), [Darkness](/Domains.aspx?ID=69), [Travel](/Domains.aspx?ID=93)",
+ "edict": "create art true to yourself, protect marginalized artists, punish those who take advantage of offered trust and shelter",
  "exclude_from_search": false,
  "favored_weapon": [
   "Dagger"
  ],
- "favored_weapon_markdown": "[Dagger](/Weapons.aspx?ID=3)",
- "follower_alignment": [
-  "N",
-  "CG",
-  "CN"
+ "favored_weapon_markdown": "[Dagger](/Weapons.aspx?ID=358)",
+ "id": "deity-355",
+ "legacy_id": [
+  "deity-45"
  ],
- "icon_image": "/Images/Deities/Nocticula.png",
- "id": "deity-45",
- "image": [
-  "/Images/Deities/Nocticula.png"
- ],
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Nocticula (The Redeemer Queen)](/Deities.aspx?ID=45)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 68 <sup>2.0</sup></row>\n\nFor most of her existence, Nocticula was a patron of assassins and succubi, a demon lord feared by other demon lords for her skill at assassinating the competition. Those days are behind Nocticula, for she has risen to the role of the Redeemer Queen, a patron of marginalized artists and protector of those cast out from society. She is now feared among her former peers for her persuasive words that tempt them away from their place in the Abyss and toward redemption. Her faith is strongest in the eastern reaches of New Thassilon, where her most powerful exile, Queen Sorshen, seeks to build a nation that welcomes those whom others have cast out.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Other Gods](/DeityCategories.aspx?ID=2)\r\n\r\n**Edicts** create art true to yourself, protect marginalized artists, punish those who take advantage of offered trust and shelter\r\n\r\n**Anathema** deny shelter to the desperate, destroy harmless art you dislike, finish a work of art during daylight hours\r\n\r\n**Area of Concern**\r\nartists, exiles, midnight\r\n\r\n**Follower Alignments**\r\nN, CG, CN\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Deities/Nocticula.png\" />\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nDexterity or Charisma\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=14)\r\n\r\n**Favored Weapon** [Dagger](/Weapons.aspx?ID=3)\r\n\r\n**Domains** [Change](/Domains.aspx?ID=40), [Creation](/Domains.aspx?ID=5), [Darkness](/Domains.aspx?ID=6), [Travel](/Domains.aspx?ID=30)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Penumbral Shroud](/Spells.aspx?ID=582)\n\n- **3rd**\r\n[Nondetection](/Spells.aspx?ID=209)\n\n- **4th**\r\n[Creation](/Spells.aspx?ID=54)\n\n</column><title level=\"2\">Divine Intercession</title>\r\n\r\nThe Redeemer Queen smiles upon those who seek to better themselves through introspection, but she is quick to reward betrayal with a stinging rebuke. \r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic - Web Supplement](/Sources.aspx?ID=19) pg. 8</row>\r\n\r\n<column gap=\"tiny\">\r\n**Minor Boon** The night sky inspires you in a specific way. Once, when you roll a failure on a [Crafting](/Skills.aspx?ID=4) or [Performance](/Skills.aspx?ID=12) check under the night sky, you critically succeed instead. Nocticula typically grants this boon for a consequential piece of artwork or performance.\r\n\r\n**Moderate Boon** You draw on the power of midnight to guide you on your journeys. You gain [darkvision](/MonsterAbilities.aspx?ID=12). If you already had darkvision, you can cast [_darkness_](/Spells.aspx?ID=59) once per day as a divine innate spell.\r\n\r\n**Major Boon** You become an idealized version of yourself, as if created by a divine artist. You permanently gain a set of 4 ability boosts that follow the same rules as the ability boosts you gain at every 5th level.\r\n</column>\r\n\r\n<column gap=\"tiny\">\r\n**Minor Curse** Midnight looms and obscures your fate. You are only able to see up to 60 feet away from you, regardless of the lighting or what senses you have.\r\n\r\n**Moderate Curse** You are plagued with doubt in your own skills. You are always untrained with Crafting, Performance, and one other skill (determined by the GM, but themed to the event that brought on your curse), regardless of any effect that would improve your proficiency. You can’t retrain those skills.\r\n\r\n**Major Curse** You are exiled from companionship. You can’t communicate with any other creature, nor can you feel other creatures’ touch. \r\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Nocticula (The Redeemer Queen)](/Deities.aspx?ID=355)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 154\n\nFor most of her existence, Nocticula was a patron of assassins and [succubi](/Monsters.aspx?ID=2897), a demon lord feared by other demon lords for her skill at assassinating the competition. Those days are behind Nocticula, for she has risen to the role of the Redeemer Queen, a patron of marginalized artists and protector of those cast out from society. She is now feared among her former peers for her persuasive words that tempt them away from their place in the Outer Rifts and toward redemption. Her faith is strongest in the eastern reaches of New Thassilon, where her most powerful exile, Queen Sorshen, seeks to build a nation that welcomes those whom others have cast out. She is also popular among the Alijae elves of the Mwangi Expanse, who were among the first to notice her ascension.\n\nUnlike deities such as [Sarenrae](/Deities.aspx?ID=292) and [Shelyn](/Deities.aspx?ID=293), Nocticula’s concept of redemption tends to be a personal matter. She has little interest in demanding atonement and recompense for past wrongs, assuming such a feat is even possible—her own history is soaked in blood and far more vicious violations, with sins committed that can never be undone. The Redeemer Queen instead encourages evildoers to step away from the hells of their own making, to put aside their ways and stop causing harm rather than to remain trapped in their vicious cycles of violence. Though gods of justice might rankle at the concept, Nocticula’s philosophy attracts many who might not be swayed otherwise. Few fiends have any interest in putting in the hard work to make up for their crimes, but many tire of the unending viciousness and cruelty of their peers. Nocticula provides a tempting solace, and every now and then an odd demon slips away to make their way to her realm.\n\nNocticula dwells in a remote archipelago known as Midnight’s Palette. She encourages her worshippers to welcome pilgrims, refugees, and strangers; those who seek to abuse these open borders are counted as the greatest enemies of the church. Nocticula teaches forgiveness and encourages her followers to give their foes opportunities to repent, but rescind mercy from those who take advantage.\n\nCreating art—whether it’s sculpture or painting, song or story, public performance or private display—is important to the faith, but just as important is the protection of art and the artists who create. Nocticula teaches that the most important art is that which challenges you, compels you to look at the world in a different way, or threatens your comfort, for it is through the change enabled by such art that one can grow.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Other Gods](/DeityCategories.aspx?ID=2)\r\n\r\n**Edicts** create art true to yourself, protect marginalized artists, punish those who take advantage of offered trust and shelter\r\n\r\n**Anathema** deny shelter to the desperate, destroy harmless art you dislike, finish a work of art during daylight hours\r\n\r\n**Area of Concern**\r\nartists, exiles, midnight\n\n**Pantheons**\r\n[Wheels Of Innovation](/Deities.aspx?ID=385)\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nDexterity or Charisma\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** can choose holy\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=47)\r\n\r\n**Favored Weapon** [Dagger](/Weapons.aspx?ID=358)\r\n\r\n**Domains** [Change](/Domains.aspx?ID=102), [Creation](/Domains.aspx?ID=68), [Darkness](/Domains.aspx?ID=69), [Travel](/Domains.aspx?ID=93)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** [Introspection](/Domains.aspx?ID=110), [Protection](/Domains.aspx?ID=90)\r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Penumbral Shroud](/Spells.aspx?ID=2360)\n\n- **3rd**\r\n[Veil of Privacy](/Spells.aspx?ID=1739)\n\n- **4th**\r\n[Creation](/Spells.aspx?ID=1477)\n\n</column><title level=\"2\">Divine Intercession</title>\r\n\r\nThe Redeemer Queen smiles upon those who seek to better themselves through introspection, but she is quick to reward betrayal with a stinging rebuke. \r\n\r\n**Source** [Gods &amp; Magic - Web Supplement](/Sources.aspx?ID=19) pg. 8\r\n\r\n<column gap=\"tiny\">\r\n**Minor Boon** The night sky inspires you in a specific way. Once, when you roll a failure on a [Crafting](/Skills.aspx?ID=4) or [Performance](/Skills.aspx?ID=12) check under the night sky, you critically succeed instead. Nocticula typically grants this boon for a consequential piece of artwork or performance.\r\n\r\n**Moderate Boon** You draw on the power of midnight to guide you on your journeys. You gain [darkvision](/MonsterAbilities.aspx?ID=12). If you already had darkvision, you can cast [_darkness_](/Spells.aspx?ID=59) once per day as a divine innate spell.\r\n\r\n**Major Boon** You become an idealized version of yourself, as if created by a divine artist. You permanently gain a set of 4 ability boosts that follow the same rules as the ability boosts you gain at every 5th level.\r\n</column>\r\n\r\n<column gap=\"tiny\">\r\n**Minor Curse** Midnight looms and obscures your fate. You are only able to see up to 60 feet away from you, regardless of the lighting or what senses you have.\r\n\r\n**Moderate Curse** You are plagued with doubt in your own skills. You are always untrained with Crafting, Performance, and one other skill (determined by the GM, but themed to the event that brought on your curse), regardless of any effect that would improve your proficiency. You can’t retrain those skills.\r\n\r\n**Major Curse** You are exiled from companionship. You can’t communicate with any other creature, nor can you feel other creatures’ touch. \r\n</column>",
  "name": "Nocticula (The Redeemer Queen)",
+ "pantheon": [
+  "Wheels Of Innovation"
+ ],
+ "pantheon_markdown": "[Wheels Of Innovation](/Deities.aspx?ID=385)",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 154",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "moon with smirking lips and a seven-pointed crown",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 68 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=14)\r\n\r\n**Favored Weapon** [Dagger](/Weapons.aspx?ID=3)\r\n\r\n**Domains** [Change](/Domains.aspx?ID=40), [Creation](/Domains.aspx?ID=5), [Darkness](/Domains.aspx?ID=6), [Travel](/Domains.aspx?ID=30)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFor most of her existence, Nocticula was a patron of assassins and succubi, a demon lord feared by other demon lords for her skill at assassinating …\r\n</summary>",
+ "sacred_animal": "bat",
+ "sacred_color": [
+  "blue",
+  "purple"
+ ],
+ "sanctification": [
+  "holy"
+ ],
+ "sanctification_raw": "can choose holy",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 154\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=47)\r\n\r\n**Favored Weapon** [Dagger](/Weapons.aspx?ID=358)\r\n\r\n**Domains** [Change](/Domains.aspx?ID=102), [Creation](/Domains.aspx?ID=68), [Darkness](/Domains.aspx?ID=69), [Introspection](/Domains.aspx?ID=110), [Protection](/Domains.aspx?ID=90), [Travel](/Domains.aspx?ID=93)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFor most of her existence, Nocticula was a patron of assassins and  succubi , a demon lord feared by other demon lords for her skill at assassinating …\r\n</summary>",
  "skill": [
   "Society"
  ],
- "skill_markdown": "[Society](/Skills.aspx?ID=14)",
+ "skill_markdown": "[Society](/Skills.aspx?ID=47)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 68"
+  "Divine Mysteries pg. 154"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 68 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 154",
  "speed": {},
- "summary": "For most of her existence, Nocticula was a patron of assassins and succubi, a demon lord feared by other demon lords for her skill at assassinating …",
- "summary_markdown": "For most of her existence, Nocticula was a patron of assassins and succubi, a demon lord feared by other demon lords for her skill at assassinating …",
- "text": " Nocticula (The Redeemer Queen) Source Gods &amp; Magic pg. 68 2.0 For most of her existence, Nocticula was a patron of assassins and succubi, a demon lord feared by other demon lords for her skill at assassinating the competition. Those days are behind Nocticula, for she has risen to the role of the Redeemer Queen, a patron of marginalized artists and protector of those cast out from society. She is now feared among her former peers for her persuasive words that tempt them away from their place in the Abyss and toward redemption. Her faith is strongest in the eastern reaches of New Thassilon, where her most powerful exile, Queen Sorshen, seeks to build a nation that welcomes those whom others have cast out. Category Other Gods Edicts create art true to yourself, protect marginalized artists, punish those who take advantage of offered trust and shelter Anathema deny shelter to the desperate, destroy harmless art you dislike, finish a work of art during daylight hours Area of Concern artists, exiles, midnight Follower Alignments N, CG, CN Devotee Benefits Divine Ability Dexterity or Charisma Divine Font Heal Divine Skill Society Favored Weapon Dagger Domains Change, Creation, Darkness, Travel Alternate Domains Cleric Spells - 1st Penumbral Shroud - 3rd Nondetection - 4th Creation Divine Intercession The Redeemer Queen smiles upon those who seek to better themselves through introspection, but she is quick to reward betrayal with a stinging rebuke. Source Gods &amp; Magic - Web Supplement pg. 8 Minor Boon The night sky inspires you in a specific way. Once, when you roll a failure on a Crafting or Performance check under the night sky, you critically succeed instead. Nocticula typically grants this boon for a consequential piece of artwork or performance. Moderate Boon You draw on the power of midnight to guide you on your journeys. You gain darkvision. If you already had darkvision, you can cast darkness once per day as a divine innate spell. Major Boon You become an idealized version of yourself, as if created by a divine artist. You permanently gain a set of 4 ability boosts that follow the same rules as the ability boosts you gain at every 5th level. Minor Curse Midnight looms and obscures your fate. You are only able to see up to 60 feet away from you, regardless of the lighting or what senses you have. Moderate Curse You are plagued with doubt in your own skills. You are always untrained with Crafting, Performance, and one other skill (determined by the GM, but themed to the event that brought on your curse), regardless of any effect that would improve your proficiency. You can’t retrain those skills. Major Curse You are exiled from companionship. You can’t communicate with any other creature, nor can you feel other creatures’ touch. ",
- "trait": [
-  "CN"
+ "spell": [
+  "Penumbral Shroud",
+  "Veil of Privacy",
+  "Creation"
  ],
- "trait_raw": [
-  "CN"
- ],
+ "spell_markdown": "[Creation](/Spells.aspx?ID=1477), [Penumbral Shroud](/Spells.aspx?ID=2360), [Veil of Privacy](/Spells.aspx?ID=1739)",
+ "summary": "For most of her existence, Nocticula was a patron of assassins and  succubi , a demon lord feared by other demon lords for her skill at assassinating …",
+ "summary_markdown": "For most of her existence, Nocticula was a patron of assassins and  succubi , a demon lord feared by other demon lords for her skill at assassinating …",
+ "text": " Nocticula (The Redeemer Queen) Source Divine Mysteries pg. 154 For most of her existence, Nocticula was a patron of assassins and succubi, a demon lord feared by other demon lords for her skill at assassinating the competition. Those days are behind Nocticula, for she has risen to the role of the Redeemer Queen, a patron of marginalized artists and protector of those cast out from society. She is now feared among her former peers for her persuasive words that tempt them away from their place in the Outer Rifts and toward redemption. Her faith is strongest in the eastern reaches of New Thassilon, where her most powerful exile, Queen Sorshen, seeks to build a nation that welcomes those whom others have cast out. She is also popular among the Alijae elves of the Mwangi Expanse, who were among the first to notice her ascension. Unlike deities such as Sarenrae and Shelyn, Nocticula’s concept of redemption tends to be a personal matter. She has little interest in demanding atonement and recompense for past wrongs, assuming such a feat is even possible—her own history is soaked in blood and far more vicious violations, with sins committed that can never be undone. The Redeemer Queen instead encourages evildoers to step away from the hells of their own making, to put aside their ways and stop causing harm rather than to remain trapped in their vicious cycles of violence. Though gods of justice might rankle at the concept, Nocticula’s philosophy attracts many who might not be swayed otherwise. Few fiends have any interest in putting in the hard work to make up for their crimes, but many tire of the unending viciousness and cruelty of their peers. Nocticula provides a tempting solace, and every now and then an odd demon slips away to make their way to her realm. Nocticula dwells in a remote archipelago known as Midnight’s Palette. She encourages her worshippers to welcome pilgrims, refugees, and strangers; those who seek to abuse these open borders are counted as the greatest enemies of the church. Nocticula teaches forgiveness and encourages her followers to give their foes opportunities to repent, but rescind mercy from those who take advantage. Creating art—whether it’s sculpture or painting, song or story, public performance or private display—is important to the faith, but just as important is the protection of art and the artists who create. Nocticula teaches that the most important art is that which challenges you, compels you to look at the world in a different way, or threatens your comfort, for it is through the change enabled by such art that one can grow. Category Other Gods Edicts create art true to yourself, protect marginalized artists, punish those who take advantage of offered trust and shelter Anathema deny shelter to the desperate, destroy harmless art you dislike, finish a work of art during daylight hours Area of Concern artists, exiles, midnight Pantheons Wheels Of Innovation Devotee Benefits Divine Attribute Dexterity or Charisma Divine Font Heal Divine Sanctification can choose holy Divine Skill Society Favored Weapon Dagger Domains Change, Creation, Darkness, Travel Alternate Domains Introspection, Protection Cleric Spells - 1st Penumbral Shroud - 3rd Veil of Privacy - 4th Creation Divine Intercession The Redeemer Queen smiles upon those who seek to better themselves through introspection, but she is quick to reward betrayal with a stinging rebuke. Source Gods &amp; Magic - Web Supplement pg. 8 Minor Boon The night sky inspires you in a specific way. Once, when you roll a failure on a Crafting or Performance check under the night sky, you critically succeed instead. Nocticula typically grants this boon for a consequential piece of artwork or performance. Moderate Boon You draw on the power of midnight to guide you on your journeys. You gain darkvision. If you already had darkvision, you can cast darkness once per day as a divine innate spell. Major Boon You become an idealized version of yourself, as if created by a divine artist. You permanently gain a set of 4 ability boosts that follow the same rules as the ability boosts you gain at every 5th level. Minor Curse Midnight looms and obscures your fate. You are only able to see up to 60 feet away from you, regardless of the lighting or what senses you have. Moderate Curse You are plagued with doubt in your own skills. You are always untrained with Crafting, Performance, and one other skill (determined by the GM, but themed to the event that brought on your curse), regardless of any effect that would improve your proficiency. You can’t retrain those skills. Major Curse You are exiled from companionship. You can’t communicate with any other creature, nor can you feel other creatures’ touch. ",
  "type": "Deity",
- "url": "/Deities.aspx?ID=45",
+ "url": "/Deities.aspx?ID=355",
  "weakness": {}
 }

@@ -1,56 +1,69 @@
 {
- "actions": "Free Action",
+ "actions": "Two Actions",
+ "actions_number": 4,
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
+ "bulk": 0,
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-203",
+ "id": "equipment-2967",
  "item_category": "Consumables",
  "item_subcategory": "Talismans",
+ "legacy_id": [
+  "equipment-203"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Crying Angel Pendant](/Equipment.aspx?ID=203)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=48\" />\r\n<trait label=\"Necromancy\" url=\"/Traits.aspx?ID=117\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=155\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 566 <sup>4.0</sup></row>\n\n**Price** 7 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** affixed to armor\n\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Free Action\" /><row>envision</row></row>\r\n\r\n \r\n\r\n**Trigger** You critically fail to Administer First Aid\r\n\r\n**Requirement** You are trained in Medicine\r\n</row>\n\n</column>\r\n\r\n---\n\nWhen you activate this alabaster pendant, your critical failure becomes a normal failure instead.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Crying Angel Pendant](/Equipment.aspx?ID=2967)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=579\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=709\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 263 <sup>2.0</sup>\n\n**Price** 7 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** affixed to armor\n\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Two Actions\" /><row>([concentrate](/Traits.aspx?ID=32))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nWhen you activate this alabaster pendant, attempt to [Administer First Aid](/Actions.aspx?ID=54) using Medicine with a +1 item bonus to the check. If you succeed, and you were trying to stabilize, the target regains 1 Hit Point, losing the dying condition and becoming conscious as normal. If you succeed, and you were trying to stop bleeding, the bleeding ends.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Crying Angel Pendant",
  "pfs": "Standard",
  "price": 700,
  "price_raw": "7 gp",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 263",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
- "requirement": "You are trained in Medicine",
- "requirement_markdown": "You are trained in Medicine",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "school": "necromancy",
- "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=48\" />\r\n<trait label=\"Necromancy\" url=\"/Traits.aspx?ID=117\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=155\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 566 <sup>4.0</sup></row>\r\n\r\n**Price** 7 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** affixed to armor\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Free Action\" /><row>envision</row></row>\r\n\r\n \r\n\r\n**Trigger** You critically fail to Administer First Aid\r\n\r\n**Requirement** You are trained in Medicine\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen you activate this alabaster pendant, your critical failure becomes a normal failure instead.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=579\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=709\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 263 <sup>2.0</sup>\r\n\r\n**Price** 7 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** affixed to armor\r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Two Actions\" /><row>([concentrate](/Traits.aspx?ID=32))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen you activate this alabaster pendant, attempt to  Administer First Aid  using Medicine with a +1 item bonus to the check. If you succeed, and you …\r\n</summary>",
+ "skill": [
+  "Medicine"
+ ],
+ "skill_markdown": "[Medicine](/Skills.aspx?ID=42)",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 566"
+  "GM Core pg. 263"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 566 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 263 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "When you activate this alabaster pendant, your critical failure becomes a normal failure instead.",
- "summary_markdown": "When you activate this alabaster pendant, your critical failure becomes a normal failure instead.",
- "text": "<title level=\"1\" right=\"Item 2\" pfs=\"Standard\" > Crying Angel Pendant Source Core Rulebook pg. 566 4.0 Price 7 gp Usage affixed to armor Activate Free Action envision Trigger You critically fail to Administer First Aid Requirement You are trained in Medicine --- When you activate this alabaster pendant, your critical failure becomes a normal failure instead.\n",
+ "summary": "When you activate this alabaster pendant, attempt to  Administer First Aid  using Medicine with a +1 item bonus to the check. If you succeed, and you …",
+ "summary_markdown": "When you activate this alabaster pendant, attempt to  Administer First Aid  using Medicine with a +1 item bonus to the check. If you succeed, and you …",
+ "text": "<title level=\"1\" right=\"Item 2\" pfs=\"Standard\" > Crying Angel Pendant Source GM Core pg. 263 2.0 Price 7 gp Usage affixed to armor Activate Two Actions (concentrate) --- When you activate this alabaster pendant, attempt to Administer First Aid using Medicine with a +1 item bonus to the check. If you succeed, and you were trying to stabilize, the target regains 1 Hit Point, losing the dying condition and becoming conscious as normal. If you succeed, and you were trying to stop bleeding, the bleeding ends.\n",
  "trait": [
   "Consumable",
   "Divine",
-  "Necromancy",
   "Talisman"
  ],
- "trait_markdown": "[Consumable](/Traits.aspx?ID=36), [Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117), [Talisman](/Traits.aspx?ID=155)",
+ "trait_group": [
+  "Equipment",
+  "Tradition",
+  "Monster"
+ ],
+ "trait_markdown": "[Consumable](/Traits.aspx?ID=564), [Divine](/Traits.aspx?ID=579), [Talisman](/Traits.aspx?ID=709)",
  "trait_raw": [
   "Consumable",
   "Divine",
-  "Necromancy",
   "Talisman"
  ],
- "trigger": "You critically fail to Administer First Aid",
- "trigger_markdown": "You critically fail to Administer First Aid",
  "type": "Item",
- "url": "/Equipment.aspx?ID=203",
+ "url": "/Equipment.aspx?ID=2967",
  "usage": "affixed to armor",
  "usage_markdown": "affixed to armor",
  "weakness": {}

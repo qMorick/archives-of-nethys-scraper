@@ -1,45 +1,60 @@
 {
  "actions": "Single Action",
+ "actions_number": 2,
  "archetype": [
   "Marshal"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Steel Yourself!"
  ],
  "feat_markdown": "Steel Yourself!",
- "id": "feat-2009",
+ "id": "feat-6355",
+ "legacy_id": [
+  "feat-2009"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Steel Yourself!](/Feats.aspx?ID=2009) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=16\" />\r\n<trait label=\"Emotion\" url=\"/Traits.aspx?ID=60\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 180 <sup>2.0</sup></row>\n\n**Archetype** [Marshal](/Archetypes.aspx?ID=66)\n\n**Prerequisites**\r\n[Marshal Dedication](/Feats.aspx?ID=2005)\n\n</column>\r\n\r\n---\r\n\r\nYou encourage an ally to toughen up, giving them a fighting chance. Choose one ally within your marshal's aura. The ally gains temporary Hit Points equal to your Charisma modifier and a +2 circumstance bonus to Fortitude saves. Both benefits last until the start of your next turn.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Steel Yourself!](/Feats.aspx?ID=6355) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=541\" />\r\n<trait label=\"Emotion\" url=\"/Traits.aspx?ID=590\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=647\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 205 <sup>1.1</sup>\n\n**Archetype** [Marshal](/Archetypes.aspx?ID=254)\n\n**Prerequisites**\r\n[Marshal Dedication](/Feats.aspx?ID=6351)\n\n</column>\r\n\r\n---\r\n\r\nYou encourage an ally to toughen up, giving them a fighting chance. Choose one ally in your marshal’s aura. The ally gains [temporary Hit Points](/Rules.aspx?ID=2321) equal to your Charisma modifier and a +2 circumstance bonus to Fortitude saves. Both benefits last until the start of your next turn.",
  "name": "Steel Yourself!",
  "pfs": "Standard",
  "prerequisite": "Marshal Dedication",
- "prerequisite_markdown": "[Marshal Dedication](/Feats.aspx?ID=2005)",
+ "prerequisite_markdown": "[Marshal Dedication](/Feats.aspx?ID=6351)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 205",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=16\" />\r\n<trait label=\"Emotion\" url=\"/Traits.aspx?ID=60\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 180 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Marshal Dedication](/Feats.aspx?ID=2005)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou encourage an ally to toughen up, giving them a fighting chance.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=541\" />\r\n<trait label=\"Emotion\" url=\"/Traits.aspx?ID=590\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=647\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 205 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Marshal Dedication](/Feats.aspx?ID=6351)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou encourage an ally to toughen up, giving them a fighting chance.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 180"
+  "Player Core 2 pg. 205"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 180 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 205 <sup>1.1</sup>",
  "speed": {},
  "summary": "You encourage an ally to toughen up, giving them a fighting chance.",
  "summary_markdown": "You encourage an ally to toughen up, giving them a fighting chance.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Steel Yourself! Single Action Source Advanced Player's Guide pg. 180 2.0 Archetype Marshal Prerequisites Marshal Dedication --- You encourage an ally to toughen up, giving them a fighting chance. Choose one ally within your marshal's aura. The ally gains temporary Hit Points equal to your Charisma modifier and a +2 circumstance bonus to Fortitude saves. Both benefits last until the start of your next turn.",
+ "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Steel Yourself! Single Action Source Player Core 2 pg. 205 1.1 Archetype Marshal Prerequisites Marshal Dedication --- You encourage an ally to toughen up, giving them a fighting chance. Choose one ally in your marshal’s aura. The ally gains temporary Hit Points equal to your Charisma modifier and a +2 circumstance bonus to Fortitude saves. Both benefits last until the start of your next turn.",
  "trait": [
   "Archetype",
   "Auditory",
   "Emotion",
   "Mental"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Mental](/Traits.aspx?ID=106)",
+ "trait_group": [
+  "Feat",
+  "Sense",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535), [Auditory](/Traits.aspx?ID=541), [Emotion](/Traits.aspx?ID=590), [Mental](/Traits.aspx?ID=647)",
  "trait_raw": [
   "Archetype",
   "Auditory",
@@ -47,6 +62,6 @@
   "Mental"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2009",
+ "url": "/Feats.aspx?ID=6355",
  "weakness": {}
 }

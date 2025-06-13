@@ -1,44 +1,57 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Collateral Thrash"
  ],
  "feat_markdown": "Collateral Thrash",
- "id": "feat-171",
+ "id": "feat-5867",
+ "legacy_id": [
+  "feat-171"
+ ],
  "level": 16,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 16\"\r\n    pfs=\"Standard\"\r\n>\r\n[Collateral Thrash](/Feats.aspx?ID=171) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 93 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Thrash](/Feats.aspx?ID=156)\n\n</column>\r\n\r\n---\r\n\r\nWhen you [Thrash](/Feats.aspx?ID=156) a grabbed foe, you smack that foe into another nearby. Another foe adjacent to the grabbed foe also takes your Thrash damage, with a basic Reflex save against your class DC.\n\n<title level=\"2\">Collateral Thrash leads to...</title>\r\n[Whirlwind Toss](/Feats.aspx?ID=2758)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 16\"\r\n    pfs=\"Standard\"\r\n>\r\n[Collateral Thrash](/Feats.aspx?ID=5867) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 84 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Thrash](/Feats.aspx?ID=5844)\n\n</column>\r\n\r\n---\r\n\r\nYou smack the foe you're thrashing into someone else. When you Thrash, choose another enemy adjacent to the grabbed enemy. That enemy also takes your Thrash damage, with a [basic](/Rules.aspx?ID=329) Reflex save against your class DC.\n\n<title level=\"2\">Collateral Thrash leads to...</title>\r\n[Whirlwind Toss](/Feats.aspx?ID=5876)",
  "name": "Collateral Thrash",
  "pfs": "Standard",
  "prerequisite": "Thrash",
- "prerequisite_markdown": "[Thrash](/Feats.aspx?ID=156)",
+ "prerequisite_markdown": "[Thrash](/Feats.aspx?ID=5844)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 84",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 93 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Thrash](/Feats.aspx?ID=156)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen you Thrash a grabbed foe, you smack that foe into another nearby.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 84 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Thrash](/Feats.aspx?ID=5844)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou smack the foe you're thrashing into someone else.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 93"
+  "Player Core 2 pg. 84"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 93 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 84 <sup>1.1</sup>",
  "speed": {},
- "summary": "When you Thrash a grabbed foe, you smack that foe into another nearby.",
- "summary_markdown": "When you Thrash a grabbed foe, you smack that foe into another nearby.",
- "text": "<title level=\"1\" right=\"Feat 16\" pfs=\"Standard\" > Collateral Thrash Source Core Rulebook pg. 93 4.0 Prerequisites Thrash --- When you Thrash a grabbed foe, you smack that foe into another nearby. Another foe adjacent to the grabbed foe also takes your Thrash damage, with a basic Reflex save against your class DC. Collateral Thrash leads to... Whirlwind Toss",
+ "summary": "You smack the foe you're thrashing into someone else.",
+ "summary_markdown": "You smack the foe you're thrashing into someone else.",
+ "text": "<title level=\"1\" right=\"Feat 16\" pfs=\"Standard\" > Collateral Thrash Source Player Core 2 pg. 84 1.1 Prerequisites Thrash --- You smack the foe you're thrashing into someone else. When you Thrash, choose another enemy adjacent to the grabbed enemy. That enemy also takes your Thrash damage, with a basic Reflex save against your class DC. Collateral Thrash leads to... Whirlwind Toss",
  "trait": [
   "Barbarian",
   "Rage"
  ],
- "trait_markdown": "[Barbarian](/Traits.aspx?ID=18), [Rage](/Traits.aspx?ID=135)",
+ "trait_group": [
+  "Class",
+  "Class-Specific"
+ ],
+ "trait_markdown": "[Barbarian](/Traits.aspx?ID=813), [Rage](/Traits.aspx?ID=680)",
  "trait_raw": [
   "Barbarian",
   "Rage"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=171",
+ "url": "/Feats.aspx?ID=5867",
  "weakness": {}
 }

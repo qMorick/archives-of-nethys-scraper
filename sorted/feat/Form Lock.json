@@ -1,45 +1,70 @@
 {
  "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions_number": 2,
+ "archetype": [
+  "Wrestler"
+ ],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Form Lock"
  ],
  "feat_markdown": "Form Lock",
- "id": "feat-1753",
+ "id": "feat-6031",
+ "legacy_id": [
+  "feat-3405"
+ ],
+ "legacy_name": [
+  "Form Lock (Wrestler)"
+ ],
  "level": 14,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 14\"\r\n    pfs=\"Standard\"\r\n>\r\n[Form Lock](/Feats.aspx?ID=1753) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Attack\" url=\"/Traits.aspx?ID=15\" />\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 130 <sup>2.0</sup></row>\n\n**Requirements**\r\nYou have a foe [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33).\r\n\r\n</column>\r\n\r\n---\r\n\r\nYour ability to control your own ki empowers you to pressure other creatures into resuming their true forms. Attempt an [Athletics](/Skills.aspx?ID=3) check to [counteract](/Rules.aspx?ID=371) a [polymorph](/Traits.aspx?ID=127) effect currently affecting your target. If the target is somehow under the effect of multiple polymorph effects, you can choose which one to attempt to counteract, or the GM chooses randomly if the separate effects aren't obvious. The target is then temporarily immune for 1 day.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 14\"\r\n    pfs=\"Standard\"\r\n>\r\n[Form Lock](/Feats.aspx?ID=6031) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Attack\" url=\"/Traits.aspx?ID=540\" />\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 125 <sup>1.1</sup>, [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 130 <sup>2.0</sup>\n\n**Archetype** [Wrestler](/Archetypes.aspx?ID=270) (Level 14)\n\n**Prerequisites**\r\n[Wrestler Dedication](/Feats.aspx?ID=6446)\n\n**Requirements**\r\nYou have a foe [grabbed](/Conditions.aspx?ID=77) or [restrained](/Conditions.aspx?ID=90). \n\n</column>\r\n\r\n---\r\n\r\nYour ability to control your own qi empowers you to pressure other creatures into resuming their true forms. Attempt an [Athletics](/Skills.aspx?ID=36) check to [counteract](/Rules.aspx?ID=371) a [polymorph](/Traits.aspx?ID=670) effect currently affecting your target. If the target is somehow under the effect of multiple polymorph effects, you can choose which one to attempt to counteract, or the GM chooses randomly if the separate effects aren't obvious. The target is then temporarily immune for 1 day.",
  "name": "Form Lock",
  "pfs": "Standard",
+ "prerequisite": "Wrestler Dedication",
+ "prerequisite_markdown": "[Wrestler Dedication](/Feats.aspx?ID=6446)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 125",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
- "requirement": "You have a foe  grabbed  or  restrained .",
- "requirement_markdown": "You have a foe [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33).",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
+ "requirement": "You have a foe  grabbed  or  restrained . ",
+ "requirement_markdown": "You have a foe [grabbed](/Conditions.aspx?ID=77) or [restrained](/Conditions.aspx?ID=90). ",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Attack\" url=\"/Traits.aspx?ID=15\" />\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 130 <sup>2.0</sup></row>\n\n**Requirements**\r\nYou have a foe [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33).\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour ability to control your own ki empowers you to pressure other creatures into resuming their true forms.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Attack\" url=\"/Traits.aspx?ID=540\" />\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 125 <sup>1.1</sup>, [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 130 <sup>2.0</sup>\n\n**Prerequisites**\r\n[Wrestler Dedication](/Feats.aspx?ID=6446)\n\n**Requirements**\r\nYou have a foe [grabbed](/Conditions.aspx?ID=77) or [restrained](/Conditions.aspx?ID=90). \n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour ability to control your own qi empowers you to pressure other creatures into resuming their true forms.\r\n</summary>",
+ "skill_mod": {},
  "source": [
+  "Player Core 2",
   "Advanced Player's Guide"
  ],
  "source_raw": [
+  "Player Core 2 pg. 125",
   "Advanced Player's Guide pg. 130"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 130 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 125 <sup>1.1</sup>, [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 130 <sup>2.0</sup>",
  "speed": {},
- "summary": "Your ability to control your own ki empowers you to pressure other creatures into resuming their true forms.",
- "summary_markdown": "Your ability to control your own ki empowers you to pressure other creatures into resuming their true forms.",
- "text": "<title level=\"1\" right=\"Feat 14\" pfs=\"Standard\" > Form Lock Single Action Source Advanced Player's Guide pg. 130 2.0 Requirements You have a foe grabbed or restrained. --- Your ability to control your own ki empowers you to pressure other creatures into resuming their true forms. Attempt an Athletics check to counteract a polymorph effect currently affecting your target. If the target is somehow under the effect of multiple polymorph effects, you can choose which one to attempt to counteract, or the GM chooses randomly if the separate effects aren't obvious. The target is then temporarily immune for 1 day.",
+ "summary": "Your ability to control your own qi empowers you to pressure other creatures into resuming their true forms.",
+ "summary_markdown": "Your ability to control your own qi empowers you to pressure other creatures into resuming their true forms.",
+ "text": "<title level=\"1\" right=\"Feat 14\" pfs=\"Standard\" > Form Lock Single Action Source Player Core 2 pg. 125 1.1 , Advanced Player's Guide pg. 130 2.0 Archetype Wrestler (Level 14) Prerequisites Wrestler Dedication Requirements You have a foe grabbed or restrained. --- Your ability to control your own qi empowers you to pressure other creatures into resuming their true forms. Attempt an Athletics check to counteract a polymorph effect currently affecting your target. If the target is somehow under the effect of multiple polymorph effects, you can choose which one to attempt to counteract, or the GM chooses randomly if the separate effects aren't obvious. The target is then temporarily immune for 1 day.",
  "trait": [
   "Attack",
   "Monk"
  ],
- "trait_markdown": "[Attack](/Traits.aspx?ID=15), [Monk](/Traits.aspx?ID=112)",
+ "trait_group": [
+  "Mechanics",
+  "Class",
+  "Weapon"
+ ],
+ "trait_markdown": "[Attack](/Traits.aspx?ID=540), [Monk](/Traits.aspx?ID=656)",
  "trait_raw": [
   "Attack",
   "Monk"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1753",
+ "url": "/Feats.aspx?ID=6031",
  "weakness": {}
 }

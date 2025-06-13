@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Duskwalker Magic"
  ],
  "feat_markdown": "Duskwalker Magic",
- "id": "feat-1373",
+ "id": "feat-5756",
+ "legacy_id": [
+  "feat-1373"
+ ],
  "level": 9,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 9\"\r\n    pfs=\"Standard\"\r\n>\r\n[Duskwalker Magic](/Feats.aspx?ID=1373) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Duskwalker\" url=\"/Traits.aspx?ID=257\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 38 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYour connection to psychopomps gives you the power to glimpse the near future and protect corpses from the ravages of undeath. You can cast [_augury_](/Spells.aspx?ID=15) and [_gentle repose_](/Spells.aspx?ID=131) each once per day as 2nd-level divine innate spells.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 9\"\r\n    pfs=\"Standard\"\r\n>\r\n[Duskwalker Magic](/Feats.aspx?ID=5756) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Duskwalker\" url=\"/Traits.aspx?ID=751\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 49 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYour connection to [psychopomps](/MonsterFamilies.aspx?ID=458) gives you the power to glimpse the near future and protect corpses from the ravages of undeath. You can cast [_augury_](/Spells.aspx?ID=1445) and [_peaceful rest_](/Spells.aspx?ID=1625) each once per day as 2nd-rank divine innate spells.",
  "name": "Duskwalker Magic",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 49",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Duskwalker\" url=\"/Traits.aspx?ID=257\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 38 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour connection to psychopomps gives you the power to glimpse the near future and protect corpses from the ravages of undeath.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Duskwalker\" url=\"/Traits.aspx?ID=751\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 49 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour connection to [psychopomps](/MonsterFamilies.aspx?ID=458) gives you the power to glimpse the near future and protect corpses from the ravages of undeath.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 38"
+  "Player Core 2 pg. 49"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 38 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 49 <sup>1.1</sup>",
  "speed": {},
- "summary": "Your connection to psychopomps gives you the power to glimpse the near future and protect corpses from the ravages of undeath.",
- "summary_markdown": "Your connection to psychopomps gives you the power to glimpse the near future and protect corpses from the ravages of undeath.",
- "text": "<title level=\"1\" right=\"Feat 9\" pfs=\"Standard\" > Duskwalker Magic Source Advanced Player's Guide pg. 38 2.0 --- Your connection to psychopomps gives you the power to glimpse the near future and protect corpses from the ravages of undeath. You can cast augury and gentle repose each once per day as 2nd-level divine innate spells.",
+ "summary": "Your connection to  psychopomps  gives you the power to glimpse the near future and protect corpses from the ravages of undeath.",
+ "summary_markdown": "Your connection to [psychopomps](/MonsterFamilies.aspx?ID=458) gives you the power to glimpse the near future and protect corpses from the ravages of undeath.",
+ "text": "<title level=\"1\" right=\"Feat 9\" pfs=\"Standard\" > Duskwalker Magic Source Player Core 2 pg. 49 1.1 --- Your connection to psychopomps gives you the power to glimpse the near future and protect corpses from the ravages of undeath. You can cast augury and peaceful rest each once per day as 2nd-rank divine innate spells.",
  "trait": [
   "Duskwalker"
  ],
- "trait_markdown": "[Duskwalker](/Traits.aspx?ID=257)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Duskwalker](/Traits.aspx?ID=751)",
  "trait_raw": [
   "Duskwalker"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1373",
+ "url": "/Feats.aspx?ID=5756",
  "weakness": {}
 }

@@ -1,48 +1,60 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Doublespeak"
  ],
  "feat_markdown": "Doublespeak",
- "id": "feat-2124",
+ "id": "feat-6476",
+ "legacy_id": [
+  "feat-2124"
+ ],
  "level": 7,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 7\"\r\n    pfs=\"Standard\"\r\n>\r\n[Doublespeak](/Feats.aspx?ID=2124) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=78\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=144\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 205 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nMaster in [Deception](/Skills.aspx?ID=5)\n\n</column>\r\n\r\n---\r\n\r\nYou are skilled at saying one thing while meaning something different. You disguise your true meaning behind other words and phrases, relying on subtle emphasis and shared experience to convey meaning that only your allies understand. Any allies who have traveled alongside you for at least 1 full week automatically discern your meaning. Other observers must succeed at a Perception check against your [Deception](/Skills.aspx?ID=5) DC to realize you are passing a secret message, and they must critically succeed to understand the message itself.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 7\"\r\n    pfs=\"Standard\"\r\n>\r\n[Doublespeak](/Feats.aspx?ID=6476) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=615\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=695\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 229 <sup>1.1</sup>\n\n**Prerequisites**\r\nMaster in [Deception](/Skills.aspx?ID=38)\n\n</column>\r\n\r\n---\r\n\r\nYou're skilled at saying one thing and meaning something different. You disguise your true meaning behind other words and phrases, relying on subtle emphasis and shared experience to convey meaning that only your allies understand. Any allies who have traveled alongside you for at least 1 full week automatically discern your meaning. Other observers must succeed at a Perception check against your Deception DC to realize you are passing a secret message, and they must critically succeed to understand the message itself.",
  "name": "Doublespeak",
  "pfs": "Standard",
  "prerequisite": "Master in Deception",
- "prerequisite_markdown": "Master in [Deception](/Skills.aspx?ID=5)",
+ "prerequisite_markdown": "Master in [Deception](/Skills.aspx?ID=38)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 229",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=78\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=144\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 205 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nMaster in [Deception](/Skills.aspx?ID=5)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nPass a secret message to allies in your conversation.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=615\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=695\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 229 <sup>1.1</sup>\n\n**Prerequisites**\r\nMaster in [Deception](/Skills.aspx?ID=38)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou're skilled at saying one thing and meaning something different.\r\n</summary>",
  "skill": [
   "Deception",
   "Deception"
  ],
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 205"
+  "Player Core 2 pg. 229"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 205 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 229 <sup>1.1</sup>",
  "speed": {},
- "summary": "Pass a secret message to allies in your conversation.",
- "summary_markdown": "Pass a secret message to allies in your conversation.",
- "text": "<title level=\"1\" right=\"Feat 7\" pfs=\"Standard\" > Doublespeak Source Advanced Player's Guide pg. 205 2.0 Prerequisites Master in Deception --- You are skilled at saying one thing while meaning something different. You disguise your true meaning behind other words and phrases, relying on subtle emphasis and shared experience to convey meaning that only your allies understand. Any allies who have traveled alongside you for at least 1 full week automatically discern your meaning. Other observers must succeed at a Perception check against your Deception DC to realize you are passing a secret message, and they must critically succeed to understand the message itself.",
+ "summary": "You're skilled at saying one thing and meaning something different.",
+ "summary_markdown": "You're skilled at saying one thing and meaning something different.",
+ "text": "<title level=\"1\" right=\"Feat 7\" pfs=\"Standard\" > Doublespeak Source Player Core 2 pg. 229 1.1 Prerequisites Master in Deception --- You're skilled at saying one thing and meaning something different. You disguise your true meaning behind other words and phrases, relying on subtle emphasis and shared experience to convey meaning that only your allies understand. Any allies who have traveled alongside you for at least 1 full week automatically discern your meaning. Other observers must succeed at a Perception check against your Deception DC to realize you are passing a secret message, and they must critically succeed to understand the message itself.",
  "trait": [
   "General",
   "Skill"
  ],
- "trait_markdown": "[General](/Traits.aspx?ID=78), [Skill](/Traits.aspx?ID=144)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[General](/Traits.aspx?ID=615), [Skill](/Traits.aspx?ID=695)",
  "trait_raw": [
   "General",
   "Skill"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2124",
+ "url": "/Feats.aspx?ID=6476",
  "weakness": {}
 }

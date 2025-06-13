@@ -1,10 +1,15 @@
 {
- "ability": [
+ "attribute": [
   "Wisdom",
   "Charisma"
  ],
- "alignment": "N",
- "breadcrumbs_spa": [],
+ "anathema": "Manipulate or remove a creature’s emotions with magic, spread nihilism or hopelessness",
+ "area_of_concern": [
+  "Agency",
+  "bronze",
+  "education"
+ ],
+ "area_of_concern_raw": "Agency, bronze, education",
  "category": "deity",
  "cleric_spell": [
   "Share Lore",
@@ -14,7 +19,6 @@
  "deity": [
   "Saloc"
  ],
- "deity_markdown": "[Saloc](/Deities.aspx?ID=146)",
  "deity_category": "Monitor Demigods",
  "deity_category_markdown": "[Monitor Demigods\r\n](/DeityCategories.aspx?ID=12)",
  "deity_category_order": "2Monitor Demigods\r\n",
@@ -26,58 +30,75 @@
   "Change",
   "Death",
   "Freedom",
+  "Introspection",
   "Knowledge"
  ],
- "domain_markdown": "[Change](/Domains.aspx?ID=40), [Death](/Domains.aspx?ID=7), [Freedom](/Domains.aspx?ID=14), [Knowledge](/Domains.aspx?ID=17)",
- "domain_alternate_markdown": "",
+ "domain_markdown": "[Change](/Domains.aspx?ID=102), [Death](/Domains.aspx?ID=70), [Freedom](/Domains.aspx?ID=77), [Introspection](/Domains.aspx?ID=110), [Knowledge](/Domains.aspx?ID=80)",
+ "domain_alternate": [
+  "Introspection"
+ ],
+ "domain_alternate_markdown": "[Introspection](/Domains.aspx?ID=110)",
  "domain_primary": [
   "Change",
   "Death",
   "Freedom",
   "Knowledge"
  ],
- "domain_primary_markdown": "[Change](/Domains.aspx?ID=40), [Death](/Domains.aspx?ID=7), [Freedom](/Domains.aspx?ID=14), [Knowledge](/Domains.aspx?ID=17)",
+ "domain_primary_markdown": "[Change](/Domains.aspx?ID=102), [Death](/Domains.aspx?ID=70), [Freedom](/Domains.aspx?ID=77), [Knowledge](/Domains.aspx?ID=80)",
+ "edict": "Help creatures grow and find purpose, offer second chances to failures, study different perspectives on ethics",
  "exclude_from_search": false,
  "favored_weapon": [
   "Guisarme"
  ],
- "favored_weapon_markdown": "[Guisarme](/Weapons.aspx?ID=25)",
- "follower_alignment": [
-  "NG",
-  "N",
-  "NE"
+ "favored_weapon_markdown": "[Guisarme](/Weapons.aspx?ID=380)",
+ "id": "deity-547",
+ "legacy_id": [
+  "deity-146"
  ],
- "id": "deity-146",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Saloc (The Minder of Immortals)](/Deities.aspx?ID=146)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 130 <sup>2.0</sup></row>\r\n\r\n_[**PFS Note**](/pathfinder-society) Any deity that would grant the dreaming potential spell as a domain spell instead grants cloak of colors._\r\n\r\nRuler of the planar metropolis of Spire’s Edge in the Boneyard, the psychopomp usher Saloc is humanoid, but their face is devoid of features save stag horns, and two golden rings lined with eyes constantly rotate about their body. As a defense counsel in Pharasma’s court, the Minder of Immortals argues that a person’s intentions should be considered in equal part to the consequences of their actions when deciding their soul’s afterlife. Saloc has even been known to resurrect condemned souls to give them a second chance to prove themselves. Mortals revere Saloc as the patron of agency, bronze, and education. These followers are people who seek to improve themselves or others, including both students and teachers. Some seek to earn their freedom from earthly prisons, while others wish to change their ways to avoid punishment in the hereafter.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Monitor Demigods\r\n](/DeityCategories.aspx?ID=12)\r\n\r\n**Edicts** Help creatures grow and find purpose, offer second chances to failures, study different perspectives on ethics\r\n\r\n**Anathema** Manipulate or remove a creature's emotions with magic, spread nihilism or hopelessness\r\n\r\n**Area of Concern**\r\nagency, bronze, and education\r\n\r\n**Follower Alignments**\r\nNG, N, NE\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nWisdom or Charisma\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Diplomacy](/Skills.aspx?ID=6)\r\n\r\n**Favored Weapon** [Guisarme](/Weapons.aspx?ID=25)\r\n\r\n**Domains** [Change](/Domains.aspx?ID=40), [Death](/Domains.aspx?ID=7), [Freedom](/Domains.aspx?ID=14), [Knowledge](/Domains.aspx?ID=17)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Share Lore](/Spells.aspx?ID=584)\n\n- **3rd**\r\n[Hypercognition](/Spells.aspx?ID=156)\n\n- **5th**\r\n[Dreaming Potential](/Spells.aspx?ID=91)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Saloc (The Minder of Immortals)](/Deities.aspx?ID=547)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 316\r\n\r\n_[**PFS Note**](/pathfinder-society) This deity grants [_illusory scene_](/Spells.aspx?ID=1570) instead of dreaming potential_\r\n\r\nRuler of the planar metropolis of Spire’s Edge in the [Boneyard](/Planes.aspx?ID=39), the [psychopomp](/MonsterFamilies.aspx?ID=458) usher Saloc is [humanoid](/Traits.aspx?ID=628), but their face is devoid of features save stag horns, and two golden rings lined with eyes constantly rotate about their body. As a defense counsel in [Pharasma’s](/Deities.aspx?ID=290) court, the Minder of Immortals argues that a person’s intentions should be considered in equal part to the consequences of their actions when deciding their soul’s afterlife. Saloc has even been known to resurrect condemned souls to give them a second chance to prove themselves. Mortals revere Saloc as the patron of agency, bronze, and education. These followers are people who seek to improve themselves or others, including both students and teachers. Some seek to earn their freedom from earthly prisons, while others wish to change their ways to avoid punishment in the hereafter.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Monitor Demigods\r\n](/DeityCategories.aspx?ID=12)\r\n\r\n**Edicts** Help creatures grow and find purpose, offer second chances to failures, study different perspectives on ethics\r\n\r\n**Anathema** Manipulate or remove a creature’s emotions with magic, spread nihilism or hopelessness\r\n\r\n**Area of Concern**\r\nAgency, bronze, education\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nWisdom or Charisma\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** none\r\n\r\n**Divine Skill** [Diplomacy](/Skills.aspx?ID=39)\r\n\r\n**Favored Weapon** [Guisarme](/Weapons.aspx?ID=380)\r\n\r\n**Domains** [Change](/Domains.aspx?ID=102), [Death](/Domains.aspx?ID=70), [Freedom](/Domains.aspx?ID=77), [Knowledge](/Domains.aspx?ID=80)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** [Introspection](/Domains.aspx?ID=110)\r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Share Lore](/Spells.aspx?ID=2363)\n\n- **3rd**\r\n[Hypercognition](/Spells.aspx?ID=1563)\n\n- **5th**\r\n[Dreaming Potential](/Spells.aspx?ID=1504)\n\n</column>",
  "name": "Saloc (The Minder of Immortals)",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 316",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "Equilateral triangle set inside a circle",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 130 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Diplomacy](/Skills.aspx?ID=6)\r\n\r\n**Favored Weapon** [Guisarme](/Weapons.aspx?ID=25)\r\n\r\n**Domains** [Change](/Domains.aspx?ID=40), [Death](/Domains.aspx?ID=7), [Freedom](/Domains.aspx?ID=14), [Knowledge](/Domains.aspx?ID=17)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nRuler of the planar metropolis of Spire’s Edge in the Boneyard, the psychopomp usher Saloc is humanoid, but their face is devoid of features save …\r\n</summary>",
+ "sacred_animal": "Silkworm",
+ "sacred_color": [
+  "gold",
+  "gray"
+ ],
+ "sanctification_raw": "none",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 316\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Diplomacy](/Skills.aspx?ID=39)\r\n\r\n**Favored Weapon** [Guisarme](/Weapons.aspx?ID=380)\r\n\r\n**Domains** [Change](/Domains.aspx?ID=102), [Death](/Domains.aspx?ID=70), [Freedom](/Domains.aspx?ID=77), [Introspection](/Domains.aspx?ID=110), [Knowledge](/Domains.aspx?ID=80)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nRuler of the planar metropolis of Spire’s Edge in the  Boneyard , the  psychopomp  usher Saloc is  humanoid , but their face is devoid of features …\r\n</summary>",
  "skill": [
   "Diplomacy"
  ],
- "skill_markdown": "[Diplomacy](/Skills.aspx?ID=6)",
+ "skill_markdown": "[Diplomacy](/Skills.aspx?ID=39)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 130"
+  "Divine Mysteries pg. 316"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 130 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 316",
  "speed": {},
- "summary": "Ruler of the planar metropolis of Spire’s Edge in the Boneyard, the psychopomp usher Saloc is humanoid, but their face is devoid of features save …",
- "summary_markdown": "Ruler of the planar metropolis of Spire’s Edge in the Boneyard, the psychopomp usher Saloc is humanoid, but their face is devoid of features save …",
- "text": " Saloc (The Minder of Immortals) Source Gods &amp; Magic pg. 130 2.0 PFS Note Any deity that would grant the dreaming potential spell as a domain spell instead grants cloak of colors. Ruler of the planar metropolis of Spire’s Edge in the Boneyard, the psychopomp usher Saloc is humanoid, but their face is devoid of features save stag horns, and two golden rings lined with eyes constantly rotate about their body. As a defense counsel in Pharasma’s court, the Minder of Immortals argues that a person’s intentions should be considered in equal part to the consequences of their actions when deciding their soul’s afterlife. Saloc has even been known to resurrect condemned souls to give them a second chance to prove themselves. Mortals revere Saloc as the patron of agency, bronze, and education. These followers are people who seek to improve themselves or others, including both students and teachers. Some seek to earn their freedom from earthly prisons, while others wish to change their ways to avoid punishment in the hereafter. Category [Monitor Demigods ](/DeityCategories.aspx?ID=12) Edicts Help creatures grow and find purpose, offer second chances to failures, study different perspectives on ethics Anathema Manipulate or remove a creature's emotions with magic, spread nihilism or hopelessness Area of Concern agency, bronze, and education Follower Alignments NG, N, NE Devotee Benefits Divine Ability Wisdom or Charisma Divine Font Heal Divine Skill Diplomacy Favored Weapon Guisarme Domains Change, Death, Freedom, Knowledge Alternate Domains Cleric Spells - 1st Share Lore - 3rd Hypercognition - 5th Dreaming Potential\n",
- "trait": [
-  "N"
+ "spell": [
+  "Share Lore",
+  "Hypercognition",
+  "Dreaming Potential"
  ],
- "trait_raw": [
-  "N"
- ],
+ "spell_markdown": "[Dreaming Potential](/Spells.aspx?ID=1504), [Hypercognition](/Spells.aspx?ID=1563), [Share Lore](/Spells.aspx?ID=2363)",
+ "summary": "Ruler of the planar metropolis of Spire’s Edge in the  Boneyard , the  psychopomp  usher Saloc is  humanoid , but their face is devoid of features …",
+ "summary_markdown": "Ruler of the planar metropolis of Spire’s Edge in the  Boneyard , the  psychopomp  usher Saloc is  humanoid , but their face is devoid of features …",
+ "text": " Saloc (The Minder of Immortals) Source Divine Mysteries pg. 316 PFS Note This deity grants illusory scene instead of dreaming potential Ruler of the planar metropolis of Spire’s Edge in the Boneyard, the psychopomp usher Saloc is humanoid, but their face is devoid of features save stag horns, and two golden rings lined with eyes constantly rotate about their body. As a defense counsel in Pharasma’s court, the Minder of Immortals argues that a person’s intentions should be considered in equal part to the consequences of their actions when deciding their soul’s afterlife. Saloc has even been known to resurrect condemned souls to give them a second chance to prove themselves. Mortals revere Saloc as the patron of agency, bronze, and education. These followers are people who seek to improve themselves or others, including both students and teachers. Some seek to earn their freedom from earthly prisons, while others wish to change their ways to avoid punishment in the hereafter. Category [Monitor Demigods ](/DeityCategories.aspx?ID=12) Edicts Help creatures grow and find purpose, offer second chances to failures, study different perspectives on ethics Anathema Manipulate or remove a creature’s emotions with magic, spread nihilism or hopelessness Area of Concern Agency, bronze, education Devotee Benefits Divine Attribute Wisdom or Charisma Divine Font Heal Divine Sanctification none Divine Skill Diplomacy Favored Weapon Guisarme Domains Change, Death, Freedom, Knowledge Alternate Domains Introspection Cleric Spells - 1st Share Lore - 3rd Hypercognition - 5th Dreaming Potential\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=146",
+ "url": "/Deities.aspx?ID=547",
  "weakness": {}
 }

@@ -1,26 +1,35 @@
 {
- "breadcrumbs_spa": [],
  "category": "trait",
  "exclude_from_search": false,
- "id": "trait-321",
- "markdown": "<title level=\"1\" right=\"Trait\">[Swashbuckler](/Traits.aspx?ID=321)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 270 <sup>2.0</sup></row>\n\nThis trait indicates abilities from the [swashbuckler](/Classes.aspx?ID=15) class.",
+ "id": "trait-825",
+ "legacy_id": [
+  "trait-321"
+ ],
+ "markdown": "<title level=\"1\" right=\"Trait\">[Swashbuckler](/Traits.aspx?ID=825)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 318 <sup>1.1</sup>\n\nThis trait indicates abilities from the [swashbuckler](/Classes.aspx?ID=63) class.",
  "name": "Swashbuckler",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 318",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 270 <sup>2.0</sup></row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis trait indicates abilities from the  swashbuckler  class.\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 318 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis trait indicates abilities from the  swashbuckler  class.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 270"
+  "Player Core 2 pg. 318"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 270 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 318 <sup>1.1</sup>",
  "speed": {},
  "summary": "This trait indicates abilities from the  swashbuckler  class.",
  "summary_markdown": "This trait indicates abilities from the  swashbuckler  class.",
- "text": " Swashbuckler Source Advanced Player's Guide pg. 270 2.0 This trait indicates abilities from the swashbuckler class.",
+ "text": " Swashbuckler Source Player Core 2 pg. 318 1.1 This trait indicates abilities from the swashbuckler class.",
  "trait": [
   "Swashbuckler"
  ],
@@ -32,6 +41,6 @@
   "Swashbuckler"
  ],
  "type": "Trait",
- "url": "/Traits.aspx?ID=321",
+ "url": "/Traits.aspx?ID=825",
  "weakness": {}
 }

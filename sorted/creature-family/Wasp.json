@@ -1,29 +1,38 @@
 {
- "breadcrumbs_spa": [],
  "category": "creature-family",
  "creature_family": "Wasp",
  "creature_family_markdown": "Wasp",
  "exclude_from_search": false,
- "id": "creature-family-99",
- "markdown": "<title level=\"1\" right=\"Creature Family\">[Wasp](/MonsterFamilies.aspx?ID=99)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 324</row>\n\nWhile the common wasp poses little threat to a hardy adventurer aside from an uncomfortable sting, a large and aggressive swarm of these territorial insects—to say nothing of their oversized kin—can lay low an entire party of heroes. The wasps represented here are of the common variety also known as yellowjackets, but many other sorts of dangerous wasps exist, such as a Garundi variant that swarms in such great numbers that it can decimate entire villages, and the dreaded extraplanar hellwasps, which build their nests within the corpses of their victims.\r\n\r\n<title level=\"2\">Members</title>\r\n[Giant Wasp](/Monsters.aspx?ID=405) (Creature 3), [Wasp Swarm](/Monsters.aspx?ID=406) (Creature 4)\n\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Paralytic Poison</title>\r\n\r\nThe poison of the giant wasp loses its potency soon after being harvested, but alchemists have learned of a way to preserve some of its properties by adding a number of harsh additives; this method makes it even deadlier.\r\n</aside>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Sacred Stingers</title>\r\n\r\nWasps are upheld as sacred among the priesthood of the elven deity Calistria, goddess of vengeance. Some priests of Calistria summon giant wasps or wasp swarms as servitors, while a few nurture giant wasps as pets, temple guardians, or companions. Followers of Calistria, both clergy and laypeople alike, seek to emulate the wasp’s penchant for leaving stung victims alive to suffer over a long period: a fitting model for revenge.\r\n</aside>",
+ "id": "creature-family-483",
+ "legacy_id": [
+  "creature-family-99"
+ ],
+ "markdown": "<title level=\"1\" right=\"Creature Family\">[Wasp](/MonsterFamilies.aspx?ID=483)</title>\r\n\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 343 <sup>1.1</sup>\n\nWhile the common wasp poses little threat to a hardy adventurer aside from an uncomfortable sting, a large and aggressive swarm of these territorial insects—to say nothing of their oversized kin—can lay low an entire party of heroes. The wasps represented here are of the common variety, also known as yellow jackets, but many other sorts of dangerous wasps exist, such as a Garundi variant that swarms in such great numbers that it can decimate entire villages.\r\n\r\n<title level=\"2\">Members</title>\r\n[Giant Wasp](/Monsters.aspx?ID=3233) (Creature 3), [Wasp Swarm](/Monsters.aspx?ID=3234) (Creature 4)\n\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Paralytic Poison</title>\r\n\r\nThe poison of the giant wasp loses its potency soon after being harvested, but alchemists have learned of a way to preserve some of its properties by adding a number of harsh additives; this method makes it even deadlier.\r\n</aside>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Sacred Stingers</title>\r\n\r\nWasps are upheld as sacred among the priesthood of the elven deity [Calistria](/Deities.aspx?ID=279), goddess of vengeance. Some priests of Calistria summon giant wasps or wasp swarms as servitors, while a few nurture giant wasps as pets, temple guardians, or companions. Followers of Calistria emulate the wasp's penchant for leaving stung victims alive to suffer over a long period—a fitting model for revenge.\r\n</aside>",
  "name": "Wasp",
+ "primary_source": "Monster Core",
+ "primary_source_raw": "Monster Core pg. 343",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-03-27",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 324</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile the common wasp poses little threat to a hardy adventurer aside from an uncomfortable sting, a large and aggressive swarm of these territorial …\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 343 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile the common wasp poses little threat to a hardy adventurer aside from an uncomfortable sting, a large and aggressive swarm of these territorial …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Bestiary"
+  "Monster Core"
  ],
  "source_raw": [
-  "Bestiary pg. 324"
+  "Monster Core pg. 343"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 324</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Monster Core](/Sources.aspx?ID=221) pg. 343 <sup>1.1</sup>",
  "speed": {},
  "summary": "While the common wasp poses little threat to a hardy adventurer aside from an uncomfortable sting, a large and aggressive swarm of these territorial …",
  "summary_markdown": "While the common wasp poses little threat to a hardy adventurer aside from an uncomfortable sting, a large and aggressive swarm of these territorial …",
- "text": " Wasp Source Bestiary pg. 324 While the common wasp poses little threat to a hardy adventurer aside from an uncomfortable sting, a large and aggressive swarm of these territorial insects—to say nothing of their oversized kin—can lay low an entire party of heroes. The wasps represented here are of the common variety also known as yellowjackets, but many other sorts of dangerous wasps exist, such as a Garundi variant that swarms in such great numbers that it can decimate entire villages, and the dreaded extraplanar hellwasps, which build their nests within the corpses of their victims. Members Giant Wasp (Creature 3), Wasp Swarm (Creature 4) Paralytic Poison The poison of the giant wasp loses its potency soon after being harvested, but alchemists have learned of a way to preserve some of its properties by adding a number of harsh additives; this method makes it even deadlier. Sacred Stingers Wasps are upheld as sacred among the priesthood of the elven deity Calistria, goddess of vengeance. Some priests of Calistria summon giant wasps or wasp swarms as servitors, while a few nurture giant wasps as pets, temple guardians, or companions. Followers of Calistria, both clergy and laypeople alike, seek to emulate the wasp’s penchant for leaving stung victims alive to suffer over a long period: a fitting model for revenge. ",
+ "text": " Wasp Source Monster Core pg. 343 1.1 While the common wasp poses little threat to a hardy adventurer aside from an uncomfortable sting, a large and aggressive swarm of these territorial insects—to say nothing of their oversized kin—can lay low an entire party of heroes. The wasps represented here are of the common variety, also known as yellow jackets, but many other sorts of dangerous wasps exist, such as a Garundi variant that swarms in such great numbers that it can decimate entire villages. Members Giant Wasp (Creature 3), Wasp Swarm (Creature 4) Paralytic Poison The poison of the giant wasp loses its potency soon after being harvested, but alchemists have learned of a way to preserve some of its properties by adding a number of harsh additives; this method makes it even deadlier. Sacred Stingers Wasps are upheld as sacred among the priesthood of the elven deity Calistria, goddess of vengeance. Some priests of Calistria summon giant wasps or wasp swarms as servitors, while a few nurture giant wasps as pets, temple guardians, or companions. Followers of Calistria emulate the wasp's penchant for leaving stung victims alive to suffer over a long period—a fitting model for revenge. ",
  "type": "Creature Family",
- "url": "/MonsterFamilies.aspx?ID=99",
+ "url": "/MonsterFamilies.aspx?ID=483",
  "weakness": {}
 }

@@ -5,34 +5,46 @@
  "archetype_category": [
   "Multiclass"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-2",
+ "id": "archetype-229",
+ "image": [
+  "/Images/Archetypes/Archetype_Barbarian.webp"
+ ],
+ "legacy_id": [
+  "archetype-2"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Barbarian](/Archetypes.aspx?ID=2)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 221 <sup>4.0</sup></row>\n\nThere’s a rage deep inside you that sometimes breaks loose, granting you some of the might of a barbarian in addition to your other abilities.\r\n\r\n<title level=\"3\">Multiclass Barbarian characters</title>\r\n\r\nThe barbarian archetype is a great choice for characters that emphasize Strength and melee attacks more than usual for their class, as long as they can handle Rage’s spellcasting restriction. It’s especially good for characters looking to add more damage.\n\n<document level=\"2\" id=\"feat-671\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-672\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-673\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-674\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-675\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-676\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Barbarian](/Archetypes.aspx?ID=229)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 176 <sup>1.1</sup>\n\nThere's a rage deep inside you that sometimes breaks loose, granting you some of the might of a barbarian in addition to your other abilities.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Barbarian.webp\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"3\">Multiclass Barbarian Characters</title>\r\n\r\nThe barbarian archetype is a great choice for characters who emphasize Strength and melee attacks more than usual for their class, as long as they can handle Rage's spellcasting restriction. It's especially good for characters looking to add more damage. \n<ul><li>Alchemist barbarians can enhance themselves with potent mutagens before releasing their fury.</li><li>Champion barbarians might enter a zealous rage when their deity is offended and diplomacy is no longer an option.</li><li>Druid barbarians transform into mighty beasts and monsters before entering a rage.</li><li>Monk barbarians can use the enhanced emotional state of rage to flow with their stance.</li><li>Rogue barbarians are ruffians who thrive in a scrap and are happy to let their anger take control.</li><li>Spellcaster barbarians might wait until they're out of better options, using rage as a last resort.</li></ul>\n\n<document level=\"2\" id=\"feat-6190\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6191\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6192\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6193\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6194\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6195\"\n\n/>",
  "name": "Barbarian",
  "pfs": "Standard",
- "prerequisite": "Strength 14; Constitution 14",
- "prerequisite_markdown": "Strength 14; Constitution 14",
+ "prerequisite": "Constitution +2; Strength +2",
+ "prerequisite_markdown": "Constitution +2; Strength +2",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 176",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 221 <sup>4.0</sup></row>\r\n\r\n**Prerequisites**\r\nStrength 14; Constitution 14\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThere’s a rage deep inside you that sometimes breaks loose, granting you some of the might of a barbarian in addition to your other abilities.\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 176 <sup>1.1</sup>\r\n\r\n**Prerequisites**\r\nConstitution +2; Strength +2\n\n**Archetype Category**\r\nMulticlass\r\n\r\n**Number of Feats** 6\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThere's a rage deep inside you that sometimes breaks loose, granting you some of the might of a barbarian in addition to your other abilities.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 221"
+  "Player Core 2 pg. 176"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 221 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 176 <sup>1.1</sup>",
  "speed": {},
- "summary": "There’s a rage deep inside you that sometimes breaks loose, granting you some of the might of a barbarian in addition to your other abilities.",
- "summary_markdown": "There’s a rage deep inside you that sometimes breaks loose, granting you some of the might of a barbarian in addition to your other abilities.",
- "text": " Barbarian Source Core Rulebook pg. 221 4.0 There’s a rage deep inside you that sometimes breaks loose, granting you some of the might of a barbarian in addition to your other abilities. Multiclass Barbarian characters The barbarian archetype is a great choice for characters that emphasize Strength and melee attacks more than usual for their class, as long as they can handle Rage’s spellcasting restriction. It’s especially good for characters looking to add more damage. <document level=\"2\" id=\"feat-672\" /> <document level=\"2\" id=\"feat-673\" /> <document level=\"2\" id=\"feat-674\" /> <document level=\"2\" id=\"feat-675\" /> <document level=\"2\" id=\"feat-676\" />",
+ "summary": "There's a rage deep inside you that sometimes breaks loose, granting you some of the might of a barbarian in addition to your other abilities.",
+ "summary_markdown": "There's a rage deep inside you that sometimes breaks loose, granting you some of the might of a barbarian in addition to your other abilities.",
+ "text": " Barbarian Source Player Core 2 pg. 176 1.1 There's a rage deep inside you that sometimes breaks loose, granting you some of the might of a barbarian in addition to your other abilities. Multiclass Barbarian Characters The barbarian archetype is a great choice for characters who emphasize Strength and melee attacks more than usual for their class, as long as they can handle Rage's spellcasting restriction. It's especially good for characters looking to add more damage. Alchemist barbarians can enhance themselves with potent mutagens before releasing their fury. Champion barbarians might enter a zealous rage when their deity is offended and diplomacy is no longer an option. Druid barbarians transform into mighty beasts and monsters before entering a rage. Monk barbarians can use the enhanced emotional state of rage to flow with their stance. Rogue barbarians are ruffians who thrive in a scrap and are happy to let their anger take control. Spellcaster barbarians might wait until they're out of better options, using rage as a last resort. <document level=\"2\" id=\"feat-6191\" /> <document level=\"2\" id=\"feat-6192\" /> <document level=\"2\" id=\"feat-6193\" /> <document level=\"2\" id=\"feat-6194\" /> <document level=\"2\" id=\"feat-6195\" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=2",
+ "url": "/Archetypes.aspx?ID=229",
  "weakness": {}
 }

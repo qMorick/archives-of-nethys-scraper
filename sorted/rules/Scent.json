@@ -1,39 +1,45 @@
 {
  "breadcrumbs": [
-  "Chapter 9: Playing the Game",
-  "General Rules",
-  "Perception",
-  "Special Senses"
+  "Creature Companions",
+  "Pets and Familiars"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-417",
- "markdown": "<title level=\"1\" right=\"Rules\">[Scent](/Rules.aspx?ID=417)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 465 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nScent involves sensing creatures or objects by smell, and is usually a vague sense. The range is listed in the ability, and it functions only if the creature or object being detected emits an aroma (for instance, incorporeal creatures usually do not exude an aroma).\n\n If a creature emits a heavy aroma or is upwind, the GM can double or even triple the range of scent abilities used to detect that creature, and the GM can reduce the range if a creature is downwind.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-3375",
+ "markdown": "<title level=\"1\" right=\"Rules\">[Scent](/Rules.aspx?ID=3375)</title>\r\n\r\n**Source** [NPC Core](/Sources.aspx?ID=236) pg. 216\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n**Examples** cat, compsognathus, dog<br /> **Point Out** <actions string=\"Single Action\" /> ([auditory](/Traits.aspx?ID=541), [concentrate](/Traits.aspx?ID=561)) The NPC commands their companion to root out an [undetected](/Conditions.aspx?ID=96) creature. The NPC gains the benefits of [Point Out](/Actions.aspx?ID=2315) against an undetected creature within 20 feet.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Scent",
  "next_link": {
-  "label": "Tremorsense",
-  "url": "/Rules.aspx?ID=418"
+  "label": "Toxic",
+  "url": "/Rules.aspx?ID=3376"
  },
  "previous_link": {
-  "label": "Low-Light Vision",
-  "url": "/Rules.aspx?ID=416"
+  "label": "Flying",
+  "url": "/Rules.aspx?ID=3374"
  },
+ "primary_source": "NPC Core",
+ "primary_source_raw": "NPC Core pg. 216",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2025-02-26",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 465 <sup>4.0</sup></row>\r\n\r\nChapter 9: Playing the Game / General Rules / Perception / Special Senses\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [NPC Core](/Sources.aspx?ID=236) pg. 216\r\n\r\nCreature Companions / Pets and Familiars\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nExamples  cat, compsognathus, dog   Point Out    ( auditory ,  concentrate ) The NPC commands their companion to root out an  undetected  creature. …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "NPC Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 465"
+  "NPC Core pg. 216"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 465 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[NPC Core](/Sources.aspx?ID=236) pg. 216",
  "speed": {},
- "text": " Scent Source Core Rulebook pg. 465 4.0 Scent involves sensing creatures or objects by smell, and is usually a vague sense. The range is listed in the ability, and it functions only if the creature or object being detected emits an aroma (for instance, incorporeal creatures usually do not exude an aroma). If a creature emits a heavy aroma or is upwind, the GM can double or even triple the range of scent abilities used to detect that creature, and the GM can reduce the range if a creature is downwind. ",
+ "summary": "Examples  cat, compsognathus, dog   Point Out    ( auditory ,  concentrate ) The NPC commands their companion to root out an  undetected  creature. …",
+ "summary_markdown": "Examples  cat, compsognathus, dog   Point Out    ( auditory ,  concentrate ) The NPC commands their companion to root out an  undetected  creature. …",
+ "text": " Scent Source NPC Core pg. 216 Examples cat, compsognathus, dog Point Out Single Action (auditory, concentrate) The NPC commands their companion to root out an undetected creature. The NPC gains the benefits of Point Out against an undetected creature within 20 feet. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=417",
+ "url": "/Rules.aspx?ID=3375",
  "weakness": {}
 }

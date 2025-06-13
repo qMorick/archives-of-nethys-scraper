@@ -1,49 +1,62 @@
 {
  "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions_number": 2,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Sanctify Water"
  ],
  "feat_markdown": "Sanctify Water",
- "id": "feat-1185",
- "level": 7,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 7\"\r\n    pfs=\"Standard\"\r\n>\r\n[Sanctify Water](/Feats.aspx?ID=1185) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=78\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=144\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 105 <sup>2.0</sup></row>\r\n\r\n_[**PFS Note**](/pathfinder-society) When using Sanctify Water use your proficiency with simple weapons to determine your attack bonus when throwing the blessed container of water. If you give the container to another character for them to throw, they use their proficiency with improvised weapons instead._\n\n**Prerequisites**\r\nMaster in [Religion](/Skills.aspx?ID=13)\n\n</column>\r\n\r\n---\r\n\r\nYou imbue water with your deity’s blessing. Choose a container of water on your person that is of light Bulk. For 1 round, if you or an ally throw this container at a foe, it has the damaging effects of [holy water](/Equipment.aspx?ID=245) (if you follow a good deity) or [unholy water](/Equipment.aspx?ID=248) (if you follow an evil deity). The water’s transient power doesn’t make it gain any value, allow it to be used to supply the cost for a spell or ritual, and so on. If you have legendary proficiency in [Religion](/Skills.aspx?ID=13), you can sanctify three containers held by you or allies within your reach instead of one.",
+ "id": "feat-6502",
+ "legacy_id": [
+  "feat-1185"
+ ],
+ "level": 2,
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Sanctify Water](/Feats.aspx?ID=6502) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=615\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=695\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 233 <sup>1.1</sup>\n\n**Prerequisites**\r\nExpert in [Religion](/Skills.aspx?ID=46); you follow a deity with “holy” or “unholy” sanctification\n\n</column>\r\n\r\n---\r\n\r\nYou imbue water with your deity's blessing. Choose a container of water with light Bulk possessed by you or an ally within your reach. Until the end of your next turn, it becomes [holy water](/Equipment.aspx?ID=3001) or [unholy water](/Equipment.aspx?ID=3006). You can choose holy water if your deity allows holy sanctification, unholy water if your deity allows unholy sanctification, or either if your deity allows both sanctifications. This is a temporary effect and doesn't impart monetary value or allow the water to be used for costs of rituals or the like. If you're a master in Religion, you can sanctify two containers when you take this action, and if you're legendary, you can sanctify three.",
  "name": "Sanctify Water",
  "pfs": "Standard",
- "prerequisite": "Master in Religion",
- "prerequisite_markdown": "Master in [Religion](/Skills.aspx?ID=13)",
+ "prerequisite": "Expert in Religion; you follow a deity with “holy” or “unholy” sanctification",
+ "prerequisite_markdown": "Expert in [Religion](/Skills.aspx?ID=46); you follow a deity with “holy” or “unholy” sanctification",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 233",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=78\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=144\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 105 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nMaster in [Religion](/Skills.aspx?ID=13)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou imbue water with your deity’s blessing\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=615\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=695\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 233 <sup>1.1</sup>\n\n**Prerequisites**\r\nExpert in [Religion](/Skills.aspx?ID=46); you follow a deity with “holy” or “unholy” sanctification\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou imbue water with your deity's blessing.\r\n</summary>",
  "skill": [
   "Religion",
   "Religion"
  ],
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Gods & Magic pg. 105"
+  "Player Core 2 pg. 233"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 105 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 233 <sup>1.1</sup>",
  "speed": {},
- "summary": "You imbue water with your deity’s blessing",
- "summary_markdown": "You imbue water with your deity’s blessing",
- "text": "<title level=\"1\" right=\"Feat 7\" pfs=\"Standard\" > Sanctify Water Single Action Source Gods &amp; Magic pg. 105 2.0 PFS Note When using Sanctify Water use your proficiency with simple weapons to determine your attack bonus when throwing the blessed container of water. If you give the container to another character for them to throw, they use their proficiency with improvised weapons instead. Prerequisites Master in Religion --- You imbue water with your deity’s blessing. Choose a container of water on your person that is of light Bulk. For 1 round, if you or an ally throw this container at a foe, it has the damaging effects of holy water (if you follow a good deity) or unholy water (if you follow an evil deity). The water’s transient power doesn’t make it gain any value, allow it to be used to supply the cost for a spell or ritual, and so on. If you have legendary proficiency in Religion, you can sanctify three containers held by you or allies within your reach instead of one.",
+ "summary": "You imbue water with your deity's blessing.",
+ "summary_markdown": "You imbue water with your deity's blessing.",
+ "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Sanctify Water Single Action Source Player Core 2 pg. 233 1.1 Prerequisites Expert in Religion; you follow a deity with “holy” or “unholy” sanctification --- You imbue water with your deity's blessing. Choose a container of water with light Bulk possessed by you or an ally within your reach. Until the end of your next turn, it becomes holy water or unholy water. You can choose holy water if your deity allows holy sanctification, unholy water if your deity allows unholy sanctification, or either if your deity allows both sanctifications. This is a temporary effect and doesn't impart monetary value or allow the water to be used for costs of rituals or the like. If you're a master in Religion, you can sanctify two containers when you take this action, and if you're legendary, you can sanctify three.",
  "trait": [
   "General",
   "Skill"
  ],
- "trait_markdown": "[General](/Traits.aspx?ID=78), [Skill](/Traits.aspx?ID=144)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[General](/Traits.aspx?ID=615), [Skill](/Traits.aspx?ID=695)",
  "trait_raw": [
   "General",
   "Skill"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1185",
+ "url": "/Feats.aspx?ID=6502",
  "weakness": {}
 }

@@ -1,24 +1,33 @@
 {
- "breadcrumbs_spa": [],
  "category": "action",
  "exclude_from_search": false,
  "id": "action-520",
- "markdown": "<title level=\"1\" right=\"Action\">[Affix a Talisman](/Actions.aspx?ID=520) <actions string=\"\" /></title>\r\n\r\n<traits>\r\n<trait label=\"Exploration\" url=\"/Traits.aspx?ID=66\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 565 <sup>4.0</sup></row>\n\n**Requirements** You must use a [repair kit](/Equipment.aspx?ID=43).\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou spend 10 minutes affixing a [talisman](/equipment/consumables/talismans) to an item, placing the item on a stable surface and using the repair kit with both hands. You can also use this activity to remove a talisman. Attaching more than one talisman to an item deactivates all the talismans. They must be removed and re-affixed before they can be used again.",
+ "markdown": "<title level=\"1\" right=\"Action\">[Affix a Talisman](/Actions.aspx?ID=520) <actions string=\"\" /></title>\r\n\r\n<traits>\r\n<trait label=\"Exploration\" url=\"/Traits.aspx?ID=66\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 565 <sup>4.0</sup>\n\n**Requirements** You must use a [repair kit](/Equipment.aspx?ID=43).\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou spend 10 minutes affixing a [talisman](/Equipment.aspx?Category=15&amp;Subcategory=19) to an item, placing the item on a stable surface and using the repair kit with both hands. You can also use this activity to remove a talisman. Attaching more than one talisman to an item deactivates all the talismans. They must be removed and re-affixed before they can be used again.",
  "name": "Affix a Talisman",
+ "primary_source": "Core Rulebook",
+ "primary_source_raw": "Core Rulebook pg. 565",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
+ "rarity_id": 1,
  "release_date": "2019-08-01",
+ "remaster_id": [
+  "action-2632"
+ ],
  "requirement": "You must use a  repair kit .",
  "requirement_markdown": "You must use a [repair kit](/Equipment.aspx?ID=43).",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Exploration\" url=\"/Traits.aspx?ID=66\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 565 <sup>4.0</sup></row>\n\n**Requirement**\r\nYou must use a [repair kit](/Equipment.aspx?ID=43).\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou spend 10 minutes affixing a  talisman  to an item, placing the item on a stable surface and using the repair kit with both hands. You can also …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Exploration\" url=\"/Traits.aspx?ID=66\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 565 <sup>4.0</sup>\n\n**Requirement**\r\nYou must use a [repair kit](/Equipment.aspx?ID=43).\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou spend 10 minutes affixing a  talisman  to an item, placing the item on a stable surface and using the repair kit with both hands. You can also …\r\n</summary>",
+ "skill_mod": {},
  "source": [
   "Core Rulebook"
  ],
  "source_raw": [
   "Core Rulebook pg. 565"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 565 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 565 <sup>4.0</sup>",
  "speed": {},
  "summary": "You spend 10 minutes affixing a  talisman  to an item, placing the item on a stable surface and using the repair kit with both hands. You can also …",
  "summary_markdown": "You spend 10 minutes affixing a  talisman  to an item, placing the item on a stable surface and using the repair kit with both hands. You can also …",
@@ -26,6 +35,9 @@
  "trait": [
   "Exploration",
   "Manipulate"
+ ],
+ "trait_group": [
+  "Mechanics"
  ],
  "trait_markdown": "[Exploration](/Traits.aspx?ID=66), [Manipulate](/Traits.aspx?ID=104)",
  "trait_raw": [

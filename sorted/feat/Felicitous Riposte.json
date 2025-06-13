@@ -1,42 +1,55 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Felicitous Riposte"
  ],
  "feat_markdown": "Felicitous Riposte",
- "id": "feat-1555",
+ "id": "feat-6176",
+ "legacy_id": [
+  "feat-1555"
+ ],
  "level": 16,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 16\"\r\n    pfs=\"Standard\"\r\n>\r\n[Felicitous Riposte](/Feats.aspx?ID=1555) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Fortune\" url=\"/Traits.aspx?ID=76\" />\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=321\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 93 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou take advantage of your foe's openings with uncanny odds. When you make an Opportune Riposte, roll twice on the attack roll and take the better result.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 16\"\r\n    pfs=\"Standard\"\r\n>\r\n[Felicitous Riposte](/Feats.aspx?ID=6176) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Fortune\" url=\"/Traits.aspx?ID=612\" />\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=825\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 169 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou take advantage of your foe's openings with uncanny odds. When you make an Opportune Riposte, roll twice on the attack roll and take the better result.",
  "name": "Felicitous Riposte",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 169",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Fortune\" url=\"/Traits.aspx?ID=76\" />\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=321\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 93 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou take advantage of your foe's openings with uncanny odds.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Fortune\" url=\"/Traits.aspx?ID=612\" />\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=825\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 169 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou take advantage of your foe's openings with uncanny odds.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 93"
+  "Player Core 2 pg. 169"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 93 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 169 <sup>1.1</sup>",
  "speed": {},
  "summary": "You take advantage of your foe's openings with uncanny odds.",
  "summary_markdown": "You take advantage of your foe's openings with uncanny odds.",
- "text": "<title level=\"1\" right=\"Feat 16\" pfs=\"Standard\" > Felicitous Riposte Source Advanced Player's Guide pg. 93 2.0 --- You take advantage of your foe's openings with uncanny odds. When you make an Opportune Riposte, roll twice on the attack roll and take the better result.",
+ "text": "<title level=\"1\" right=\"Feat 16\" pfs=\"Standard\" > Felicitous Riposte Source Player Core 2 pg. 169 1.1 --- You take advantage of your foe's openings with uncanny odds. When you make an Opportune Riposte, roll twice on the attack roll and take the better result.",
  "trait": [
   "Fortune",
   "Swashbuckler"
  ],
- "trait_markdown": "[Fortune](/Traits.aspx?ID=76), [Swashbuckler](/Traits.aspx?ID=321)",
+ "trait_group": [
+  "Mechanics",
+  "Class"
+ ],
+ "trait_markdown": "[Fortune](/Traits.aspx?ID=612), [Swashbuckler](/Traits.aspx?ID=825)",
  "trait_raw": [
   "Fortune",
   "Swashbuckler"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1555",
+ "url": "/Feats.aspx?ID=6176",
  "weakness": {}
 }

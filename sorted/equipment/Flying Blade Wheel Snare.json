@@ -1,41 +1,55 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
+ "bulk": 0,
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-333",
+ "id": "equipment-3371",
  "item_category": "Snares",
+ "legacy_id": [
+  "equipment-333"
+ ],
  "level": 20,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 20\"\r\n    pfs=\"Standard\"\r\n>\r\n[Flying Blade Wheel Snare](/Equipment.aspx?ID=333)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Snare\" url=\"/Traits.aspx?ID=146\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 590 <sup>4.0</sup></row>\n\n**Price** 10,000 gp\r\n\r\n<row gap=\"medium\">\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nWhen a creature enters the square, a deadly flying wheel of spinning blades launches at it, making a Strike with an attack modifier of +33 and dealing 8d8 slashing damage. Once on each of your turns, you can use an Interact action within 120 feet of the wheel to cause it to Fly up to 60 feet toward the creature it’s chasing and make another Strike if it’s within 5 feet of its target after it moves. After 1 minute, the spinning ceases and the wheel falls to the ground. Creatures can destroy the wheel to stop it (AC 37, Fort +29, Ref +20, HP 200, Hardness 10, object immunities).\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 20\"\r\n    pfs=\"Standard\"\r\n>\r\n[Flying Blade Wheel Snare](/Equipment.aspx?ID=3371)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=646\" />\r\n<trait label=\"Snare\" url=\"/Traits.aspx?ID=809\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=715\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 298 <sup>1.1</sup>\n\n**Price** 10,000 gp\r\n\r\n<row gap=\"medium\">\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nWhen a creature enters the square, a deadly flying wheel of spinning blades launches at it, making a [Strike](/Actions.aspx?ID=2306) with an attack modifier of +35 that deals 8d8 slashing damage on a hit. Once on each of your turns, you can use an Interact action within 120 feet of the wheel to cause it to [Fly](/Actions.aspx?ID=2312) up to 60 feet toward the creature it's chasing and make another Strike if it's within 5 feet of its target after it moves. After 1 minute, the spinning ceases, and the wheel falls to the ground. Creatures can destroy the wheel to stop it (AC 37, Fort +29, Ref +20, Hardness 10, HP 200, object immunities).\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Flying Blade Wheel Snare",
  "pfs": "Standard",
  "price": 1000000,
  "price_raw": "10,000 gp",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 298",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Snare\" url=\"/Traits.aspx?ID=146\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 590 <sup>4.0</sup></row>\r\n\r\n**Price** 10,000 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen a creature enters the square, a deadly flying wheel of spinning blades launches at it, making a Strike with an attack modifier of +33 and …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=646\" />\r\n<trait label=\"Snare\" url=\"/Traits.aspx?ID=809\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=715\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 298 <sup>1.1</sup>\r\n\r\n**Price** 10,000 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen a creature enters the square, a deadly flying wheel of spinning blades launches at it, making a  Strike  with an attack modifier of +35 that …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 590"
+  "Player Core 2 pg. 298"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 590 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 298 <sup>1.1</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "When a creature enters the square, a deadly flying wheel of spinning blades launches at it, making a Strike with an attack modifier of +33 and …",
- "summary_markdown": "When a creature enters the square, a deadly flying wheel of spinning blades launches at it, making a Strike with an attack modifier of +33 and …",
- "text": "<title level=\"1\" right=\"Item 20\" pfs=\"Standard\" > Flying Blade Wheel Snare Source Core Rulebook pg. 590 4.0 Price 10,000 gp --- When a creature enters the square, a deadly flying wheel of spinning blades launches at it, making a Strike with an attack modifier of +33 and dealing 8d8 slashing damage. Once on each of your turns, you can use an Interact action within 120 feet of the wheel to cause it to Fly up to 60 feet toward the creature it’s chasing and make another Strike if it’s within 5 feet of its target after it moves. After 1 minute, the spinning ceases and the wheel falls to the ground. Creatures can destroy the wheel to stop it (AC 37, Fort +29, Ref +20, HP 200, Hardness 10, object immunities).\n",
+ "summary": "When a creature enters the square, a deadly flying wheel of spinning blades launches at it, making a  Strike  with an attack modifier of +35 that …",
+ "summary_markdown": "When a creature enters the square, a deadly flying wheel of spinning blades launches at it, making a  Strike  with an attack modifier of +35 that …",
+ "text": "<title level=\"1\" right=\"Item 20\" pfs=\"Standard\" > Flying Blade Wheel Snare Source Player Core 2 pg. 298 1.1 Price 10,000 gp --- When a creature enters the square, a deadly flying wheel of spinning blades launches at it, making a Strike with an attack modifier of +35 that deals 8d8 slashing damage on a hit. Once on each of your turns, you can use an Interact action within 120 feet of the wheel to cause it to Fly up to 60 feet toward the creature it's chasing and make another Strike if it's within 5 feet of its target after it moves. After 1 minute, the spinning ceases, and the wheel falls to the ground. Creatures can destroy the wheel to stop it (AC 37, Fort +29, Ref +20, Hardness 10, HP 200, object immunities).\n",
  "trait": [
   "Consumable",
   "Mechanical",
   "Snare",
   "Trap"
  ],
- "trait_markdown": "[Consumable](/Traits.aspx?ID=36), [Mechanical](/Traits.aspx?ID=105), [Snare](/Traits.aspx?ID=146), [Trap](/Traits.aspx?ID=158)",
+ "trait_group": [
+  "Equipment",
+  "Hazard"
+ ],
+ "trait_markdown": "[Consumable](/Traits.aspx?ID=564), [Mechanical](/Traits.aspx?ID=646), [Snare](/Traits.aspx?ID=809), [Trap](/Traits.aspx?ID=715)",
  "trait_raw": [
   "Consumable",
   "Mechanical",
@@ -43,6 +57,6 @@
   "Trap"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=333",
+ "url": "/Equipment.aspx?ID=3371",
  "weakness": {}
 }

@@ -1,38 +1,48 @@
 {
  "breadcrumbs": [
   "Chapter 2: Ancestries & Backgrounds",
-  "Languages",
-  "Regional Languages"
+  "Languages"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1461",
- "markdown": "<title level=\"1\" right=\"Rules\">[Regional Languages](/Rules.aspx?ID=1461)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 432 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThese languages are uncommon outside the region of their genesis. A character hailing from one of the regions listed below automatically has access to that language. In the Inner Sea region, the language referred to as Common elsewhere in the rules is the same as Taldane—a result of Taldor's legacy of control and influence over the whole region. Nearly every language listed here is spoken on the melting-pot streets of Absalom.\n\n## Table 8-1: Regional Languages\n<row gap=\"tiny\">\n<table><tr><td>Language</td><td>Regions</td></tr> <tr><td>Hallit</td><td>Irrisen, Mendev, Numeria, Realm of the Mammoth Lords, Sarkoris, Ustalav</td></tr> <tr><td>Kelish</td><td>Katapesh, Kelesh, Osirion, Qadira</td></tr> <tr><td>Mwangi</td><td>Mwangi Expanse, the Shackles, Thuvia, Vidrian</td></tr> <tr><td>Osiriani</td><td>Geb, Katapesh, Mana Wastes, Nex, Osirion, Rahadoum, Thuvia</td></tr> <tr><td>Shoanti</td><td>Hold of Belkzen, Varisia</td></tr> <tr><td>Skald</td><td>Irrisen, Lands of the Linnorm Kings</td></tr> <tr><td>Tien</td><td>Lands of the Linnorm Kings, Realm of the Mammoth Lords, Tian Xia</td></tr> <tr><td>Varisian</td><td>Brevoy, the Gravelands, Nidal, Nirmathas, Ustalav, Varisia</td></tr> <tr><td>Vudrani</td><td>Jalmeray, Katapesh, Nex, Vudra</td></tr>\r\n</table></row>\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2096",
+ "legacy_id": [
+  "rules-132"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Regional Languages](/Rules.aspx?ID=2096)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 89 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nRegional languages depend on the game world you're playing in. Chapter 1: Introduction lists the regional languages of the Pathfinder world and where they're spoken (page 34).\n\nRegional languages are uncommon, but characters from that region have access to choose them at character creation. For characters with less exposure to the region or language, check with your GM to make sure speaking that language makes sense for your character.\n\nMost characters learn the Common language. This is the most widely used language in the region where the campaign takes place. In the Inner Sea region of Golarion, the Common tongue is Taldane, for example. Characters with Common might face a language barrier if they travel somewhere with a different Common language.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Regional Languages",
  "next_link": {
-  "label": "Sign Language and Reading Lips",
-  "url": "/Rules.aspx?ID=133"
+  "label": "Sign Language",
+  "url": "/Rules.aspx?ID=2097"
  },
  "previous_link": {
   "label": "Backgrounds",
-  "url": "/Rules.aspx?ID=130"
+  "url": "/Rules.aspx?ID=2094"
  },
+ "primary_source": "Player Core",
+ "primary_source_raw": "Player Core pg. 89",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 432 <sup>4.0</sup></row>\r\n\r\nChapter 2: Ancestries &amp; Backgrounds / Languages / Regional Languages\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 89 <sup>2.0</sup>\r\n\r\nChapter 2: Ancestries &amp; Backgrounds / Languages\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nRegional languages depend on the game world you're playing in. Chapter 1: Introduction lists the regional languages of the Pathfinder world and where …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 432"
+  "Player Core pg. 89"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 432 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 89 <sup>2.0</sup>",
  "speed": {},
- "text": " Regional Languages Source Core Rulebook pg. 432 4.0 These languages are uncommon outside the region of their genesis. A character hailing from one of the regions listed below automatically has access to that language. In the Inner Sea region, the language referred to as Common elsewhere in the rules is the same as Taldane—a result of Taldor's legacy of control and influence over the whole region. Nearly every language listed here is spoken on the melting-pot streets of Absalom. ## Table 8-1: Regional Languages Language Regions Hallit Irrisen, Mendev, Numeria, Realm of the Mammoth Lords, Sarkoris, Ustalav Kelish Katapesh, Kelesh, Osirion, Qadira Mwangi Mwangi Expanse, the Shackles, Thuvia, Vidrian Osiriani Geb, Katapesh, Mana Wastes, Nex, Osirion, Rahadoum, Thuvia Shoanti Hold of Belkzen, Varisia Skald Irrisen, Lands of the Linnorm Kings Tien Lands of the Linnorm Kings, Realm of the Mammoth Lords, Tian Xia Varisian Brevoy, the Gravelands, Nidal, Nirmathas, Ustalav, Varisia Vudrani Jalmeray, Katapesh, Nex, Vudra ",
+ "summary": "Regional languages depend on the game world you're playing in. Chapter 1: Introduction lists the regional languages of the Pathfinder world and where …",
+ "summary_markdown": "Regional languages depend on the game world you're playing in. Chapter 1: Introduction lists the regional languages of the Pathfinder world and where …",
+ "text": " Regional Languages Source Player Core pg. 89 2.0 Regional languages depend on the game world you're playing in. Chapter 1: Introduction lists the regional languages of the Pathfinder world and where they're spoken (page 34). Regional languages are uncommon, but characters from that region have access to choose them at character creation. For characters with less exposure to the region or language, check with your GM to make sure speaking that language makes sense for your character. Most characters learn the Common language. This is the most widely used language in the region where the campaign takes place. In the Inner Sea region of Golarion, the Common tongue is Taldane, for example. Characters with Common might face a language barrier if they travel somewhere with a different Common language. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1461",
+ "url": "/Rules.aspx?ID=2096",
  "weakness": {}
 }

@@ -6,34 +6,46 @@
   "Profession",
   "Core"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-78",
+ "id": "archetype-265",
+ "image": [
+  "/Images/Archetypes/Archetype_Snarecrafter.webp"
+ ],
+ "legacy_id": [
+  "archetype-78"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Snarecrafter](/Archetypes.aspx?ID=78)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 194 <sup>2.0</sup></row>\n\nYou're able to take ordinary materials and use them to create deadly [snares](/equipment/snares), special traps that you can rig up quickly when the situation demands. While traps might grant you less brute force to apply in a fair fight than weapons would, you rarely allow your fights to be fair. Instead, when a battle takes place at a location of your choice, you have a major advantage thanks to your well-placed snares. Once your foes come to realize that you may have trapped any location on the battlefield, their fear of walking into another trap can help you corral them toward the waiting blades of your allies, or even make them too paranoid to move at all, locking them in place.\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-2074\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2075\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2076\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-509\"\r\noverride-title-right=\"Feat 8*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2077\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-516\"\r\noverride-title-right=\"Feat 10*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2078\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-527\"\r\noverride-title-right=\"Feat 14*\"\r\n\r\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Snarecrafter](/Archetypes.aspx?ID=265)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 216 <sup>1.1</sup>\n\nYou're able to take ordinary materials and use them to create deadly snares—special traps that you can rig up quickly when the situation demands. While traps might grant you less brute force to apply in a fair fight than weapons would, you rarely allow your fights to be fair. Instead, when combat takes place at a location of your choosing, you have a major advantage thanks to your well-placed snares. Once your foes realize that you may have trapped any location on a battlefield, their fear of accidentally setting one off can help you corral them toward the waiting blades of your allies, or even make them too paranoid to move at all, locking them in place. Fearless enemies face their own disadvantage: they run a greater risk of setting off the many traps youve deployed. Even if they somehow avoid them, some cunning snare crafters have the skills to set a trap right under their foes' feet. Others have found they can trigger dangerous snares from a safe distance due to years of practice. Truly, snare crafters make for a dangerous foe and handy ally.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Snarecrafter.webp\" />\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"feat-6414\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6415\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6416\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6417\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6418\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6419\"\n\n/>",
  "name": "Snarecrafter",
  "pfs": "Standard",
- "prerequisite": "Trained in Crafting; Snare Crafting",
- "prerequisite_markdown": "Trained in [Crafting](/Skills.aspx?ID=4); [Snare Crafting](/Feats.aspx?ID=843)",
+ "prerequisite": "Trained in Crafting",
+ "prerequisite_markdown": "Trained in [Crafting](/Skills.aspx?ID=37)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 216",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 194 <sup>2.0</sup></row>\r\n\r\n**Prerequisites**\r\nTrained in [Crafting](/Skills.aspx?ID=4); [Snare Crafting](/Feats.aspx?ID=843)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou're able to take ordinary materials and use them to create deadly  snares , special traps that you can rig up quickly when the situation demands. …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 216 <sup>1.1</sup>\r\n\r\n**Prerequisites**\r\nTrained in [Crafting](/Skills.aspx?ID=37)\n\n**Archetype Categories**\r\nProfession, Core\r\n\r\n**Number of Feats** 6\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou're able to take ordinary materials and use them to create deadly snares—special traps that you can rig up quickly when the situation demands. …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 194"
+  "Player Core 2 pg. 216"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 194 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 216 <sup>1.1</sup>",
  "speed": {},
- "summary": "You're able to take ordinary materials and use them to create deadly  snares , special traps that you can rig up quickly when the situation demands. …",
- "summary_markdown": "You're able to take ordinary materials and use them to create deadly  snares , special traps that you can rig up quickly when the situation demands. …",
- "text": " Snarecrafter Source Advanced Player's Guide pg. 194 2.0 You're able to take ordinary materials and use them to create deadly snares, special traps that you can rig up quickly when the situation demands. While traps might grant you less brute force to apply in a fair fight than weapons would, you rarely allow your fights to be fair. Instead, when a battle takes place at a location of your choice, you have a major advantage thanks to your well-placed snares. Once your foes come to realize that you may have trapped any location on the battlefield, their fear of walking into another trap can help you corral them toward the waiting blades of your allies, or even make them too paranoid to move at all, locking them in place. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-2075\" /> <document level=\"2\" id=\"feat-2076\" /> <document level=\"2\" id=\"feat-509\" override-title-right=\"Feat 8 \" /> <document level=\"2\" id=\"feat-2077\" /> <document level=\"2\" id=\"feat-516\" override-title-right=\"Feat 10 \" /> <document level=\"2\" id=\"feat-2078\" /> <document level=\"2\" id=\"feat-527\" override-title-right=\"Feat 14 \" />",
+ "summary": "You're able to take ordinary materials and use them to create deadly snares—special traps that you can rig up quickly when the situation demands. …",
+ "summary_markdown": "You're able to take ordinary materials and use them to create deadly snares—special traps that you can rig up quickly when the situation demands. …",
+ "text": " Snarecrafter Source Player Core 2 pg. 216 1.1 You're able to take ordinary materials and use them to create deadly snares—special traps that you can rig up quickly when the situation demands. While traps might grant you less brute force to apply in a fair fight than weapons would, you rarely allow your fights to be fair. Instead, when combat takes place at a location of your choosing, you have a major advantage thanks to your well-placed snares. Once your foes realize that you may have trapped any location on a battlefield, their fear of accidentally setting one off can help you corral them toward the waiting blades of your allies, or even make them too paranoid to move at all, locking them in place. Fearless enemies face their own disadvantage: they run a greater risk of setting off the many traps youve deployed. Even if they somehow avoid them, some cunning snare crafters have the skills to set a trap right under their foes' feet. Others have found they can trigger dangerous snares from a safe distance due to years of practice. Truly, snare crafters make for a dangerous foe and handy ally. <document level=\"2\" id=\"feat-6415\" /> <document level=\"2\" id=\"feat-6416\" /> <document level=\"2\" id=\"feat-6417\" /> <document level=\"2\" id=\"feat-6418\" /> <document level=\"2\" id=\"feat-6419\" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=78",
+ "url": "/Archetypes.aspx?ID=265",
  "weakness": {}
 }

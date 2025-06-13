@@ -1,37 +1,45 @@
 {
  "breadcrumbs": [
-  "Chapter 1: Gamemastery Basics",
-  "General Advice"
+  "Mythic Variant Rules",
+  "Mixed Play"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-822",
- "markdown": "<title level=\"1\" right=\"Rules\">[Hero Points](/Rules.aspx?ID=822)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 9</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nPage [507 of the _Core Rulebook_](/Rules.aspx?ID=573) offers guidelines for determining how many Hero Points to award and when to do so. These recommendations are flexible. Consider Hero Points a way to reinforce your personal style of Game Mastering and to reward what you value during play. The toughest part of awarding Hero Points can be remembering to do it! Keeping a Hero Point token on hand in front of you can provide a visual and tactile reminder. You can also solicit help from your players by asking them to remind you when they think a PC’s action merits a Hero Point.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-3346",
+ "markdown": "<title level=\"1\" right=\"Rules\">[Hero Points](/Rules.aspx?ID=3346)</title>\r\n\r\n**Source** [War of Immortals Alternate Mythic Rules](/Sources.aspx?ID=233) pg. 2\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nHero Points should still be awarded to non-mythic characters at the same rate as normal (typically one per character at the start of the session and then one for each heroic deed they perform after that, with about one additional Hero Point being awarded per hour of play.) Since mythic characters don't use Hero Points, this should typically mean that individual non-mythic characters end up receiving more Hero Points.\n\n You might also expand this so that the non-mythic characters receive a Hero Point whenever the mythic characters would receive a Mythic Point, such as when slaying a mythic monster or completing a mythic deed. Such notable accomplishments can be even more heroic when performed by characters with no mythic power of their own to call on!\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Hero Points",
  "next_link": {
-  "label": "Metagaming",
-  "url": "/Rules.aspx?ID=823"
+  "label": "Alternate Mythic Progression",
+  "url": "/Rules.aspx?ID=3347"
  },
  "previous_link": {
-  "label": "Secret Checks",
-  "url": "/Rules.aspx?ID=821"
+  "label": "Free Archetype",
+  "url": "/Rules.aspx?ID=3345"
  },
+ "primary_source": "War of Immortals Alternate Mythic Rules",
+ "primary_source_raw": "War of Immortals Alternate Mythic Rules pg. 2",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2024-10-30",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 9</row>\r\n\r\nChapter 1: Gamemastery Basics / General Advice\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [War of Immortals Alternate Mythic Rules](/Sources.aspx?ID=233) pg. 2\r\n\r\nMythic Variant Rules / Mixed Play\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHero Points should still be awarded to non-mythic characters at the same rate as normal (typically one per character at the start of the session and …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "War of Immortals Alternate Mythic Rules"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 9"
+  "War of Immortals Alternate Mythic Rules pg. 2"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 9</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[War of Immortals Alternate Mythic Rules](/Sources.aspx?ID=233) pg. 2",
  "speed": {},
- "text": " Hero Points Source Gamemastery Guide pg. 9 Page 507 of the Core Rulebook offers guidelines for determining how many Hero Points to award and when to do so. These recommendations are flexible. Consider Hero Points a way to reinforce your personal style of Game Mastering and to reward what you value during play. The toughest part of awarding Hero Points can be remembering to do it! Keeping a Hero Point token on hand in front of you can provide a visual and tactile reminder. You can also solicit help from your players by asking them to remind you when they think a PC’s action merits a Hero Point. ",
+ "summary": "Hero Points should still be awarded to non-mythic characters at the same rate as normal (typically one per character at the start of the session and …",
+ "summary_markdown": "Hero Points should still be awarded to non-mythic characters at the same rate as normal (typically one per character at the start of the session and …",
+ "text": " Hero Points Source War of Immortals Alternate Mythic Rules pg. 2 Hero Points should still be awarded to non-mythic characters at the same rate as normal (typically one per character at the start of the session and then one for each heroic deed they perform after that, with about one additional Hero Point being awarded per hour of play.) Since mythic characters don't use Hero Points, this should typically mean that individual non-mythic characters end up receiving more Hero Points. You might also expand this so that the non-mythic characters receive a Hero Point whenever the mythic characters would receive a Mythic Point, such as when slaying a mythic monster or completing a mythic deed. Such notable accomplishments can be even more heroic when performed by characters with no mythic power of their own to call on! ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=822",
+ "url": "/Rules.aspx?ID=3346",
  "weakness": {}
 }

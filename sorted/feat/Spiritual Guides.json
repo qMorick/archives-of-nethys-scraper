@@ -1,6 +1,6 @@
 {
  "actions": "Reaction",
- "breadcrumbs_spa": [],
+ "actions_number": 1,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
@@ -8,43 +8,55 @@
  ],
  "feat_markdown": "Spiritual Guides",
  "frequency": "once per day",
- "id": "feat-1607",
+ "id": "feat-5821",
+ "legacy_id": [
+  "feat-1607"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Spiritual Guides](/Feats.aspx?ID=1607) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Fortune\" url=\"/Traits.aspx?ID=76\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 109 <sup>2.0</sup></row>\n\n**Frequency**\r\nonce per day\r\n\r\n**Prerequisites**\r\n[spirit instinct](/Instincts.aspx?ID=5)\n\n**Trigger**\r\nYou fail, but don't critically fail, a Perception check or a skill check.\n\n</column>\r\n\r\n---\r\n\r\nThough no one sees them and only you can hear them, the spirits around you constantly chatter, save when you are raging. Sometimes they're even helpful. You can heed the spirits' guidance to reroll the triggering check, using the second result even if it's worse.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Spiritual Guides](/Feats.aspx?ID=5821) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Fortune\" url=\"/Traits.aspx?ID=612\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 78 <sup>1.1</sup>\n\n**Frequency**\r\nonce per day\r\n\r\n**Prerequisites**\r\n[spirit instinct](/Instincts.aspx?ID=12)\n\n**Trigger**\r\nYou fail, but don’t critically fail, a Perception check or a skill check.\n\n</column>\r\n\r\n---\r\n\r\nThough no one sees them and only you can hear them, the spirits around you constantly chatter, save when you are raging. Sometimes they're even helpful, and their guidance can even cut through the haze of your rage. Reroll the triggering check, using the second result even if it's worse.",
  "name": "Spiritual Guides",
  "pfs": "Standard",
  "prerequisite": "spirit instinct",
- "prerequisite_markdown": "[spirit instinct](/Instincts.aspx?ID=5)",
+ "prerequisite_markdown": "[spirit instinct](/Instincts.aspx?ID=12)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 78",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Fortune\" url=\"/Traits.aspx?ID=76\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 109 <sup>2.0</sup></row>\r\n\r\n**Frequency**\r\nonce per day\r\n\r\n**Prerequisites**\r\n[spirit instinct](/Instincts.aspx?ID=5)\n\n**Trigger**\r\nYou fail, but don't critically fail, a Perception check or a skill check.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThough no one sees them and only you can hear them, the spirits around you constantly chatter, save when you are raging.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Fortune\" url=\"/Traits.aspx?ID=612\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 78 <sup>1.1</sup>\n\n**Frequency**\r\nonce per day\r\n\r\n**Prerequisites**\r\n[spirit instinct](/Instincts.aspx?ID=12)\n\n**Trigger**\r\nYou fail, but don’t critically fail, a Perception check or a skill check.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThough no one sees them and only you can hear them, the spirits around you constantly chatter, save when you are raging.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 109"
+  "Player Core 2 pg. 78"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 109 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 78 <sup>1.1</sup>",
  "speed": {},
  "summary": "Though no one sees them and only you can hear them, the spirits around you constantly chatter, save when you are raging.",
  "summary_markdown": "Though no one sees them and only you can hear them, the spirits around you constantly chatter, save when you are raging.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Spiritual Guides Reaction Source Advanced Player's Guide pg. 109 2.0 Frequency once per day Prerequisites spirit instinct Trigger You fail, but don't critically fail, a Perception check or a skill check. --- Though no one sees them and only you can hear them, the spirits around you constantly chatter, save when you are raging. Sometimes they're even helpful. You can heed the spirits' guidance to reroll the triggering check, using the second result even if it's worse.",
+ "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Spiritual Guides Reaction Source Player Core 2 pg. 78 1.1 Frequency once per day Prerequisites spirit instinct Trigger You fail, but don’t critically fail, a Perception check or a skill check. --- Though no one sees them and only you can hear them, the spirits around you constantly chatter, save when you are raging. Sometimes they're even helpful, and their guidance can even cut through the haze of your rage. Reroll the triggering check, using the second result even if it's worse.",
  "trait": [
   "Barbarian",
-  "Concentrate",
   "Fortune"
  ],
- "trait_markdown": "[Barbarian](/Traits.aspx?ID=18), [Concentrate](/Traits.aspx?ID=32), [Fortune](/Traits.aspx?ID=76)",
+ "trait_group": [
+  "Class",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Barbarian](/Traits.aspx?ID=813), [Fortune](/Traits.aspx?ID=612)",
  "trait_raw": [
   "Barbarian",
-  "Concentrate",
   "Fortune"
  ],
- "trigger": "You fail, but don't critically fail, a Perception check or a skill check.",
- "trigger_markdown": "You fail, but don't critically fail, a Perception check or a skill check.",
+ "trigger": "You fail, but don’t critically fail, a Perception check or a skill check.",
+ "trigger_markdown": "You fail, but don’t critically fail, a Perception check or a skill check.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=1607",
+ "url": "/Feats.aspx?ID=5821",
  "weakness": {}
 }

@@ -1,45 +1,56 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Scion Transformation"
  ],
  "feat_markdown": "Scion Transformation",
- "id": "feat-2414",
+ "id": "feat-5650",
+ "legacy_id": [
+  "feat-2414"
+ ],
  "level": 17,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 17\"\r\n    pfs=\"Standard\"\r\n>\r\n[Scion Transformation](/Feats.aspx?ID=2414) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n<trait label=\"Primal\" url=\"/Traits.aspx?ID=134\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 47 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou go into hibernation for 24 hours and perform a ritual dedicated to your ancestors, undergoing a one-time metamorphosis. You permanently gain the effects of [_enlarge_](/Spells.aspx?ID=102), and your maximum Hit Points increase by your level. The ritual transforms most of your gear to the appropriate size for your new body (though powerful items like [artifacts](/Traits.aspx?ID=253) or items strongly tied to their original size may not transform, at the GM's discretion).",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 17\"\r\n    pfs=\"Standard\"\r\n>\r\n[Scion Transformation](/Feats.aspx?ID=5650) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=760\" />\r\n<trait label=\"Primal\" url=\"/Traits.aspx?ID=676\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 27 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou go into hibernation for twenty-four hours and perform a ritual dedicated to your ancestors, undergoing a one-time metamorphosis. You permanently gain the effects of [_enlarge_](/Spells.aspx?ID=1514), and your maximum Hit Points increase by your level. The ritual transforms most of your gear to the appropriate size for your new body (though powerful items like [artifacts](/Traits.aspx?ID=537) or items strongly tied to their original size may not transform, at the GM's discretion).",
  "name": "Scion Transformation",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 27",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2021-02-24",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "school": "transmutation",
- "search_markdown": "<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n<trait label=\"Primal\" url=\"/Traits.aspx?ID=134\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 47 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou go into hibernation for 24 hours and perform a ritual dedicated to your ancestors, undergoing a one-time metamorphosis.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=760\" />\r\n<trait label=\"Primal\" url=\"/Traits.aspx?ID=676\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 27 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou go into hibernation for twenty-four hours and perform a ritual dedicated to your ancestors, undergoing a one-time metamorphosis.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Ancestry Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Ancestry Guide pg. 47"
+  "Player Core 2 pg. 27"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Ancestry Guide](/Sources.aspx?ID=74) pg. 47 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 27 <sup>1.1</sup>",
  "speed": {},
- "summary": "You go into hibernation for 24 hours and perform a ritual dedicated to your ancestors, undergoing a one-time metamorphosis.",
- "summary_markdown": "You go into hibernation for 24 hours and perform a ritual dedicated to your ancestors, undergoing a one-time metamorphosis.",
- "text": "<title level=\"1\" right=\"Feat 17\" pfs=\"Standard\" > Scion Transformation Source Ancestry Guide pg. 47 2.0 --- You go into hibernation for 24 hours and perform a ritual dedicated to your ancestors, undergoing a one-time metamorphosis. You permanently gain the effects of enlarge , and your maximum Hit Points increase by your level. The ritual transforms most of your gear to the appropriate size for your new body (though powerful items like artifacts or items strongly tied to their original size may not transform, at the GM's discretion).",
+ "summary": "You go into hibernation for twenty-four hours and perform a ritual dedicated to your ancestors, undergoing a one-time metamorphosis.",
+ "summary_markdown": "You go into hibernation for twenty-four hours and perform a ritual dedicated to your ancestors, undergoing a one-time metamorphosis.",
+ "text": "<title level=\"1\" right=\"Feat 17\" pfs=\"Standard\" > Scion Transformation Source Player Core 2 pg. 27 1.1 --- You go into hibernation for twenty-four hours and perform a ritual dedicated to your ancestors, undergoing a one-time metamorphosis. You permanently gain the effects of enlarge , and your maximum Hit Points increase by your level. The ritual transforms most of your gear to the appropriate size for your new body (though powerful items like artifacts or items strongly tied to their original size may not transform, at the GM's discretion).",
  "trait": [
   "Lizardfolk",
-  "Primal",
-  "Transmutation"
+  "Primal"
  ],
- "trait_markdown": "[Lizardfolk](/Traits.aspx?ID=226), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)",
+ "trait_group": [
+  "Monster",
+  "Ancestry",
+  "Tradition"
+ ],
+ "trait_markdown": "[Lizardfolk](/Traits.aspx?ID=760), [Primal](/Traits.aspx?ID=676)",
  "trait_raw": [
   "Lizardfolk",
-  "Primal",
-  "Transmutation"
+  "Primal"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2414",
+ "url": "/Feats.aspx?ID=5650",
  "weakness": {}
 }

@@ -1,38 +1,46 @@
 {
- "breadcrumbs_spa": [],
  "category": "trait",
  "exclude_from_search": false,
- "id": "trait-257",
- "markdown": "<title level=\"1\" right=\"Trait\">[Duskwalker](/Traits.aspx?ID=257)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 267 <sup>2.0</sup></row>\n\nA creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of [psychopomps](/MonsterFamilies.aspx?ID=83). An ability with this trait can be used or selected only by duskwalkers.",
+ "id": "trait-751",
+ "legacy_id": [
+  "trait-257"
+ ],
+ "markdown": "<title level=\"1\" right=\"Trait\">[Duskwalker](/Traits.aspx?ID=751)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 316 <sup>1.1</sup>\n\nA creature with this trait has the [duskwalker](/Ancestries.aspx?ID=87) [versatile heritage](/Rules.aspx?ID=2085). Duskwalkers are [planar scions](/MonsterFamilies.aspx?ID=456) infused with the supernatural energy of [psychopomps](/MonsterFamilies.aspx?ID=458). ",
  "name": "Duskwalker",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 316",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 267 <sup>2.0</sup></row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of  psychopomps …\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 316 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA creature with this trait has the  duskwalker   versatile heritage . Duskwalkers are  planar scions  infused with the supernatural energy of  …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 267"
+  "Player Core 2 pg. 316"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 267 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 316 <sup>1.1</sup>",
  "speed": {},
- "summary": "A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of  psychopomps …",
- "summary_markdown": "A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of  psychopomps …",
- "text": " Duskwalker Source Advanced Player's Guide pg. 267 2.0 A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of psychopomps. An ability with this trait can be used or selected only by duskwalkers.",
+ "summary": "A creature with this trait has the  duskwalker   versatile heritage . Duskwalkers are  planar scions  infused with the supernatural energy of  …",
+ "summary_markdown": "A creature with this trait has the  duskwalker   versatile heritage . Duskwalkers are  planar scions  infused with the supernatural energy of  …",
+ "text": " Duskwalker Source Player Core 2 pg. 316 1.1 A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of psychopomps. ",
  "trait": [
   "Duskwalker"
  ],
  "trait_group": [
-  "Monster",
-  "Ancestry"
+  "Monster"
  ],
  "trait_markdown": "Duskwalker",
  "trait_raw": [
   "Duskwalker"
  ],
  "type": "Trait",
- "url": "/Traits.aspx?ID=257",
+ "url": "/Traits.aspx?ID=751",
  "weakness": {}
 }

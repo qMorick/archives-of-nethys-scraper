@@ -1,24 +1,44 @@
 {
  "actions": "Two Actions",
- "area": "15-foot cone",
- "bloodline_markdown": "",
- "breadcrumbs_spa": [],
- "category": "spell",
- "component": [
-  "somatic",
-  "verbal"
+ "actions_number": 4,
+ "area": [
+  15
  ],
+ "area_raw": "15-foot <%RULES%2386%%>cone<%END>",
+ "area_type": [
+  "cone"
+ ],
+ "bloodline_markdown": "",
+ "category": "spell",
  "deity": [
   "Ayrzul",
+  "Mhar",
+  "Mugura and Nrithu",
+  "Orgesh",
   "Ragdya",
-  "Ragdya",
-  "Yamatsumi"
+  "Yamatsumi",
+  "Zipacna"
  ],
- "deity_markdown": "[Ayrzul](/Deities.aspx?ID=102), [Ragdya](/Deities.aspx?ID=194), [Ragdya](/Deities.aspx?ID=194), [Yamatsumi](/Deities.aspx?ID=185)",
+ "deity_markdown": "[Ayrzul](/Deities.aspx?ID=687), [Mhar](/Deities.aspx?ID=571), [Mugura and Nrithu](/Deities.aspx?ID=300), [Orgesh](/Deities.aspx?ID=576), [Ragdya](/Deities.aspx?ID=618), [Yamatsumi](/Deities.aspx?ID=319), [Zipacna](/Deities.aspx?ID=604)",
  "domain_markdown": "",
+ "element": [
+  "Earth"
+ ],
  "exclude_from_search": false,
  "heighten": [
   "+1"
+ ],
+ "heighten_group": [
+  "1st rank",
+  "Heightened 2nd rank",
+  "Heightened 3rd rank",
+  "Heightened 4th rank",
+  "Heightened 5th rank",
+  "Heightened 6th rank",
+  "Heightened 7th rank",
+  "Heightened 8th rank",
+  "Heightened 9th rank",
+  "Heightened 10th rank"
  ],
  "heighten_level": [
   1,
@@ -32,49 +52,65 @@
   9,
   10
  ],
- "id": "spell-587",
+ "id": "spell-2366",
+ "legacy_id": [
+  "spell-587"
+ ],
  "level": 1,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Spell 1\" pfs=\"Standard\">[Shockwave](/Spells.aspx?ID=587)</title>\n\n<traits>\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 110 <sup>2.0</sup></row>\n\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Primal](/SpellLists.aspx?Tradition=4)\r\n\r\n**Spell Lists**\r\n[Elemental](/SpellLists.aspx?Tradition=5)\n\n**Deities**\r\n[Ayrzul](/Deities.aspx?ID=102), [Ragdya](/Deities.aspx?ID=194), [Ragdya](/Deities.aspx?ID=194), [Yamatsumi](/Deities.aspx?ID=185)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Area** 15-foot cone\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** Reflex\n\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou create a wave of energy that ripples through the earth. Terrestrial creatures in the affected area must attempt a Reflex save to avoid stumbling as the shockwave shakes the ground.\r\n\r\n**Critical Success** The creature is unaffected.<br />\r\n**Success** The creature is [flat-footed](/Conditions.aspx?ID=16) until the start of its next turn.<br />\r\n**Failure** The creature falls [prone](/Conditions.aspx?ID=31).<br />\r\n**Critical Failure** As failure, plus the creature takes 1d6 damage.\n\n---\r\n**Heightened (+1)** The area increases by 5 feet (to a 20-foot cone at 2nd level, and so on).",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Spell 1\" pfs=\"Standard\">\r\n[Shockwave](/Spells.aspx?ID=2366)\r\n<actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 260\n\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Primal](/SpellLists.aspx?Tradition=4)\n\n**Deities**\r\n[Ayrzul](/Deities.aspx?ID=687), [Mhar](/Deities.aspx?ID=571), [Mugura and Nrithu](/Deities.aspx?ID=300), [Orgesh](/Deities.aspx?ID=576), [Ragdya](/Deities.aspx?ID=618), [Yamatsumi](/Deities.aspx?ID=319), [Zipacna](/Deities.aspx?ID=604)\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 15-foot [cone](/Rules.aspx?ID=2386)\r\n\r\n**Area** 15-foot [cone](/Rules.aspx?ID=2386)\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\nReflex\n\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou create a wave of energy that ripples through the earth. Terrestrial creatures in the affected area must attempt a Reflex save to avoid stumbling as the shockwave shakes the ground.\r\n\r\n**Critical Success** The creature is unaffected.<br />\r\n**Success** The creature is [off-guard](/Conditions.aspx?ID=58) until the start of its next turn.<br />\r\n**Failure** The creature falls [prone](/Conditions.aspx?ID=88).<br />\r\n**Critical Failure** As failure, plus the creature takes 1d6 bludgeoning damage.\n\n---\r\n**Heightened (+1)** The area increases by 5 feet (to a 20-foot cone at 2nd rank, and so on).",
  "name": "Shockwave",
- "patron_theme_markdown": "",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 260",
+ "primary_source_category": "Lost Omens",
+ "range": 152386,
+ "range_raw": "15-foot <%RULES%2386%%>cone<%END>",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
  "resistance": {},
  "saving_throw": "Reflex",
  "saving_throw_markdown": "Reflex",
- "school": "evocation",
- "search_markdown": "<traits>\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 110 <sup>2.0</sup></row>\r\n\r\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Primal](/SpellLists.aspx?Tradition=4)\r\n\r\n**Spell Lists**\r\n[Elemental](/SpellLists.aspx?Tradition=5)\n\n**Deities**\r\n[Ayrzul](/Deities.aspx?ID=102), [Ragdya](/Deities.aspx?ID=194), [Ragdya](/Deities.aspx?ID=194), [Yamatsumi](/Deities.aspx?ID=185)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Area** 15-foot cone\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** Reflex\r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou create a wave of energy that ripples through the earth.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 260\r\n\r\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Primal](/SpellLists.aspx?Tradition=4)\n\n**Deities**\r\n[Ayrzul](/Deities.aspx?ID=687), [Mhar](/Deities.aspx?ID=571), [Mugura and Nrithu](/Deities.aspx?ID=300), [Orgesh](/Deities.aspx?ID=576), [Ragdya](/Deities.aspx?ID=618), [Yamatsumi](/Deities.aspx?ID=319), [Zipacna](/Deities.aspx?ID=604)\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 15-foot [cone](/Rules.aspx?ID=2386)\r\n\r\n**Area** 15-foot [cone](/Rules.aspx?ID=2386)\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\nReflex\r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou create a wave of energy that ripples through the earth.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 110"
+  "Divine Mysteries pg. 260"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 110 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 260",
  "speed": {},
+ "spell_type": "Spell",
  "summary": "You create a wave of energy that ripples through the earth.",
  "summary_markdown": "You create a wave of energy that ripples through the earth.",
- "text": " Shockwave Source Gods &amp; Magic pg. 110 2.0 Traditions Arcane, Primal Spell Lists Elemental Deities Ayrzul, Ragdya, Ragdya, Yamatsumi Cast Two Actions somatic, verbal Area 15-foot cone Saving Throw Reflex --- You create a wave of energy that ripples through the earth. Terrestrial creatures in the affected area must attempt a Reflex save to avoid stumbling as the shockwave shakes the ground. Critical Success The creature is unaffected. Success The creature is flat-footed until the start of its next turn. Failure The creature falls prone. Critical Failure As failure, plus the creature takes 1d6 damage. --- Heightened (+1) The area increases by 5 feet (to a 20-foot cone at 2nd level, and so on).",
+ "text": "\nShockwave Two Actions Source Divine Mysteries pg. 260 Traditions Arcane, Primal Deities Ayrzul, Mhar, Mugura and Nrithu, Orgesh, Ragdya, Yamatsumi, Zipacna Range 15-foot cone Area 15-foot cone Defense Reflex --- You create a wave of energy that ripples through the earth. Terrestrial creatures in the affected area must attempt a Reflex save to avoid stumbling as the shockwave shakes the ground. Critical Success The creature is unaffected. Success The creature is off-guard until the start of its next turn. Failure The creature falls prone. Critical Failure As failure, plus the creature takes 1d6 bludgeoning damage. --- Heightened (+1) The area increases by 5 feet (to a 20-foot cone at 2nd rank, and so on).",
  "tradition": [
   "Arcane",
-  "Primal",
-  "Elemental"
+  "Primal"
  ],
- "tradition_markdown": "[Arcane](/SpellLists.aspx?Tradition=1), [Primal](/SpellLists.aspx?Tradition=4), [Elemental](/SpellLists.aspx?Tradition=5)",
+ "tradition_markdown": "[Arcane](/SpellLists.aspx?Tradition=1), [Primal](/SpellLists.aspx?Tradition=4)",
  "trait": [
+  "Concentrate",
   "Earth",
-  "Evocation"
+  "Manipulate"
  ],
- "trait_markdown": "[Earth](/Traits.aspx?ID=55), [Evocation](/Traits.aspx?ID=65)",
+ "trait_group": [
+  "Mechanics",
+  "Elemental",
+  "Planar",
+  "Monster"
+ ],
+ "trait_markdown": "[Concentrate](/Traits.aspx?ID=32), [Earth](/Traits.aspx?ID=55), [Manipulate](/Traits.aspx?ID=104)",
  "trait_raw": [
+  "Concentrate",
   "Earth",
-  "Evocation"
+  "Manipulate"
  ],
  "type": "Spell",
- "url": "/Spells.aspx?ID=587",
+ "url": "/Spells.aspx?ID=2366",
  "weakness": {}
 }

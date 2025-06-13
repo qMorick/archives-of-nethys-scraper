@@ -1,23 +1,30 @@
 {
  "actions": "Two Actions",
- "area": "15-foot emanation centered on you",
- "bloodline_markdown": "",
- "breadcrumbs_spa": [],
- "category": "spell",
- "component": [
-  "somatic",
-  "verbal"
+ "actions_number": 4,
+ "area": [
+  15
  ],
- "deity_markdown": "",
+ "area_raw": "15-foot <%RULES%2387%%>emanation<%END>",
+ "area_type": [
+  "emanation"
+ ],
+ "bloodline_markdown": "",
+ "category": "spell",
  "domain": [
   "Cold"
  ],
- "domain_markdown": "[Cold](/Domains.aspx?ID=41)",
+ "domain_markdown": "[Cold](/Domains.aspx?ID=103)",
  "duration": 60,
  "duration_raw": "1 minute",
  "exclude_from_search": false,
  "heighten": [
   "+2"
+ ],
+ "heighten_group": [
+  "4th rank",
+  "Heightened 6th rank",
+  "Heightened 8th rank",
+  "Heightened 10th rank"
  ],
  "heighten_level": [
   4,
@@ -25,44 +32,68 @@
   8,
   10
  ],
- "id": "spell-597",
+ "id": "spell-2380",
+ "legacy_id": [
+  "spell-597"
+ ],
  "level": 4,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Focus 4\" pfs=\"Standard\">[Diamond Dust](/Spells.aspx?ID=597)</title>\n\n<traits>\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 112 <sup>2.0</sup></row>\n\n**Domain**\r\n[Cold](/Domains.aspx?ID=41)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Area** 15-foot emanation centered on you\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** [basic](/Rules.aspx?ID=329) Fortitude\r\n\r\n**Duration** 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou supercool the nearby air, forming a cloud of dancing ice crystals in an emanation around you. A creature other than you that enters the area or ends its turn within the area takes 2d6 cold damage. A creature can take this damage only once per turn. The crystals scatter and refract light; if a light effect enters diamond dust’s area, any creatures that effect goes on to affect gain a +2 status bonus to AC and saves against it. While the spell persists, you can activate or deactivate this aura by using a single action, which has the [concentrate](/Traits.aspx?ID=32) trait. You can Dismiss this spell.\n\n---\r\n**Heightened (+2)** The damage increases by 1d6.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Focus 4\" pfs=\"Standard\">\r\n[Diamond Dust](/Spells.aspx?ID=2380)\r\n<actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Aura\" url=\"/Traits.aspx?ID=206\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 263\n\n**Domain**\r\n[Cold](/Domains.aspx?ID=103)\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Area** 15-foot [emanation](/Rules.aspx?ID=2387)\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\n[basic](/Rules.aspx?ID=2297) fortitude\r\n\r\n**Duration** 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou supercool the nearby air, forming a cloud of dancing ice crystals in an emanation around you. A creature other than you that enters the area or ends its turn within the area takes 2d6 [cold](/Traits.aspx?ID=555) damage. A creature can take this damage only once per turn. The crystals scatter and refract light; if a light effect enters diamond dust’s area, any creatures targeted by that effect gain a +2 status bonus to AC and saves against it. While the spell persists, you can activate or deactivate this aura by [Sustaining](/Actions.aspx?ID=2317) the spell. You can [Dismiss](/Actions.aspx?ID=2311) this spell.\n\n---\r\n**Heightened (+2)** The damage increases by 1d6.",
  "name": "Diamond Dust",
- "patron_theme_markdown": "",
  "pfs": "Standard",
- "rarity": "common",
- "release_date": "2020-01-29",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 263",
+ "primary_source_category": "Lost Omens",
+ "rarity": "uncommon",
+ "rarity_id": 2,
+ "release_date": "2025-01-30",
  "resistance": {},
- "saving_throw": "basic  Fortitude",
- "saving_throw_markdown": "[basic](/Rules.aspx?ID=329) Fortitude",
- "school": "evocation",
- "search_markdown": "<traits>\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 112 <sup>2.0</sup></row>\n\n**Domain**\r\n[Cold](/Domains.aspx?ID=41)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Area** 15-foot emanation centered on you\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** [basic](/Rules.aspx?ID=329) Fortitude\r\n\r\n**Duration** 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou supercool the nearby air, forming a cloud of dancing ice crystals in an emanation around you.\r\n</summary>",
+ "saving_throw": "basic  fortitude",
+ "saving_throw_markdown": "[basic](/Rules.aspx?ID=2297) fortitude",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Aura\" url=\"/Traits.aspx?ID=206\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 263\n\n**Domain**\r\n[Cold](/Domains.aspx?ID=103)\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Area** 15-foot [emanation](/Rules.aspx?ID=2387)\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\n[basic](/Rules.aspx?ID=2297) fortitude\r\n\r\n**Duration** 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou supercool the nearby air, forming a cloud of dancing ice crystals in an emanation around you.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 112"
+  "Divine Mysteries pg. 263"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 112 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 263",
  "speed": {},
+ "spell_type": "Focus",
  "summary": "You supercool the nearby air, forming a cloud of dancing ice crystals in an emanation around you.",
  "summary_markdown": "You supercool the nearby air, forming a cloud of dancing ice crystals in an emanation around you.",
- "text": " Diamond Dust Source Gods &amp; Magic pg. 112 2.0 Domain Cold Cast Two Actions somatic, verbal Area 15-foot emanation centered on you Saving Throw basic Fortitude Duration 1 minute --- You supercool the nearby air, forming a cloud of dancing ice crystals in an emanation around you. A creature other than you that enters the area or ends its turn within the area takes 2d6 cold damage. A creature can take this damage only once per turn. The crystals scatter and refract light; if a light effect enters diamond dust’s area, any creatures that effect goes on to affect gain a +2 status bonus to AC and saves against it. While the spell persists, you can activate or deactivate this aura by using a single action, which has the concentrate trait. You can Dismiss this spell. --- Heightened (+2) The damage increases by 1d6.",
+ "text": "\nDiamond Dust Two Actions Source Divine Mysteries pg. 263 Domain Cold Area 15-foot emanation Defense basic fortitude Duration 1 minute --- You supercool the nearby air, forming a cloud of dancing ice crystals in an emanation around you. A creature other than you that enters the area or ends its turn within the area takes 2d6 cold damage. A creature can take this damage only once per turn. The crystals scatter and refract light; if a light effect enters diamond dust’s area, any creatures targeted by that effect gain a +2 status bonus to AC and saves against it. While the spell persists, you can activate or deactivate this aura by Sustaining the spell. You can Dismiss this spell. --- Heightened (+2) The damage increases by 1d6.",
  "tradition_markdown": "",
  "trait": [
+  "Aura",
+  "Cleric",
   "Cold",
-  "Evocation"
+  "Concentrate",
+  "Focus",
+  "Manipulate",
+  "Uncommon"
  ],
- "trait_markdown": "[Cold](/Traits.aspx?ID=27), [Evocation](/Traits.aspx?ID=65)",
+ "trait_group": [
+  "Mechanics",
+  "Class",
+  "Energy",
+  "Monster",
+  "Rarity"
+ ],
+ "trait_markdown": "[Aura](/Traits.aspx?ID=206), [Cleric](/Traits.aspx?ID=26), [Cold](/Traits.aspx?ID=27), [Concentrate](/Traits.aspx?ID=32), [Focus](/Traits.aspx?ID=511), [Manipulate](/Traits.aspx?ID=104), [Uncommon](/Traits.aspx?ID=159)",
  "trait_raw": [
+  "Aura",
+  "Cleric",
   "Cold",
-  "Evocation"
+  "Concentrate",
+  "Focus",
+  "Manipulate",
+  "Uncommon"
  ],
- "type": "Focus",
- "url": "/Spells.aspx?ID=597",
+ "type": "Spell",
+ "url": "/Spells.aspx?ID=2380",
  "weakness": {}
 }

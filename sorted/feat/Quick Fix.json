@@ -2,44 +2,56 @@
  "archetype": [
   "Talisman Dabbler"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Quick Fix"
  ],
  "feat_markdown": "Quick Fix",
- "id": "feat-2080",
+ "id": "feat-6421",
+ "legacy_id": [
+  "feat-2080"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Quick Fix](/Feats.aspx?ID=2080) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 195 <sup>2.0</sup></row>\n\n**Archetype** [Talisman Dabbler](/Archetypes.aspx?ID=79)\n\n**Prerequisites**\r\n[Talisman Dabbler Dedication](/Feats.aspx?ID=2079)\n\n</column>\r\n\r\n---\r\n\r\nYou can attach a talisman using only a bit of glue and some string. You gain the [Rapid Affixture](/Feats.aspx?ID=2145) skill feat, even if you don't meet the prerequisites. When you use it, you can affix or remove up to four talismans in 1 minute instead of just one. \n\nYou gain the ability to [Affix a Talisman](/Actions.aspx?ID=520) as a 3-action activity from that feat at 12th level, regardless of your [Crafting](/Skills.aspx?ID=4) proficiency.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Quick Fix](/Feats.aspx?ID=6421) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 217 <sup>1.1</sup>\n\n**Archetype** [Talisman Dabbler](/Archetypes.aspx?ID=266)\n\n**Prerequisites**\r\n[Talisman Dabbler Dedication](/Feats.aspx?ID=6420)\n\n</column>\r\n\r\n---\r\n\r\nYou can attach a [talisman](/Equipment.aspx?Category=15&amp;Subcategory=19) using only a bit of glue and some string. You gain the [Rapid Affixture](/Feats.aspx?ID=2145) skill feat, even if you don't meet the prerequisites. When you use it, you can affix or remove up to four talismans in 1 minute instead of just one.<br />You gain the ability to [Affix a Talisman](/Actions.aspx?ID=2632) as a 3-action activity from that feat at 12th level, regardless of your [Crafting](/Skills.aspx?ID=37) proficiency.",
  "name": "Quick Fix",
  "pfs": "Standard",
  "prerequisite": "Talisman Dabbler Dedication",
- "prerequisite_markdown": "[Talisman Dabbler Dedication](/Feats.aspx?ID=2079)",
+ "prerequisite_markdown": "[Talisman Dabbler Dedication](/Feats.aspx?ID=6420)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 217",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 195 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Talisman Dabbler Dedication](/Feats.aspx?ID=2079)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can attach a talisman using only a bit of glue and some string.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 217 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Talisman Dabbler Dedication](/Feats.aspx?ID=6420)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can attach a  &amp;lt;%CONSUMABLES%19%&amp;gt; talisman &amp;lt;%END> using only a bit of glue and some string.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 195"
+  "Player Core 2 pg. 217"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 195 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 217 <sup>1.1</sup>",
  "speed": {},
- "summary": "You can attach a talisman using only a bit of glue and some string.",
- "summary_markdown": "You can attach a talisman using only a bit of glue and some string.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Quick Fix Source Advanced Player's Guide pg. 195 2.0 Archetype Talisman Dabbler Prerequisites Talisman Dabbler Dedication --- You can attach a talisman using only a bit of glue and some string. You gain the Rapid Affixture skill feat, even if you don't meet the prerequisites. When you use it, you can affix or remove up to four talismans in 1 minute instead of just one. You gain the ability to Affix a Talisman as a 3-action activity from that feat at 12th level, regardless of your Crafting proficiency.",
+ "summary": "You can attach a  talisman  using only a bit of glue and some string.",
+ "summary_markdown": "You can attach a  &lt;%CONSUMABLES%19%&gt; talisman &lt;%END> using only a bit of glue and some string.",
+ "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Quick Fix Source Player Core 2 pg. 217 1.1 Archetype Talisman Dabbler Prerequisites Talisman Dabbler Dedication --- You can attach a talisman using only a bit of glue and some string. You gain the Rapid Affixture skill feat, even if you don't meet the prerequisites. When you use it, you can affix or remove up to four talismans in 1 minute instead of just one. You gain the ability to Affix a Talisman as a 3-action activity from that feat at 12th level, regardless of your Crafting proficiency.",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2080",
+ "url": "/Feats.aspx?ID=6421",
  "weakness": {}
 }

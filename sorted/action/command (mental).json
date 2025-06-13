@@ -1,32 +1,42 @@
 {
- "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions": "Reaction",
+ "actions_number": 1,
  "category": "action",
  "exclude_from_search": true,
- "frequency": "once per round",
- "id": "action-1708",
- "markdown": "**Activate** <actions string=\"Single Action\" />command ([mental](/Traits.aspx?ID=106)) **Frequency** once per round;  **Requirements** You can see your nemesis, and they're within 30 feet of you; **Effect** You focus your hatred into a mental scream. Your nemesis takes 3d6 mental damage, which they can resist with a [basic](/Rules.aspx?ID=329) DC 26 Will save. You take half as much damage as your nemesis does, and you can't reduce this damage in any way.",
+ "id": "action-620",
+ "markdown": "**Activate** <actions string=\"Reaction\" /> command (mental);   **Trigger** You damage a creature with a _pacifying_ weapon;  **Effect** The damaged creature must succeed at a DC 20 Will save or be pacified. A pacified creature takes a –2 penalty to attack rolls on any attacks that aren't [nonlethal](/Traits.aspx?ID=188) for 1 minute, and the creature also experiences a clear psychic warning that they should stop dealing lethal damage.",
  "name": "command (mental)",
+ "primary_source": "Pathfinder #157: Devil at the Dreaming Palace",
+ "primary_source_raw": "Pathfinder #157: Devil at the Dreaming Palace pg. 78",
+ "primary_source_category": "Adventure Paths",
+ "primary_source_group": "Agents of Edgewatch",
  "rarity": "common",
- "release_date": "2023-02-22",
- "requirement": "You can see your nemesis, and they're within 30 feet of you",
- "requirement_markdown": "You can see your nemesis, and they're within 30 feet of you",
+ "rarity_id": 1,
+ "release_date": "2020-07-30",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 121 <sup>1.1</sup></row>\r\n\r\n**Frequency**\r\nonce per round\n\n**Requirement**\r\nYou can see your nemesis, and they're within 30 feet of you\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou focus your hatred into a mental scream. Your nemesis takes 3d6 mental damage, which they can resist with a  basic  DC 26 Will save. You take half …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Pathfinder #157: Devil at the Dreaming Palace](/Sources.aspx?ID=45) pg. 78\n\n**Trigger**\r\nYou damage a creature with a _pacifying_ weapon\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe damaged creature must succeed at a DC 20 Will save or be pacified. A pacified creature takes a –2 penalty to attack rolls on any attacks that …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Treasure Vault"
+  "Pathfinder #157: Devil at the Dreaming Palace"
  ],
  "source_raw": [
-  "Treasure Vault pg. 121"
+  "Pathfinder #157: Devil at the Dreaming Palace pg. 78"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Treasure Vault](/Sources.aspx?ID=191) pg. 121 <sup>1.1</sup></row>",
+ "source_category": [
+  "Adventure Paths"
+ ],
+ "source_group": [
+  "Agents of Edgewatch"
+ ],
+ "source_markdown": "[Pathfinder #157: Devil at the Dreaming Palace](/Sources.aspx?ID=45) pg. 78",
  "speed": {},
- "summary": "You focus your hatred into a mental scream. Your nemesis takes 3d6 mental damage, which they can resist with a  basic  DC 26 Will save. You take half …",
- "summary_markdown": "You focus your hatred into a mental scream. Your nemesis takes 3d6 mental damage, which they can resist with a  basic  DC 26 Will save. You take half …",
- "text": " Activate Single Actioncommand (mental) Frequency once per round; Requirements You can see your nemesis, and they're within 30 feet of you; Effect You focus your hatred into a mental scream. Your nemesis takes 3d6 mental damage, which they can resist with a basic DC 26 Will save. You take half as much damage as your nemesis does, and you can't reduce this damage in any way.",
+ "summary": "The damaged creature must succeed at a DC 20 Will save or be pacified. A pacified creature takes a –2 penalty to attack rolls on any attacks that …",
+ "summary_markdown": "The damaged creature must succeed at a DC 20 Will save or be pacified. A pacified creature takes a –2 penalty to attack rolls on any attacks that …",
+ "text": " Activate Reaction command (mental); Trigger You damage a creature with a pacifying weapon; Effect The damaged creature must succeed at a DC 20 Will save or be pacified. A pacified creature takes a –2 penalty to attack rolls on any attacks that aren't nonlethal for 1 minute, and the creature also experiences a clear psychic warning that they should stop dealing lethal damage.",
  "trait_markdown": "",
+ "trigger": "You damage a creature with a  pacifying  weapon",
+ "trigger_markdown": "You damage a creature with a _pacifying_ weapon",
  "type": "Action",
- "url": "/Actions.aspx?ID=1708",
+ "url": "/Actions.aspx?ID=620",
  "weakness": {}
 }

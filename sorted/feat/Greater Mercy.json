@@ -2,44 +2,56 @@
  "archetype": [
   "Blessed One"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Greater Mercy"
  ],
  "feat_markdown": "Greater Mercy",
- "id": "feat-232",
+ "id": "feat-5904",
+ "legacy_id": [
+  "feat-232"
+ ],
  "level": 8,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Greater Mercy](/Feats.aspx?ID=232) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 112 <sup>4.0</sup></row>\n\n**Archetype** [Blessed One](/Archetypes.aspx?ID=51) (Level 10)\n\n**Prerequisites**\r\n[Mercy](/Feats.aspx?ID=225)\n\n</column>\r\n\r\n---\r\n\r\nYour faith enhances your ability to remove conditions. When you use Mercy, you can instead attempt to counteract the blinded, deafened, sickened, or slowed conditions.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Greater Mercy](/Feats.aspx?ID=5904) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 97 <sup>1.1</sup>\n\n**Archetypes** [Blessed One](/Archetypes.aspx?ID=51) (Level 10), [Blessed One](/Archetypes.aspx?ID=242) (Level 10)\n\n**Prerequisites**\r\n[Mercy](/Feats.aspx?ID=5897)\n\n</column>\r\n\r\n---\r\n\r\nYour faith enhances your ability to remove conditions. Add the following options to the list of conditions you can [counteract](/Rules.aspx?ID=371) for any type of mercy you can grant. **Mercy of the Body** [drained](/Conditions.aspx?ID=68), [slowed](/Conditions.aspx?ID=92); if you're 16th level, add [stunned](/Conditions.aspx?ID=93); **Mercy of Grace** [immobilized](/Conditions.aspx?ID=81), [restrained](/Conditions.aspx?ID=90), slowed; if you're 12th level, add [petrified](/Conditions.aspx?ID=87); if you're 16th level, add stunned; **Mercy of the Mind** [confused](/Conditions.aspx?ID=63), [controlled](/Conditions.aspx?ID=64), slowed; if you're 16th level, add [doomed](/Conditions.aspx?ID=67) and stunned.",
  "name": "Greater Mercy",
  "pfs": "Standard",
  "prerequisite": "Mercy",
- "prerequisite_markdown": "[Mercy](/Feats.aspx?ID=225)",
+ "prerequisite_markdown": "[Mercy](/Feats.aspx?ID=5897)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 97",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 112 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Mercy](/Feats.aspx?ID=225)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour faith enhances your ability to remove conditions.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 97 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Mercy](/Feats.aspx?ID=5897)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour faith enhances your ability to remove conditions.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 112"
+  "Player Core 2 pg. 97"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 112 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 97 <sup>1.1</sup>",
  "speed": {},
  "summary": "Your faith enhances your ability to remove conditions.",
  "summary_markdown": "Your faith enhances your ability to remove conditions.",
- "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Greater Mercy Source Core Rulebook pg. 112 4.0 Archetype Blessed One (Level 10) Prerequisites Mercy --- Your faith enhances your ability to remove conditions. When you use Mercy, you can instead attempt to counteract the blinded, deafened, sickened, or slowed conditions.",
+ "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Greater Mercy Source Player Core 2 pg. 97 1.1 Archetypes Blessed One (Level 10), Blessed One (Level 10) Prerequisites Mercy --- Your faith enhances your ability to remove conditions. Add the following options to the list of conditions you can counteract for any type of mercy you can grant. Mercy of the Body drained, slowed; if you're 16th level, add stunned; Mercy of Grace immobilized, restrained, slowed; if you're 12th level, add petrified; if you're 16th level, add stunned; Mercy of the Mind confused, controlled, slowed; if you're 16th level, add doomed and stunned.",
  "trait": [
   "Champion"
  ],
- "trait_markdown": "[Champion](/Traits.aspx?ID=24)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Champion](/Traits.aspx?ID=811)",
  "trait_raw": [
   "Champion"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=232",
+ "url": "/Feats.aspx?ID=5904",
  "weakness": {}
 }

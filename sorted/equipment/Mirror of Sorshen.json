@@ -1,50 +1,61 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
  "bulk": 0.1,
  "bulk_raw": "L",
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-615",
+ "id": "equipment-3121",
  "item_category": "Artifacts",
+ "legacy_id": [
+  "equipment-615"
+ ],
  "level": 25,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 25\"\r\n    pfs=\"\"\r\n>\r\n[Mirror of Sorshen](/Equipment.aspx?ID=615)\r\n</title>\n\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Artifact\" url=\"/Traits.aspx?ID=253\" />\r\n<trait label=\"Enchantment\" url=\"/Traits.aspx?ID=61\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 110</row>\n\n<row gap=\"medium\">\n\n**Usage** bonded\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThe silvery glass of this oval mirror displays alluring sights. Its dark wooden frame is studded with small green gems and is carved with the shapes of a male figure on one edge of the glass and a female figure on the other side.\n\n The mirror can form a bond with a spellcaster who has legendary proficiency in [Arcana](/Skills.aspx?ID=2) or [Occultism](/Skills.aspx?ID=11), who becomes the mirror’s owner. Regardless of where the mirror is, as long as the bond remains, the owner is aware of everything the mirror is currently reflecting and can use the mirror’s activations.\n\n Whenever an intelligent creature looks in the mirror, they see an image of a person, creature, or item they find irresistible—most often one they find attractive. The specific image varies depending on the observer, even when more than one creature is looking into the mirror at the same time. Observers are [fascinated](/Conditions.aspx?ID=14) by the images in the mirror unless they succeed at a DC 35 Will save each round. On a failure, they stare blankly at the mirror for as long as it remains in view, and if it leaves their view, they stare toward the last place they saw the mirror for several minutes thereafter. This is an [emotion](/Traits.aspx?ID=60), [enchantment](/Traits.aspx?ID=61), [incapacitation](/Traits.aspx?ID=93), and [visual](/Traits.aspx?ID=163) effect. Creatures that are fascinated by the mirror are so deeply entranced that they don’t end their fascinated condition automatically even if a creature uses hostile actions against them or their allies; instead, they can attempt a DC 30 Will save to end the fascination. At the GM’s discretion, a truly innocent creature or a creature that has renounced all worldly pleasures might be immune to the mirror’s fascination.\n\n<document level=\"2\" id=\"action-399\" />\n\n<document level=\"2\" id=\"action-400\" />\r\n\r\n**Destruction** The _Mirror of Sorshen_ shatters into a thousand pieces if an intelligent but completely innocent creature resists the mirror’s attraction and then accidentally drops it.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 25\"\r\n    pfs=\"\"\r\n>\r\n[Mirror of Sorshen](/Equipment.aspx?ID=3121)\r\n</title>\n\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=723\" />\r\n<trait label=\"Artifact\" url=\"/Traits.aspx?ID=537\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 301 <sup>2.0</sup>\n\n<row gap=\"medium\">\n\n**Usage** bonded (see below)\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThe silvery glass of this oval mirror displays alluring sights. Its dark wooden frame is studded with small green gems and is carved with a pair of sensuous humanoid shapes—one on the edge of each side of the glass.\n\n The _Mirror of Sorshen_ can form a bond with a spellcaster who has legendary proficiency in [Arcana](/Skills.aspx?ID=2) or [Occultism](/Skills.aspx?ID=11), who becomes the mirror's owner. Regardless of where the mirror is, as long as the bond remains, the owner is aware of everything the mirror is currently reflecting and can use the mirror's activations.\n\n Whenever an intelligent creature looks in the mirror, they see an image of a person, creature, or item they find powerfully enticing in some way. The specific image varies depending on the observer, even when more than one creature is looking into the mirror at the same time. Observers are [fascinated](/Conditions.aspx?ID=14) by the images in the mirror unless they succeed at a DC 35 Will save each round. On a failure, they stare blankly at the mirror for as long as it remains in view, and if it leaves their view, they stare toward the last place they saw the mirror for several minutes thereafter. This is an [emotion](/Traits.aspx?ID=60), [incapacitation](/Traits.aspx?ID=93), and [visual](/Traits.aspx?ID=163) effect. Creatures that are fascinated by the mirror are so deeply entranced that they don't end their fascinated condition automatically even if a creature uses [hostile actions](/Rules.aspx?ID=300) against them or their allies; instead, they can attempt a DC 30 Will save to end the fascination. At the GM's discretion, a truly innocent creature or a creature that has renounced all worldly pleasures might be immune to the mirror's fascination.\n\n**Activate—Second Glance** <actions string=\"Two Actions\" /> ([concentrate](/Traits.aspx?ID=32), [emotion](/Traits.aspx?ID=60), [incapacitation](/Traits.aspx?ID=93), [visual](/Traits.aspx?ID=163))    **Effect** You force a creature looking at the mirror to attempt an additional Will save against the mirror's fascination effect, even if they succeeded at their save.\n\n**Activate—Irresistible Desire** <actions string=\"Three Actions\" /> ([concentrate](/Traits.aspx?ID=32), [emotion](/Traits.aspx?ID=60), [incapacitation](/Traits.aspx?ID=93), [visual](/Traits.aspx?ID=163))   **Requirements** The target must be fascinated by the mirror; **Effect** You control the target for 30 days, with the effect of a critically failed saving throw against [_dominate_](/Spells.aspx?ID=87). If the victim sees the mirror again at any point before this duration expires, the control extends for an additional 30 days from the moment it looked at the mirror again. While there is no initial saving throw, the DC to break free due to commands against the creature's nature is 35.\r\n\r\n**Destruction** The _Mirror of Sorshen_ shatters into a thousand pieces if an intelligent but completely innocent creature resists the mirror's attraction and then accidentally drops it.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Mirror of Sorshen",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 301",
+ "primary_source_category": "Rulebooks",
  "rarity": "unique",
- "release_date": "2020-02-26",
+ "rarity_id": 4,
+ "release_date": "2023-11-15",
  "resistance": {},
- "school": "enchantment",
- "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Artifact\" url=\"/Traits.aspx?ID=253\" />\r\n<trait label=\"Enchantment\" url=\"/Traits.aspx?ID=61\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 110</row>\r\n\r\n \r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** bonded\r\n\r\n**Bulk** L\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe silvery glass of this oval mirror displays alluring sights. Its dark wooden frame is studded with small green gems and is carved with the shapes …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=723\" />\r\n<trait label=\"Artifact\" url=\"/Traits.aspx?ID=537\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 301 <sup>2.0</sup>\r\n\r\n \r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** bonded (see below)\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe silvery glass of this oval mirror displays alluring sights. Its dark wooden frame is studded with small green gems and is carved with a pair of …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 110"
+  "GM Core pg. 301"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 110</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 301 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "The silvery glass of this oval mirror displays alluring sights. Its dark wooden frame is studded with small green gems and is carved with the shapes …",
- "summary_markdown": "The silvery glass of this oval mirror displays alluring sights. Its dark wooden frame is studded with small green gems and is carved with the shapes …",
- "text": "<title level=\"1\" right=\"Item 25\" pfs=\"\" > Mirror of Sorshen Source Gamemastery Guide pg. 110 Usage bonded Bulk L --- The silvery glass of this oval mirror displays alluring sights. Its dark wooden frame is studded with small green gems and is carved with the shapes of a male figure on one edge of the glass and a female figure on the other side. The mirror can form a bond with a spellcaster who has legendary proficiency in Arcana or Occultism, who becomes the mirror’s owner. Regardless of where the mirror is, as long as the bond remains, the owner is aware of everything the mirror is currently reflecting and can use the mirror’s activations. Whenever an intelligent creature looks in the mirror, they see an image of a person, creature, or item they find irresistible—most often one they find attractive. The specific image varies depending on the observer, even when more than one creature is looking into the mirror at the same time. Observers are fascinated by the images in the mirror unless they succeed at a DC 35 Will save each round. On a failure, they stare blankly at the mirror for as long as it remains in view, and if it leaves their view, they stare toward the last place they saw the mirror for several minutes thereafter. This is an emotion, enchantment, incapacitation, and visual effect. Creatures that are fascinated by the mirror are so deeply entranced that they don’t end their fascinated condition automatically even if a creature uses hostile actions against them or their allies; instead, they can attempt a DC 30 Will save to end the fascination. At the GM’s discretion, a truly innocent creature or a creature that has renounced all worldly pleasures might be immune to the mirror’s fascination. Destruction The Mirror of Sorshen shatters into a thousand pieces if an intelligent but completely innocent creature resists the mirror’s attraction and then accidentally drops it.\n",
+ "summary": "The silvery glass of this oval mirror displays alluring sights. Its dark wooden frame is studded with small green gems and is carved with a pair of …",
+ "summary_markdown": "The silvery glass of this oval mirror displays alluring sights. Its dark wooden frame is studded with small green gems and is carved with a pair of …",
+ "text": "<title level=\"1\" right=\"Item 25\" pfs=\"\" > Mirror of Sorshen Source GM Core pg. 301 2.0 Usage bonded (see below) Bulk L --- The silvery glass of this oval mirror displays alluring sights. Its dark wooden frame is studded with small green gems and is carved with a pair of sensuous humanoid shapes—one on the edge of each side of the glass. The Mirror of Sorshen can form a bond with a spellcaster who has legendary proficiency in Arcana or Occultism, who becomes the mirror's owner. Regardless of where the mirror is, as long as the bond remains, the owner is aware of everything the mirror is currently reflecting and can use the mirror's activations. Whenever an intelligent creature looks in the mirror, they see an image of a person, creature, or item they find powerfully enticing in some way. The specific image varies depending on the observer, even when more than one creature is looking into the mirror at the same time. Observers are fascinated by the images in the mirror unless they succeed at a DC 35 Will save each round. On a failure, they stare blankly at the mirror for as long as it remains in view, and if it leaves their view, they stare toward the last place they saw the mirror for several minutes thereafter. This is an emotion, incapacitation, and visual effect. Creatures that are fascinated by the mirror are so deeply entranced that they don't end their fascinated condition automatically even if a creature uses hostile actions against them or their allies; instead, they can attempt a DC 30 Will save to end the fascination. At the GM's discretion, a truly innocent creature or a creature that has renounced all worldly pleasures might be immune to the mirror's fascination. Activate—Second Glance Two Actions (concentrate, emotion, incapacitation, visual) Effect You force a creature looking at the mirror to attempt an additional Will save against the mirror's fascination effect, even if they succeeded at their save. Activate—Irresistible Desire Three Actions (concentrate, emotion, incapacitation, visual) Requirements The target must be fascinated by the mirror; Effect You control the target for 30 days, with the effect of a critically failed saving throw against dominate . If the victim sees the mirror again at any point before this duration expires, the control extends for an additional 30 days from the moment it looked at the mirror again. While there is no initial saving throw, the DC to break free due to commands against the creature's nature is 35. Destruction The Mirror of Sorshen shatters into a thousand pieces if an intelligent but completely innocent creature resists the mirror's attraction and then accidentally drops it.\n",
  "trait": [
   "Artifact",
-  "Enchantment",
   "Magical",
   "Unique"
  ],
- "trait_markdown": "[Artifact](/Traits.aspx?ID=253), [Enchantment](/Traits.aspx?ID=61), [Magical](/Traits.aspx?ID=103), [Unique](/Traits.aspx?ID=161)",
+ "trait_group": [
+  "Equipment",
+  "Mechanics",
+  "Rarity"
+ ],
+ "trait_markdown": "[Artifact](/Traits.aspx?ID=537), [Magical](/Traits.aspx?ID=644), [Unique](/Traits.aspx?ID=723)",
  "trait_raw": [
   "Artifact",
-  "Enchantment",
   "Magical",
   "Unique"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=615",
- "usage": "bonded",
- "usage_markdown": "bonded",
+ "url": "/Equipment.aspx?ID=3121",
+ "usage": "bonded (see below)",
+ "usage_markdown": "bonded (see below)",
  "weakness": {}
 }

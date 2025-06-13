@@ -1,46 +1,63 @@
 {
  "actions": "Single Action",
+ "actions_number": 2,
  "archetype": [
   "Wrestler"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Whirling Throw"
  ],
  "feat_markdown": "Whirling Throw",
- "id": "feat-456",
+ "id": "feat-6008",
+ "legacy_id": [
+  "feat-456"
+ ],
  "level": 6,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Whirling Throw](/Feats.aspx?ID=456) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 162 <sup>4.0</sup></row>\n\n**Archetype** [Wrestler](/Archetypes.aspx?ID=127) (Level 8)\n\n**Requirements**\r\nYou have a creature grabbed or restrained.\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou propel your grabbed or restrained foe a great distance. You can throw the creature any distance up to 10 feet, plus 5 feet × your Strength modifier. If you successfully throw the creature, it takes bludgeoning damage equal to your Strength modifier plus 1d6 per 10 feet you threw it.\n\n Attempt an Athletics check against the foe’s Fortitude DC. You take a –2 circumstance penalty to your check if the target is one size larger than you and a –4 circumstance penalty if it’s larger than that. You gain a +2 circumstance bonus to your check if the target is one size smaller than you and a +4 circumstance bonus if it’s smaller than that.\n\n**Critical Success** You throw the creature the desired distance and it lands prone.<br />\r\n**Success** You throw the creature the desired distance.<br />\r\n**Failure** You don’t throw the creature.<br />\r\n**Critical Failure** You don’t throw the creature, and it’s no longer grabbed or restrained by you.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Whirling Throw](/Feats.aspx?ID=6008) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Attack\" url=\"/Traits.aspx?ID=540\" />\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 123 <sup>1.1</sup>\n\n**Archetypes** [Wrestler](/Archetypes.aspx?ID=127) (Level 8), [Wrestler](/Archetypes.aspx?ID=270) (Level 8)\n\n**Requirements**\r\nYou have a creature [grabbed](/Conditions.aspx?ID=77) or [restrained](/Conditions.aspx?ID=90).\n\n</column>\r\n\r\n---\r\n\r\nYou propel your enemy away. Attempt an [Athletics](/Skills.aspx?ID=36) check against the foe's Fortitude DC. You take a –2 circumstance penalty to your check if the target is one size larger than you and a –4 circumstance penalty if it's larger than that. You gain a +2 circumstance bonus to your check if the target is one size smaller than you and a +4 circumstance bonus if it's smaller than that.\n\n**Critical Success** You [throw](/Rules.aspx?ID=451) the creature any distance up to 10 feet, plus 5 feet × your Strength modifier. It takes bludgeoning damage equal to your Strength modifier plus 1d6 per 10 feet you threw it. If you threw the target at least 10 feet and into a solid obstacle, use the maximum distance you could have thrown it to calculate the damage. The creature falls [prone](/Conditions.aspx?ID=88).<br />\r\n**Success** As critical success, but the creature doesn't fall prone.<br />\r\n**Failure** You don't throw the creature.<br />\r\n**Critical Failure** You don't throw the creature, and it's no longer grabbed or restrained by you.\n\n<title level=\"2\">Whirling Throw leads to...</title>\r\n[Godbreaker](/Feats.aspx?ID=6049)",
  "name": "Whirling Throw",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 123",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
- "requirement": "You have a creature grabbed or restrained.",
- "requirement_markdown": "You have a creature grabbed or restrained.",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
+ "requirement": "You have a creature  grabbed  or  restrained .",
+ "requirement_markdown": "You have a creature [grabbed](/Conditions.aspx?ID=77) or [restrained](/Conditions.aspx?ID=90).",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 162 <sup>4.0</sup></row>\n\n**Requirements**\r\nYou have a creature grabbed or restrained.\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou propel your grabbed or restrained foe a great distance.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Attack\" url=\"/Traits.aspx?ID=540\" />\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 123 <sup>1.1</sup>\n\n**Requirements**\r\nYou have a creature [grabbed](/Conditions.aspx?ID=77) or [restrained](/Conditions.aspx?ID=90).\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou propel your enemy away.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 162"
+  "Player Core 2 pg. 123"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 162 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 123 <sup>1.1</sup>",
  "speed": {},
- "summary": "You propel your grabbed or restrained foe a great distance.",
- "summary_markdown": "You propel your grabbed or restrained foe a great distance.",
- "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Whirling Throw Single Action Source Core Rulebook pg. 162 4.0 Archetype Wrestler (Level 8) Requirements You have a creature grabbed or restrained. --- You propel your grabbed or restrained foe a great distance. You can throw the creature any distance up to 10 feet, plus 5 feet × your Strength modifier. If you successfully throw the creature, it takes bludgeoning damage equal to your Strength modifier plus 1d6 per 10 feet you threw it. Attempt an Athletics check against the foe’s Fortitude DC. You take a –2 circumstance penalty to your check if the target is one size larger than you and a –4 circumstance penalty if it’s larger than that. You gain a +2 circumstance bonus to your check if the target is one size smaller than you and a +4 circumstance bonus if it’s smaller than that. Critical Success You throw the creature the desired distance and it lands prone. Success You throw the creature the desired distance. Failure You don’t throw the creature. Critical Failure You don’t throw the creature, and it’s no longer grabbed or restrained by you.",
+ "summary": "You propel your enemy away.",
+ "summary_markdown": "You propel your enemy away.",
+ "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Whirling Throw Single Action Source Player Core 2 pg. 123 1.1 Archetypes Wrestler (Level 8), Wrestler (Level 8) Requirements You have a creature grabbed or restrained. --- You propel your enemy away. Attempt an Athletics check against the foe's Fortitude DC. You take a –2 circumstance penalty to your check if the target is one size larger than you and a –4 circumstance penalty if it's larger than that. You gain a +2 circumstance bonus to your check if the target is one size smaller than you and a +4 circumstance bonus if it's smaller than that. Critical Success You throw the creature any distance up to 10 feet, plus 5 feet × your Strength modifier. It takes bludgeoning damage equal to your Strength modifier plus 1d6 per 10 feet you threw it. If you threw the target at least 10 feet and into a solid obstacle, use the maximum distance you could have thrown it to calculate the damage. The creature falls prone. Success As critical success, but the creature doesn't fall prone. Failure You don't throw the creature. Critical Failure You don't throw the creature, and it's no longer grabbed or restrained by you. Whirling Throw leads to... Godbreaker",
  "trait": [
+  "Attack",
   "Monk"
  ],
- "trait_markdown": "[Monk](/Traits.aspx?ID=112)",
+ "trait_group": [
+  "Mechanics",
+  "Class",
+  "Weapon"
+ ],
+ "trait_markdown": "[Attack](/Traits.aspx?ID=540), [Monk](/Traits.aspx?ID=656)",
  "trait_raw": [
+  "Attack",
   "Monk"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=456",
+ "url": "/Feats.aspx?ID=6008",
  "weakness": {}
 }

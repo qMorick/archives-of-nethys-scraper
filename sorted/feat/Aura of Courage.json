@@ -1,42 +1,54 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Aura of Courage"
  ],
  "feat_markdown": "Aura of Courage",
- "id": "feat-223",
+ "id": "feat-5894",
+ "legacy_id": [
+  "feat-223"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Aura of Courage](/Feats.aspx?ID=223) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 111 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[tenets of good](/Tenets.aspx?ID=1)\n\n</column>\r\n\r\n---\r\n\r\nYou stand strong in the face of danger and inspire your allies to do the same. Whenever you become frightened, reduce the condition value by 1 (to a minimum of 0). At the end of your turn when you would reduce your frightened condition value by 1, you also reduce the value by 1 for all allies within 15 feet.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Aura of Courage](/Feats.aspx?ID=5894) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 94 <sup>1.1</sup>\n\n**Prerequisites**\r\nchampion’s aura, holy\n\n</column>\r\n\r\n---\r\n\r\nYou stand strong in the face of danger and inspire your allies to do the same. Whenever you become [frightened](/Conditions.aspx?ID=76), reduce the condition value by 1 (to a minimum of 0). At the end of your turn, each ally in your champion's aura reduces its frightened value by 1.",
  "name": "Aura of Courage",
  "pfs": "Standard",
- "prerequisite": "tenets of good",
- "prerequisite_markdown": "[tenets of good](/Tenets.aspx?ID=1)",
+ "prerequisite": "champion’s aura, holy",
+ "prerequisite_markdown": "champion’s aura, holy",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 94",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 111 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[tenets of good](/Tenets.aspx?ID=1)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou stand strong in the face of danger and inspire your allies to do the same.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 94 <sup>1.1</sup>\n\n**Prerequisites**\r\nchampion’s aura, holy\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou stand strong in the face of danger and inspire your allies to do the same.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 111"
+  "Player Core 2 pg. 94"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 111 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 94 <sup>1.1</sup>",
  "speed": {},
  "summary": "You stand strong in the face of danger and inspire your allies to do the same.",
  "summary_markdown": "You stand strong in the face of danger and inspire your allies to do the same.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Aura of Courage Source Core Rulebook pg. 111 4.0 Prerequisites tenets of good --- You stand strong in the face of danger and inspire your allies to do the same. Whenever you become frightened, reduce the condition value by 1 (to a minimum of 0). At the end of your turn when you would reduce your frightened condition value by 1, you also reduce the value by 1 for all allies within 15 feet.",
+ "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Aura of Courage Source Player Core 2 pg. 94 1.1 Prerequisites champion’s aura, holy --- You stand strong in the face of danger and inspire your allies to do the same. Whenever you become frightened, reduce the condition value by 1 (to a minimum of 0). At the end of your turn, each ally in your champion's aura reduces its frightened value by 1.",
  "trait": [
   "Champion"
  ],
- "trait_markdown": "[Champion](/Traits.aspx?ID=24)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Champion](/Traits.aspx?ID=811)",
  "trait_raw": [
   "Champion"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=223",
+ "url": "/Feats.aspx?ID=5894",
  "weakness": {}
 }

@@ -1,10 +1,15 @@
 {
- "ability": [
+ "attribute": [
   "Constitution",
   "Intelligence"
  ],
- "alignment": "CE",
- "breadcrumbs_spa": [],
+ "anathema": "Aid  Yamasoth , allow morality to interfere with research, destroy knowledge",
+ "area_of_concern": [
+  "Alchemy",
+  "invention",
+  "transformation"
+ ],
+ "area_of_concern_raw": "Alchemy, invention, transformation",
  "category": "deity",
  "cleric_spell": [
   "Summon Construct",
@@ -14,70 +19,92 @@
  "deity": [
   "Haagenti"
  ],
- "deity_markdown": "[Haagenti](/Deities.aspx?ID=260)",
  "deity_category": "Demon Lords",
- "deity_category_markdown": "[Demon Lords\r\n](/DeityCategories.aspx?ID=5)",
- "deity_category_order": "2Demon Lords\r\n",
+ "deity_category_markdown": "[Demon Lords](/DeityCategories.aspx?ID=5)",
+ "deity_category_order": "2Demon Lords",
  "divine_font": [
   "Harm",
   "Heal"
  ],
  "divine_font_markdown": "[Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)",
  "domain": [
+  "Ambition",
   "Change",
+  "Creation",
   "Might",
   "Toil",
   "Wealth"
  ],
- "domain_markdown": "[Change](/Domains.aspx?ID=40), [Might](/Domains.aspx?ID=20), [Toil](/Domains.aspx?ID=39), [Wealth](/Domains.aspx?ID=36)",
- "domain_alternate_markdown": "",
+ "domain_markdown": "[Ambition](/Domains.aspx?ID=64), [Change](/Domains.aspx?ID=102), [Creation](/Domains.aspx?ID=68), [Might](/Domains.aspx?ID=83), [Toil](/Domains.aspx?ID=122), [Wealth](/Domains.aspx?ID=99)",
+ "domain_alternate": [
+  "Ambition",
+  "Creation"
+ ],
+ "domain_alternate_markdown": "[Ambition](/Domains.aspx?ID=64), [Creation](/Domains.aspx?ID=68)",
  "domain_primary": [
   "Change",
   "Might",
   "Toil",
   "Wealth"
  ],
- "domain_primary_markdown": "[Change](/Domains.aspx?ID=40), [Might](/Domains.aspx?ID=20), [Toil](/Domains.aspx?ID=39), [Wealth](/Domains.aspx?ID=36)",
+ "domain_primary_markdown": "[Change](/Domains.aspx?ID=102), [Might](/Domains.aspx?ID=83), [Toil](/Domains.aspx?ID=122), [Wealth](/Domains.aspx?ID=99)",
+ "edict": "Practice alchemical transmutations, pursue knowledge whatever the cost, use your inventions to exploit others",
  "exclude_from_search": false,
  "favored_weapon": [
   "Battle Axe"
  ],
- "favored_weapon_markdown": "[Battle Axe](/Weapons.aspx?ID=16)",
- "follower_alignment": [
-  "NE",
-  "CE"
+ "favored_weapon_markdown": "[Battle Axe](/Weapons.aspx?ID=371)",
+ "id": "deity-430",
+ "legacy_id": [
+  "deity-260"
  ],
- "id": "deity-260",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Haagenti (The Whispers Within)](/Deities.aspx?ID=260)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Impossible Lands](/Sources.aspx?ID=146) pg. 297</row>\n\nHaagenti plays at seeming reasonable, tempting forbearance with his numerous helpful inventions. Yet, he's just as monstrous as any other demon, only giving his knowledge to those who'll use it to cause horrendous suffering. He claims to have invented the art of fleshwarping, and the many victims of his followers stand as a stunning testament to his true cruelty.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Demon Lords\r\n](/DeityCategories.aspx?ID=5)\r\n\r\n**Edicts** practice alchemical transmutations, pursue knowledge whatever the cost, use your inventions to exploit others\r\n\r\n**Anathema** aid Yasamoth, allow morality to interfere with research, destroy knowledge\n\n**Follower Alignments**\r\nNE, CE\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nConstitution or Intelligence\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Crafting](/Skills.aspx?ID=4)\r\n\r\n**Favored Weapon** [Battle Axe](/Weapons.aspx?ID=16)\r\n\r\n**Domains** [Change](/Domains.aspx?ID=40), [Might](/Domains.aspx?ID=20), [Toil](/Domains.aspx?ID=39), [Wealth](/Domains.aspx?ID=36)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Summon Construct](/Spells.aspx?ID=318)\n\n- **2nd**\r\n[Humanoid Form](/Spells.aspx?ID=153)\n\n- **4th**\r\n[Bestial Curse](/Spells.aspx?ID=670)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Restricted\">[Haagenti (The Whispers Within)](/Deities.aspx?ID=430)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 304\n\nHaagenti, the Whispers Within, claims an innocent, seemingly progressive portfolio of alchemy, invention, and transformation, but has dominion over the negative aspects and results of experimentation. Followers tend to be obsessive, unconcerned with the dangers of new knowledge, and selfish about their need for discovery regardless of the impact on society and individuals. Every invention created under the influence of Haagenti turns destructive in unpredictable ways. As a demon lord of transformation, Haagenti has a myriad of forms, but a common one is winged, bull-like being with axebladed horns, toxic breath, and a seductive telepathic voice. Cults tend to be small, centering around a lone “genius” and perhaps trusted apprentices, but the nature of Haagenti’s influence relies on overblown egos, and each workshop’s staff quickly turn against each other over jealousy. Both Haagenti and his cults have a standing hostility against Yamasoth, a qlippoth lord of transformation, that many see as a being encroaching on Haagenti’s purview.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Demon Lords](/DeityCategories.aspx?ID=5)\r\n\r\n**Edicts** Practice alchemical transmutations, pursue knowledge whatever the cost, use your inventions to exploit others\r\n\r\n**Anathema** Aid [Yamasoth](/Deities.aspx?ID=587), allow morality to interfere with research, destroy knowledge\r\n\r\n**Area of Concern**\r\nAlchemy, invention, transformation\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nConstitution or Intelligence\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** can choose unholy\r\n\r\n**Divine Skill** [Crafting](/Skills.aspx?ID=37)\r\n\r\n**Favored Weapon** [Battle Axe](/Weapons.aspx?ID=371)\r\n\r\n**Domains** [Change](/Domains.aspx?ID=102), [Might](/Domains.aspx?ID=83), [Toil](/Domains.aspx?ID=122), [Wealth](/Domains.aspx?ID=99)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** [Ambition](/Domains.aspx?ID=64), [Creation](/Domains.aspx?ID=68)\r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Summon Construct](/Spells.aspx?ID=1696)\n\n- **2nd**\r\n[Humanoid Form](/Spells.aspx?ID=1560)\n\n- **4th**\r\n[Bestial Curse](/Spells.aspx?ID=1966)\n\n</column>",
  "name": "Haagenti (The Whispers Within)",
- "pfs": "Standard",
+ "pfs": "Restricted",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 304",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2022-11-16",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "Philosopher’s stone",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Impossible Lands](/Sources.aspx?ID=146) pg. 297</row>\r\n\r\n**Divine Font** Harm or Heal\r\n\r\n**Divine Skill** [Crafting](/Skills.aspx?ID=4)\r\n\r\n**Favored Weapon** [Battle Axe](/Weapons.aspx?ID=16)\r\n\r\n**Domains** [Change](/Domains.aspx?ID=40), [Might](/Domains.aspx?ID=20), [Toil](/Domains.aspx?ID=39), [Wealth](/Domains.aspx?ID=36)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHaagenti plays at seeming reasonable, tempting forbearance with his numerous helpful inventions. Yet, he's just as monstrous as any other demon, only …\r\n</summary>",
+ "sacred_animal": "Bull",
+ "sacred_color": [
+  "gold",
+  "lead gray"
+ ],
+ "sanctification": [
+  "unholy"
+ ],
+ "sanctification_raw": "can choose unholy",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 304\r\n\r\n**Divine Font** Harm or Heal\r\n\r\n**Divine Skill** [Crafting](/Skills.aspx?ID=37)\r\n\r\n**Favored Weapon** [Battle Axe](/Weapons.aspx?ID=371)\r\n\r\n**Domains** [Ambition](/Domains.aspx?ID=64), [Change](/Domains.aspx?ID=102), [Creation](/Domains.aspx?ID=68), [Might](/Domains.aspx?ID=83), [Toil](/Domains.aspx?ID=122), [Wealth](/Domains.aspx?ID=99)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHaagenti, the Whispers Within, claims an innocent, seemingly progressive portfolio of alchemy, invention, and transformation, but has dominion over …\r\n</summary>",
  "skill": [
   "Crafting"
  ],
- "skill_markdown": "[Crafting](/Skills.aspx?ID=4)",
+ "skill_markdown": "[Crafting](/Skills.aspx?ID=37)",
+ "skill_mod": {},
  "source": [
-  "Impossible Lands"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Impossible Lands pg. 297"
+  "Divine Mysteries pg. 304"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Impossible Lands](/Sources.aspx?ID=146) pg. 297</row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 304",
  "speed": {},
- "summary": "Haagenti plays at seeming reasonable, tempting forbearance with his numerous helpful inventions. Yet, he's just as monstrous as any other demon, only …",
- "summary_markdown": "Haagenti plays at seeming reasonable, tempting forbearance with his numerous helpful inventions. Yet, he's just as monstrous as any other demon, only …",
- "text": " Haagenti (The Whispers Within) Source Impossible Lands pg. 297 Haagenti plays at seeming reasonable, tempting forbearance with his numerous helpful inventions. Yet, he's just as monstrous as any other demon, only giving his knowledge to those who'll use it to cause horrendous suffering. He claims to have invented the art of fleshwarping, and the many victims of his followers stand as a stunning testament to his true cruelty. Category [Demon Lords ](/DeityCategories.aspx?ID=5) Edicts practice alchemical transmutations, pursue knowledge whatever the cost, use your inventions to exploit others Anathema aid Yasamoth, allow morality to interfere with research, destroy knowledge Follower Alignments NE, CE Devotee Benefits Divine Ability Constitution or Intelligence Divine Font Harm or Heal Divine Skill Crafting Favored Weapon Battle Axe Domains Change, Might, Toil, Wealth Alternate Domains Cleric Spells - 1st Summon Construct - 2nd Humanoid Form - 4th Bestial Curse\n",
- "trait": [
-  "CE"
+ "spell": [
+  "Summon Construct",
+  "Humanoid Form",
+  "Bestial Curse"
  ],
- "trait_raw": [
-  "CE"
- ],
+ "spell_markdown": "[Bestial Curse](/Spells.aspx?ID=1966), [Humanoid Form](/Spells.aspx?ID=1560), [Summon Construct](/Spells.aspx?ID=1696)",
+ "summary": "Haagenti, the Whispers Within, claims an innocent, seemingly progressive portfolio of alchemy, invention, and transformation, but has dominion over …",
+ "summary_markdown": "Haagenti, the Whispers Within, claims an innocent, seemingly progressive portfolio of alchemy, invention, and transformation, but has dominion over …",
+ "text": " Haagenti (The Whispers Within) Source Divine Mysteries pg. 304 Haagenti, the Whispers Within, claims an innocent, seemingly progressive portfolio of alchemy, invention, and transformation, but has dominion over the negative aspects and results of experimentation. Followers tend to be obsessive, unconcerned with the dangers of new knowledge, and selfish about their need for discovery regardless of the impact on society and individuals. Every invention created under the influence of Haagenti turns destructive in unpredictable ways. As a demon lord of transformation, Haagenti has a myriad of forms, but a common one is winged, bull-like being with axebladed horns, toxic breath, and a seductive telepathic voice. Cults tend to be small, centering around a lone “genius” and perhaps trusted apprentices, but the nature of Haagenti’s influence relies on overblown egos, and each workshop’s staff quickly turn against each other over jealousy. Both Haagenti and his cults have a standing hostility against Yamasoth, a qlippoth lord of transformation, that many see as a being encroaching on Haagenti’s purview. Category Demon Lords Edicts Practice alchemical transmutations, pursue knowledge whatever the cost, use your inventions to exploit others Anathema Aid Yamasoth, allow morality to interfere with research, destroy knowledge Area of Concern Alchemy, invention, transformation Devotee Benefits Divine Attribute Constitution or Intelligence Divine Font Harm or Heal Divine Sanctification can choose unholy Divine Skill Crafting Favored Weapon Battle Axe Domains Change, Might, Toil, Wealth Alternate Domains Ambition, Creation Cleric Spells - 1st Summon Construct - 2nd Humanoid Form - 4th Bestial Curse\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=260",
+ "url": "/Deities.aspx?ID=430",
  "weakness": {}
 }

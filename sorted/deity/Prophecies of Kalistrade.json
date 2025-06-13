@@ -1,15 +1,19 @@
 {
- "ability": [
+ "attribute": [
   "Intelligence",
   "Charisma"
  ],
- "alignment": "LN",
- "breadcrumbs_spa": [],
+ "anathema": "spend money frivolously; offer money to those who don’t deserve wealth; overindulge in physical pleasures, food, or drink; give charity to others",
+ "area_of_concern": [
+  "trade wealth",
+  "self-denial",
+  "stability"
+ ],
+ "area_of_concern_raw": "trade wealth, self-denial, stability",
  "category": "deity",
  "deity": [
-  "Prophecies of Kalistrade"
+  "Prophecies Of Kalistrade"
  ],
- "deity_markdown": "[Prophecies of Kalistrade](/Deities.aspx?ID=23)",
  "deity_category": "Faiths & Philosophies",
  "deity_category_markdown": "[Faiths & Philosophies](/DeityCategories.aspx?ID=0)",
  "deity_category_order": "3Faiths & Philosophies",
@@ -17,48 +21,49 @@
  "domain_markdown": "",
  "domain_alternate_markdown": "",
  "domain_primary_markdown": "",
+ "edict": "accumulate personal wealth, seek enlightenment through purity of self, foster and aid mercantile pursuits, welcome newcomers regardless of gender or ancestry",
  "exclude_from_search": false,
  "favored_weapon_markdown": "",
- "follower_alignment": [
-  "LG",
-  "LN",
-  "LE"
+ "id": "deity-387",
+ "legacy_id": [
+  "deity-23"
  ],
- "icon_image": "/Images/Deities/ProphetsOfKalistrade.png",
- "id": "deity-23",
- "image": [
-  "/Images/Deities/ProphetsOfKalistrade.png"
+ "legacy_name": [
+  "Prophecies of Kalistrade"
  ],
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Prophecies of Kalistrade](/Deities.aspx?ID=23)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"LN\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 99 <sup>2.0</sup></row>\n\nThe secular prophecies of Kalistrade are famously centered on a single principle: amassing personal wealth both in search of and as evidence of personal enlightenment. The prophets of Kalistrade, often referred to as Kalistocrats, believe that achieving purity of body, mind, and spirit will lead to financial success, and thus they avoid certain foods and eschew contact with most persons and objects as impure. To avoid contamination and contact with nonbelievers they wear long, white gloves, and they wear distinctive, all-white clothing to represent their purity—often incorporating their symbol, a circle inside a triangle that is itself inscribed in a larger circle.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Faiths &amp; Philosophies](/DeityCategories.aspx?ID=0)\r\n\r\n**Edicts** accumulate personal wealth, seek enlightenment through purity of self, foster and aid mercantile pursuits, welcome newcomers regardless of gender or ancestry\r\n\r\n**Anathema** spend money frivolously; offer money to those who don't deserve wealth; overindulge in physical pleasures, food, or drink; give charity to others\r\n\r\n**Area of Concern**\r\ntrade, wealth, self-denial, stability\r\n\r\n**Follower Alignments**\r\nLG, LN, LE\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Deities/ProphetsOfKalistrade.png\" />\r\n</column>\r\n\r\n</row>",
- "name": "Prophecies of Kalistrade",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Prophecies Of Kalistrade](/Deities.aspx?ID=387)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 248\n\nThe human prophet Kalistrade lived in Druma in the third century ar. Following an 8-year journey of enlightenment, he began preaching an economic mysticism that drew on his own dream visions, Druman traditions of industriousness, and Kellid folklore about an earlier religion—the whiteclad Speakers of the Pale. Following his disappearance in 252 ar, his disciples reworked his Ontologies of Self, adding more of his writings and their own commentaries. The resulting momentous tome is the Prophecies of Kalistrade. This sizable text consists of hundreds of pages that compile Kalistrade’s core principles and teachings. Among its fables, parables, occult mysticism, and other ramblings are sound economic lessons and many particulars about personal purity. The size of the tome makes it difficult to keep as a reference manual. Instead, most copies of the Prophecies are designed for home use, with many of them printed as large tomes bound in precious metals and embedded with jewels. \n\nThe secular prophecies of Kalistrade are famously centered on a single principle: amassing personal wealth both in search of and as evidence of personal enlightenment. The prophets of Kalistrade, often referred to as Kalistocrats, believe that achieving purity of body, mind, and spirit will lead to financial success, and thus they avoid certain foods and eschew contact with most persons and objects as impure. Despite their lavish material resources, they avoid material comforts and live ascetic lives, even though they could easily afford a luxurious lifestyle. To avoid contamination and contact with nonbelievers they wear long, white gloves, and they wear distinctive, all-white clothing to represent their purity—often incorporating their symbol, a circle inside a triangle that is itself inscribed in a larger circle. Exploiting fellow Kalistocrats is quietly encouraged and even lauded.\n\nPurity of mind, body, and spirit is Kalistrade’s fundamental requirement for the attainment of personal affluence. A Kalistocrat achieves purity of mind primarily through meditation, a practice to be called on throughout the day whenever focus deviates from the pursuit of wealth. Mental purity also demands a Kalistocrat avoid any temptations to bestow charity or to be wasteful. Bodily purity, based in principles of ascetic self-denial, is much more complicated. First, the Kalistocrat recognizes three categories of food: pure, clean, and unclean, depending on each ingredient’s origin, processing, and nutritional profile. To achieve purity, a practitioner must avoid eating any unclean foods, instead taking simple and light meals (with very occasional exceptions for ostentatious feasting). Second, the Kalistocrat strives to remain free of any physical contact, particularly with nonbelievers. Voluntary touching is assiduously avoided, and involuntary touching is minimized through the use of gloves and enveloping clothing. While the Prophecies enjoin celibacy, many Kalistocrats make some personal exceptions. Most permissible are sexual relations with a likely convert or a wealthy patron—or, better, someone who is both.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Faiths &amp; Philosophies](/DeityCategories.aspx?ID=0)\r\n\r\n**Edicts** accumulate personal wealth, seek enlightenment through purity of self, foster and aid mercantile pursuits, welcome newcomers regardless of gender or ancestry\r\n\r\n**Anathema** spend money frivolously; offer money to those who don’t deserve wealth; overindulge in physical pleasures, food, or drink; give charity to others\r\n\r\n**Area of Concern**\r\ntrade wealth, self-denial, stability\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "name": "Prophecies Of Kalistrade",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 248",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 99 <sup>2.0</sup></row>\r\n\r\n**Divine Font** \r\n\r\n**Divine Skill** [Diplomacy](/Skills.aspx?ID=6)\r\n\r\n**Favored Weapon** \r\n\r\n**Domains** \r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe secular prophecies of Kalistrade are famously centered on a single principle: amassing personal wealth both in search of and as evidence of …\r\n</summary>",
+ "sanctification_raw": "none",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 248\r\n\r\n**Divine Font** \r\n\r\n**Divine Skill** [Diplomacy](/Skills.aspx?ID=39)\r\n\r\n**Favored Weapon** \r\n\r\n**Domains** \r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe human prophet Kalistrade lived in Druma in the third century ar. Following an 8-year journey of enlightenment, he began preaching an economic …\r\n</summary>",
  "skill": [
   "Diplomacy"
  ],
- "skill_markdown": "[Diplomacy](/Skills.aspx?ID=6)",
+ "skill_markdown": "[Diplomacy](/Skills.aspx?ID=39)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 99"
+  "Divine Mysteries pg. 248"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 99 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 248",
  "speed": {},
- "summary": "The secular prophecies of Kalistrade are famously centered on a single principle: amassing personal wealth both in search of and as evidence of …",
- "summary_markdown": "The secular prophecies of Kalistrade are famously centered on a single principle: amassing personal wealth both in search of and as evidence of …",
- "text": " Prophecies of Kalistrade Source Gods &amp; Magic pg. 99 2.0 The secular prophecies of Kalistrade are famously centered on a single principle: amassing personal wealth both in search of and as evidence of personal enlightenment. The prophets of Kalistrade, often referred to as Kalistocrats, believe that achieving purity of body, mind, and spirit will lead to financial success, and thus they avoid certain foods and eschew contact with most persons and objects as impure. To avoid contamination and contact with nonbelievers they wear long, white gloves, and they wear distinctive, all-white clothing to represent their purity—often incorporating their symbol, a circle inside a triangle that is itself inscribed in a larger circle. Category Faiths &amp; Philosophies Edicts accumulate personal wealth, seek enlightenment through purity of self, foster and aid mercantile pursuits, welcome newcomers regardless of gender or ancestry Anathema spend money frivolously; offer money to those who don't deserve wealth; overindulge in physical pleasures, food, or drink; give charity to others Area of Concern trade, wealth, self-denial, stability Follower Alignments LG, LN, LE\n",
- "trait": [
-  "LN"
- ],
- "trait_raw": [
-  "LN"
- ],
+ "spell_markdown": "",
+ "summary": "The human prophet Kalistrade lived in Druma in the third century ar. Following an 8-year journey of enlightenment, he began preaching an economic …",
+ "summary_markdown": "The human prophet Kalistrade lived in Druma in the third century ar. Following an 8-year journey of enlightenment, he began preaching an economic …",
+ "text": " Prophecies Of Kalistrade Source Divine Mysteries pg. 248 The human prophet Kalistrade lived in Druma in the third century ar. Following an 8-year journey of enlightenment, he began preaching an economic mysticism that drew on his own dream visions, Druman traditions of industriousness, and Kellid folklore about an earlier religion—the whiteclad Speakers of the Pale. Following his disappearance in 252 ar, his disciples reworked his Ontologies of Self, adding more of his writings and their own commentaries. The resulting momentous tome is the Prophecies of Kalistrade. This sizable text consists of hundreds of pages that compile Kalistrade’s core principles and teachings. Among its fables, parables, occult mysticism, and other ramblings are sound economic lessons and many particulars about personal purity. The size of the tome makes it difficult to keep as a reference manual. Instead, most copies of the Prophecies are designed for home use, with many of them printed as large tomes bound in precious metals and embedded with jewels. The secular prophecies of Kalistrade are famously centered on a single principle: amassing personal wealth both in search of and as evidence of personal enlightenment. The prophets of Kalistrade, often referred to as Kalistocrats, believe that achieving purity of body, mind, and spirit will lead to financial success, and thus they avoid certain foods and eschew contact with most persons and objects as impure. Despite their lavish material resources, they avoid material comforts and live ascetic lives, even though they could easily afford a luxurious lifestyle. To avoid contamination and contact with nonbelievers they wear long, white gloves, and they wear distinctive, all-white clothing to represent their purity—often incorporating their symbol, a circle inside a triangle that is itself inscribed in a larger circle. Exploiting fellow Kalistocrats is quietly encouraged and even lauded. Purity of mind, body, and spirit is Kalistrade’s fundamental requirement for the attainment of personal affluence. A Kalistocrat achieves purity of mind primarily through meditation, a practice to be called on throughout the day whenever focus deviates from the pursuit of wealth. Mental purity also demands a Kalistocrat avoid any temptations to bestow charity or to be wasteful. Bodily purity, based in principles of ascetic self-denial, is much more complicated. First, the Kalistocrat recognizes three categories of food: pure, clean, and unclean, depending on each ingredient’s origin, processing, and nutritional profile. To achieve purity, a practitioner must avoid eating any unclean foods, instead taking simple and light meals (with very occasional exceptions for ostentatious feasting). Second, the Kalistocrat strives to remain free of any physical contact, particularly with nonbelievers. Voluntary touching is assiduously avoided, and involuntary touching is minimized through the use of gloves and enveloping clothing. While the Prophecies enjoin celibacy, many Kalistocrats make some personal exceptions. Most permissible are sexual relations with a likely convert or a wealthy patron—or, better, someone who is both. Category Faiths &amp; Philosophies Edicts accumulate personal wealth, seek enlightenment through purity of self, foster and aid mercantile pursuits, welcome newcomers regardless of gender or ancestry Anathema spend money frivolously; offer money to those who don’t deserve wealth; overindulge in physical pleasures, food, or drink; give charity to others Area of Concern trade wealth, self-denial, stability\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=23",
+ "url": "/Deities.aspx?ID=387",
  "weakness": {}
 }

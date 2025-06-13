@@ -1,22 +1,29 @@
 {
  "actions": "Two Actions",
+ "actions_number": 4,
  "bloodline_markdown": "",
- "breadcrumbs_spa": [],
  "category": "spell",
- "component": [
-  "somatic",
-  "verbal"
- ],
- "deity_markdown": "",
  "domain": [
-  "Wyrmkin"
+  "Dragon"
  ],
- "domain_markdown": "[Wyrmkin](/Domains.aspx?ID=57)",
+ "domain_markdown": "[Dragon](/Domains.aspx?ID=106)",
  "duration": 60,
  "duration_raw": "1 minute",
  "exclude_from_search": false,
  "heighten": [
   "+1"
+ ],
+ "heighten_group": [
+  "1st rank",
+  "Heightened 2nd rank",
+  "Heightened 3rd rank",
+  "Heightened 4th rank",
+  "Heightened 5th rank",
+  "Heightened 6th rank",
+  "Heightened 7th rank",
+  "Heightened 8th rank",
+  "Heightened 9th rank",
+  "Heightened 10th rank"
  ],
  "heighten_level": [
   1,
@@ -30,40 +37,60 @@
   9,
   10
  ],
- "id": "spell-628",
+ "id": "spell-2385",
+ "legacy_id": [
+  "spell-628"
+ ],
  "level": 1,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Focus 1\" pfs=\"Standard\">[Draconic Barrage](/Spells.aspx?ID=628)</title>\n\n<traits>\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 119 <sup>2.0</sup></row>\n\n**Domain**\r\n[Wyrmkin](/Domains.aspx?ID=57)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou shape energy into one incorporeal tiny dragon (or serpentine creature) that flits around you. The specific dragon is random; roll 1d6 on the table below for each dragon evoked to determine which type of dragon you create. While the spell persists, you can command one of your dragons to spit a missile of energy at a creature within 60 feet by using a single action, which has the [concentrate](/Traits.aspx?ID=32) trait. This is a ranged Strike that uses your spell attack bonus and deals 1d6 damage plus your spellcasting ability modifier, with the damage type depending on the dragon. A dragon’s breath Strike uses and contributes to your multiple attack penalty. Once a dragon has used its breath Strike, it winks out of existence; when you have no dragons remaining, the spell ends.\n\n## Draconic Barrage\n<row gap=\"tiny\">\n<table> <tr><td>**D6**</td><td>**Dragon**</td><td>**Breath Strike Type**</td></tr> <tr><td>1</td><td>Copper or black</td><td>Acid</td></tr> <tr><td>2</td><td>Silver or white</td><td>Cold</td></tr> <tr><td>3</td><td>Bronze or blue</td><td>Electricity</td></tr> <tr><td>4</td><td>Brass, gold, or red</td><td>Fire</td></tr> <tr><td>5</td><td>Green</td><td>Poison</td></tr> <tr><td>6</td><td>Your choice of dragon</td><td>As the dragon</td></tr> </table></row>\n\n---\r\n**Heightened (+1)** You shape 1 additional dragon, and the Strike damage increases by 1d6.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Focus 1\" pfs=\"Standard\">\r\n[Draconic Barrage](/Spells.aspx?ID=2385)\r\n<actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 264\n\n**Domain**\r\n[Dragon](/Domains.aspx?ID=106)\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou shape energy into a small group of tiny dragons (or other serpentine creatures) that flit around you. Choose [fire](/Traits.aspx?ID=604), [force](/Traits.aspx?ID=610), [mental](/Traits.aspx?ID=647), or [spirit](/Traits.aspx?ID=737) damage when you [Cast the Spell](/Actions.aspx?ID=2734). For the duration of the spell, your Strikes with weapons or unarmed attacks deal 1 additional damage of the chosen type, as the dragons add their energy to your attacks. You can [Sustain](/Actions.aspx?ID=2317) the spell to change the damage type. In addition, you can Sustain the spell to have the dragons fly off to bombard a creature within 60 feet. That creature takes 2d4 damage of the chosen type (basic Reflex save). Once the dragons have been used in this way, they wink out of existence and the spell ends.\n\n---\r\n**Heightened (+1)** The additional amount of damage from the dragons increases by 1 and the damage dealt by the dragons' bombardment increases by 2d4.",
  "name": "Draconic Barrage",
- "patron_theme_markdown": "",
  "pfs": "Standard",
- "rarity": "common",
- "release_date": "2020-01-29",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 264",
+ "primary_source_category": "Lost Omens",
+ "rarity": "uncommon",
+ "rarity_id": 2,
+ "release_date": "2025-01-30",
  "resistance": {},
- "school": "evocation",
- "search_markdown": "<traits>\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 119 <sup>2.0</sup></row>\n\n**Domain**\r\n[Wyrmkin](/Domains.aspx?ID=57)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Duration** 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou shape energy into one incorporeal tiny dragon that flits around you.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 264\n\n**Domain**\r\n[Dragon](/Domains.aspx?ID=106)\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou shape energy into a small group of tiny dragons (or other serpentine creatures) that flit around you.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 119"
+  "Divine Mysteries pg. 264"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 119 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 264",
  "speed": {},
- "summary": "You shape energy into one incorporeal tiny dragon that flits around you.",
- "summary_markdown": "You shape energy into one incorporeal tiny dragon that flits around you.",
- "text": " Draconic Barrage Source Gods &amp; Magic pg. 119 2.0 Domain Wyrmkin Cast Two Actions somatic, verbal Duration 1 minute --- You shape energy into one incorporeal tiny dragon (or serpentine creature) that flits around you. The specific dragon is random; roll 1d6 on the table below for each dragon evoked to determine which type of dragon you create. While the spell persists, you can command one of your dragons to spit a missile of energy at a creature within 60 feet by using a single action, which has the concentrate trait. This is a ranged Strike that uses your spell attack bonus and deals 1d6 damage plus your spellcasting ability modifier, with the damage type depending on the dragon. A dragon’s breath Strike uses and contributes to your multiple attack penalty. Once a dragon has used its breath Strike, it winks out of existence; when you have no dragons remaining, the spell ends. ## Draconic Barrage D6 Dragon Breath Strike Type 1 Copper or black Acid 2 Silver or white Cold 3 Bronze or blue Electricity 4 Brass, gold, or red Fire 5 Green Poison 6 Your choice of dragon As the dragon --- Heightened (+1) You shape 1 additional dragon, and the Strike damage increases by 1d6.",
+ "spell_type": "Focus",
+ "summary": "You shape energy into a small group of tiny dragons (or other serpentine creatures) that flit around you.",
+ "summary_markdown": "You shape energy into a small group of tiny dragons (or other serpentine creatures) that flit around you.",
+ "text": "\nDraconic Barrage Two Actions Source Divine Mysteries pg. 264 Domain Dragon Duration 1 minute --- You shape energy into a small group of tiny dragons (or other serpentine creatures) that flit around you. Choose fire, force, mental, or spirit damage when you Cast the Spell. For the duration of the spell, your Strikes with weapons or unarmed attacks deal 1 additional damage of the chosen type, as the dragons add their energy to your attacks. You can Sustain the spell to change the damage type. In addition, you can Sustain the spell to have the dragons fly off to bombard a creature within 60 feet. That creature takes 2d4 damage of the chosen type (basic Reflex save). Once the dragons have been used in this way, they wink out of existence and the spell ends. --- Heightened (+1) The additional amount of damage from the dragons increases by 1 and the damage dealt by the dragons' bombardment increases by 2d4.",
  "tradition_markdown": "",
  "trait": [
-  "Evocation"
+  "Cleric",
+  "Concentrate",
+  "Focus",
+  "Manipulate",
+  "Uncommon"
  ],
- "trait_markdown": "[Evocation](/Traits.aspx?ID=65)",
+ "trait_group": [
+  "Class",
+  "Mechanics",
+  "Rarity"
+ ],
+ "trait_markdown": "[Cleric](/Traits.aspx?ID=26), [Concentrate](/Traits.aspx?ID=32), [Focus](/Traits.aspx?ID=511), [Manipulate](/Traits.aspx?ID=104), [Uncommon](/Traits.aspx?ID=159)",
  "trait_raw": [
-  "Evocation"
+  "Cleric",
+  "Concentrate",
+  "Focus",
+  "Manipulate",
+  "Uncommon"
  ],
- "type": "Focus",
- "url": "/Spells.aspx?ID=628",
+ "type": "Spell",
+ "url": "/Spells.aspx?ID=2385",
  "weakness": {}
 }

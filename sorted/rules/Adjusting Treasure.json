@@ -1,37 +1,51 @@
 {
  "breadcrumbs": [
-  "Chapter 4: Variant Rules",
-  "Proficiency without Level"
+  "Chapter 5: Treasure Trove",
+  "Relics",
+  "Discovering a Relic",
+  "Campaign Relics",
+  "Relic Aspects"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1372",
- "markdown": "<title level=\"1\" right=\"Rules\">[Adjusting Treasure](/Rules.aspx?ID=1372)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 198</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nTreasure and the cost of items in the _Core Rulebook_ are designed to make it as easy as possible for you to build encounters without worrying about awarding too much or too little treasure based on whether you use creatures who carry items. However, using this variant, the PCs might defeat a creature 5 levels higher than they are, or even more! Too many encounters with higher-level foes can wind up giving the PCs more treasure than you expected, or vice-versa if they’re fighting weaker foes that put up more of a fight but still have poor treasure. You can nudge this in the right direction by making periodic adjustments if the PCs’ treasure drifts too far from expectations. Making it so they can’t easily sell or buy magic items will mean it’s harder for them to exploit treasure they gain. To sidestep the treasure economy entirely, you can use the [automatic item bonus progression](/Rules.aspx?ID=1357).\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-3254",
+ "legacy_id": [
+  "rules-1102"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Adjusting Treasure](/Rules.aspx?ID=3254)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 309 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nWhen you incorporate relics into your game, you can adjust the treasure gained by the party down to account for the relics increasing in power. Essentially, some of the treasure from the [Party Treasure by Level](/Rules.aspx?ID=2656) table should be replaced with relic seeds and gifts instead. You can use the relic's minimum level, replacing a permanent item of that level, or you can use the gp equivalent. Keep in mind that relic gifts are often a little more powerful than other items with the same Price even when they start out, and they often scale without any additional costs, so PCs with relics will usually be a bit more powerful.\n\nIf you prefer, you can grant relics in addition to other rewards. This means PCs will be much more powerful, but you're rewarding their investment in the story.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Player-Driven Relics</title>\r\n\r\nThough these rules assume you as the GM are providing relic gifts as a form of treasure with input from the players, you can instead have the players make all the decisions for their relics. Encourage the players to choose different styles of items and aspects to match their characters' themes, rather than simply choosing the most powerful combination of options. Have players describe how their relic gets more powerful in the story. What acts from previous sessions lent the relic power? What special meditations or practices did they perform to unlock new gifts? How does it feel to have the relic grow?\n\nAs the item and the character level up, the player chooses which gifts the item gets from the list as a part of character advancement. You still adjust treasure as normal for incorporating relics into your game. In fact, if the player tries to optimize the combinations, they will likely be more powerful than under the standard method.\r\n</aside>",
  "name": "Adjusting Treasure",
  "next_link": {
-  "label": "Skill Points",
-  "url": "/Rules.aspx?ID=1373"
+  "label": "Making Relic Seeds",
+  "url": "/Rules.aspx?ID=3255"
  },
  "previous_link": {
-  "label": "Adjusting Encounters",
-  "url": "/Rules.aspx?ID=1371"
+  "label": "Advancing a Relic",
+  "url": "/Rules.aspx?ID=3253"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 309",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 198</row>\r\n\r\nChapter 4: Variant Rules / Proficiency without Level\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 309 <sup>2.0</sup>\r\n\r\nChapter 5: Treasure Trove / Relics / Discovering a Relic / Campaign Relics / Relic Aspects\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen you incorporate relics into your game, you can adjust the treasure gained by the party down to account for the relics increasing in power. …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 198"
+  "GM Core pg. 309"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 198</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 309 <sup>2.0</sup>",
  "speed": {},
- "text": " Adjusting Treasure Source Gamemastery Guide pg. 198 Treasure and the cost of items in the Core Rulebook are designed to make it as easy as possible for you to build encounters without worrying about awarding too much or too little treasure based on whether you use creatures who carry items. However, using this variant, the PCs might defeat a creature 5 levels higher than they are, or even more! Too many encounters with higher-level foes can wind up giving the PCs more treasure than you expected, or vice-versa if they’re fighting weaker foes that put up more of a fight but still have poor treasure. You can nudge this in the right direction by making periodic adjustments if the PCs’ treasure drifts too far from expectations. Making it so they can’t easily sell or buy magic items will mean it’s harder for them to exploit treasure they gain. To sidestep the treasure economy entirely, you can use the automatic item bonus progression. ",
+ "summary": "When you incorporate relics into your game, you can adjust the treasure gained by the party down to account for the relics increasing in power. …",
+ "summary_markdown": "When you incorporate relics into your game, you can adjust the treasure gained by the party down to account for the relics increasing in power. …",
+ "text": " Adjusting Treasure Source GM Core pg. 309 2.0 When you incorporate relics into your game, you can adjust the treasure gained by the party down to account for the relics increasing in power. Essentially, some of the treasure from the Party Treasure by Level table should be replaced with relic seeds and gifts instead. You can use the relic's minimum level, replacing a permanent item of that level, or you can use the gp equivalent. Keep in mind that relic gifts are often a little more powerful than other items with the same Price even when they start out, and they often scale without any additional costs, so PCs with relics will usually be a bit more powerful. If you prefer, you can grant relics in addition to other rewards. This means PCs will be much more powerful, but you're rewarding their investment in the story. Player-Driven Relics Though these rules assume you as the GM are providing relic gifts as a form of treasure with input from the players, you can instead have the players make all the decisions for their relics. Encourage the players to choose different styles of items and aspects to match their characters' themes, rather than simply choosing the most powerful combination of options. Have players describe how their relic gets more powerful in the story. What acts from previous sessions lent the relic power? What special meditations or practices did they perform to unlock new gifts? How does it feel to have the relic grow? As the item and the character level up, the player chooses which gifts the item gets from the list as a part of character advancement. You still adjust treasure as normal for incorporating relics into your game. In fact, if the player tries to optimize the combinations, they will likely be more powerful than under the standard method. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1372",
+ "url": "/Rules.aspx?ID=3254",
  "weakness": {}
 }

@@ -1,30 +1,37 @@
 {
  "actions": "Two Actions",
- "breadcrumbs_spa": [],
+ "actions_number": 4,
  "category": "action",
  "exclude_from_search": true,
  "frequency": "once per day",
- "id": "action-1249",
- "markdown": "**Activate** <actions string=\"Two Actions\" />envision, command;  **Frequency** once per day;   **Effect** You deposit up to 30 gp of gems and coins in a separate pouch of the _bottomless purse_ while thinking of a common consumable item costing that amount of money. You then upend the pouch. The item you envisioned comes tumbling out into your hand.",
+ "id": "action-279",
+ "markdown": "**Activate** <actions string=\"Two Actions\" /> envision, command;  **Frequency** once per day;   **Effect** You gain the effects of an 8th-level [_true seeing_](/Spells.aspx?ID=344) spell.",
  "name": "envision, command",
+ "primary_source": "Core Rulebook",
+ "primary_source_raw": "Core Rulebook pg. 616",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2022-07-27",
+ "rarity_id": 1,
+ "release_date": "2019-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 164</row>\r\n\r\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou deposit up to 30 gp of gems and coins in a separate pouch of the  bottomless purse  while thinking of a common consumable item costing that …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 616 <sup>4.0</sup>\r\n\r\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain the effects of an 8th-level   true seeing   spell.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Dark Archive"
+  "Core Rulebook"
  ],
  "source_raw": [
-  "Dark Archive pg. 164"
+  "Core Rulebook pg. 616"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Dark Archive](/Sources.aspx?ID=129) pg. 164</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 616 <sup>4.0</sup>",
  "speed": {},
- "summary": "You deposit up to 30 gp of gems and coins in a separate pouch of the  bottomless purse  while thinking of a common consumable item costing that …",
- "summary_markdown": "You deposit up to 30 gp of gems and coins in a separate pouch of the  bottomless purse  while thinking of a common consumable item costing that …",
- "text": " Activate Two Actionsenvision, command; Frequency once per day; Effect You deposit up to 30 gp of gems and coins in a separate pouch of the bottomless purse while thinking of a common consumable item costing that amount of money. You then upend the pouch. The item you envisioned comes tumbling out into your hand.",
+ "summary": "You gain the effects of an 8th-level   true seeing   spell.",
+ "summary_markdown": "You gain the effects of an 8th-level   true seeing   spell.",
+ "text": " Activate Two Actions envision, command; Frequency once per day; Effect You gain the effects of an 8th-level true seeing spell.",
  "trait_markdown": "",
  "type": "Action",
- "url": "/Actions.aspx?ID=1249",
+ "url": "/Actions.aspx?ID=279",
  "weakness": {}
 }

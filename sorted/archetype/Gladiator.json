@@ -6,34 +6,46 @@
   "Profession",
   "Core"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-61",
+ "id": "archetype-251",
+ "image": [
+  "/Images/Archetypes/Archetype_Gladiator.webp"
+ ],
+ "legacy_id": [
+  "archetype-61"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Gladiator](/Archetypes.aspx?ID=61)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 175 <sup>2.0</sup></row>\n\nThe roar of the crowd and thrill of competitive combat drive you to become the best—and the fame isn't bad either. \n\nIf there are sapient creatures observing a combat encounter, and these onlookers are neither engaged in the combat themselves nor allied or affiliated with either side, the combatants have spectators. The GM is the final arbiter.\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-1976\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1977\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1978\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1979\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1980\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1981\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4142\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4146\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Gladiator](/Archetypes.aspx?ID=251)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 201 <sup>1.1</sup>\n\nThe roar of the crowd and thrill of competitive combat drive you to become the best—and the fame isn't bad either. You always do your best work under the fervent gaze of spectators, and by work, you of course mean violence.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Gladiator.webp\" />\r\n</column>\r\n\r\n</row>\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-6333\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6334\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6335\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6336\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6337\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6338\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4142\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7634\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7635\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7640\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7642\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7643\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7644\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7646\"\n\n/>",
  "name": "Gladiator",
  "pfs": "Standard",
  "prerequisite": "Impressive Performance",
- "prerequisite_markdown": "[Impressive Performance](/Feats.aspx?ID=793)",
+ "prerequisite_markdown": "[Impressive Performance](/Feats.aspx?ID=5159)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 201",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 175 <sup>2.0</sup></row>\r\n\r\n**Prerequisites**\r\n[Impressive Performance](/Feats.aspx?ID=793)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe roar of the crowd and thrill of competitive combat drive you to become the best—and the fame isn't bad either.   If there are sapient creatures …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 201 <sup>1.1</sup>\r\n\r\n**Prerequisites**\r\n[Impressive Performance](/Feats.aspx?ID=5159)\n\n**Archetype Categories**\r\nProfession, Core\r\n\r\n**Number of Feats** 14\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe roar of the crowd and thrill of competitive combat drive you to become the best—and the fame isn't bad either. You always do your best work under …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 175"
+  "Player Core 2 pg. 201"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 175 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 201 <sup>1.1</sup>",
  "speed": {},
- "summary": "The roar of the crowd and thrill of competitive combat drive you to become the best—and the fame isn't bad either.   If there are sapient creatures …",
- "summary_markdown": "The roar of the crowd and thrill of competitive combat drive you to become the best—and the fame isn't bad either.   If there are sapient creatures …",
- "text": " Gladiator Source Advanced Player's Guide pg. 175 2.0 The roar of the crowd and thrill of competitive combat drive you to become the best—and the fame isn't bad either. If there are sapient creatures observing a combat encounter, and these onlookers are neither engaged in the combat themselves nor allied or affiliated with either side, the combatants have spectators. The GM is the final arbiter. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-1977\" /> <document level=\"2\" id=\"feat-1978\" /> <document level=\"2\" id=\"feat-1979\" /> <document level=\"2\" id=\"feat-1980\" /> <document level=\"2\" id=\"feat-1981\" /> <document level=\"2\" id=\"feat-4142\" /> <document level=\"2\" id=\"feat-4146\" />",
+ "summary": "The roar of the crowd and thrill of competitive combat drive you to become the best—and the fame isn't bad either. You always do your best work under …",
+ "summary_markdown": "The roar of the crowd and thrill of competitive combat drive you to become the best—and the fame isn't bad either. You always do your best work under …",
+ "text": " Gladiator Source Player Core 2 pg. 201 1.1 The roar of the crowd and thrill of competitive combat drive you to become the best—and the fame isn't bad either. You always do your best work under the fervent gaze of spectators, and by work, you of course mean violence. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-6334\" /> <document level=\"2\" id=\"feat-6335\" /> <document level=\"2\" id=\"feat-6336\" /> <document level=\"2\" id=\"feat-6337\" /> <document level=\"2\" id=\"feat-6338\" /> <document level=\"2\" id=\"feat-4142\" /> <document level=\"2\" id=\"feat-7634\" /> <document level=\"2\" id=\"feat-7635\" /> <document level=\"2\" id=\"feat-7640\" /> <document level=\"2\" id=\"feat-7642\" /> <document level=\"2\" id=\"feat-7643\" /> <document level=\"2\" id=\"feat-7644\" /> <document level=\"2\" id=\"feat-7646\" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=61",
+ "url": "/Archetypes.aspx?ID=251",
  "weakness": {}
 }

@@ -1,40 +1,66 @@
 {
- "breadcrumbs_spa": [],
+ "actions": "Two Actions",
+ "actions_number": 4,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Debilitating Dichotomy"
  ],
  "feat_markdown": "Debilitating Dichotomy",
- "id": "feat-1495",
+ "id": "feat-6066",
+ "legacy_id": [
+  "feat-1495"
+ ],
  "level": 8,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Debilitating Dichotomy](/Feats.aspx?ID=1495) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 80 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou can give others a glimpse of the impossible conflicts and unchecked power that courses through your body. You learn the [_debilitating dichotomy_](/Spells.aspx?ID=750) revelation spell. Increase the number of Focus Points in your focus pool by 1.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Debilitating Dichotomy](/Feats.aspx?ID=6066) <actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n<trait label=\"Cursebound\" url=\"/Traits.aspx?ID=800\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=579\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=647\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 140 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou reveal a glimpse of the impossible conflicts between the [divine](/Traits.aspx?ID=579) anathema behind your [curse](/Traits.aspx?ID=566), forcing you to reckon with another's conflicts as well. You and one creature within 30 feet each take 9d6 mental damage with a basic Will save, and the target is stunned 1 if it critically fails its save. You get a degree of success one better than you rolled for your saving throw. At 10th level, and every 2 levels thereafter, the damage increases by 3d6. ",
  "name": "Debilitating Dichotomy",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 140",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 80 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can give others a glimpse of the impossible conflicts and unchecked power that courses through your body.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n<trait label=\"Cursebound\" url=\"/Traits.aspx?ID=800\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=579\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=647\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 140 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou reveal a glimpse of the impossible conflicts between the [divine](/Traits.aspx?ID=579) anathema behind your [curse](/Traits.aspx?ID=566), forcing you to reckon with another's conflicts as well.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 80"
+  "Player Core 2 pg. 140"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 80 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 140 <sup>1.1</sup>",
  "speed": {},
- "summary": "You can give others a glimpse of the impossible conflicts and unchecked power that courses through your body.",
- "summary_markdown": "You can give others a glimpse of the impossible conflicts and unchecked power that courses through your body.",
- "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Debilitating Dichotomy Source Advanced Player's Guide pg. 80 2.0 --- You can give others a glimpse of the impossible conflicts and unchecked power that courses through your body. You learn the debilitating dichotomy revelation spell. Increase the number of Focus Points in your focus pool by 1.",
+ "summary": "You reveal a glimpse of the impossible conflicts between the  divine  anathema behind your  curse , forcing you to reckon with another's conflicts as well.",
+ "summary_markdown": "You reveal a glimpse of the impossible conflicts between the [divine](/Traits.aspx?ID=579) anathema behind your [curse](/Traits.aspx?ID=566), forcing you to reckon with another's conflicts as well.",
+ "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Debilitating Dichotomy Two Actions Source Player Core 2 pg. 140 1.1 --- You reveal a glimpse of the impossible conflicts between the divine anathema behind your curse, forcing you to reckon with another's conflicts as well. You and one creature within 30 feet each take 9d6 mental damage with a basic Will save, and the target is stunned 1 if it critically fails its save. You get a degree of success one better than you rolled for your saving throw. At 10th level, and every 2 levels thereafter, the damage increases by 3d6. ",
  "trait": [
+  "Concentrate",
+  "Cursebound",
+  "Divine",
+  "Mental",
   "Oracle"
  ],
- "trait_markdown": "[Oracle](/Traits.aspx?ID=319)",
+ "trait_group": [
+  "Mechanics",
+  "Class-Specific",
+  "Tradition",
+  "Monster",
+  "Class"
+ ],
+ "trait_markdown": "[Concentrate](/Traits.aspx?ID=561), [Cursebound](/Traits.aspx?ID=800), [Divine](/Traits.aspx?ID=579), [Mental](/Traits.aspx?ID=647), [Oracle](/Traits.aspx?ID=817)",
  "trait_raw": [
+  "Concentrate",
+  "Cursebound",
+  "Divine",
+  "Mental",
   "Oracle"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1495",
+ "url": "/Feats.aspx?ID=6066",
  "weakness": {}
 }

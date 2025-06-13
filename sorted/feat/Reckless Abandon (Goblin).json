@@ -1,6 +1,6 @@
 {
  "actions": "Free Action",
- "breadcrumbs_spa": [],
+ "actions_number": 0,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
@@ -8,30 +8,45 @@
  ],
  "feat_markdown": "Reckless Abandon (Goblin)",
  "frequency": "once per day",
- "id": "feat-1429",
+ "id": "feat-4454",
+ "legacy_id": [
+  "feat-1429"
+ ],
  "level": 17,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 17\"\r\n    pfs=\"Standard\"\r\n>\r\n[Reckless Abandon (Goblin)](/Feats.aspx?ID=1429) <actions string=\"Free Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Fortune\" url=\"/Traits.aspx?ID=76\" />\r\n<trait label=\"Goblin\" url=\"/Traits.aspx?ID=81\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 45 <sup>2.0</sup></row>\n\n**Frequency**\r\nonce per day\n\n</column>\r\n\r\n---\r\n\r\nDespite a lifetime filled with questionable decisions, you've managed to survive, as though you have uncanny luck that lets you avoid the consequences of your own actions. For the remainder of your turn, if you roll a failure or critical failure on a saving throw against a harmful effect, you get a success instead. Further, enemies and hazards that would damage you this turn roll the minimum possible damage.\n\n These benefits apply only to harmful effects incurred entirely during your turn in which you activate Reckless Abandon, such as running through a [_prismatic wall_](/Spells.aspx?ID=234). Persistent damage and conditions that were applied prior to your turn proceed normally, and as soon as your turn ends you are subject to the full consequences of any dangers still threatening you.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 17\"\r\n    pfs=\"Standard\"\r\n>\r\n[Reckless Abandon (Goblin)](/Feats.aspx?ID=4454) <actions string=\"Free Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Fortune\" url=\"/Traits.aspx?ID=76\" />\r\n<trait label=\"Goblin\" url=\"/Traits.aspx?ID=81\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 57 <sup>2.0</sup>\n\n**Frequency**\r\nonce per day\n\n</column>\r\n\r\n---\r\n\r\nDespite a lifetime filled with questionable decisions, you've managed to survive, as though you have uncanny luck that lets you avoid the consequences of your own actions. For the remainder of your turn, if you roll a failure or critical failure on a saving throw against a harmful effect, you get a success instead. Further, if you would take damage from an enemy or hazard this turn you take the minimum possible damage.\n\nThese benefits apply only to harmful effects incurred entirely during your turn in which you activate Reckless Abandon, such as running through a [_wall of fire_](/Spells.aspx?ID=362). Persistent damage and conditions that were applied prior to your turn proceed normally, and as soon as your turn ends you are subject to the full consequences of any dangers still threatening you.",
  "name": "Reckless Abandon (Goblin)",
  "pfs": "Standard",
+ "primary_source": "Player Core",
+ "primary_source_raw": "Player Core pg. 57",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Fortune\" url=\"/Traits.aspx?ID=76\" />\r\n<trait label=\"Goblin\" url=\"/Traits.aspx?ID=81\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 45 <sup>2.0</sup></row>\r\n\r\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDespite a lifetime filled with questionable decisions, you've managed to survive, as though you have uncanny luck that lets you avoid the consequences of your own actions.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Fortune\" url=\"/Traits.aspx?ID=76\" />\r\n<trait label=\"Goblin\" url=\"/Traits.aspx?ID=81\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 57 <sup>2.0</sup>\n\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDespite a lifetime filled with questionable decisions, you've managed to survive, as though you have uncanny luck that lets you avoid the consequences of your own actions.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 45"
+  "Player Core pg. 57"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 45 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 57 <sup>2.0</sup>",
  "speed": {},
  "summary": "Despite a lifetime filled with questionable decisions, you've managed to survive, as though you have uncanny luck that lets you avoid the consequences of your own actions.",
  "summary_markdown": "Despite a lifetime filled with questionable decisions, you've managed to survive, as though you have uncanny luck that lets you avoid the consequences of your own actions.",
- "text": "<title level=\"1\" right=\"Feat 17\" pfs=\"Standard\" > Reckless Abandon (Goblin) Free Action Source Advanced Player's Guide pg. 45 2.0 Frequency once per day --- Despite a lifetime filled with questionable decisions, you've managed to survive, as though you have uncanny luck that lets you avoid the consequences of your own actions. For the remainder of your turn, if you roll a failure or critical failure on a saving throw against a harmful effect, you get a success instead. Further, enemies and hazards that would damage you this turn roll the minimum possible damage. These benefits apply only to harmful effects incurred entirely during your turn in which you activate Reckless Abandon, such as running through a prismatic wall . Persistent damage and conditions that were applied prior to your turn proceed normally, and as soon as your turn ends you are subject to the full consequences of any dangers still threatening you.",
+ "text": "<title level=\"1\" right=\"Feat 17\" pfs=\"Standard\" > Reckless Abandon (Goblin) Free Action Source Player Core pg. 57 2.0 Frequency once per day --- Despite a lifetime filled with questionable decisions, you've managed to survive, as though you have uncanny luck that lets you avoid the consequences of your own actions. For the remainder of your turn, if you roll a failure or critical failure on a saving throw against a harmful effect, you get a success instead. Further, if you would take damage from an enemy or hazard this turn you take the minimum possible damage. These benefits apply only to harmful effects incurred entirely during your turn in which you activate Reckless Abandon, such as running through a wall of fire . Persistent damage and conditions that were applied prior to your turn proceed normally, and as soon as your turn ends you are subject to the full consequences of any dangers still threatening you.",
  "trait": [
   "Fortune",
   "Goblin"
+ ],
+ "trait_group": [
+  "Mechanics",
+  "Ancestry",
+  "Weapon"
  ],
  "trait_markdown": "[Fortune](/Traits.aspx?ID=76), [Goblin](/Traits.aspx?ID=81)",
  "trait_raw": [
@@ -39,6 +54,6 @@
   "Goblin"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1429",
+ "url": "/Feats.aspx?ID=4454",
  "weakness": {}
 }

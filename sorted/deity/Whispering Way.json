@@ -1,11 +1,19 @@
 {
- "alignment": "No Alignment",
- "breadcrumbs_spa": [],
+ "attribute": [
+  "Intelligence",
+  "Charisma"
+ ],
+ "anathema": "speak the secrets of the Whispering Way above a whisper, write down the philosophies of the Whispering Way, act irrationally due to concerns for the living",
+ "area_of_concern": [
+  "undeath",
+  "lichdom",
+  "secrets"
+ ],
+ "area_of_concern_raw": "undeath, lichdom, secrets",
  "category": "deity",
  "deity": [
   "Whispering Way"
  ],
- "deity_markdown": "[Whispering Way](/Deities.aspx?ID=24)",
  "deity_category": "Faiths & Philosophies",
  "deity_category_markdown": "[Faiths & Philosophies](/DeityCategories.aspx?ID=0)",
  "deity_category_order": "3Faiths & Philosophies",
@@ -13,45 +21,46 @@
  "domain_markdown": "",
  "domain_alternate_markdown": "",
  "domain_primary_markdown": "",
+ "edict": "seek the perfection of undeath, cleanse the world of the living, master the magical secrets of life and death",
  "exclude_from_search": false,
  "favored_weapon_markdown": "",
- "follower_alignment": [
-  "LE",
-  "NE",
-  "CE"
+ "id": "deity-389",
+ "legacy_id": [
+  "deity-24"
  ],
- "icon_image": "/Images/Deities/WhisperingWay.png",
- "id": "deity-24",
- "image": [
-  "/Images/Deities/WhisperingWay.png"
- ],
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Whispering Way](/Deities.aspx?ID=24)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"No Alignment\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 441 <sup>4.0</sup></row>\n\nThese cultists believe undeath is the truest form of existence, and life is meant to be spent in preparation for transition to a more glorious unlife after death.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Faiths &amp; Philosophies](/DeityCategories.aspx?ID=0)\r\n\r\n**Edicts** seek methods to become undead (a lich if possible), oppose those who seek to destroy undead, protect necromantic secrets, serve the Whispering Tyrant\r\n\r\n**Anathema** destroy necromantic texts (unless they reveal secrets of the Whispering Way), teach others of the Whispering Way other than by whispering, use positive energy to harm undead\n\n**Follower Alignments**\r\nLE, NE, CE\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Deities/WhisperingWay.png\" />\r\n</column>\r\n\r\n</row>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Restricted\">[Whispering Way](/Deities.aspx?ID=389)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 250\n\nLife is frequently messy, complicated, and brutal. Many mortals have sought to tame the inherent chaos of existence, seeking control of their circumstances through philosophy or strictly enforced law. Yet there are existences beyond mortality; the scholars who formed the Whispering Way chose to solve the tumult life brings by snuffing it out entirely. To the Whispering Way, life holds no value: it is a wasteful state chained to constant biological needs and irrational emotions. Unfettered by such paltry concerns, the Whispering Way seeks to embrace the perfection of undeath, transcending mortal ecology and creating a utopian society free of flaws or dissent.\n\nThe Whispering Way attracts those bereft of compassion or morals, reframing these mortal vices into the virtue of rationality. It likewise draws its fair share of megalomaniacs, surprising few who know of it. It views undeath as a route to power and personal apotheosis, catapulting an adherent beyond their mortal limitations. While followers laud any state of undeath as higher than life, most adherents are self-serving enough to seek a comfortable existence as a higher form of undead, rather than a mindless drudge to the more powerful. [Liches](/MonsterFamilies.aspx?ID=438) are idealized above all others due to the intense knowledge, courage, and magical mastery required to attain lichdom.\n\nDeath also has a way of smoothing over mortal differences. Conflicting needs, internal prejudice, and clashing cultures have a way of fading from importance once their members are plunged into the cold of undeath. The Whispering Way thus seeks to save the world, delivering it from the short-sighted clutches of those ruled by their emotions and their flickering life spans. The grim dispassion of the dead is the only solution to the impassioned selfishness of the living. While the Whispering Way is united in its proclivities, goals, and reverence for undeath, its philosophy has many branches. Just as there is no universal path to lichdom, so too are there many different views on undeath and the path to paradise. These philosophies cannot be learned from books or actions; it must only be spoken in a breathless rasp from the mouth of one to the ears of another. Tomes revealing the truths of the Whispering Way are either rambling hoaxes of the delusional or penned by the philosophy’s most hated enemies. Should word of such written lore get out, the Whispering Way is quick to hunt down these books and burn them.\n\nThe Whispering Way claims no founder, prophet, or divine muse; the Way merely is and exists as a realization to be grasped by those intelligent, realistic, insightful, and ambitious enough to fathom it. It needs history and mythology no more than do mathematical principles or physical laws, and by the same right, requires no belief to be true. Those who understand it accept it as fact and work to attain the stagnant utopia idealized at its heart. Those who instead fear it and the fundamental changes it means for the living world, would rather embrace death’s ultimate oblivion than divest themselves of the ephemeral comforts of a chaotic world. Such are the understandings of the Way, and its adherents require no greater pedigree or reason to pursue its objectives than the promise of the dark powers and immortal influence they’ll wield in the idealized corpse-world of their dream.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Faiths &amp; Philosophies](/DeityCategories.aspx?ID=0)\r\n\r\n**Edicts** seek the perfection of undeath, cleanse the world of the living, master the magical secrets of life and death\r\n\r\n**Anathema** speak the secrets of the Whispering Way above a whisper, write down the philosophies of the Whispering Way, act irrationally due to concerns for the living\r\n\r\n**Area of Concern**\r\nundeath, lichdom, secrets\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Whispering Way",
- "pfs": "Standard",
+ "pfs": "Restricted",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 250",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 441 <sup>4.0</sup></row>\r\n\r\n**Divine Font** \r\n\r\n**Divine Skill** \r\n\r\n**Favored Weapon** \r\n\r\n**Domains** \r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese cultists believe undeath is the truest form of existence, and life is meant to be spent in preparation for transition to a more glorious unlife …\r\n</summary>",
- "skill_markdown": "",
+ "sanctification_raw": "none",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 250\r\n\r\n**Divine Font** \r\n\r\n**Divine Skill** [Arcana](/Skills.aspx?ID=35)\r\n\r\n**Favored Weapon** \r\n\r\n**Domains** \r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLife is frequently messy, complicated, and brutal. Many mortals have sought to tame the inherent chaos of existence, seeking control of their …\r\n</summary>",
+ "skill": [
+  "Arcana"
+ ],
+ "skill_markdown": "[Arcana](/Skills.aspx?ID=35)",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Core Rulebook pg. 441"
+  "Divine Mysteries pg. 250"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 441 <sup>4.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 250",
  "speed": {},
- "summary": "These cultists believe undeath is the truest form of existence, and life is meant to be spent in preparation for transition to a more glorious unlife …",
- "summary_markdown": "These cultists believe undeath is the truest form of existence, and life is meant to be spent in preparation for transition to a more glorious unlife …",
- "text": " Whispering Way Source Core Rulebook pg. 441 4.0 These cultists believe undeath is the truest form of existence, and life is meant to be spent in preparation for transition to a more glorious unlife after death. Category Faiths &amp; Philosophies Edicts seek methods to become undead (a lich if possible), oppose those who seek to destroy undead, protect necromantic secrets, serve the Whispering Tyrant Anathema destroy necromantic texts (unless they reveal secrets of the Whispering Way), teach others of the Whispering Way other than by whispering, use positive energy to harm undead Follower Alignments LE, NE, CE\n",
- "trait": [
-  "No Alignment"
- ],
- "trait_raw": [
-  "No Alignment"
- ],
+ "spell_markdown": "",
+ "summary": "Life is frequently messy, complicated, and brutal. Many mortals have sought to tame the inherent chaos of existence, seeking control of their …",
+ "summary_markdown": "Life is frequently messy, complicated, and brutal. Many mortals have sought to tame the inherent chaos of existence, seeking control of their …",
+ "text": " Whispering Way Source Divine Mysteries pg. 250 Life is frequently messy, complicated, and brutal. Many mortals have sought to tame the inherent chaos of existence, seeking control of their circumstances through philosophy or strictly enforced law. Yet there are existences beyond mortality; the scholars who formed the Whispering Way chose to solve the tumult life brings by snuffing it out entirely. To the Whispering Way, life holds no value: it is a wasteful state chained to constant biological needs and irrational emotions. Unfettered by such paltry concerns, the Whispering Way seeks to embrace the perfection of undeath, transcending mortal ecology and creating a utopian society free of flaws or dissent. The Whispering Way attracts those bereft of compassion or morals, reframing these mortal vices into the virtue of rationality. It likewise draws its fair share of megalomaniacs, surprising few who know of it. It views undeath as a route to power and personal apotheosis, catapulting an adherent beyond their mortal limitations. While followers laud any state of undeath as higher than life, most adherents are self-serving enough to seek a comfortable existence as a higher form of undead, rather than a mindless drudge to the more powerful. Liches are idealized above all others due to the intense knowledge, courage, and magical mastery required to attain lichdom. Death also has a way of smoothing over mortal differences. Conflicting needs, internal prejudice, and clashing cultures have a way of fading from importance once their members are plunged into the cold of undeath. The Whispering Way thus seeks to save the world, delivering it from the short-sighted clutches of those ruled by their emotions and their flickering life spans. The grim dispassion of the dead is the only solution to the impassioned selfishness of the living. While the Whispering Way is united in its proclivities, goals, and reverence for undeath, its philosophy has many branches. Just as there is no universal path to lichdom, so too are there many different views on undeath and the path to paradise. These philosophies cannot be learned from books or actions; it must only be spoken in a breathless rasp from the mouth of one to the ears of another. Tomes revealing the truths of the Whispering Way are either rambling hoaxes of the delusional or penned by the philosophy’s most hated enemies. Should word of such written lore get out, the Whispering Way is quick to hunt down these books and burn them. The Whispering Way claims no founder, prophet, or divine muse; the Way merely is and exists as a realization to be grasped by those intelligent, realistic, insightful, and ambitious enough to fathom it. It needs history and mythology no more than do mathematical principles or physical laws, and by the same right, requires no belief to be true. Those who understand it accept it as fact and work to attain the stagnant utopia idealized at its heart. Those who instead fear it and the fundamental changes it means for the living world, would rather embrace death’s ultimate oblivion than divest themselves of the ephemeral comforts of a chaotic world. Such are the understandings of the Way, and its adherents require no greater pedigree or reason to pursue its objectives than the promise of the dark powers and immortal influence they’ll wield in the idealized corpse-world of their dream. Category Faiths &amp; Philosophies Edicts seek the perfection of undeath, cleanse the world of the living, master the magical secrets of life and death Anathema speak the secrets of the Whispering Way above a whisper, write down the philosophies of the Whispering Way, act irrationally due to concerns for the living Area of Concern undeath, lichdom, secrets\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=24",
+ "url": "/Deities.aspx?ID=389",
  "weakness": {}
 }

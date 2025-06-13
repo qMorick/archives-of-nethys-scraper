@@ -5,34 +5,46 @@
  "archetype_category": [
   "Multiclass"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-41",
+ "id": "archetype-231",
+ "image": [
+  "/Images/Archetypes/Archetype_Investicgator.webp"
+ ],
+ "legacy_id": [
+  "archetype-41"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Investigator](/Archetypes.aspx?ID=41)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 151 <sup>2.0</sup></row>\n\nThe investigator archetype is a good choice for a character that wants deeper investigations or to plan out their turns in advance; it's a particularly good match for Intelligence-based characters like alchemists, witches, and wizards.\n\n<document level=\"2\" id=\"feat-1844\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1845\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1846\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1847\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1848\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1849\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1850\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Investigator](/Archetypes.aspx?ID=231)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 178 <sup>1.1</sup>\n\nYou’ve developed a keen eye for investigating mysteries.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Investicgator.webp\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"3\">Multiclass Investigator Characters</title>\r\n\r\nThe investigator archetype is a good choice for a character who wants deeper investigations or to plan out their turns in advance; it's a particularly good match for Intelligence-based characters like alchemists, witches, and wizards. \n<ul><li>Alchemist investigators double down on science and alchemy to better search for clues.</li><li>Champion investigators can Devise a Stratagem to decide the optimal time to switch from defense to offense.</li><li>Fighter investigators are constantly searching for optimal stratagems in the heat of battle.</li><li>Ranger investigators can hunt down their prey in the deepest jungle and the busiest street corner.</li><li>Spellcaster investigators can use magic and practical skills in pursuit of their lead.</li></ul>\n\n<document level=\"2\" id=\"feat-6203\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6204\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6205\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6206\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6207\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6208\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6209\"\n\n/>",
  "name": "Investigator",
  "pfs": "Standard",
- "prerequisite": "Intelligence 14",
- "prerequisite_markdown": "Intelligence 14",
+ "prerequisite": "Intelligence +2",
+ "prerequisite_markdown": "Intelligence +2",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 178",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 151 <sup>2.0</sup></row>\r\n\r\n**Prerequisites**\r\nIntelligence 14\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe investigator archetype is a good choice for a character that wants deeper investigations or to plan out their turns in advance; it's a …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 178 <sup>1.1</sup>\r\n\r\n**Prerequisites**\r\nIntelligence +2\n\n**Archetype Category**\r\nMulticlass\r\n\r\n**Number of Feats** 7\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou’ve developed a keen eye for investigating mysteries.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 151"
+  "Player Core 2 pg. 178"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 151 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 178 <sup>1.1</sup>",
  "speed": {},
- "summary": "The investigator archetype is a good choice for a character that wants deeper investigations or to plan out their turns in advance; it's a …",
- "summary_markdown": "The investigator archetype is a good choice for a character that wants deeper investigations or to plan out their turns in advance; it's a …",
- "text": " Investigator Source Advanced Player's Guide pg. 151 2.0 The investigator archetype is a good choice for a character that wants deeper investigations or to plan out their turns in advance; it's a particularly good match for Intelligence-based characters like alchemists, witches, and wizards. <document level=\"2\" id=\"feat-1845\" /> <document level=\"2\" id=\"feat-1846\" /> <document level=\"2\" id=\"feat-1847\" /> <document level=\"2\" id=\"feat-1848\" /> <document level=\"2\" id=\"feat-1849\" /> <document level=\"2\" id=\"feat-1850\" />",
+ "summary": "You’ve developed a keen eye for investigating mysteries.",
+ "summary_markdown": "You’ve developed a keen eye for investigating mysteries.",
+ "text": " Investigator Source Player Core 2 pg. 178 1.1 You’ve developed a keen eye for investigating mysteries. Multiclass Investigator Characters The investigator archetype is a good choice for a character who wants deeper investigations or to plan out their turns in advance; it's a particularly good match for Intelligence-based characters like alchemists, witches, and wizards. Alchemist investigators double down on science and alchemy to better search for clues. Champion investigators can Devise a Stratagem to decide the optimal time to switch from defense to offense. Fighter investigators are constantly searching for optimal stratagems in the heat of battle. Ranger investigators can hunt down their prey in the deepest jungle and the busiest street corner. Spellcaster investigators can use magic and practical skills in pursuit of their lead. <document level=\"2\" id=\"feat-6204\" /> <document level=\"2\" id=\"feat-6205\" /> <document level=\"2\" id=\"feat-6206\" /> <document level=\"2\" id=\"feat-6207\" /> <document level=\"2\" id=\"feat-6208\" /> <document level=\"2\" id=\"feat-6209\" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=41",
+ "url": "/Archetypes.aspx?ID=231",
  "weakness": {}
 }

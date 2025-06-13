@@ -1,31 +1,37 @@
 {
  "actions": "Two Actions",
- "breadcrumbs_spa": [],
+ "actions_number": 4,
  "category": "action",
  "exclude_from_search": true,
  "frequency": "once per day",
- "id": "action-2065",
- "markdown": "**Activate** <actions string=\"Two Actions\" />envision, Interact;  **Frequency** once per day;   **Effect** If on a plane other than the Harrowed Realm, the deck creates a [_gate_](/Spells.aspx?ID=130) to the Harrowed Realm.",
+ "id": "action-242",
+ "markdown": "**Activate** <actions string=\"Two Actions\" /> envision, Interact;  **Frequency** once per day;   **Effect** You pull the cloak’s hood up and gain the benefits of [_nondetection_](/Spells.aspx?ID=209) for 1 hour or until you pull the hood back down, whichever comes first.",
  "name": "envision, Interact",
+ "primary_source": "Core Rulebook",
+ "primary_source_raw": "Core Rulebook pg. 608",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2023-05-24",
+ "rarity_id": 1,
+ "release_date": "2019-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #191: The Destiny War](/Sources.aspx?ID=199) pg. 71</row>\r\n\r\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIf on a plane other than the Harrowed Realm, the deck creates a   gate   to the Harrowed Realm.\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 608 <sup>4.0</sup>\r\n\r\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou pull the cloak’s hood up and gain the benefits of   nondetection   for 1 hour or until you pull the hood back down, whichever comes first.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Pathfinder #191: The Destiny War"
+  "Core Rulebook"
  ],
  "source_raw": [
-  "Pathfinder #191: The Destiny War pg. 71"
+  "Core Rulebook pg. 608"
  ],
- "source_category": "Adventure Paths",
- "source_group": "Stolen Fate",
- "source_markdown": "<row gap=\"tiny\">[Pathfinder #191: The Destiny War](/Sources.aspx?ID=199) pg. 71</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 608 <sup>4.0</sup>",
  "speed": {},
- "summary": "If on a plane other than the Harrowed Realm, the deck creates a   gate   to the Harrowed Realm.",
- "summary_markdown": "If on a plane other than the Harrowed Realm, the deck creates a   gate   to the Harrowed Realm.",
- "text": " Activate Two Actionsenvision, Interact; Frequency once per day; Effect If on a plane other than the Harrowed Realm, the deck creates a gate to the Harrowed Realm.",
+ "summary": "You pull the cloak’s hood up and gain the benefits of   nondetection   for 1 hour or until you pull the hood back down, whichever comes first.",
+ "summary_markdown": "You pull the cloak’s hood up and gain the benefits of   nondetection   for 1 hour or until you pull the hood back down, whichever comes first.",
+ "text": " Activate Two Actions envision, Interact; Frequency once per day; Effect You pull the cloak’s hood up and gain the benefits of nondetection for 1 hour or until you pull the hood back down, whichever comes first.",
  "trait_markdown": "",
  "type": "Action",
- "url": "/Actions.aspx?ID=2065",
+ "url": "/Actions.aspx?ID=242",
  "weakness": {}
 }

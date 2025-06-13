@@ -1,28 +1,35 @@
 {
- "breadcrumbs_spa": [],
  "category": "action",
  "exclude_from_search": true,
- "id": "action-1192",
- "markdown": "**Activate** <actions string=\"\" />10 minutes (Interact);     **Effect** You blow the whistle at different tones in the presence of a companion or another allied creature willing to be your mount. At the end of the 10 minutes, the whistle is attuned to that creature. The whistle can be attuned to only one creature at any time, but you can attune it to a new one with another 10-minute activation.",
+ "frequency": "once per day",
+ "id": "action-199",
+ "markdown": "**Activate** <actions string=\"\" /> 10 minutes (Interact);  **Frequency** once per day;   **Effect** The rolled-up tent expands into a spacious yurt complete with a fire pit, 10 bedrolls, various cooking utensils, and basic food and water.\r\n\r\n The yurt can house and feed you and up to nine other Medium creatures that eat roughly as much as a human does; they need not attempt a Survival check to Subsist when you use the yurt. Fires and light inside the yurt do not extend illumination into the area surrounding the yurt, making it harder to spot from a distance.\r\n\r\n A large loop of red cloth hangs from one wall. If this loop is pulled, which takes an Interact action, the entire yurt immediately folds back up into its deactivated form, ready for further travel.",
  "name": "10 minutes (Interact)",
+ "primary_source": "Core Rulebook",
+ "primary_source_raw": "Core Rulebook pg. 596",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2022-05-25",
+ "rarity_id": 1,
+ "release_date": "2019-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Knights of Lastwall](/Sources.aspx?ID=123) pg. 91</row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou blow the whistle at different tones in the presence of a companion or another allied creature willing to be your mount. At the end of the 10 …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 596 <sup>4.0</sup>\r\n\r\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe rolled-up tent expands into a spacious yurt complete with a fire pit, 10 bedrolls, various cooking utensils, and basic food and water.   The yurt …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Knights of Lastwall"
+  "Core Rulebook"
  ],
  "source_raw": [
-  "Knights of Lastwall pg. 91"
+  "Core Rulebook pg. 596"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Knights of Lastwall](/Sources.aspx?ID=123) pg. 91</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 596 <sup>4.0</sup>",
  "speed": {},
- "summary": "You blow the whistle at different tones in the presence of a companion or another allied creature willing to be your mount. At the end of the 10 …",
- "summary_markdown": "You blow the whistle at different tones in the presence of a companion or another allied creature willing to be your mount. At the end of the 10 …",
- "text": " Activate 10 minutes (Interact); Effect You blow the whistle at different tones in the presence of a companion or another allied creature willing to be your mount. At the end of the 10 minutes, the whistle is attuned to that creature. The whistle can be attuned to only one creature at any time, but you can attune it to a new one with another 10-minute activation.",
+ "summary": "The rolled-up tent expands into a spacious yurt complete with a fire pit, 10 bedrolls, various cooking utensils, and basic food and water.   The yurt …",
+ "summary_markdown": "The rolled-up tent expands into a spacious yurt complete with a fire pit, 10 bedrolls, various cooking utensils, and basic food and water.   The yurt …",
+ "text": " Activate 10 minutes (Interact); Frequency once per day; Effect The rolled-up tent expands into a spacious yurt complete with a fire pit, 10 bedrolls, various cooking utensils, and basic food and water. The yurt can house and feed you and up to nine other Medium creatures that eat roughly as much as a human does; they need not attempt a Survival check to Subsist when you use the yurt. Fires and light inside the yurt do not extend illumination into the area surrounding the yurt, making it harder to spot from a distance. A large loop of red cloth hangs from one wall. If this loop is pulled, which takes an Interact action, the entire yurt immediately folds back up into its deactivated form, ready for further travel.",
  "trait_markdown": "",
  "type": "Action",
- "url": "/Actions.aspx?ID=1192",
+ "url": "/Actions.aspx?ID=199",
  "weakness": {}
 }

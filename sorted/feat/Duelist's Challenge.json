@@ -1,48 +1,59 @@
 {
  "actions": "Single Action",
+ "actions_number": 2,
  "archetype": [
   "Duelist"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Duelist's Challenge"
  ],
  "feat_markdown": "Duelist's Challenge",
- "id": "feat-1957",
+ "id": "feat-6314",
+ "legacy_id": [
+  "feat-1957"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Duelist's Challenge](/Feats.aspx?ID=1957) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Open\" url=\"/Traits.aspx?ID=123\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 171 <sup>2.0</sup></row>\n\n**Archetype** [Duelist](/Archetypes.aspx?ID=58)\n\n**Prerequisites**\r\n[Duelist Dedication](/Feats.aspx?ID=1956)\n\n</column>\r\n\r\n---\r\n\r\nSelect one foe that you can see and proclaim a challenge. That foe is your dueling opponent until they are defeated, flee, or the encounter ends. Any time you hit that enemy using a single one-handed melee weapon while your other hand or hands are free, you gain a circumstance bonus to the Strike's damage equal to the number of damage dice your weapon deals.\n\n If you attack a creature other than your dueling opponent, you take a circumstance penalty to damage equal to the number of damage dice your weapon deals.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Duelist's Challenge](/Feats.aspx?ID=6314) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 197 <sup>1.1</sup>\n\n**Archetype** [Duelist](/Archetypes.aspx?ID=248)\n\n**Prerequisites**\r\n[Duelist Dedication](/Feats.aspx?ID=6313)\n\n</column>\r\n\r\n---\r\n\r\nSelect one enemy you can see and proclaim a challenge against it. That enemy is your dueling opponent until it's defeated, it flees from the encounter, or the encounter ends. Any time you hit that enemy using a single one-handed melee weapon while your other hand or hands are free, you gain a circumstance bonus to the Strike's damage equal to the number of damage dice your weapon deals.\n\n If you attack a creature other than your dueling opponent, you take a circumstance penalty to damage equal to the number of damage dice your weapon deals.",
  "name": "Duelist's Challenge",
  "pfs": "Standard",
  "prerequisite": "Duelist Dedication",
- "prerequisite_markdown": "[Duelist Dedication](/Feats.aspx?ID=1956)",
+ "prerequisite_markdown": "[Duelist Dedication](/Feats.aspx?ID=6313)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 197",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Open\" url=\"/Traits.aspx?ID=123\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 171 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Duelist Dedication](/Feats.aspx?ID=1956)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSelect one foe that you can see and proclaim a challenge.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 197 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Duelist Dedication](/Feats.aspx?ID=6313)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSelect one enemy you can see and proclaim a challenge against it.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 171"
+  "Player Core 2 pg. 197"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 171 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 197 <sup>1.1</sup>",
  "speed": {},
- "summary": "Select one foe that you can see and proclaim a challenge.",
- "summary_markdown": "Select one foe that you can see and proclaim a challenge.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Duelist's Challenge Single Action Source Advanced Player's Guide pg. 171 2.0 Archetype Duelist Prerequisites Duelist Dedication --- Select one foe that you can see and proclaim a challenge. That foe is your dueling opponent until they are defeated, flee, or the encounter ends. Any time you hit that enemy using a single one-handed melee weapon while your other hand or hands are free, you gain a circumstance bonus to the Strike's damage equal to the number of damage dice your weapon deals. If you attack a creature other than your dueling opponent, you take a circumstance penalty to damage equal to the number of damage dice your weapon deals.",
+ "summary": "Select one enemy you can see and proclaim a challenge against it.",
+ "summary_markdown": "Select one enemy you can see and proclaim a challenge against it.",
+ "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Duelist's Challenge Single Action Source Player Core 2 pg. 197 1.1 Archetype Duelist Prerequisites Duelist Dedication --- Select one enemy you can see and proclaim a challenge against it. That enemy is your dueling opponent until it's defeated, it flees from the encounter, or the encounter ends. Any time you hit that enemy using a single one-handed melee weapon while your other hand or hands are free, you gain a circumstance bonus to the Strike's damage equal to the number of damage dice your weapon deals. If you attack a creature other than your dueling opponent, you take a circumstance penalty to damage equal to the number of damage dice your weapon deals.",
  "trait": [
-  "Archetype",
-  "Open"
+  "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Open](/Traits.aspx?ID=123)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
-  "Archetype",
-  "Open"
+  "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1957",
+ "url": "/Feats.aspx?ID=6314",
  "weakness": {}
 }

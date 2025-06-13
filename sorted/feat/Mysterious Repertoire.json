@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Mysterious Repertoire"
  ],
  "feat_markdown": "Mysterious Repertoire",
- "id": "feat-1504",
+ "id": "feat-6079",
+ "legacy_id": [
+  "feat-1504"
+ ],
  "level": 14,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 14\"\r\n    pfs=\"Standard\"\r\n>\r\n[Mysterious Repertoire](/Feats.aspx?ID=1504) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 81 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYour mystery holds unknowable depths of magic not always associated with the divine. You can have one spell in your spell repertoire not on the divine spell list, in addition to spells you've added to your spell list from feats like [Divine Access](/Feats.aspx?ID=1490). You cast that spell as a divine spell. You can swap which spell you add and from which tradition as you could any other oracle spell, but you can't use this feat to have more than one spell from another tradition in your spell repertoire at the same time.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 14\"\r\n    pfs=\"Standard\"\r\n>\r\n[Mysterious Repertoire](/Feats.aspx?ID=6079) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 142 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYour mystery holds unknowable depths of magic not always associated with the divine. You can have one spell in your spell repertoire not on the [divine](/Traits.aspx?ID=579) spell list, in addition to spells you've added to your spell list from abilities like divine access. You cast that spell as a divine spell. You can swap which spell you add and from which tradition as you could any other oracle spell, but you can't use this feat to have more than one spell from another tradition in your spell repertoire at the same time.",
  "name": "Mysterious Repertoire",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 142",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 81 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour mystery holds unknowable depths of magic not always associated with the divine.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 142 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour mystery holds unknowable depths of magic not always associated with the divine.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 81"
+  "Player Core 2 pg. 142"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 81 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 142 <sup>1.1</sup>",
  "speed": {},
  "summary": "Your mystery holds unknowable depths of magic not always associated with the divine.",
  "summary_markdown": "Your mystery holds unknowable depths of magic not always associated with the divine.",
- "text": "<title level=\"1\" right=\"Feat 14\" pfs=\"Standard\" > Mysterious Repertoire Source Advanced Player's Guide pg. 81 2.0 --- Your mystery holds unknowable depths of magic not always associated with the divine. You can have one spell in your spell repertoire not on the divine spell list, in addition to spells you've added to your spell list from feats like Divine Access. You cast that spell as a divine spell. You can swap which spell you add and from which tradition as you could any other oracle spell, but you can't use this feat to have more than one spell from another tradition in your spell repertoire at the same time.",
+ "text": "<title level=\"1\" right=\"Feat 14\" pfs=\"Standard\" > Mysterious Repertoire Source Player Core 2 pg. 142 1.1 --- Your mystery holds unknowable depths of magic not always associated with the divine. You can have one spell in your spell repertoire not on the divine spell list, in addition to spells you've added to your spell list from abilities like divine access. You cast that spell as a divine spell. You can swap which spell you add and from which tradition as you could any other oracle spell, but you can't use this feat to have more than one spell from another tradition in your spell repertoire at the same time.",
  "trait": [
   "Oracle"
  ],
- "trait_markdown": "[Oracle](/Traits.aspx?ID=319)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Oracle](/Traits.aspx?ID=817)",
  "trait_raw": [
   "Oracle"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1504",
+ "url": "/Feats.aspx?ID=6079",
  "weakness": {}
 }

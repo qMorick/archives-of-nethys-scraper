@@ -1,48 +1,62 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
+ "bulk": 0,
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-751",
+ "id": "equipment-3420",
  "item_category": "Held Items",
+ "legacy_id": [
+  "equipment-751"
+ ],
  "level": 9,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 9\"\r\n    pfs=\"Standard\"\r\n>\r\n[Urn of Ashes](/Equipment.aspx?ID=751)\r\n</title>\n\n<traits>\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Necromancy\" url=\"/Traits.aspx?ID=117\" />\r\n<trait label=\"Negative\" url=\"/Traits.aspx?ID=118\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 264 <sup>2.0</sup></row>\n\n**Price** 700 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis sealed pewter urn contains the ashes of a benevolent ancestor, with a sliver of lingering spirit that strives to protect you.\n\n<document level=\"2\" id=\"action-591\" />\n\n<document level=\"2\" id=\"action-592\" />\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 9\"\r\n    pfs=\"Standard\"\r\n>\r\n[Urn of Ashes](/Equipment.aspx?ID=3420)\r\n</title>\n\n<traits>\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Void\" url=\"/Traits.aspx?ID=510\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 307 <sup>1.1</sup>\n\n**Price** 700 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis pewter urn contains the ashes of a benevolent ancestor, with a sliver of lingering spirit that strives to protect you.\n\n**Activate—Doom the Urn** <actions string=\"Reaction\" /> ([concentrate](/Traits.aspx?ID=561))  **Trigger** You would become [doomed](/Conditions.aspx?ID=67), or your doomed value would increase; **Requirements** The ashes aren't doomed;; **Effect** The ashes in the urn intervene, taking the doomed condition in your place, and you don't gain or increase the value of your doomed condition. Each night when you get a full night's rest, you can reduce your own doomed condition or that of the urn, but not both.\n\n**Activate—Spirit's Wrath** <actions string=\"Single Action\" /> ([attack](/Traits.aspx?ID=540), [concentrate](/Traits.aspx?ID=561), [manipulate](/Traits.aspx?ID=645)) **Frequency** once per round;   **Effect** The urn shoots a bolt of void energy at a foe within 30 feet. Attempt a spell attack roll against the target's AC, using a modifier of +15 or your own spell attack modifier, whichever is higher. On a success, the bolt deals 4d4 void damage (doubled on a critical success).\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Urn of Ashes",
  "pfs": "Standard",
  "price": 70000,
  "price_raw": "700 gp",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 307",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "school": "necromancy",
- "search_markdown": "<traits>\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Necromancy\" url=\"/Traits.aspx?ID=117\" />\r\n<trait label=\"Negative\" url=\"/Traits.aspx?ID=118\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 264 <sup>2.0</sup></row>\r\n\r\n**Price** 700 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis sealed pewter urn contains the ashes of a benevolent ancestor, with a sliver of lingering spirit that strives to protect you.  \r\n\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Void\" url=\"/Traits.aspx?ID=510\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 307 <sup>1.1</sup>\r\n\r\n**Price** 700 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis pewter urn contains the ashes of a benevolent ancestor, with a sliver of lingering spirit that strives to protect you.  \r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 264"
+  "Player Core 2 pg. 307"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 264 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 307 <sup>1.1</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "This sealed pewter urn contains the ashes of a benevolent ancestor, with a sliver of lingering spirit that strives to protect you.  \r\n",
- "summary_markdown": "This sealed pewter urn contains the ashes of a benevolent ancestor, with a sliver of lingering spirit that strives to protect you.  \r\n",
- "text": "<title level=\"1\" right=\"Item 9\" pfs=\"Standard\" > Urn of Ashes Source Advanced Player's Guide pg. 264 2.0 Price 700 gp Usage held in 1 hand --- This sealed pewter urn contains the ashes of a benevolent ancestor, with a sliver of lingering spirit that strives to protect you.\n",
+ "summary": "This pewter urn contains the ashes of a benevolent ancestor, with a sliver of lingering spirit that strives to protect you.  ",
+ "summary_markdown": "This pewter urn contains the ashes of a benevolent ancestor, with a sliver of lingering spirit that strives to protect you.  ",
+ "text": "<title level=\"1\" right=\"Item 9\" pfs=\"Standard\" > Urn of Ashes Source Player Core 2 pg. 307 1.1 Price 700 gp Usage held in 1 hand --- This pewter urn contains the ashes of a benevolent ancestor, with a sliver of lingering spirit that strives to protect you. Activate—Doom the Urn Reaction (concentrate) Trigger You would become doomed, or your doomed value would increase; Requirements The ashes aren't doomed;; Effect The ashes in the urn intervene, taking the doomed condition in your place, and you don't gain or increase the value of your doomed condition. Each night when you get a full night's rest, you can reduce your own doomed condition or that of the urn, but not both. Activate—Spirit's Wrath Single Action (attack, concentrate, manipulate) Frequency once per round; Effect The urn shoots a bolt of void energy at a foe within 30 feet. Attempt a spell attack roll against the target's AC, using a modifier of +15 or your own spell attack modifier, whichever is higher. On a success, the bolt deals 4d4 void damage (doubled on a critical success).\n",
  "trait": [
   "Magical",
-  "Necromancy",
+  "Void",
   "Negative"
  ],
- "trait_markdown": "[Magical](/Traits.aspx?ID=103), [Necromancy](/Traits.aspx?ID=117), [Negative](/Traits.aspx?ID=118)",
+ "trait_group": [
+  "Mechanics",
+  "Energy",
+  "Planar",
+  "Creature Type"
+ ],
+ "trait_markdown": "[Magical](/Traits.aspx?ID=644), [Void](/Traits.aspx?ID=510)",
  "trait_raw": [
   "Magical",
-  "Necromancy",
-  "Negative"
+  "Void"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=751",
+ "url": "/Equipment.aspx?ID=3420",
  "usage": "held in 1 hand",
  "usage_markdown": "held in 1 hand",
  "weakness": {}

@@ -1,49 +1,61 @@
 {
  "actions": "Reaction",
+ "actions_number": 1,
  "archetype": [
-  "Game Hunter"
+  "Bounty Hunter"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Keep Pace"
  ],
  "feat_markdown": "Keep Pace",
- "id": "feat-3427",
+ "id": "feat-6284",
+ "legacy_id": [
+  "feat-1917"
+ ],
  "level": 6,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Limited\"\r\n>\r\n[Keep Pace](/Feats.aspx?ID=3427) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Pathfinder #175: Broken Tusk Moon](/Sources.aspx?ID=112) pg. 81</row>\n\n**Archetype** [Game Hunter](/Archetypes.aspx?ID=169)\n\n**Prerequisites**\r\n[Game Hunter Dedication](/Feats.aspx?ID=3425)\n\n**Trigger**\r\nYour prey is within reach and attempts to move away from you.\n\n</column>\r\n\r\n---\r\n\r\nWhen your hunted prey tries to bolt, you follow. You Stride up to your Speed, following your hunted prey and keeping it in reach throughout its movement until it stops moving or you've moved your full Speed. You can use Keep Pace to [Burrow](/Actions.aspx?ID=93), [Climb](/Actions.aspx?ID=33), [Fly](/Actions.aspx?ID=94), or [Swim](/Actions.aspx?ID=39) instead of Stride if you have the appropriate movement type.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Keep Pace](/Feats.aspx?ID=6284) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 191 <sup>1.1</sup>\n\n**Archetype** [Bounty Hunter](/Archetypes.aspx?ID=243)\n\n**Prerequisites**\r\n[Bounty Hunter Dedication](/Feats.aspx?ID=6281)\n\n**Trigger**\r\nYour prey is within reach and attempts to [move](/Traits.aspx?ID=658) away from you.\n\n</column>\r\n\r\n---\r\n\r\nOnce you are upon your prey, they can’t escape. [Stride](/Actions.aspx?ID=2305) up to your Speed, following the foe and keeping it in reach throughout its movement until it stops moving or you’ve moved your full Speed. You can use Keep Pace to [Burrow](/Actions.aspx?ID=2310), [Climb](/Actions.aspx?ID=2374), [Fly](/Actions.aspx?ID=2312), or [Swim](/Actions.aspx?ID=2381) instead of Stride if you have the corresponding movement type.",
  "name": "Keep Pace",
- "pfs": "Limited",
- "prerequisite": "Game Hunter Dedication",
- "prerequisite_markdown": "[Game Hunter Dedication](/Feats.aspx?ID=3425)",
+ "pfs": "Standard",
+ "prerequisite": "Bounty Hunter Dedication",
+ "prerequisite_markdown": "[Bounty Hunter Dedication](/Feats.aspx?ID=6281)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 191",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2022-01-26",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #175: Broken Tusk Moon](/Sources.aspx?ID=112) pg. 81</row>\n\n**Prerequisites**\r\n[Game Hunter Dedication](/Feats.aspx?ID=3425)\n\n**Trigger**\r\nYour prey is within reach and attempts to move away from you.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen your hunted prey tries to bolt, you follow.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 191 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Bounty Hunter Dedication](/Feats.aspx?ID=6281)\n\n**Trigger**\r\nYour prey is within reach and attempts to [move](/Traits.aspx?ID=658) away from you.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nOnce you are upon your prey, they can’t escape.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Pathfinder #175: Broken Tusk Moon"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Pathfinder #175: Broken Tusk Moon pg. 81"
+  "Player Core 2 pg. 191"
  ],
- "source_category": "Adventure Paths",
- "source_group": "Quest for the Frozen Flame",
- "source_markdown": "<row gap=\"tiny\">[Pathfinder #175: Broken Tusk Moon](/Sources.aspx?ID=112) pg. 81</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 191 <sup>1.1</sup>",
  "speed": {},
- "summary": "When your hunted prey tries to bolt, you follow.",
- "summary_markdown": "When your hunted prey tries to bolt, you follow.",
- "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Limited\" > Keep Pace Reaction Source Pathfinder #175: Broken Tusk Moon pg. 81 Archetype Game Hunter Prerequisites Game Hunter Dedication Trigger Your prey is within reach and attempts to move away from you. --- When your hunted prey tries to bolt, you follow. You Stride up to your Speed, following your hunted prey and keeping it in reach throughout its movement until it stops moving or you've moved your full Speed. You can use Keep Pace to Burrow, Climb, Fly, or Swim instead of Stride if you have the appropriate movement type.",
+ "summary": "Once you are upon your prey, they can’t escape.",
+ "summary_markdown": "Once you are upon your prey, they can’t escape.",
+ "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Keep Pace Reaction Source Player Core 2 pg. 191 1.1 Archetype Bounty Hunter Prerequisites Bounty Hunter Dedication Trigger Your prey is within reach and attempts to move away from you. --- Once you are upon your prey, they can’t escape. Stride up to your Speed, following the foe and keeping it in reach throughout its movement until it stops moving or you’ve moved your full Speed. You can use Keep Pace to Burrow, Climb, Fly, or Swim instead of Stride if you have the corresponding movement type.",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
- "trigger": "Your prey is within reach and attempts to move away from you.",
- "trigger_markdown": "Your prey is within reach and attempts to move away from you.",
+ "trigger": "Your prey is within reach and attempts to  move  away from you.",
+ "trigger_markdown": "Your prey is within reach and attempts to [move](/Traits.aspx?ID=658) away from you.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=3427",
+ "url": "/Feats.aspx?ID=6284",
  "weakness": {}
 }

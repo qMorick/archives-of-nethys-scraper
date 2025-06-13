@@ -2,48 +2,60 @@
  "archetype": [
   "Champion"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Champion Dedication"
  ],
  "feat_markdown": "Champion Dedication",
- "id": "feat-686",
+ "id": "feat-6196",
+ "legacy_id": [
+  "feat-686"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Champion Dedication](/Feats.aspx?ID=686) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=41\" />\r\n<trait label=\"Multiclass\" url=\"/Traits.aspx?ID=115\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 223 <sup>4.0</sup></row>\n\n**Archetype** [Champion](/Archetypes.aspx?ID=4)\n\n**Prerequisites**\r\nStrength 14; Charisma 14\n\n</column>\r\n\r\n---\r\n\r\nChoose a deity and [cause](/classes/champion/causes) as you would if you were a champion. You become trained in light, medium, and heavy armor. You become trained in [Religion](/Skills.aspx?ID=13) and your deity’s associated skill; for each of these skills in which you were already trained, you instead become trained in a skill of your choice. You become trained in champion class DC.\n\n You are bound by your deity’s anathema and must follow the champion’s code and alignment requirements for your cause. You don’t gain any other abilities from your choice of deity or cause.\n\n**Special** You cannot select another dedication feat until you have gained two other feats from the champion archetype.\n\n<title level=\"2\">Champion Dedication leads to...</title>\r\n[Basic Devotion](/Feats.aspx?ID=687), [Champion Resiliency](/Feats.aspx?ID=688), [Champion's Reaction](/Feats.aspx?ID=691), [Diverse Armor Expert](/Feats.aspx?ID=693), [Divine Ally](/Feats.aspx?ID=692), [Healing Touch](/Feats.aspx?ID=689)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Champion Dedication](/Feats.aspx?ID=6196) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=572\" />\r\n<trait label=\"Multiclass\" url=\"/Traits.aspx?ID=659\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 177 <sup>1.1</sup>\n\n**Archetype** [Champion](/Archetypes.aspx?ID=230)\n\n**Prerequisites**\r\nCharisma +2; Strength +2\n\n</column>\r\n\r\n---\r\n\r\nChoose a deity. You are bound by your deity’s anathema and gain the champion’s aura and sanctification as described in the [champion](/Classes.aspx?ID=58) class. Choose a cause as you would if you were a champion, with the same options a champion must abide by. You gain its edicts and anathema but don’t gain the other abilities.\n\nYou become trained in [Religion](/Skills.aspx?ID=46) and your deity’s associated skill; for each of these skills in which you were already trained, you instead become trained in a skill of your choice. You become trained in champion class DC. If you later gain a devotion spell, you become trained in spell attack modifier and spell DC. \n\nYou become trained in light armor and medium armor. If you already were trained in light armor and medium armor, you gain training in heavy armor as well. Whenever you gain a class feature that grants you expert or greater proficiency in any type of armor (but not unarmored defense), you also gain that proficiency in the armor types granted to you by this feat. If you have a class feature that grants you expert proficiency in unarmored defense and you’re 13th level or higher, you also become an expert in the armor types granted to you by this feat.\n\n<title level=\"2\">Champion Dedication leads to...</title>\r\n[Basic Devotion](/Feats.aspx?ID=6197), [Basic Devotion](/Feats.aspx?ID=6197), [Champion Resiliency](/Feats.aspx?ID=6198), [Champion's Reaction](/Feats.aspx?ID=6201), [Devout Blessing](/Feats.aspx?ID=6202)",
  "name": "Champion Dedication",
  "pfs": "Standard",
- "prerequisite": "Strength 14; Charisma 14",
- "prerequisite_markdown": "Strength 14; Charisma 14",
+ "prerequisite": "Charisma +2; Strength +2",
+ "prerequisite_markdown": "Charisma +2; Strength +2",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 177",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=41\" />\r\n<trait label=\"Multiclass\" url=\"/Traits.aspx?ID=115\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 223 <sup>4.0</sup></row>\n\n**Prerequisites**\r\nStrength 14; Charisma 14\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou become a multiclass champion.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=572\" />\r\n<trait label=\"Multiclass\" url=\"/Traits.aspx?ID=659\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 177 <sup>1.1</sup>\n\n**Prerequisites**\r\nCharisma +2; Strength +2\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nChoose a deity.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 223"
+  "Player Core 2 pg. 177"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 223 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 177 <sup>1.1</sup>",
  "speed": {},
- "summary": "You become a multiclass champion.",
- "summary_markdown": "You become a multiclass champion.",
- "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Champion Dedication Source Core Rulebook pg. 223 4.0 Archetype Champion Prerequisites Strength 14; Charisma 14 --- Choose a deity and cause as you would if you were a champion. You become trained in light, medium, and heavy armor. You become trained in Religion and your deity’s associated skill; for each of these skills in which you were already trained, you instead become trained in a skill of your choice. You become trained in champion class DC. You are bound by your deity’s anathema and must follow the champion’s code and alignment requirements for your cause. You don’t gain any other abilities from your choice of deity or cause. Special You cannot select another dedication feat until you have gained two other feats from the champion archetype. Champion Dedication leads to... Basic Devotion, Champion Resiliency, Champion's Reaction, Diverse Armor Expert, Divine Ally, Healing Touch",
+ "summary": "Choose a deity.",
+ "summary_markdown": "Choose a deity.",
+ "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Champion Dedication Source Player Core 2 pg. 177 1.1 Archetype Champion Prerequisites Charisma +2; Strength +2 --- Choose a deity. You are bound by your deity’s anathema and gain the champion’s aura and sanctification as described in the champion class. Choose a cause as you would if you were a champion, with the same options a champion must abide by. You gain its edicts and anathema but don’t gain the other abilities. You become trained in Religion and your deity’s associated skill; for each of these skills in which you were already trained, you instead become trained in a skill of your choice. You become trained in champion class DC. If you later gain a devotion spell, you become trained in spell attack modifier and spell DC. You become trained in light armor and medium armor. If you already were trained in light armor and medium armor, you gain training in heavy armor as well. Whenever you gain a class feature that grants you expert or greater proficiency in any type of armor (but not unarmored defense), you also gain that proficiency in the armor types granted to you by this feat. If you have a class feature that grants you expert proficiency in unarmored defense and you’re 13th level or higher, you also become an expert in the armor types granted to you by this feat. Champion Dedication leads to... Basic Devotion, Basic Devotion, Champion Resiliency, Champion's Reaction, Devout Blessing",
  "trait": [
   "Archetype",
   "Dedication",
   "Multiclass"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Dedication](/Traits.aspx?ID=41), [Multiclass](/Traits.aspx?ID=115)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535), [Dedication](/Traits.aspx?ID=572), [Multiclass](/Traits.aspx?ID=659)",
  "trait_raw": [
   "Archetype",
   "Dedication",
   "Multiclass"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=686",
+ "url": "/Feats.aspx?ID=6196",
  "weakness": {}
 }

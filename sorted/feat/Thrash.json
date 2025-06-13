@@ -1,45 +1,59 @@
 {
  "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions_number": 2,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Thrash"
  ],
  "feat_markdown": "Thrash",
- "id": "feat-156",
+ "id": "feat-5844",
+ "legacy_id": [
+  "feat-156"
+ ],
  "level": 8,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Thrash](/Feats.aspx?ID=156) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 91 <sup>4.0</sup></row>\n\n**Requirements**\r\nYou have a foe grabbed.\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou thrash the grabbed foe around. It takes bludgeoning damage equal to your Strength modifier plus your weapon specialization damage plus your [Rage](/Actions.aspx?ID=3) damage. The foe must attempt a basic Fortitude save against your class DC.\n\n<title level=\"2\">Thrash leads to...</title>\r\n[Collateral Thrash](/Feats.aspx?ID=171)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Thrash](/Feats.aspx?ID=5844) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 81 <sup>1.1</sup>\n\n**Requirements**\r\nYou have an enemy [grabbed](/Conditions.aspx?ID=77) or [restrained](/Conditions.aspx?ID=90). \n\n</column>\r\n\r\n---\r\n\r\nYou thrash your foe around. An enemy you have [grabbed](/Conditions.aspx?ID=77) or [restrained](/Conditions.aspx?ID=90) takes bludgeoning damage equal to your Strength modifier plus your weapon specialization damage plus your [Rage](/Actions.aspx?ID=2802) damage, with a [basic](/Rules.aspx?ID=329) Fortitude save against your class DC.\n\n<title level=\"2\">Thrash leads to...</title>\r\n[Collateral Thrash](/Feats.aspx?ID=5867)",
  "name": "Thrash",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 81",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
- "requirement": "You have a foe grabbed.",
- "requirement_markdown": "You have a foe grabbed.",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
+ "requirement": "You have an enemy  grabbed  or  restrained . ",
+ "requirement_markdown": "You have an enemy [grabbed](/Conditions.aspx?ID=77) or [restrained](/Conditions.aspx?ID=90). ",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 91 <sup>4.0</sup></row>\n\n**Requirements**\r\nYou have a foe grabbed.\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou thrash the grabbed foe around.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 81 <sup>1.1</sup>\n\n**Requirements**\r\nYou have an enemy [grabbed](/Conditions.aspx?ID=77) or [restrained](/Conditions.aspx?ID=90). \n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou thrash your foe around.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 91"
+  "Player Core 2 pg. 81"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 91 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 81 <sup>1.1</sup>",
  "speed": {},
- "summary": "You thrash the grabbed foe around.",
- "summary_markdown": "You thrash the grabbed foe around.",
- "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Thrash Single Action Source Core Rulebook pg. 91 4.0 Requirements You have a foe grabbed. --- You thrash the grabbed foe around. It takes bludgeoning damage equal to your Strength modifier plus your weapon specialization damage plus your Rage damage. The foe must attempt a basic Fortitude save against your class DC. Thrash leads to... Collateral Thrash",
+ "summary": "You thrash your foe around.",
+ "summary_markdown": "You thrash your foe around.",
+ "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Thrash Single Action Source Player Core 2 pg. 81 1.1 Requirements You have an enemy grabbed or restrained. --- You thrash your foe around. An enemy you have grabbed or restrained takes bludgeoning damage equal to your Strength modifier plus your weapon specialization damage plus your Rage damage, with a basic Fortitude save against your class DC. Thrash leads to... Collateral Thrash",
  "trait": [
   "Barbarian",
   "Rage"
  ],
- "trait_markdown": "[Barbarian](/Traits.aspx?ID=18), [Rage](/Traits.aspx?ID=135)",
+ "trait_group": [
+  "Class",
+  "Class-Specific"
+ ],
+ "trait_markdown": "[Barbarian](/Traits.aspx?ID=813), [Rage](/Traits.aspx?ID=680)",
  "trait_raw": [
   "Barbarian",
   "Rage"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=156",
+ "url": "/Feats.aspx?ID=5844",
  "weakness": {}
 }

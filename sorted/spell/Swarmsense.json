@@ -1,17 +1,12 @@
 {
- "actions": "1 minute",
+ "actions": "Three Actions",
+ "actions_number": 6,
  "bloodline_markdown": "",
- "breadcrumbs_spa": [],
  "category": "spell",
- "component": [
-  "somatic",
-  "verbal"
- ],
- "deity_markdown": "",
  "domain": [
   "Swarm"
  ],
- "domain_markdown": "[Swarm](/Domains.aspx?ID=53)",
+ "domain_markdown": "[Swarm](/Domains.aspx?ID=120)",
  "duration_raw": "sustained",
  "exclude_from_search": false,
  "heighten": [
@@ -19,46 +14,72 @@
   "5th",
   "7th"
  ],
+ "heighten_group": [
+  "1st rank",
+  "Heightened 3rd rank",
+  "Heightened 5th rank",
+  "Heightened 7th rank"
+ ],
  "heighten_level": [
   1,
   3,
   5,
   7
  ],
- "id": "spell-620",
+ "id": "spell-2413",
+ "legacy_id": [
+  "spell-620"
+ ],
  "level": 1,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Focus 1\" pfs=\"Standard\">[Swarmsense](/Spells.aspx?ID=620)</title>\n\n<traits>\r\n<trait label=\"Divination\" url=\"/Traits.aspx?ID=47\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 117 <sup>2.0</sup></row>\n\n**Domain**\r\n[Swarm](/Domains.aspx?ID=53)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n\r\n<row>1 minute ([somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284))</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** sustained\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou extend your senses through a multitude of crawling and flying creatures. You create a crawling swarm in your square. You can hear through the swarm as if using your normal auditory senses. The first time you Sustain the Spell each round, you can move the swarm 10 feet along the ground in any direction. The swarm has AC 15 and a +0 bonus to its saves. Any damage dealt to the swarm destroys it and ends the spell.\n\n---\r\n**Heightened (3rd)** The swarm has the benefits of [_spider climb_](/Spells.aspx?ID=299).\r\n\r\n**Heightened (5th)** The swarm has a fly Speed of 10 feet. You can see through the swarm using your visual senses.\r\n\r\n**Heightened (7th)** The swarm gains a 10-foot status bonus to its Speeds.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Focus 1\" pfs=\"Standard\">\r\n[Swarmsense](/Spells.aspx?ID=2413)\r\n<actions string=\"Three Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 270\n\n**Domain**\r\n[Swarm](/Domains.aspx?ID=120)\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** sustained\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou extend your senses through a multitude of crawling and flying creatures. You create a crawling swarm in your square. You can hear through the swarm as if using your normal auditory senses. When you [Cast this Spell](/Actions.aspx?ID=2734) and the first time you [Sustain](/Actions.aspx?ID=2317) it each round, you can move the swarm 10 feet along the ground in any direction. The swarm has AC 15 and a +0 bonus to its saves. Any damage dealt to the swarm destroys it and ends the spell.\n\n---\r\n**Heightened (3rd)** The swarm has a [climb Speed](/Rules.aspx?ID=2349) of 10 feet.\r\n\r\n**Heightened (5th)** The swarm has a [fly Speed](/Rules.aspx?ID=2350) of 10 feet. You can see through the swarm using your visual senses.\r\n\r\n**Heightened (7th)** The swarm gains a 10-foot status bonus to its Speeds.",
  "name": "Swarmsense",
- "patron_theme_markdown": "",
  "pfs": "Standard",
- "rarity": "common",
- "release_date": "2020-01-29",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 270",
+ "primary_source_category": "Lost Omens",
+ "rarity": "uncommon",
+ "rarity_id": 2,
+ "release_date": "2025-01-30",
  "resistance": {},
- "school": "divination",
- "search_markdown": "<traits>\r\n<trait label=\"Divination\" url=\"/Traits.aspx?ID=47\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 117 <sup>2.0</sup></row>\n\n**Domain**\r\n[Swarm](/Domains.aspx?ID=53)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n\r\n<row>1 minute ([somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284))</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Duration** sustained\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou extend your senses through a multitude of crawling and flying creatures.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 270\n\n**Domain**\r\n[Swarm](/Domains.aspx?ID=120)\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** sustained\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou extend your senses through a multitude of crawling and flying creatures.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 117"
+  "Divine Mysteries pg. 270"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 117 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 270",
  "speed": {},
+ "spell_type": "Focus",
  "summary": "You extend your senses through a multitude of crawling and flying creatures.",
  "summary_markdown": "You extend your senses through a multitude of crawling and flying creatures.",
- "text": " Swarmsense Source Gods &amp; Magic pg. 117 2.0 Domain Swarm Cast 1 minute (somatic, verbal) Duration sustained --- You extend your senses through a multitude of crawling and flying creatures. You create a crawling swarm in your square. You can hear through the swarm as if using your normal auditory senses. The first time you Sustain the Spell each round, you can move the swarm 10 feet along the ground in any direction. The swarm has AC 15 and a +0 bonus to its saves. Any damage dealt to the swarm destroys it and ends the spell. --- Heightened (3rd) The swarm has the benefits of spider climb . Heightened (5th) The swarm has a fly Speed of 10 feet. You can see through the swarm using your visual senses. Heightened (7th) The swarm gains a 10-foot status bonus to its Speeds.",
+ "text": "\nSwarmsense Three Actions Source Divine Mysteries pg. 270 Domain Swarm Duration sustained --- You extend your senses through a multitude of crawling and flying creatures. You create a crawling swarm in your square. You can hear through the swarm as if using your normal auditory senses. When you Cast this Spell and the first time you Sustain it each round, you can move the swarm 10 feet along the ground in any direction. The swarm has AC 15 and a +0 bonus to its saves. Any damage dealt to the swarm destroys it and ends the spell. --- Heightened (3rd) The swarm has a climb Speed of 10 feet. Heightened (5th) The swarm has a fly Speed of 10 feet. You can see through the swarm using your visual senses. Heightened (7th) The swarm gains a 10-foot status bonus to its Speeds.",
  "tradition_markdown": "",
  "trait": [
-  "Divination"
+  "Cleric",
+  "Concentrate",
+  "Focus",
+  "Manipulate",
+  "Uncommon"
  ],
- "trait_markdown": "[Divination](/Traits.aspx?ID=47)",
+ "trait_group": [
+  "Class",
+  "Mechanics",
+  "Rarity"
+ ],
+ "trait_markdown": "[Cleric](/Traits.aspx?ID=26), [Concentrate](/Traits.aspx?ID=32), [Focus](/Traits.aspx?ID=511), [Manipulate](/Traits.aspx?ID=104), [Uncommon](/Traits.aspx?ID=159)",
  "trait_raw": [
-  "Divination"
+  "Cleric",
+  "Concentrate",
+  "Focus",
+  "Manipulate",
+  "Uncommon"
  ],
- "type": "Focus",
- "url": "/Spells.aspx?ID=620",
+ "type": "Spell",
+ "url": "/Spells.aspx?ID=2413",
  "weakness": {}
 }

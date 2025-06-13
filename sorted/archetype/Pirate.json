@@ -6,34 +6,46 @@
   "Profession",
   "Core"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-70",
+ "id": "archetype-258",
+ "image": [
+  "/Images/Archetypes/Archetype_Pirate.webp"
+ ],
+ "legacy_id": [
+  "archetype-70"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Pirate](/Archetypes.aspx?ID=70)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 185 <sup>2.0</sup></row>\n\nYou live a life of freedom, taking by force and intimidation all that you desire. You may be a privateer, raiding and plundering on behalf of a particular nation or another authority, or you may answer to no one but your own capricious whims. Either way, you rely on intimidation, wits, and combat prowess to take what you want from those you deem less deserving.\n\n Pirates have much in common with swashbucklers &lt;%END>, and many pirates have the [swashbuckler](/Classes.aspx?ID=15) class or [archetype](/Archetypes.aspx?ID=43). Much like a swashbuckler's daring deeds, classic pirate maneuvers are often showy feats intended to impress, intimidate, and gain panache. For example, if you have the panache class feature and your [Acrobatics](/Skills.aspx?ID=1) check for a [Boarding Assault](/Feats.aspx?ID=2032) exceeds the very hard DC for your level, you would gain panache.\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-2032\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4133\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2033\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2034\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4138\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4140\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2035\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4147\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Pirate](/Archetypes.aspx?ID=258)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 209 <sup>1.1</sup>\n\nYou live a life of freedom, taking by force and intimidation all that you could possibly desire. You may be a privateer, raiding and plundering on behalf of a particular nation or another authority, or you may answer to no one but your own capricious whims. Either way, you rely on intimidation, wits, and combat prowess to take what you want from those you deem less deserving.\n\n Pirates have much in common with swashbucklers, and many pirates have the swashbuckler class or archetype. Much like a swashbuckler's daring deeds, classic pirate maneuvers are often showy feats intended to impress, intimidate, and gain panache. For example, if you have the panache class feature, Boarding Assault gains the bravado trait.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Pirate.webp\" />\r\n</column>\r\n\r\n</row>\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-6378\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6136\"\r\noverride-title-right=\"Feat 4*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4133\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6379\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6380\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4922\"\r\noverride-title-right=\"Feat 4*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6381\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4147\"\n\n/>",
  "name": "Pirate",
  "pfs": "Standard",
  "prerequisite": "Trained in Intimidation",
- "prerequisite_markdown": "Trained in [Intimidation](/Skills.aspx?ID=7)",
+ "prerequisite_markdown": "Trained in [Intimidation](/Skills.aspx?ID=40)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 209",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 185 <sup>2.0</sup></row>\r\n\r\n**Prerequisites**\r\nTrained in [Intimidation](/Skills.aspx?ID=7)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou live a life of freedom, taking by force and intimidation all that you desire. You may be a privateer, raiding and plundering on behalf of a …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 209 <sup>1.1</sup>\r\n\r\n**Prerequisites**\r\nTrained in [Intimidation](/Skills.aspx?ID=40)\n\n**Archetype Categories**\r\nProfession, Core\r\n\r\n**Number of Feats** 8\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou live a life of freedom, taking by force and intimidation all that you could possibly desire. You may be a privateer, raiding and plundering on …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 185"
+  "Player Core 2 pg. 209"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 185 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 209 <sup>1.1</sup>",
  "speed": {},
- "summary": "You live a life of freedom, taking by force and intimidation all that you desire. You may be a privateer, raiding and plundering on behalf of a …",
- "summary_markdown": "You live a life of freedom, taking by force and intimidation all that you desire. You may be a privateer, raiding and plundering on behalf of a …",
- "text": " Pirate Source Advanced Player's Guide pg. 185 2.0 You live a life of freedom, taking by force and intimidation all that you desire. You may be a privateer, raiding and plundering on behalf of a particular nation or another authority, or you may answer to no one but your own capricious whims. Either way, you rely on intimidation, wits, and combat prowess to take what you want from those you deem less deserving. Pirates have much in common with swashbucklers &lt;%END>, and many pirates have the swashbuckler class or archetype. Much like a swashbuckler's daring deeds, classic pirate maneuvers are often showy feats intended to impress, intimidate, and gain panache. For example, if you have the panache class feature and your Acrobatics check for a Boarding Assault exceeds the very hard DC for your level, you would gain panache. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-4133\" /> <document level=\"2\" id=\"feat-2033\" /> <document level=\"2\" id=\"feat-2034\" /> <document level=\"2\" id=\"feat-4138\" /> <document level=\"2\" id=\"feat-4140\" /> <document level=\"2\" id=\"feat-2035\" /> <document level=\"2\" id=\"feat-4147\" />",
+ "summary": "You live a life of freedom, taking by force and intimidation all that you could possibly desire. You may be a privateer, raiding and plundering on …",
+ "summary_markdown": "You live a life of freedom, taking by force and intimidation all that you could possibly desire. You may be a privateer, raiding and plundering on …",
+ "text": " Pirate Source Player Core 2 pg. 209 1.1 You live a life of freedom, taking by force and intimidation all that you could possibly desire. You may be a privateer, raiding and plundering on behalf of a particular nation or another authority, or you may answer to no one but your own capricious whims. Either way, you rely on intimidation, wits, and combat prowess to take what you want from those you deem less deserving. Pirates have much in common with swashbucklers, and many pirates have the swashbuckler class or archetype. Much like a swashbuckler's daring deeds, classic pirate maneuvers are often showy feats intended to impress, intimidate, and gain panache. For example, if you have the panache class feature, Boarding Assault gains the bravado trait. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-6136\" override-title-right=\"Feat 4 \" /> <document level=\"2\" id=\"feat-4133\" /> <document level=\"2\" id=\"feat-6379\" /> <document level=\"2\" id=\"feat-6380\" /> <document level=\"2\" id=\"feat-4922\" override-title-right=\"Feat 4 \" /> <document level=\"2\" id=\"feat-6381\" /> <document level=\"2\" id=\"feat-4147\" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=70",
+ "url": "/Archetypes.aspx?ID=258",
  "weakness": {}
 }

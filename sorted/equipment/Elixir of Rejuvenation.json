@@ -1,36 +1,46 @@
 {
  "actions": "Single Action",
+ "actions_number": 2,
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
  "bulk": 0.1,
  "bulk_raw": "L",
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-92",
+ "id": "equipment-3309",
  "item_category": "Alchemical Items",
  "item_subcategory": "Alchemical Elixirs",
+ "legacy_id": [
+  "equipment-92"
+ ],
  "level": 20,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 20\"\r\n    pfs=\"Standard\"\r\n>\r\n[Elixir of Rejuvenation](/Equipment.aspx?ID=92)\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=6\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Elixir\" url=\"/Traits.aspx?ID=59\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=89\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 548 <sup>4.0</sup></row>\n\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>Interact</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThe elixir of rejuvenation restores a creature to full health and eradicates toxins affecting it. When you drink this elixir, you’re restored to your maximum Hit Points, and all afflictions of 20th level or lower affecting you are removed.\n\n You can instead administer this elixir to a creature that has been dead for a week or less. When you do, that creature is instantly brought back to life with 1 Hit Point and no spell slots, Focus Points, or other daily resources.\n\n**Craft Requirements** [philosopher’s stone](/Equipment.aspx?ID=133), [true elixir of life](/Equipment.aspx?ID=91)\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 20\"\r\n    pfs=\"Standard\"\r\n>\r\n[Elixir of Rejuvenation](/Equipment.aspx?ID=3309)\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=528\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Elixir\" url=\"/Traits.aspx?ID=589\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=623\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 288 <sup>1.1</sup>\n\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([manipulate](/Traits.aspx?ID=104))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThe elixir of rejuvenation restores a creature to full health and eradicates toxins affecting it. When you drink this elixir, you're restored to your maximum Hit Points, and all afflictions of 20th level or lower affecting you are removed. <br />You can instead administer this elixir to a creature that has been dead for a week or less. When you do, that creature is instantly brought back to life with 1 Hit Point and no spell slots, Focus Points, or other daily resources. Elixirs of life accelerate a living creature's natural healing processes and immune system. Upon drinking this elixir, you regain the listed number of Hit Points and gain an item bonus to saving throws against diseases and poisons for 10 minutes.\n\n**Craft Requirements** [philosopher's stone](/Equipment.aspx?ID=3357), true [elixir of life](/Equipment.aspx?ID=3308)\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Elixir of Rejuvenation",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 288",
+ "primary_source_category": "Rulebooks",
  "rarity": "uncommon",
- "release_date": "2019-08-01",
+ "rarity_id": 2,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=6\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Elixir\" url=\"/Traits.aspx?ID=59\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=89\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 548 <sup>4.0</sup></row>\r\n\r\n \r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>Interact</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe elixir of rejuvenation restores a creature to full health and eradicates toxins affecting it. When you drink this elixir, you’re restored to your …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=528\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Elixir\" url=\"/Traits.aspx?ID=589\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=623\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 288 <sup>1.1</sup>\r\n\r\n \r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([manipulate](/Traits.aspx?ID=104))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe elixir of rejuvenation restores a creature to full health and eradicates toxins affecting it. When you drink this elixir, you're restored to your …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 548"
+  "Player Core 2 pg. 288"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 548 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 288 <sup>1.1</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "The elixir of rejuvenation restores a creature to full health and eradicates toxins affecting it. When you drink this elixir, you’re restored to your …",
- "summary_markdown": "The elixir of rejuvenation restores a creature to full health and eradicates toxins affecting it. When you drink this elixir, you’re restored to your …",
- "text": "<title level=\"1\" right=\"Item 20\" pfs=\"Standard\" > Elixir of Rejuvenation Source Core Rulebook pg. 548 4.0 Usage held in 1 hand Bulk L Activate Single Action Interact --- The elixir of rejuvenation restores a creature to full health and eradicates toxins affecting it. When you drink this elixir, you’re restored to your maximum Hit Points, and all afflictions of 20th level or lower affecting you are removed. You can instead administer this elixir to a creature that has been dead for a week or less. When you do, that creature is instantly brought back to life with 1 Hit Point and no spell slots, Focus Points, or other daily resources. Craft Requirements philosopher’s stone, true elixir of life\n",
+ "summary": "The elixir of rejuvenation restores a creature to full health and eradicates toxins affecting it. When you drink this elixir, you're restored to your …",
+ "summary_markdown": "The elixir of rejuvenation restores a creature to full health and eradicates toxins affecting it. When you drink this elixir, you're restored to your …",
+ "text": "<title level=\"1\" right=\"Item 20\" pfs=\"Standard\" > Elixir of Rejuvenation Source Player Core 2 pg. 288 1.1 Usage held in 1 hand Bulk L Activate Single Action (manipulate) --- The elixir of rejuvenation restores a creature to full health and eradicates toxins affecting it. When you drink this elixir, you're restored to your maximum Hit Points, and all afflictions of 20th level or lower affecting you are removed. You can instead administer this elixir to a creature that has been dead for a week or less. When you do, that creature is instantly brought back to life with 1 Hit Point and no spell slots, Focus Points, or other daily resources. Elixirs of life accelerate a living creature's natural healing processes and immune system. Upon drinking this elixir, you regain the listed number of Hit Points and gain an item bonus to saving throws against diseases and poisons for 10 minutes. Craft Requirements philosopher's stone, true elixir of life\n",
  "trait": [
   "Alchemical",
   "Consumable",
@@ -38,7 +48,14 @@
   "Healing",
   "Uncommon"
  ],
- "trait_markdown": "[Alchemical](/Traits.aspx?ID=6), [Consumable](/Traits.aspx?ID=36), [Elixir](/Traits.aspx?ID=59), [Healing](/Traits.aspx?ID=89), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Monster",
+  "Equipment",
+  "Weapon",
+  "Mechanics",
+  "Rarity"
+ ],
+ "trait_markdown": "[Alchemical](/Traits.aspx?ID=528), [Consumable](/Traits.aspx?ID=564), [Elixir](/Traits.aspx?ID=589), [Healing](/Traits.aspx?ID=623), [Uncommon](/Traits.aspx?ID=721)",
  "trait_raw": [
   "Alchemical",
   "Consumable",
@@ -47,7 +64,7 @@
   "Uncommon"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=92",
+ "url": "/Equipment.aspx?ID=3309",
  "usage": "held in 1 hand",
  "usage_markdown": "held in 1 hand",
  "weakness": {}

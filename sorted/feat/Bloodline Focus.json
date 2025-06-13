@@ -1,42 +1,54 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Bloodline Focus"
  ],
  "feat_markdown": "Bloodline Focus",
- "id": "feat-621",
+ "id": "feat-6111",
+ "legacy_id": [
+  "feat-621"
+ ],
  "level": 12,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Bloodline Focus](/Feats.aspx?ID=621) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=148\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 201 <sup>4.0</sup></row>\n\n**Prerequisites**\r\nbloodline spell\n\n</column>\r\n\r\n---\r\n\r\nYour focus recovers faster. If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you Refocus instead of 1.\n\n<title level=\"2\">Bloodline Focus leads to...</title>\r\n[Bloodline Wellspring](/Feats.aspx?ID=628)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Bloodline Focus](/Feats.aspx?ID=6111) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=824\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 155 <sup>1.1</sup>\n\n**Prerequisites**\r\nbloodline spell\n\n</column>\r\n\r\n---\r\n\r\nBy listening to the beating of your heart, your focus recovers faster. Whenever you [Refocus](/Actions.aspx?ID=2621), completely refill your focus pool.",
  "name": "Bloodline Focus",
  "pfs": "Standard",
  "prerequisite": "bloodline spell",
  "prerequisite_markdown": "bloodline spell",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 155",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=148\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 201 <sup>4.0</sup></row>\n\n**Prerequisites**\r\nbloodline spell\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour bloodline cause you to recover focus faster.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=824\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 155 <sup>1.1</sup>\n\n**Prerequisites**\r\nbloodline spell\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBy listening to the beating of your heart, your focus recovers faster.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 201"
+  "Player Core 2 pg. 155"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 201 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 155 <sup>1.1</sup>",
  "speed": {},
- "summary": "Your bloodline cause you to recover focus faster.",
- "summary_markdown": "Your bloodline cause you to recover focus faster.",
- "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Bloodline Focus Source Core Rulebook pg. 201 4.0 Prerequisites bloodline spell --- Your focus recovers faster. If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you Refocus instead of 1. Bloodline Focus leads to... Bloodline Wellspring",
+ "summary": "By listening to the beating of your heart, your focus recovers faster.",
+ "summary_markdown": "By listening to the beating of your heart, your focus recovers faster.",
+ "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Bloodline Focus Source Player Core 2 pg. 155 1.1 Prerequisites bloodline spell --- By listening to the beating of your heart, your focus recovers faster. Whenever you Refocus, completely refill your focus pool.",
  "trait": [
   "Sorcerer"
  ],
- "trait_markdown": "[Sorcerer](/Traits.aspx?ID=148)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Sorcerer](/Traits.aspx?ID=824)",
  "trait_raw": [
   "Sorcerer"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=621",
+ "url": "/Feats.aspx?ID=6111",
  "weakness": {}
 }

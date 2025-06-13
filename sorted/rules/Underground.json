@@ -1,37 +1,48 @@
 {
  "breadcrumbs": [
-  "Chapter 10: Game Mastering",
+  "Chapter 2: Building Games",
   "Environment"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-630",
- "markdown": "<title level=\"1\" right=\"Rules\">[Underground](/Rules.aspx?ID=630)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 516 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nUnderground environments consist of caves and natural underground areas. Artificial dungeons and ruins combine underground features with urban features like stairs and walls. Deep underground vaults have some of the same terrain features as mountains, such as chasms and cliffs. The most common disasters underground are collapses.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-631\" />\r\n\r\n<document level=\"2\" id=\"rules-632\" />\r\n\r\n<document level=\"2\" id=\"rules-633\" />\r\n\r\n<document level=\"2\" id=\"rules-634\" />\r\n\r\n<document level=\"2\" id=\"rules-635\" />",
+ "id": "rules-2808",
+ "legacy_id": [
+  "rules-630"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Underground](/Rules.aspx?ID=2808)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 94 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nUnderground environments consist of caves and natural underground areas. Artificial dungeons and ruins combine underground features with urban features like stairs and walls. Deep underground vaults have some of the same terrain features as mountains, such as chasms and cliffs. The most common disasters underground are collapses.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Dungeons</title>\r\n\r\nDungeon environments, which include both ruins and contemporary buildings constructed in the wilderness, are a fairly common venue for adventures. As an environment, they combine urban features like doors and buildings (page 92) with features from an underground environment, and occasionally components from other environments. While underground dungeons are particularly common, you might also consider setting your adventure in a ruin reclaimed by the forest, with giant trees spreading their roots through the walls, or a ruin deep in a swamp, with bogs covering access to some of the ruin’s hidden secrets.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"rules-2809\" />\r\n\r\n<document level=\"2\" id=\"rules-2810\" />\r\n\r\n<document level=\"2\" id=\"rules-2811\" />\r\n\r\n<document level=\"2\" id=\"rules-2812\" />\r\n\r\n<document level=\"2\" id=\"rules-2813\" />",
  "name": "Underground",
  "next_link": {
   "label": "Climate",
-  "url": "/Rules.aspx?ID=636"
+  "url": "/Rules.aspx?ID=2814"
  },
  "previous_link": {
   "label": "Urban",
-  "url": "/Rules.aspx?ID=617"
+  "url": "/Rules.aspx?ID=2795"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 94",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 516 <sup>4.0</sup></row>\r\n\r\nChapter 10: Game Mastering / Environment\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 94 <sup>2.0</sup>\r\n\r\nChapter 2: Building Games / Environment\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nUnderground environments consist of caves and natural underground areas. Artificial dungeons and ruins combine underground features with urban …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 516"
+  "GM Core pg. 94"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 516 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 94 <sup>2.0</sup>",
  "speed": {},
- "text": " Underground Source Core Rulebook pg. 516 4.0 Underground environments consist of caves and natural underground areas. Artificial dungeons and ruins combine underground features with urban features like stairs and walls. Deep underground vaults have some of the same terrain features as mountains, such as chasms and cliffs. The most common disasters underground are collapses. ",
+ "summary": "Underground environments consist of caves and natural underground areas. Artificial dungeons and ruins combine underground features with urban …",
+ "summary_markdown": "Underground environments consist of caves and natural underground areas. Artificial dungeons and ruins combine underground features with urban …",
+ "text": " Underground Source GM Core pg. 94 2.0 Underground environments consist of caves and natural underground areas. Artificial dungeons and ruins combine underground features with urban features like stairs and walls. Deep underground vaults have some of the same terrain features as mountains, such as chasms and cliffs. The most common disasters underground are collapses. Dungeons Dungeon environments, which include both ruins and contemporary buildings constructed in the wilderness, are a fairly common venue for adventures. As an environment, they combine urban features like doors and buildings (page 92) with features from an underground environment, and occasionally components from other environments. While underground dungeons are particularly common, you might also consider setting your adventure in a ruin reclaimed by the forest, with giant trees spreading their roots through the walls, or a ruin deep in a swamp, with bogs covering access to some of the ruin’s hidden secrets. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=630",
+ "url": "/Rules.aspx?ID=2808",
  "weakness": {}
 }

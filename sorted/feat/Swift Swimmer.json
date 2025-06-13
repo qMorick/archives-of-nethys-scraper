@@ -1,42 +1,53 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Swift Swimmer"
  ],
  "feat_markdown": "Swift Swimmer",
- "id": "feat-1061",
+ "id": "feat-5642",
+ "legacy_id": [
+  "feat-1061"
+ ],
  "level": 5,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Swift Swimmer](/Feats.aspx?ID=1061) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 59 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Wetlander Lizardfolk](/Heritages.aspx?ID=53) heritage\n\n</column>\r\n\r\n---\r\n\r\nYou swim faster than most iruxi. Your swim Speed increases to 25 feet.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Swift Swimmer](/Feats.aspx?ID=5642) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=760\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 27 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou gain a swim Speed of 15 feet.\n\n**Special** If you have the [wetlander lizardfolk heritage](/Heritages.aspx?ID=345), your swim Speed instead increases to 25 feat.",
  "name": "Swift Swimmer",
  "pfs": "Standard",
- "prerequisite": "Wetlander Lizardfolk heritage",
- "prerequisite_markdown": "[Wetlander Lizardfolk](/Heritages.aspx?ID=53) heritage",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 27",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-10-16",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 59 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Wetlander Lizardfolk](/Heritages.aspx?ID=53) heritage\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou swim faster than most iruxi.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=760\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 27 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain a swim Speed of 15 feet.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Character Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Character Guide pg. 59"
+  "Player Core 2 pg. 27"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Character Guide](/Sources.aspx?ID=12) pg. 59 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 27 <sup>1.1</sup>",
  "speed": {},
- "summary": "You swim faster than most iruxi.",
- "summary_markdown": "You swim faster than most iruxi.",
- "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Swift Swimmer Source Character Guide pg. 59 2.0 Prerequisites Wetlander Lizardfolk heritage --- You swim faster than most iruxi. Your swim Speed increases to 25 feet.",
+ "summary": "You gain a swim Speed of 15 feet.",
+ "summary_markdown": "You gain a swim Speed of 15 feet.",
+ "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Swift Swimmer Source Player Core 2 pg. 27 1.1 --- You gain a swim Speed of 15 feet. Special If you have the wetlander lizardfolk heritage, your swim Speed instead increases to 25 feat.",
  "trait": [
   "Lizardfolk"
  ],
- "trait_markdown": "[Lizardfolk](/Traits.aspx?ID=226)",
+ "trait_group": [
+  "Monster",
+  "Ancestry"
+ ],
+ "trait_markdown": "[Lizardfolk](/Traits.aspx?ID=760)",
  "trait_raw": [
   "Lizardfolk"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1061",
+ "url": "/Feats.aspx?ID=5642",
  "weakness": {}
 }

@@ -1,37 +1,48 @@
 {
  "breadcrumbs": [
   "Chapter 1: Introduction",
-  "Using This Book"
+  "Using this book"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-47",
- "markdown": "<title level=\"1\" right=\"Rules\">[Chapter 1: Introduction](/Rules.aspx?ID=47)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 16 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThis introduction is designed to help you understand the basics of Pathfinder. This chapter also includes the rules for building and leveling up a character. The chapter ends with an example of building a 1st-level character.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2011",
+ "legacy_id": [
+  "rules-47"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Chapter 1: Introduction](/Rules.aspx?ID=2011)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 14 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThis introduction is designed to help you understand the basics of Pathfinder. This chapter also includes the rules for building and leveling up a character, as well as an example of the character creation process. The chapter ends with an introduction to the Age of Lost Omens and its gods.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Chapter 1: Introduction",
  "next_link": {
   "label": "Chapter 2: Ancestries & Backgrounds",
-  "url": "/Rules.aspx?ID=48"
+  "url": "/Rules.aspx?ID=2012"
  },
  "previous_link": {
   "label": "Example of Play",
-  "url": "/Rules.aspx?ID=45"
+  "url": "/Rules.aspx?ID=2009"
  },
+ "primary_source": "Player Core",
+ "primary_source_raw": "Player Core pg. 14",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 16 <sup>4.0</sup></row>\r\n\r\nChapter 1: Introduction / Using This Book\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 14 <sup>2.0</sup>\r\n\r\nChapter 1: Introduction / Using this book\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis introduction is designed to help you understand the basics of Pathfinder. This chapter also includes the rules for building and leveling up a …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 16"
+  "Player Core pg. 14"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 16 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 14 <sup>2.0</sup>",
  "speed": {},
- "text": " Chapter 1: Introduction Source Core Rulebook pg. 16 4.0 This introduction is designed to help you understand the basics of Pathfinder. This chapter also includes the rules for building and leveling up a character. The chapter ends with an example of building a 1st-level character. ",
+ "summary": "This introduction is designed to help you understand the basics of Pathfinder. This chapter also includes the rules for building and leveling up a …",
+ "summary_markdown": "This introduction is designed to help you understand the basics of Pathfinder. This chapter also includes the rules for building and leveling up a …",
+ "text": " Chapter 1: Introduction Source Player Core pg. 14 2.0 This introduction is designed to help you understand the basics of Pathfinder. This chapter also includes the rules for building and leveling up a character, as well as an example of the character creation process. The chapter ends with an introduction to the Age of Lost Omens and its gods. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=47",
+ "url": "/Rules.aspx?ID=2011",
  "weakness": {}
 }

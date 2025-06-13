@@ -2,44 +2,56 @@
  "archetype": [
   "Swashbuckler"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Swashbuckler's Riposte"
  ],
  "feat_markdown": "Swashbuckler's Riposte",
- "id": "feat-1863",
+ "id": "feat-6237",
+ "legacy_id": [
+  "feat-1863"
+ ],
  "level": 6,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Swashbuckler's Riposte](/Feats.aspx?ID=1863) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 153 <sup>2.0</sup></row>\n\n**Archetype** [Swashbuckler](/Archetypes.aspx?ID=43)\n\n**Prerequisites**\r\n[Swashbuckler Dedication](/Feats.aspx?ID=1859)\n\n</column>\r\n\r\n---\r\n\r\nYou've learned to riposte against ill-conceived attacks. You gain the Opportune Riposte reaction.\n\n<document level=\"2\" id=\"action-551\" />",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Swashbuckler's Riposte](/Feats.aspx?ID=6237) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 182 <sup>1.1</sup>\n\n**Archetype** [Swashbuckler](/Archetypes.aspx?ID=235)\n\n**Prerequisites**\r\n[Swashbuckler Dedication](/Feats.aspx?ID=6233)\n\n</column>\r\n\r\n---\r\n\r\nYou’ve learned to riposte against ill-conceived attacks. You gain the [Opportune Riposte](/Actions.aspx?ID=2819) reaction.",
  "name": "Swashbuckler's Riposte",
  "pfs": "Standard",
  "prerequisite": "Swashbuckler Dedication",
- "prerequisite_markdown": "[Swashbuckler Dedication](/Feats.aspx?ID=1859)",
+ "prerequisite_markdown": "[Swashbuckler Dedication](/Feats.aspx?ID=6233)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 182",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 153 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Swashbuckler Dedication](/Feats.aspx?ID=1859)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou've learned to riposte against ill-conceived attacks.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 182 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Swashbuckler Dedication](/Feats.aspx?ID=6233)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou’ve learned to riposte against ill-conceived attacks.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 153"
+  "Player Core 2 pg. 182"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 153 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 182 <sup>1.1</sup>",
  "speed": {},
- "summary": "You've learned to riposte against ill-conceived attacks.",
- "summary_markdown": "You've learned to riposte against ill-conceived attacks.",
- "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Swashbuckler's Riposte Source Advanced Player's Guide pg. 153 2.0 Archetype Swashbuckler Prerequisites Swashbuckler Dedication --- You've learned to riposte against ill-conceived attacks. You gain the Opportune Riposte reaction.\n",
+ "summary": "You’ve learned to riposte against ill-conceived attacks.",
+ "summary_markdown": "You’ve learned to riposte against ill-conceived attacks.",
+ "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Swashbuckler's Riposte Source Player Core 2 pg. 182 1.1 Archetype Swashbuckler Prerequisites Swashbuckler Dedication --- You’ve learned to riposte against ill-conceived attacks. You gain the Opportune Riposte reaction.",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1863",
+ "url": "/Feats.aspx?ID=6237",
  "weakness": {}
 }

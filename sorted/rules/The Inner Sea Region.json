@@ -1,36 +1,47 @@
 {
  "breadcrumbs": [
-  "Chapter 8: The Age of Lost Omens"
+  "Chapter 3: Age of Lost Omens"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-310",
- "markdown": "<title level=\"1\" right=\"Rules\">[The Inner Sea Region](/Rules.aspx?ID=310)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 419 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nAlthough infinite opportunities for adventure await on other continents, worlds, and planes, the Inner Sea region is the focus of the Pathfinder campaign setting. With dozens of nations, empires, frontiers, and wildlands, this region presents a huge range of opportunities for heroism and villainy, exploration and adventure!\n\n The following pages break down the Inner Sea region into 10 separate regions, each with its own themes. Only a brief overview of each region is presented here—enough to establish the setting and whet the imagination. If you’re interested in exploring Golarion and the Inner Sea region more, see the Pathfinder World Guide, Pathfinder Adventures, and Pathfinder Adventure Path volumes. Adventure paths present not only in-depth material about the region, but also full-length campaigns whose adventures bring a brand-new group of heroes all the way to the height of power!\n\n The year in the Inner Sea region is 4719 Absalom Reckoning (AR). As the calendar advances in the real world, time also progresses for Golarion. The _Pathfinder Core Rulebook_ was first published in the year 2019, with the Inner Sea region’s corresponding year ending in the same two final digits. Golarion’s history is expansive, but two of the most significant events to shape the world occurred in –5293 AR, when Earthfall nearly brought an end to the world, and in 4606 AR, when Aroden, the god of humanity, died, and prophecies the world over began to fail, beginning the Age of Lost Omens.\n\n The map on page 416 depicts the Inner Sea region, further subdivided into the 10 subregions explored on the following pages. The borders of these regions are thematic rather than political. For an in-depth exploration of the Inner Sea region and its dozens of nations and wildlands, see the _Pathfinder Lost Omens World Guide_.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2991",
+ "legacy_id": [
+  "rules-310"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[The Inner Sea Region](/Rules.aspx?ID=2991)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 144 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nAlthough infinite opportunities for adventure await on other continents, worlds, and planes, the Inner Sea region is the focus of the Pathfinder campaign setting. With dozens of nations, empires, frontiers, and wildlands, this region presents a huge range of opportunities for heroism and villainy, exploration and adventure!\n\nPages 146–155 break down the Inner Sea region into 10 separate regions, each with its own themes. Only a brief overview of each region is presented here—enough to establish the setting and whet the imagination. If you're interested in exploring Golarion and the Inner Sea region more, see the Pathfinder Lost Omens, Pathfinder Adventures, and Pathfinder Adventure Path volumes. Adventure Paths present in-depth material about the region and full-length campaigns, whose adventures bring a brand-new group of heroes all the way to the height of power!\n\nThe year in the Inner Sea region is **4723 Absalom Reckoning** (ar). As the calendar advances in the real world, time also progresses for Golarion. Pathfinder Player Core was first published in the year 2023, with the Inner Sea region's corresponding year ending in the same two final digits. Golarion's history is expansive, but two of the most significant events to shape the world occurred in –**5293** ar, when **Earthfall** nearly brought an end to the world, and in **4606** ar, when **Aroden**, the god of humanity, died, and prophecies the world over began to fail, beginning the Age of Lost Omens.\n\nThe map above depicts the Inner Sea region, further subdivided into the 10 subregions explored on the following pages. The borders of these regions are thematic rather than political. For an in-depth exploration of the Inner Sea region and its dozens of nations and wildlands, see the _Pathfinder Lost Omens World Guide_.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Months and Days</title>\r\n\r\nThe names of the months of the year are as follows in the Inner Sea region\n\nAbadius ( January)<br />Calistril (February)<br />Pharast (March)<br />Gozran (April)<br />Desnus (May)<br />Sarenith ( June)<br />Erastus ( July)<br />Arodus (August)<br />Rova (September)<br />Lamashan (October)<br />Neth (November)<br />Kuthona (December)\n\nThe names of the days are as follows.<br />Moonday (Monday)<br />Toilday (Tuesday)<br />Wealday (Wednesday)<br />Oathday (Thursday)<br />Fireday (Friday)<br />Starday (Saturday)<br />Sunday (Sunday)\r\n</aside>",
  "name": "The Inner Sea Region",
  "next_link": {
-  "label": "Chapter 9: Playing the Game",
-  "url": "/Rules.aspx?ID=311"
+  "label": "Beyond the Inner Sea",
+  "url": "/Rules.aspx?ID=2992"
  },
  "previous_link": {
-  "label": "The Great Beyond",
-  "url": "/Rules.aspx?ID=306"
+  "label": "History",
+  "url": "/Rules.aspx?ID=2990"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 144",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 419 <sup>4.0</sup></row>\r\n\r\nChapter 8: The Age of Lost Omens\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 144 <sup>2.0</sup>\r\n\r\nChapter 3: Age of Lost Omens\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAlthough infinite opportunities for adventure await on other continents, worlds, and planes, the Inner Sea region is the focus of the Pathfinder …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 419"
+  "GM Core pg. 144"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 419 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 144 <sup>2.0</sup>",
  "speed": {},
- "text": " The Inner Sea Region Source Core Rulebook pg. 419 4.0 Although infinite opportunities for adventure await on other continents, worlds, and planes, the Inner Sea region is the focus of the Pathfinder campaign setting. With dozens of nations, empires, frontiers, and wildlands, this region presents a huge range of opportunities for heroism and villainy, exploration and adventure! The following pages break down the Inner Sea region into 10 separate regions, each with its own themes. Only a brief overview of each region is presented here—enough to establish the setting and whet the imagination. If you’re interested in exploring Golarion and the Inner Sea region more, see the Pathfinder World Guide, Pathfinder Adventures, and Pathfinder Adventure Path volumes. Adventure paths present not only in-depth material about the region, but also full-length campaigns whose adventures bring a brand-new group of heroes all the way to the height of power! The year in the Inner Sea region is 4719 Absalom Reckoning (AR). As the calendar advances in the real world, time also progresses for Golarion. The Pathfinder Core Rulebook was first published in the year 2019, with the Inner Sea region’s corresponding year ending in the same two final digits. Golarion’s history is expansive, but two of the most significant events to shape the world occurred in –5293 AR, when Earthfall nearly brought an end to the world, and in 4606 AR, when Aroden, the god of humanity, died, and prophecies the world over began to fail, beginning the Age of Lost Omens. The map on page 416 depicts the Inner Sea region, further subdivided into the 10 subregions explored on the following pages. The borders of these regions are thematic rather than political. For an in-depth exploration of the Inner Sea region and its dozens of nations and wildlands, see the Pathfinder Lost Omens World Guide . ",
+ "summary": "Although infinite opportunities for adventure await on other continents, worlds, and planes, the Inner Sea region is the focus of the Pathfinder …",
+ "summary_markdown": "Although infinite opportunities for adventure await on other continents, worlds, and planes, the Inner Sea region is the focus of the Pathfinder …",
+ "text": " The Inner Sea Region Source GM Core pg. 144 2.0 Although infinite opportunities for adventure await on other continents, worlds, and planes, the Inner Sea region is the focus of the Pathfinder campaign setting. With dozens of nations, empires, frontiers, and wildlands, this region presents a huge range of opportunities for heroism and villainy, exploration and adventure! Pages 146–155 break down the Inner Sea region into 10 separate regions, each with its own themes. Only a brief overview of each region is presented here—enough to establish the setting and whet the imagination. If you're interested in exploring Golarion and the Inner Sea region more, see the Pathfinder Lost Omens, Pathfinder Adventures, and Pathfinder Adventure Path volumes. Adventure Paths present in-depth material about the region and full-length campaigns, whose adventures bring a brand-new group of heroes all the way to the height of power! The year in the Inner Sea region is 4723 Absalom Reckoning (ar). As the calendar advances in the real world, time also progresses for Golarion. Pathfinder Player Core was first published in the year 2023, with the Inner Sea region's corresponding year ending in the same two final digits. Golarion's history is expansive, but two of the most significant events to shape the world occurred in – 5293 ar, when Earthfall nearly brought an end to the world, and in 4606 ar, when Aroden , the god of humanity, died, and prophecies the world over began to fail, beginning the Age of Lost Omens. The map above depicts the Inner Sea region, further subdivided into the 10 subregions explored on the following pages. The borders of these regions are thematic rather than political. For an in-depth exploration of the Inner Sea region and its dozens of nations and wildlands, see the Pathfinder Lost Omens World Guide . Months and Days The names of the months of the year are as follows in the Inner Sea region Abadius ( January) Calistril (February) Pharast (March) Gozran (April) Desnus (May) Sarenith ( June) Erastus ( July) Arodus (August) Rova (September) Lamashan (October) Neth (November) Kuthona (December) The names of the days are as follows. Moonday (Monday) Toilday (Tuesday) Wealday (Wednesday) Oathday (Thursday) Fireday (Friday) Starday (Saturday) Sunday (Sunday) ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=310",
+ "url": "/Rules.aspx?ID=2991",
  "weakness": {}
 }

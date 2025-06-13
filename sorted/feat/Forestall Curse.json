@@ -1,6 +1,6 @@
 {
- "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions": "Free Action",
+ "actions_number": 0,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
@@ -8,39 +8,51 @@
  ],
  "feat_markdown": "Forestall Curse",
  "frequency": "once per day",
- "id": "feat-1503",
+ "id": "feat-6077",
+ "legacy_id": [
+  "feat-1503"
+ ],
  "level": 14,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 14\"\r\n    pfs=\"Standard\"\r\n>\r\n[Forestall Curse](/Feats.aspx?ID=1503) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Metamagic\" url=\"/Traits.aspx?ID=107\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 80 <sup>2.0</sup></row>\n\n**Frequency**\r\nonce per day\n\n</column>\r\n\r\n---\r\n\r\nYou've learned to forestall the effects of your curse somewhat. If the next action you use is to cast a revelation spell, the severity of your curse doesn't increase.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 14\"\r\n    pfs=\"Standard\"\r\n>\r\n[Forestall Curse](/Feats.aspx?ID=6077) <actions string=\"Free Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 142 <sup>1.1</sup>\n\n**Frequency**\r\nonce per day\n\n</column>\r\n\r\n---\r\n\r\nYou've learned to hold back your [curse](/Traits.aspx?ID=566). If the next action you use is a [cursebound](/Traits.aspx?ID=800) ability, your cursebound value doesn't increase.",
  "name": "Forestall Curse",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 142",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Metamagic\" url=\"/Traits.aspx?ID=107\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 80 <sup>2.0</sup></row>\r\n\r\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou've learned to forestall the effects of your curse somewhat.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 142 <sup>1.1</sup>\n\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou've learned to hold back your [curse](/Traits.aspx?ID=566).\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 80"
+  "Player Core 2 pg. 142"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 80 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 142 <sup>1.1</sup>",
  "speed": {},
- "summary": "You've learned to forestall the effects of your curse somewhat.",
- "summary_markdown": "You've learned to forestall the effects of your curse somewhat.",
- "text": "<title level=\"1\" right=\"Feat 14\" pfs=\"Standard\" > Forestall Curse Single Action Source Advanced Player's Guide pg. 80 2.0 Frequency once per day --- You've learned to forestall the effects of your curse somewhat. If the next action you use is to cast a revelation spell, the severity of your curse doesn't increase.",
+ "summary": "You've learned to hold back your  curse .",
+ "summary_markdown": "You've learned to hold back your [curse](/Traits.aspx?ID=566).",
+ "text": "<title level=\"1\" right=\"Feat 14\" pfs=\"Standard\" > Forestall Curse Free Action Source Player Core 2 pg. 142 1.1 Frequency once per day --- You've learned to hold back your curse. If the next action you use is a cursebound ability, your cursebound value doesn't increase.",
  "trait": [
   "Concentrate",
-  "Metamagic",
   "Oracle"
  ],
- "trait_markdown": "[Concentrate](/Traits.aspx?ID=32), [Metamagic](/Traits.aspx?ID=107), [Oracle](/Traits.aspx?ID=319)",
+ "trait_group": [
+  "Mechanics",
+  "Class"
+ ],
+ "trait_markdown": "[Concentrate](/Traits.aspx?ID=561), [Oracle](/Traits.aspx?ID=817)",
  "trait_raw": [
   "Concentrate",
-  "Metamagic",
   "Oracle"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1503",
+ "url": "/Feats.aspx?ID=6077",
  "weakness": {}
 }

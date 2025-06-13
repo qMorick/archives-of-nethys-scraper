@@ -6,34 +6,46 @@
   "Profession",
   "Core"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-64",
+ "id": "archetype-253",
+ "image": [
+  "/Images/Archetypes/Archetype_Linguist.webp"
+ ],
+ "legacy_id": [
+  "archetype-64"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Linguist](/Archetypes.aspx?ID=64)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 178 <sup>2.0</sup></row>\n\nWhether you study to further your own ambitions or simply out of fascination with the intricacies of language, your way with words is unparalleled.\n\n<document level=\"2\" id=\"feat-1993\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1994\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1995\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1996\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1997\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1998\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1999\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Linguist](/Archetypes.aspx?ID=253)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 203 <sup>1.1</sup>\n\nWhether you study to further your own ambitions or simply out of fascination with the intricacies of language, your way with words is unparalleled.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Linguist.webp\" />\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"feat-6344\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6345\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6346\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6347\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6348\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6349\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6350\"\n\n/>",
  "name": "Linguist",
  "pfs": "Standard",
- "prerequisite": "you speak at least three languages",
- "prerequisite_markdown": "you speak at least three languages",
+ "prerequisite": "You speak at least 3 languages",
+ "prerequisite_markdown": "You speak at least 3 languages",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 203",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 178 <sup>2.0</sup></row>\r\n\r\n**Prerequisites**\r\nyou speak at least three languages\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhether you study to further your own ambitions or simply out of fascination with the intricacies of language, your way with words is unparalleled.\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 203 <sup>1.1</sup>\r\n\r\n**Prerequisites**\r\nYou speak at least 3 languages\n\n**Archetype Categories**\r\nProfession, Core\r\n\r\n**Number of Feats** 7\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhether you study to further your own ambitions or simply out of fascination with the intricacies of language, your way with words is unparalleled.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 178"
+  "Player Core 2 pg. 203"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 178 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 203 <sup>1.1</sup>",
  "speed": {},
  "summary": "Whether you study to further your own ambitions or simply out of fascination with the intricacies of language, your way with words is unparalleled.",
  "summary_markdown": "Whether you study to further your own ambitions or simply out of fascination with the intricacies of language, your way with words is unparalleled.",
- "text": " Linguist Source Advanced Player's Guide pg. 178 2.0 Whether you study to further your own ambitions or simply out of fascination with the intricacies of language, your way with words is unparalleled. <document level=\"2\" id=\"feat-1994\" /> <document level=\"2\" id=\"feat-1995\" /> <document level=\"2\" id=\"feat-1996\" /> <document level=\"2\" id=\"feat-1997\" /> <document level=\"2\" id=\"feat-1998\" /> <document level=\"2\" id=\"feat-1999\" />",
+ "text": " Linguist Source Player Core 2 pg. 203 1.1 Whether you study to further your own ambitions or simply out of fascination with the intricacies of language, your way with words is unparalleled. <document level=\"2\" id=\"feat-6345\" /> <document level=\"2\" id=\"feat-6346\" /> <document level=\"2\" id=\"feat-6347\" /> <document level=\"2\" id=\"feat-6348\" /> <document level=\"2\" id=\"feat-6349\" /> <document level=\"2\" id=\"feat-6350\" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=64",
+ "url": "/Archetypes.aspx?ID=253",
  "weakness": {}
 }

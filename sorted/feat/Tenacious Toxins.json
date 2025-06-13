@@ -2,42 +2,54 @@
  "archetype": [
   "Poisoner"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Tenacious Toxins"
  ],
  "feat_markdown": "Tenacious Toxins",
- "id": "feat-1596",
+ "id": "feat-5776",
+ "legacy_id": [
+  "feat-1596"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Tenacious Toxins](/Feats.aspx?ID=1596) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 107 <sup>2.0</sup></row>\n\n**Archetype** [Poisoner](/Archetypes.aspx?ID=71) (Level 6)\n\n</column>\r\n\r\n---\r\n\r\nYour victims tend to expire long before your poisons, since the latter have been specifically formulated to last longer. The maximum duration of any poison you create increases by an amount equal to the poison's stage 1 interval, to a maximum of twice the poison's maximum duration.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Tenacious Toxins](/Feats.aspx?ID=5776) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=812\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 65 <sup>1.1</sup>\n\n**Archetypes** [Poisoner](/Archetypes.aspx?ID=71) (Level 6), [Poisoner](/Archetypes.aspx?ID=259) (Level 6)\n\n</column>\r\n\r\n---\r\n\r\nYour victims tend to expire long before your poisons, since the latter have been specifically formulated to last longer. The maximum duration of any poison you create increases by an amount equal to the poison's stage 1 interval, to a maximum of twice the poison's maximum duration.",
  "name": "Tenacious Toxins",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 65",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 107 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour victims tend to expire long before your poisons, since the latter have been specifically formulated to last longer.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=812\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 65 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour victims tend to expire long before your poisons, since the latter have been specifically formulated to last longer.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 107"
+  "Player Core 2 pg. 65"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 107 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 65 <sup>1.1</sup>",
  "speed": {},
  "summary": "Your victims tend to expire long before your poisons, since the latter have been specifically formulated to last longer.",
  "summary_markdown": "Your victims tend to expire long before your poisons, since the latter have been specifically formulated to last longer.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Tenacious Toxins Source Advanced Player's Guide pg. 107 2.0 Archetype Poisoner (Level 6) --- Your victims tend to expire long before your poisons, since the latter have been specifically formulated to last longer. The maximum duration of any poison you create increases by an amount equal to the poison's stage 1 interval, to a maximum of twice the poison's maximum duration.",
+ "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Tenacious Toxins Source Player Core 2 pg. 65 1.1 Archetypes Poisoner (Level 6), Poisoner (Level 6) --- Your victims tend to expire long before your poisons, since the latter have been specifically formulated to last longer. The maximum duration of any poison you create increases by an amount equal to the poison's stage 1 interval, to a maximum of twice the poison's maximum duration.",
  "trait": [
   "Alchemist"
  ],
- "trait_markdown": "[Alchemist](/Traits.aspx?ID=7)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Alchemist](/Traits.aspx?ID=812)",
  "trait_raw": [
   "Alchemist"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1596",
+ "url": "/Feats.aspx?ID=5776",
  "weakness": {}
 }

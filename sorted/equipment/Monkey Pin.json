@@ -1,54 +1,68 @@
 {
  "actions": "Single Action",
+ "actions_number": 2,
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
+ "bulk": 0,
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-226",
+ "id": "equipment-2985",
  "item_category": "Consumables",
  "item_subcategory": "Talismans",
+ "legacy_id": [
+  "equipment-226"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Monkey Pin](/Equipment.aspx?ID=226)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=155\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 568 <sup>4.0</sup></row>\n\n**Price** 6 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** affixed to armor\n\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>Climb</row></row>\r\n\r\n \r\n\r\n \r\n\r\n**Requirement** You are trained in Athletics\r\n</row>\n\n</column>\r\n\r\n---\n\nThis small brass pin is in the shape of a monkey climbing a tree. When you activate this talisman, use a Climb action. If you succeed, you move your full Speed during the Climb. If you roll a critical failure, you get a failure instead.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Monkey Pin](/Equipment.aspx?ID=2985)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=709\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 266 <sup>2.0</sup>\n\n**Price** 6 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** affixed to armor\n\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([concentrate](/Traits.aspx?ID=32))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis small brass pin is shaped like a monkey climbing a tree. When you activate this talisman, use a [Climb](/Actions.aspx?ID=33) action with a +1 item bonus on the check. On this check and until the end of your turn, if you succeed on an Athletics check to Climb, you move your full Speed during the Climb. If you roll a critical failure, you get a failure instead.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Monkey Pin",
  "pfs": "Standard",
  "price": 600,
  "price_raw": "6 gp",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 266",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
- "requirement": "You are trained in Athletics",
- "requirement_markdown": "You are trained in Athletics",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "school": "transmutation",
- "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=155\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 568 <sup>4.0</sup></row>\r\n\r\n**Price** 6 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** affixed to armor\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>Climb</row></row>\r\n\r\n \r\n\r\n \r\n\r\n**Requirement** You are trained in Athletics\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis small brass pin is in the shape of a monkey climbing a tree. When you activate this talisman, use a Climb action. If you succeed, you move your …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=709\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 266 <sup>2.0</sup>\r\n\r\n**Price** 6 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** affixed to armor\r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([concentrate](/Traits.aspx?ID=32))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis small brass pin is shaped like a monkey climbing a tree. When you activate this talisman, use a  Climb  action with a +1 item bonus on the …\r\n</summary>",
+ "skill": [
+  "Athletics"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=36)",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 568"
+  "GM Core pg. 266"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 568 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 266 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "This small brass pin is in the shape of a monkey climbing a tree. When you activate this talisman, use a Climb action. If you succeed, you move your …",
- "summary_markdown": "This small brass pin is in the shape of a monkey climbing a tree. When you activate this talisman, use a Climb action. If you succeed, you move your …",
- "text": "<title level=\"1\" right=\"Item 2\" pfs=\"Standard\" > Monkey Pin Source Core Rulebook pg. 568 4.0 Price 6 gp Usage affixed to armor Activate Single Action Climb Requirement You are trained in Athletics --- This small brass pin is in the shape of a monkey climbing a tree. When you activate this talisman, use a Climb action. If you succeed, you move your full Speed during the Climb. If you roll a critical failure, you get a failure instead.\n",
+ "summary": "This small brass pin is shaped like a monkey climbing a tree. When you activate this talisman, use a  Climb  action with a +1 item bonus on the …",
+ "summary_markdown": "This small brass pin is shaped like a monkey climbing a tree. When you activate this talisman, use a  Climb  action with a +1 item bonus on the …",
+ "text": "<title level=\"1\" right=\"Item 2\" pfs=\"Standard\" > Monkey Pin Source GM Core pg. 266 2.0 Price 6 gp Usage affixed to armor Activate Single Action (concentrate) --- This small brass pin is shaped like a monkey climbing a tree. When you activate this talisman, use a Climb action with a +1 item bonus on the check. On this check and until the end of your turn, if you succeed on an Athletics check to Climb, you move your full Speed during the Climb. If you roll a critical failure, you get a failure instead.\n",
  "trait": [
   "Consumable",
   "Magical",
-  "Talisman",
-  "Transmutation"
+  "Talisman"
  ],
- "trait_markdown": "[Consumable](/Traits.aspx?ID=36), [Magical](/Traits.aspx?ID=103), [Talisman](/Traits.aspx?ID=155), [Transmutation](/Traits.aspx?ID=157)",
+ "trait_group": [
+  "Equipment",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Consumable](/Traits.aspx?ID=564), [Magical](/Traits.aspx?ID=644), [Talisman](/Traits.aspx?ID=709)",
  "trait_raw": [
   "Consumable",
   "Magical",
-  "Talisman",
-  "Transmutation"
+  "Talisman"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=226",
+ "url": "/Equipment.aspx?ID=2985",
  "usage": "affixed to armor",
  "usage_markdown": "affixed to armor",
  "weakness": {}

@@ -1,38 +1,50 @@
 {
  "breadcrumbs": [
-  "Chapter 10: Game Mastering",
-  "Game Mastering",
-  "Planning a Campaign"
+  "Chapter 1: Running the Game"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-490",
- "markdown": "<title level=\"1\" right=\"Rules\">[Character Creation](/Rules.aspx?ID=490)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 486 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nAt the outset of a new campaign, the players will create new player characters. Part of that process involves you introducing what the campaign will be about and what types of characters are most appropriate. Work with the players to determine which rule options are available. The safest options are the common choices from the _Pathfinder Core Rulebook_. If players want to use common options from other books or uncommon or rare options, through play, review those options to see if any of them conflict with the style of campaign you have in mind or might present strange surprises down the road. It’s usually best to allow new options, but there’s no obligation to do so. Be as open as you’re comfortable with.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2477",
+ "legacy_id": [
+  "rules-815"
+ ],
+ "legacy_name": [
+  "Session Zero"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Character Creation](/Rules.aspx?ID=2477)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 9 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nAt the outset of a new campaign, the players will create new player characters. Part of that process involves you introducing what the campaign will be about and what types of characters are most appropriate. Work with the players to determine which rule options are available. The safest options are the common choices from Player Core. If players want to use common options from other books or uncommon or rare options, review those options to see if any of them conflict with the style of campaign you have in mind or might present strange surprises down the road. It’s usually best to allow new options, but there’s no obligation to do so. Be as open as you’re comfortable with.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-2478\" />",
  "name": "Character Creation",
  "next_link": {
-  "label": "Preparing an Adventure",
-  "url": "/Rules.aspx?ID=491"
+  "label": "Planning a Session",
+  "url": "/Rules.aspx?ID=2479"
  },
  "previous_link": {
-  "label": "A Welcoming Environment",
-  "url": "/Rules.aspx?ID=486"
+  "label": "Preparing Adventures",
+  "url": "/Rules.aspx?ID=2473"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 9",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 486 <sup>4.0</sup></row>\r\n\r\nChapter 10: Game Mastering / Game Mastering / Planning a Campaign\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 9 <sup>2.0</sup>\r\n\r\nChapter 1: Running the Game\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAt the outset of a new campaign, the players will create new player characters. Part of that process involves you introducing what the campaign will …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 486"
+  "GM Core pg. 9"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 486 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 9 <sup>2.0</sup>",
  "speed": {},
- "text": " Character Creation Source Core Rulebook pg. 486 4.0 At the outset of a new campaign, the players will create new player characters. Part of that process involves you introducing what the campaign will be about and what types of characters are most appropriate. Work with the players to determine which rule options are available. The safest options are the common choices from the Pathfinder Core Rulebook . If players want to use common options from other books or uncommon or rare options, through play, review those options to see if any of them conflict with the style of campaign you have in mind or might present strange surprises down the road. It’s usually best to allow new options, but there’s no obligation to do so. Be as open as you’re comfortable with. ",
+ "summary": "At the outset of a new campaign, the players will create new player characters. Part of that process involves you introducing what the campaign will …",
+ "summary_markdown": "At the outset of a new campaign, the players will create new player characters. Part of that process involves you introducing what the campaign will …",
+ "text": " Character Creation Source GM Core pg. 9 2.0 At the outset of a new campaign, the players will create new player characters. Part of that process involves you introducing what the campaign will be about and what types of characters are most appropriate. Work with the players to determine which rule options are available. The safest options are the common choices from Player Core. If players want to use common options from other books or uncommon or rare options, review those options to see if any of them conflict with the style of campaign you have in mind or might present strange surprises down the road. It’s usually best to allow new options, but there’s no obligation to do so. Be as open as you’re comfortable with. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=490",
+ "url": "/Rules.aspx?ID=2477",
  "weakness": {}
 }

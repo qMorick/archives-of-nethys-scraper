@@ -1,39 +1,47 @@
 {
  "breadcrumbs": [
-  "Chapter 2: Tools\r\n",
-  "Building Items",
-  "Item Effects",
-  "Special Abilities"
+  "Chapter 5: Treasure Trove"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1059",
- "markdown": "<title level=\"1\" right=\"Rules\">[Constant Abilities](/Rules.aspx?ID=1059)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 82</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nIf you want an effect to be constant, set the level and Price accordingly. For instance, let’s say your group is 16th level and you want to give them an item themed around flying. A 7th-level [_fly_](/Spells.aspx?ID=125) spell lasts an hour already, so one casting covers a significant portion of the adventuring day. To keep it simpler, you decide to create a 16th-level cloak that lets the wearer constantly fly. Remember, some effects were never meant to be constant and could warp your game.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-3137",
+ "legacy_id": [
+  "rules-1059"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Constant Abilities](/Rules.aspx?ID=3137)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 219 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nSome magic items have abilities that always function. PCs don't have to use any actions to do anything special (beyond wearing and investing a worn item or wielding a held item) to make these abilities work. For example, an _[everlight crystal](/Equipment.aspx?ID=3021)_ always sheds light, and a _[flaming weapon](/Equipment.aspx?ID=2838)_ deals fire damage every time it deals damage.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Constant Abilities",
  "next_link": {
-  "label": "Activation Abilities",
-  "url": "/Rules.aspx?ID=1060"
+  "label": "Investing Magic Items",
+  "url": "/Rules.aspx?ID=3138"
  },
  "previous_link": {
-  "label": "Concept and Role",
-  "url": "/Rules.aspx?ID=1054"
+  "label": "Using Items",
+  "url": "/Rules.aspx?ID=3136"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 219",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 82</row>\r\n\r\nChapter 2: Tools\r\n/ Building Items / Item Effects / Special Abilities\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 219 <sup>2.0</sup>\r\n\r\nChapter 5: Treasure Trove\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSome magic items have abilities that always function. PCs don't have to use any actions to do anything special (beyond wearing and investing a worn …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 82"
+  "GM Core pg. 219"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 82</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 219 <sup>2.0</sup>",
  "speed": {},
- "text": " Constant Abilities Source Gamemastery Guide pg. 82 If you want an effect to be constant, set the level and Price accordingly. For instance, let’s say your group is 16th level and you want to give them an item themed around flying. A 7th-level fly spell lasts an hour already, so one casting covers a significant portion of the adventuring day. To keep it simpler, you decide to create a 16th-level cloak that lets the wearer constantly fly. Remember, some effects were never meant to be constant and could warp your game. ",
+ "summary": "Some magic items have abilities that always function. PCs don't have to use any actions to do anything special (beyond wearing and investing a worn …",
+ "summary_markdown": "Some magic items have abilities that always function. PCs don't have to use any actions to do anything special (beyond wearing and investing a worn …",
+ "text": " Constant Abilities Source GM Core pg. 219 2.0 Some magic items have abilities that always function. PCs don't have to use any actions to do anything special (beyond wearing and investing a worn item or wielding a held item) to make these abilities work. For example, an everlight crystal always sheds light, and a flaming weapon deals fire damage every time it deals damage. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1059",
+ "url": "/Rules.aspx?ID=3137",
  "weakness": {}
 }

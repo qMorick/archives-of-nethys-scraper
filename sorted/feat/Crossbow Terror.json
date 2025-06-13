@@ -1,45 +1,59 @@
 {
+ "actions": "Single Action",
+ "actions_number": 2,
  "archetype": [
   "Archer"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Crossbow Terror"
  ],
  "feat_markdown": "Crossbow Terror",
- "id": "feat-1888",
+ "id": "feat-6254",
+ "legacy_id": [
+  "feat-1888"
+ ],
  "level": 6,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Crossbow Terror](/Feats.aspx?ID=1888) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 157 <sup>2.0</sup></row>\n\n**Archetype** [Archer](/Archetypes.aspx?ID=47)\n\n**Prerequisites**\r\n[Archer Dedication](/Feats.aspx?ID=1885)\n\n</column>\r\n\r\n---\r\n\r\nYou are a dynamo with the crossbow. You gain a +2 circumstance bonus to damage with crossbows. If the crossbow is a simple weapon, also increase the damage die size for your attacks made with that crossbow by one step. As normal, this damage die increase can't be combined with other abilities that alter the weapon damage die (such as the ranger feat [Crossbow Ace](/Feats.aspx?ID=491)).",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Crossbow Terror](/Feats.aspx?ID=6254) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 185 <sup>1.1</sup>\n\n**Archetype** [Archer](/Archetypes.aspx?ID=238)\n\n**Prerequisites**\r\n[Archer Dedication](/Feats.aspx?ID=6252)\n\n</column>\r\n\r\n---\r\n\r\nYour skill with a crossbow strikes terror into your opponents when you threaten them with the next bolt. Interact to reload a crossbow and then attempt an Intimidation check to [Demoralize](/Actions.aspx?ID=2395). You gain a +2 circumstance bonus to this check if you succeeded at a Strike with a crossbow this turn.",
  "name": "Crossbow Terror",
  "pfs": "Standard",
  "prerequisite": "Archer Dedication",
- "prerequisite_markdown": "[Archer Dedication](/Feats.aspx?ID=1885)",
+ "prerequisite_markdown": "[Archer Dedication](/Feats.aspx?ID=6252)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 185",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 157 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Archer Dedication](/Feats.aspx?ID=1885)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou are a dynamo with the crossbow.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 185 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Archer Dedication](/Feats.aspx?ID=6252)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour skill with a crossbow strikes terror into your opponents when you threaten them with the next bolt.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 157"
+  "Player Core 2 pg. 185"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 157 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 185 <sup>1.1</sup>",
  "speed": {},
- "summary": "You are a dynamo with the crossbow.",
- "summary_markdown": "You are a dynamo with the crossbow.",
- "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Crossbow Terror Source Advanced Player's Guide pg. 157 2.0 Archetype Archer Prerequisites Archer Dedication --- You are a dynamo with the crossbow. You gain a +2 circumstance bonus to damage with crossbows. If the crossbow is a simple weapon, also increase the damage die size for your attacks made with that crossbow by one step. As normal, this damage die increase can't be combined with other abilities that alter the weapon damage die (such as the ranger feat Crossbow Ace).",
+ "summary": "Your skill with a crossbow strikes terror into your opponents when you threaten them with the next bolt.",
+ "summary_markdown": "Your skill with a crossbow strikes terror into your opponents when you threaten them with the next bolt.",
+ "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Crossbow Terror Single Action Source Player Core 2 pg. 185 1.1 Archetype Archer Prerequisites Archer Dedication --- Your skill with a crossbow strikes terror into your opponents when you threaten them with the next bolt. Interact to reload a crossbow and then attempt an Intimidation check to Demoralize. You gain a +2 circumstance bonus to this check if you succeeded at a Strike with a crossbow this turn.",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1888",
+ "url": "/Feats.aspx?ID=6254",
  "weakness": {}
 }

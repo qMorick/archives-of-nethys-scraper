@@ -1,36 +1,58 @@
 {
- "actions": "Two Actions",
- "breadcrumbs_spa": [],
  "category": "action",
  "exclude_from_search": false,
- "id": "action-1425",
- "markdown": "<title level=\"1\" right=\"Action\">[Rally](/Actions.aspx?ID=1425) <actions string=\"Two Actions\" /></title>\r\n\r\n<traits>\r\n<trait label=\"Morale\" url=\"/Traits.aspx?ID=460\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 580</row>\n\n</column>\r\n\r\n---\r\n\r\nYour army's leaders attempt to bolster the soldiers' morale and fight back the effects of fear and panic. Attempt a Morale check against a target enemy army of your choice.\r\n\r\n**Critical Success** If your army is [routed](/Conditions.aspx?ID=55), it loses the routed condition. Reduce your army's [shaken](/Conditions.aspx?ID=56) condition by 2.<br />\r\n**Success** Reduce your army's shaken condition by 1.<br />\r\n**Critical Failure** Your attempt to rally backfires—increase your army's shaken condition by 1.",
+ "id": "action-464",
+ "markdown": "<title level=\"1\" right=\"Action\">[Rally](/Actions.aspx?ID=464) <actions string=\"\" /></title>\r\n\r\n<traits>\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=16\" />\r\n<trait label=\"Emotion\" url=\"/Traits.aspx?ID=60\" />\r\n<trait label=\"Exploration\" url=\"/Traits.aspx?ID=66\" />\r\n<trait label=\"Linguistic\" url=\"/Traits.aspx?ID=101\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n<trait label=\"Stamina\" url=\"/Traits.aspx?ID=295\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 201\n\n**Requirements** trained in [Diplomacy](/Skills.aspx?ID=6), [Intimidation](/Skills.aspx?ID=7), or [Performance](/Skills.aspx?ID=12)\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou spend 1 minute encouraging your ally. Though this action typically has the auditory and linguistic traits, if you’re using the Performance skill, the GM might adjust the traits for this action to match the traits for your type of performance.\n\n Attempt a DC 15 skill check. The GM might adjust this DC based on the circumstances, such as attempting to Rally an ally who just suffered a humiliating defeat.\n\n**Critical Success** The ally can spend 1 Resolve Point to regain all their Stamina Points.<br />\r\n**Success** You can continue encouraging your ally for a total of 10 minutes. If you do, they can spend 1 Resolve Point to regain all their Stamina Points.<br />\r\n**Critical Failure** The ally takes 1d8 mental damage, but this can reduce only Stamina Points, never Hit Points.",
  "name": "Rally",
+ "primary_source": "Gamemastery Guide",
+ "primary_source_raw": "Gamemastery Guide pg. 201",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2022-10-26",
+ "rarity_id": 1,
+ "release_date": "2020-02-26",
+ "requirement": "trained in  Diplomacy ,  Intimidation , or  Performance ",
+ "requirement_markdown": "trained in [Diplomacy](/Skills.aspx?ID=6), [Intimidation](/Skills.aspx?ID=7), or [Performance](/Skills.aspx?ID=12)",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Morale\" url=\"/Traits.aspx?ID=460\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 580</row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour army's leaders attempt to bolster the soldiers' morale and fight back the effects of fear and panic. Attempt a Morale check against a target …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=16\" />\r\n<trait label=\"Emotion\" url=\"/Traits.aspx?ID=60\" />\r\n<trait label=\"Exploration\" url=\"/Traits.aspx?ID=66\" />\r\n<trait label=\"Linguistic\" url=\"/Traits.aspx?ID=101\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n<trait label=\"Stamina\" url=\"/Traits.aspx?ID=295\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 201\n\n**Requirement**\r\ntrained in [Diplomacy](/Skills.aspx?ID=6), [Intimidation](/Skills.aspx?ID=7), or [Performance](/Skills.aspx?ID=12)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou spend 1 minute encouraging your ally. Though this action typically has the auditory and linguistic traits, if you’re using the Performance skill, …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Kingmaker Adventure Path"
+  "Gamemastery Guide"
  ],
  "source_raw": [
-  "Kingmaker Adventure Path pg. 580"
+  "Gamemastery Guide pg. 201"
  ],
- "source_category": "Adventure Paths",
- "source_group": "Kingmaker",
- "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 580</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Gamemastery Guide](/Sources.aspx?ID=22) pg. 201",
  "speed": {},
- "summary": "Your army's leaders attempt to bolster the soldiers' morale and fight back the effects of fear and panic. Attempt a Morale check against a target …",
- "summary_markdown": "Your army's leaders attempt to bolster the soldiers' morale and fight back the effects of fear and panic. Attempt a Morale check against a target …",
- "text": " Rally Two Actions Source Kingmaker Adventure Path pg. 580 --- Your army's leaders attempt to bolster the soldiers' morale and fight back the effects of fear and panic. Attempt a Morale check against a target enemy army of your choice. Critical Success If your army is routed, it loses the routed condition. Reduce your army's shaken condition by 2. Success Reduce your army's shaken condition by 1. Critical Failure Your attempt to rally backfires—increase your army's shaken condition by 1.",
+ "summary": "You spend 1 minute encouraging your ally. Though this action typically has the auditory and linguistic traits, if you’re using the Performance skill, …",
+ "summary_markdown": "You spend 1 minute encouraging your ally. Though this action typically has the auditory and linguistic traits, if you’re using the Performance skill, …",
+ "text": " Rally Source Gamemastery Guide pg. 201 Requirements trained in Diplomacy, Intimidation, or Performance --- You spend 1 minute encouraging your ally. Though this action typically has the auditory and linguistic traits, if you’re using the Performance skill, the GM might adjust the traits for this action to match the traits for your type of performance. Attempt a DC 15 skill check. The GM might adjust this DC based on the circumstances, such as attempting to Rally an ally who just suffered a humiliating defeat. Critical Success The ally can spend 1 Resolve Point to regain all their Stamina Points. Success You can continue encouraging your ally for a total of 10 minutes. If you do, they can spend 1 Resolve Point to regain all their Stamina Points. Critical Failure The ally takes 1d8 mental damage, but this can reduce only Stamina Points, never Hit Points.",
  "trait": [
-  "Morale"
+  "Auditory",
+  "Emotion",
+  "Exploration",
+  "Linguistic",
+  "Mental",
+  "Stamina"
  ],
- "trait_markdown": "[Morale](/Traits.aspx?ID=460)",
+ "trait_group": [
+  "Sense",
+  "Mechanics",
+  "AoN-Special",
+  "Variant Rules"
+ ],
+ "trait_markdown": "[Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Exploration](/Traits.aspx?ID=66), [Linguistic](/Traits.aspx?ID=101), [Mental](/Traits.aspx?ID=106), [Stamina](/Traits.aspx?ID=295)",
  "trait_raw": [
-  "Morale"
+  "Auditory",
+  "Emotion",
+  "Exploration",
+  "Linguistic",
+  "Mental",
+  "Stamina"
  ],
  "type": "Action",
- "url": "/Actions.aspx?ID=1425",
+ "url": "/Actions.aspx?ID=464",
  "weakness": {}
 }

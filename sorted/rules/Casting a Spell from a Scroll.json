@@ -1,38 +1,48 @@
 {
  "breadcrumbs": [
-  "Chapter 11: Crafting & Treasure",
-  "Consumables",
+  "Chapter 5: Treasure Trove",
   "Scrolls"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-721",
- "markdown": "<title level=\"1\" right=\"Rules\">[Casting a Spell from a Scroll](/Rules.aspx?ID=721)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 564 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nCasting a Spell from a scroll requires holding the scroll in one hand and activating it with a Cast a Spell activity using the normal number of actions for that spell.\n\n To Cast a Spell from a scroll, the spell must appear on your spell list. Because you’re the one Casting the Spell, use your spell attack roll and spell DC. The spell also gains the appropriate trait for your tradition ([arcane](/Traits.aspx?ID=11), [divine](/Traits.aspx?ID=48), [occult](/Traits.aspx?ID=120), or [primal](/Traits.aspx?ID=134)).\n\n Any physical material components and costs are provided when a scroll is created, so you don’t need to provide them when Casting a Spell from a scroll. You must replace any required material component for that spell with a somatic component. If the spell requires a focus, you must have that focus to Cast the Spell from a scroll.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-3198",
+ "legacy_id": [
+  "rules-721"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Casting a Spell from a Scroll](/Rules.aspx?ID=3198)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 262 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nCasting a Spell from a scroll requires holding the scroll in one hand and activating it with a [Cast a Spell](/Actions.aspx?ID=2734) activity using the normal number of actions for that spell. The spell must appear on your spell list. Because you're the one Casting the Spell, use your spell attack modifier and spell DC. The spell also gains the appropriate trait for your tradition ([arcane](/Traits.aspx?ID=534), [divine](/Traits.aspx?ID=579), [occult](/Traits.aspx?ID=662), or [primal](/Traits.aspx?ID=676)).\n\nAny physical costs are provided when a scroll is created, so you don't need to provide them when casting from a scroll. If the spell requires a [locus](/Rules.aspx?ID=2234), you must have that locus to Cast the Spell from a scroll.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Casting a Spell from a Scroll",
  "next_link": {
   "label": "Scroll Statistics",
-  "url": "/Rules.aspx?ID=722"
+  "url": "/Rules.aspx?ID=3199"
  },
  "previous_link": {
   "label": "Potions",
-  "url": "/Rules.aspx?ID=719"
+  "url": "/Rules.aspx?ID=3196"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 262",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 564 <sup>4.0</sup></row>\r\n\r\nChapter 11: Crafting &amp; Treasure / Consumables / Scrolls\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 262 <sup>2.0</sup>\r\n\r\nChapter 5: Treasure Trove / Scrolls\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCasting a Spell from a scroll requires holding the scroll in one hand and activating it with a  Cast a Spell  activity using the normal number of …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 564"
+  "GM Core pg. 262"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 564 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 262 <sup>2.0</sup>",
  "speed": {},
- "text": " Casting a Spell from a Scroll Source Core Rulebook pg. 564 4.0 Casting a Spell from a scroll requires holding the scroll in one hand and activating it with a Cast a Spell activity using the normal number of actions for that spell. To Cast a Spell from a scroll, the spell must appear on your spell list. Because you’re the one Casting the Spell, use your spell attack roll and spell DC. The spell also gains the appropriate trait for your tradition (arcane, divine, occult, or primal). Any physical material components and costs are provided when a scroll is created, so you don’t need to provide them when Casting a Spell from a scroll. You must replace any required material component for that spell with a somatic component. If the spell requires a focus, you must have that focus to Cast the Spell from a scroll. ",
+ "summary": "Casting a Spell from a scroll requires holding the scroll in one hand and activating it with a  Cast a Spell  activity using the normal number of …",
+ "summary_markdown": "Casting a Spell from a scroll requires holding the scroll in one hand and activating it with a  Cast a Spell  activity using the normal number of …",
+ "text": " Casting a Spell from a Scroll Source GM Core pg. 262 2.0 Casting a Spell from a scroll requires holding the scroll in one hand and activating it with a Cast a Spell activity using the normal number of actions for that spell. The spell must appear on your spell list. Because you're the one Casting the Spell, use your spell attack modifier and spell DC. The spell also gains the appropriate trait for your tradition (arcane, divine, occult, or primal). Any physical costs are provided when a scroll is created, so you don't need to provide them when casting from a scroll. If the spell requires a locus, you must have that locus to Cast the Spell from a scroll. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=721",
+ "url": "/Rules.aspx?ID=3198",
  "weakness": {}
 }

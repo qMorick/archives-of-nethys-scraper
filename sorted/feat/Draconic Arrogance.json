@@ -1,44 +1,57 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Draconic Arrogance"
  ],
  "feat_markdown": "Draconic Arrogance",
- "id": "feat-1603",
+ "id": "feat-5808",
+ "legacy_id": [
+  "feat-1603"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Draconic Arrogance](/Feats.aspx?ID=1603) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 108 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[dragon instinct](/Instincts.aspx?ID=2)\n\n</column>\r\n\r\n---\r\n\r\nFew can sway you from your goals while the fury of combat fills you. While raging, you gain a +2 status bonus to saving throws against [emotion](/Traits.aspx?ID=60) effects.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Draconic Arrogance](/Feats.aspx?ID=5808) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 77 <sup>1.1</sup>\n\n**Prerequisites**\r\n[dragon instinct](/Instincts.aspx?ID=9)\n\n</column>\r\n\r\n---\r\n\r\nFew can sway you from your goals while the fury of combat fills you. While raging, you gain a +2 status bonus to saving throws against [emotion](/Traits.aspx?ID=590) effects.",
  "name": "Draconic Arrogance",
  "pfs": "Standard",
  "prerequisite": "dragon instinct",
- "prerequisite_markdown": "[dragon instinct](/Instincts.aspx?ID=2)",
+ "prerequisite_markdown": "[dragon instinct](/Instincts.aspx?ID=9)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 77",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 108 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[dragon instinct](/Instincts.aspx?ID=2)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFew can sway you from your goals while the fury of combat fills you.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 77 <sup>1.1</sup>\n\n**Prerequisites**\r\n[dragon instinct](/Instincts.aspx?ID=9)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFew can sway you from your goals while the fury of combat fills you.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 108"
+  "Player Core 2 pg. 77"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 108 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 77 <sup>1.1</sup>",
  "speed": {},
  "summary": "Few can sway you from your goals while the fury of combat fills you.",
  "summary_markdown": "Few can sway you from your goals while the fury of combat fills you.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Draconic Arrogance Source Advanced Player's Guide pg. 108 2.0 Prerequisites dragon instinct --- Few can sway you from your goals while the fury of combat fills you. While raging, you gain a +2 status bonus to saving throws against emotion effects.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Draconic Arrogance Source Player Core 2 pg. 77 1.1 Prerequisites dragon instinct --- Few can sway you from your goals while the fury of combat fills you. While raging, you gain a +2 status bonus to saving throws against emotion effects.",
  "trait": [
   "Barbarian",
   "Rage"
  ],
- "trait_markdown": "[Barbarian](/Traits.aspx?ID=18), [Rage](/Traits.aspx?ID=135)",
+ "trait_group": [
+  "Class",
+  "Class-Specific"
+ ],
+ "trait_markdown": "[Barbarian](/Traits.aspx?ID=813), [Rage](/Traits.aspx?ID=680)",
  "trait_raw": [
   "Barbarian",
   "Rage"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1603",
+ "url": "/Feats.aspx?ID=5808",
  "weakness": {}
 }

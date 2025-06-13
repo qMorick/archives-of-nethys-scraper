@@ -1,23 +1,31 @@
 {
  "actions": "Two Actions",
+ "actions_number": 4,
  "bloodline_markdown": "",
- "breadcrumbs_spa": [],
  "category": "spell",
- "component": [
-  "somatic",
-  "verbal"
- ],
- "deity_markdown": "",
  "domain": [
   "Star"
  ],
- "domain_markdown": "[Star](/Domains.aspx?ID=52)",
+ "domain_markdown": "[Star](/Domains.aspx?ID=119)",
  "duration": 86400,
  "duration_raw": "1 day",
  "exclude_from_search": false,
  "heighten": [
   "+1",
   "4th"
+ ],
+ "heighten_group": [
+  "1st rank",
+  "Heightened 2nd rank",
+  "Heightened 3rd rank",
+  "Heightened 4th rank",
+  "Heightened 5th rank",
+  "Heightened 6th rank",
+  "Heightened 7th rank",
+  "Heightened 8th rank",
+  "Heightened 9th rank",
+  "Heightened 10th rank",
+  "Heightened 4th rank"
  ],
  "heighten_level": [
   1,
@@ -32,48 +40,68 @@
   10,
   4
  ],
- "id": "spell-618",
+ "id": "spell-2411",
+ "legacy_id": [
+  "spell-618"
+ ],
  "level": 1,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Focus 1\" pfs=\"Standard\">[Zenith Star](/Spells.aspx?ID=618)</title>\n\n<traits>\r\n<trait label=\"Divination\" url=\"/Traits.aspx?ID=47\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=100\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 117 <sup>2.0</sup></row>\n\n**Domain**\r\n[Star](/Domains.aspx?ID=52)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 60 feet\n\n**Target** 1 creature\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** Fortitude\r\n\r\n**Duration** 1 day\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou call a tiny star to orbit a creature in a sparkling halo before shooting up into the heavens, where it marks the creature’s rough location. The target must attempt a Fortitude save.\r\n\r\n**Critical Success** The target is unaffected.<br />\r\n**Success** The target is [dazzled](/Conditions.aspx?ID=7) for 1 round.<br />\r\n**Failure** The target is dazzled for 1 round. While the spell persists, as long as you can see the night sky and the target is visible from the same night sky, you can sense the approximate direction and distance to the creature by using a single action, which has the [concentrate](/Traits.aspx?ID=32) trait. This is exact enough to track the creature, but not pinpoint their exact square (for instance, to make an attack). You can set a number of _zenith stars_ equal to your Wisdom modifier; if you exceed this number, your oldest _zenith star_ is automatically Dismissed.<br />\r\n**Critical Failure** As failure, but the target is [blinded](/Conditions.aspx?ID=1) for 1 round.\n\n---\r\n**Heightened (+1)** The duration increases by 1 day.\r\n\r\n**Heightened (4th)** You ignore the concealed [condition](/Conditions.aspx?ID=4) against targets marked by _zenith star_.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Focus 1\" pfs=\"Standard\">\r\n[Zenith Star](/Spells.aspx?ID=2411)\r\n<actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=100\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 269\n\n**Domain**\r\n[Star](/Domains.aspx?ID=119)\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 60 feet\n\n**Target** 1 creature\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\nFortitude\r\n\r\n**Duration** 1 day\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou call a tiny star to orbit a creature in a sparkling halo before shooting up into the heavens, where it marks the creature’s rough location. The target must attempt a Fortitude save.\r\n\r\n**Critical Success** The target is unaffected.<br />\r\n**Success** The target is [dazzled](/Conditions.aspx?ID=65) for 1 round.<br />\r\n**Failure** The target is dazzled for 1 round. While the spell persists, as long as you can see the night sky and the target is visible from the same night sky, you can sense the approximate direction and distance to the creature by [Sustaining](/Actions.aspx?ID=2317) the spell. This is enough to track the creature, but not pinpoint their exact square (for instance, to make an attack). You can set a number of zenith stars equal to your Wisdom modifier; if you exceed this number, your oldest zenith star is automatically [Dismissed](/Actions.aspx?ID=2311).<br />\r\n**Critical Failure** As failure, but the target is [blinded](/Conditions.aspx?ID=59) for 1 round.\n\n---\r\n**Heightened (+1)** The duration increases by 1 day.\r\n\r\n**Heightened (4th)** You ignore the [concealed](/Conditions.aspx?ID=62) condition against targets marked by zenith star.",
  "name": "Zenith Star",
- "patron_theme_markdown": "",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 269",
+ "primary_source_category": "Lost Omens",
  "range": 60,
  "range_raw": "60 feet",
- "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity": "uncommon",
+ "rarity_id": 2,
+ "release_date": "2025-01-30",
  "resistance": {},
  "saving_throw": "Fortitude",
  "saving_throw_markdown": "Fortitude",
- "school": "divination",
- "search_markdown": "<traits>\r\n<trait label=\"Divination\" url=\"/Traits.aspx?ID=47\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=100\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 117 <sup>2.0</sup></row>\n\n**Domain**\r\n[Star](/Domains.aspx?ID=52)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 60 feet\r\n\r\n \r\n\r\n**Target** 1 creature\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** Fortitude\r\n\r\n**Duration** 1 day\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou call a tiny star to orbit a creature in a sparkling halo before shooting up into the heavens, where it marks the creature’s rough location.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=100\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 269\n\n**Domain**\r\n[Star](/Domains.aspx?ID=119)\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 60 feet\r\n\r\n \r\n\r\n**Target** 1 creature\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\nFortitude\r\n\r\n**Duration** 1 day\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou call a tiny star to orbit a creature in a sparkling halo before shooting up into the heavens, where it marks the creature’s rough location.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 117"
+  "Divine Mysteries pg. 269"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 117 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 269",
  "speed": {},
+ "spell_type": "Focus",
  "summary": "You call a tiny star to orbit a creature in a sparkling halo before shooting up into the heavens, where it marks the creature’s rough location.",
  "summary_markdown": "You call a tiny star to orbit a creature in a sparkling halo before shooting up into the heavens, where it marks the creature’s rough location.",
  "target": "1 creature",
  "target_markdown": "1 creature",
- "text": " Zenith Star Source Gods &amp; Magic pg. 117 2.0 Domain Star Cast Two Actions somatic, verbal Range 60 feet Target 1 creature Saving Throw Fortitude Duration 1 day --- You call a tiny star to orbit a creature in a sparkling halo before shooting up into the heavens, where it marks the creature’s rough location. The target must attempt a Fortitude save. Critical Success The target is unaffected. Success The target is dazzled for 1 round. Failure The target is dazzled for 1 round. While the spell persists, as long as you can see the night sky and the target is visible from the same night sky, you can sense the approximate direction and distance to the creature by using a single action, which has the concentrate trait. This is exact enough to track the creature, but not pinpoint their exact square (for instance, to make an attack). You can set a number of zenith stars equal to your Wisdom modifier; if you exceed this number, your oldest zenith star is automatically Dismissed. Critical Failure As failure, but the target is blinded for 1 round. --- Heightened (+1) The duration increases by 1 day. Heightened (4th) You ignore the concealed condition against targets marked by zenith star .",
+ "text": "\nZenith Star Two Actions Source Divine Mysteries pg. 269 Domain Star Range 60 feet Target 1 creature Defense Fortitude Duration 1 day --- You call a tiny star to orbit a creature in a sparkling halo before shooting up into the heavens, where it marks the creature’s rough location. The target must attempt a Fortitude save. Critical Success The target is unaffected. Success The target is dazzled for 1 round. Failure The target is dazzled for 1 round. While the spell persists, as long as you can see the night sky and the target is visible from the same night sky, you can sense the approximate direction and distance to the creature by Sustaining the spell. This is enough to track the creature, but not pinpoint their exact square (for instance, to make an attack). You can set a number of zenith stars equal to your Wisdom modifier; if you exceed this number, your oldest zenith star is automatically Dismissed. Critical Failure As failure, but the target is blinded for 1 round. --- Heightened (+1) The duration increases by 1 day. Heightened (4th) You ignore the concealed condition against targets marked by zenith star.",
  "tradition_markdown": "",
  "trait": [
-  "Divination",
-  "Light"
+  "Cleric",
+  "Concentrate",
+  "Focus",
+  "Light",
+  "Manipulate",
+  "Uncommon"
  ],
- "trait_markdown": "[Divination](/Traits.aspx?ID=47), [Light](/Traits.aspx?ID=100)",
+ "trait_group": [
+  "Class",
+  "Mechanics",
+  "Rarity"
+ ],
+ "trait_markdown": "[Cleric](/Traits.aspx?ID=26), [Concentrate](/Traits.aspx?ID=32), [Focus](/Traits.aspx?ID=511), [Light](/Traits.aspx?ID=100), [Manipulate](/Traits.aspx?ID=104), [Uncommon](/Traits.aspx?ID=159)",
  "trait_raw": [
-  "Divination",
-  "Light"
+  "Cleric",
+  "Concentrate",
+  "Focus",
+  "Light",
+  "Manipulate",
+  "Uncommon"
  ],
- "type": "Focus",
- "url": "/Spells.aspx?ID=618",
+ "type": "Spell",
+ "url": "/Spells.aspx?ID=2411",
  "weakness": {}
 }

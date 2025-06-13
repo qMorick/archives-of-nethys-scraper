@@ -1,46 +1,55 @@
 {
- "actions": "Free Action",
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Healing Bomb"
  ],
  "feat_markdown": "Healing Bomb",
- "frequency": "once per round",
- "id": "feat-1595",
+ "id": "feat-5773",
+ "legacy_id": [
+  "feat-1595"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Healing Bomb](/Feats.aspx?ID=1595) <actions string=\"Free Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Additive 2\" url=\"/Traits.aspx?ID=4\" />\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 107 <sup>2.0</sup></row>\n\n**Frequency**\r\nonce per round\n\n**Trigger**\r\nYou craft an [elixir of life](/Equipment.aspx?ID=91) using [Quick Alchemy](/Actions.aspx?ID=2), and that elixir is at least 2 levels lower than your advanced alchemy level.\n\n</column>\r\n\r\n---\r\n\r\nBy adding a special catalyst, you transform a healing elixir into a topical projectile. You grant the elixir the [bomb](/Traits.aspx?ID=21) trait. If you throw an elixir of life bomb at a willing target, you hit even on a failure, though not on a critical failure. If your Strike with this elixir bomb hits a living target, the target regains Hit Points as if it had consumed the elixir. On a critical success, the target also gains the elixir's item bonus to saving throws against [diseases](/Traits.aspx?ID=46) and [poisons](/Traits.aspx?ID=126) for 1 minute.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Healing Bomb](/Feats.aspx?ID=5773) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Additive\" url=\"/Traits.aspx?ID=795\" />\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=812\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 64 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou can add a foamy catalyst to an [elixir of life](/Equipment.aspx?ID=3308) to turn it into a topical projectile. You can throw the elixir as though it were an [alchemical bomb](/Weapons.aspx?ID=431), with the following results.\n\n**Success** The target is affected as though it drank the elixir, and each living creature adjacent to it regains HP from the bomb equal to the elixir's number of damage dice (3 HP for a [lesser elixir of life](/Equipment.aspx?ID=3308), for example).<br />\r\n**Failure** The target regains HP equal to the elixir's number of damage dice.<br />\r\n**Critical Failure** The healing bomb has no effect.",
  "name": "Healing Bomb",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 64",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Additive 2\" url=\"/Traits.aspx?ID=4\" />\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 107 <sup>2.0</sup></row>\r\n\r\n**Frequency**\r\nonce per round\n\n**Trigger**\r\nYou craft an [elixir of life](/Equipment.aspx?ID=91) using [Quick Alchemy](/Actions.aspx?ID=2), and that elixir is at least 2 levels lower than your advanced alchemy level.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBy adding a special catalyst, you transform a healing elixir into a topical projectile.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Additive\" url=\"/Traits.aspx?ID=795\" />\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=812\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 64 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can add a foamy catalyst to an [elixir of life](/Equipment.aspx?ID=3308) to turn it into a topical projectile.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 107"
+  "Player Core 2 pg. 64"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 107 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 64 <sup>1.1</sup>",
  "speed": {},
- "summary": "By adding a special catalyst, you transform a healing elixir into a topical projectile.",
- "summary_markdown": "By adding a special catalyst, you transform a healing elixir into a topical projectile.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Healing Bomb Free Action Source Advanced Player's Guide pg. 107 2.0 Frequency once per round Trigger You craft an elixir of life using Quick Alchemy, and that elixir is at least 2 levels lower than your advanced alchemy level. --- By adding a special catalyst, you transform a healing elixir into a topical projectile. You grant the elixir the bomb trait. If you throw an elixir of life bomb at a willing target, you hit even on a failure, though not on a critical failure. If your Strike with this elixir bomb hits a living target, the target regains Hit Points as if it had consumed the elixir. On a critical success, the target also gains the elixir's item bonus to saving throws against diseases and poisons for 1 minute.",
+ "summary": "You can add a foamy catalyst to an  elixir of life  to turn it into a topical projectile.",
+ "summary_markdown": "You can add a foamy catalyst to an [elixir of life](/Equipment.aspx?ID=3308) to turn it into a topical projectile.",
+ "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Healing Bomb Source Player Core 2 pg. 64 1.1 --- You can add a foamy catalyst to an elixir of life to turn it into a topical projectile. You can throw the elixir as though it were an alchemical bomb, with the following results. Success The target is affected as though it drank the elixir, and each living creature adjacent to it regains HP from the bomb equal to the elixir's number of damage dice (3 HP for a lesser elixir of life, for example). Failure The target regains HP equal to the elixir's number of damage dice. Critical Failure The healing bomb has no effect.",
  "trait": [
   "Additive",
   "Alchemist"
  ],
- "trait_markdown": "[Additive 2](/Traits.aspx?ID=4), [Alchemist](/Traits.aspx?ID=7)",
+ "trait_group": [
+  "Class-Specific",
+  "Class"
+ ],
+ "trait_markdown": "[Additive](/Traits.aspx?ID=795), [Alchemist](/Traits.aspx?ID=812)",
  "trait_raw": [
-  "Additive 2",
+  "Additive",
   "Alchemist"
  ],
- "trigger": "You craft an  elixir of life  using  Quick Alchemy , and that elixir is at least 2 levels lower than your advanced alchemy level.",
- "trigger_markdown": "You craft an [elixir of life](/Equipment.aspx?ID=91) using [Quick Alchemy](/Actions.aspx?ID=2), and that elixir is at least 2 levels lower than your advanced alchemy level.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=1595",
+ "url": "/Feats.aspx?ID=5773",
  "weakness": {}
 }

@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Ratfolk Lore"
  ],
  "feat_markdown": "Ratfolk Lore",
- "id": "feat-1298",
+ "id": "feat-5654",
+ "legacy_id": [
+  "feat-1298"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Ratfolk Lore](/Feats.aspx?ID=1298) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Ratfolk\" url=\"/Traits.aspx?ID=234\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 22 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYears of experience among ratfolk communities have made you nimble, and you've learned to run and hide when enemies threaten. You gain the trained proficiency rank in [Acrobatics](/Skills.aspx?ID=1) and [Stealth](/Skills.aspx?ID=15). If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in [Ratfolk Lore](/Skills.aspx?ID=8).",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Ratfolk Lore](/Feats.aspx?ID=5654) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Ratfolk\" url=\"/Traits.aspx?ID=769\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 30 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYears of experience among ratfolk communities have made you nimble, and you've learned to run and hide when enemies threaten. You gain the trained proficiency rank in [Acrobatics](/Skills.aspx?ID=34) and [Stealth](/Skills.aspx?ID=48). If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.\n\n You also gain the [Additional Lore](/Feats.aspx?ID=5114) general feat for [Ratfolk Lore](/Skills.aspx?ID=41).",
  "name": "Ratfolk Lore",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 30",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Ratfolk\" url=\"/Traits.aspx?ID=234\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 22 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYears of experience among ratfolk communities have made you nimble, and you've learned to run and hide when enemies threaten.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Ratfolk\" url=\"/Traits.aspx?ID=769\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 30 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYears of experience among ratfolk communities have made you nimble, and you've learned to run and hide when enemies threaten.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 22"
+  "Player Core 2 pg. 30"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 22 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 30 <sup>1.1</sup>",
  "speed": {},
  "summary": "Years of experience among ratfolk communities have made you nimble, and you've learned to run and hide when enemies threaten.",
  "summary_markdown": "Years of experience among ratfolk communities have made you nimble, and you've learned to run and hide when enemies threaten.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Ratfolk Lore Source Advanced Player's Guide pg. 22 2.0 --- Years of experience among ratfolk communities have made you nimble, and you've learned to run and hide when enemies threaten. You gain the trained proficiency rank in Acrobatics and Stealth. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Ratfolk Lore.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Ratfolk Lore Source Player Core 2 pg. 30 1.1 --- Years of experience among ratfolk communities have made you nimble, and you've learned to run and hide when enemies threaten. You gain the trained proficiency rank in Acrobatics and Stealth. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the Additional Lore general feat for Ratfolk Lore.",
  "trait": [
   "Ratfolk"
  ],
- "trait_markdown": "[Ratfolk](/Traits.aspx?ID=234)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Ratfolk](/Traits.aspx?ID=769)",
  "trait_raw": [
   "Ratfolk"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1298",
+ "url": "/Feats.aspx?ID=5654",
  "weakness": {}
 }

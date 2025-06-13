@@ -1,42 +1,54 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Greater Debilitating Bomb"
  ],
  "feat_markdown": "Greater Debilitating Bomb",
- "id": "feat-110",
+ "id": "feat-5789",
+ "legacy_id": [
+  "feat-110"
+ ],
  "level": 10,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Greater Debilitating Bomb](/Feats.aspx?ID=110) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 79 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Debilitating Bomb](/Feats.aspx?ID=103)\n\n</column>\r\n\r\n---\r\n\r\nYou have learned enhanced techniques and alchemical secrets that allow you to expand the range of effects you can impose with your bombs. When you use [Debilitating Bomb](/Feats.aspx?ID=103), add the following to the list you can choose from: clumsy 1, enfeebled 1, stupefied 1, or –10-foot status penalty to Speeds.\n\n<title level=\"2\">Greater Debilitating Bomb leads to...</title>\r\n[True Debilitating Bomb](/Feats.aspx?ID=118)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Greater Debilitating Bomb](/Feats.aspx?ID=5789) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=812\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 67 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Debilitating Bomb](/Feats.aspx?ID=5778)\n\n</column>\r\n\r\n---\r\n\r\nYou have learned enhanced techniques and alchemical secrets that allow you to expand the range of effects you can impose with your bombs. When you use Debilitating Bomb, add the following to the list you can choose from: [clumsy 1](/Conditions.aspx?ID=61), [enfeebled 1](/Conditions.aspx?ID=71), [stupefied 1](/Conditions.aspx?ID=94), or –10-foot status penalty to Speeds.\n\n<title level=\"2\">Greater Debilitating Bomb leads to...</title>\r\n[True Debilitating Bomb](/Feats.aspx?ID=5796)",
  "name": "Greater Debilitating Bomb",
  "pfs": "Standard",
  "prerequisite": "Debilitating Bomb",
- "prerequisite_markdown": "[Debilitating Bomb](/Feats.aspx?ID=103)",
+ "prerequisite_markdown": "[Debilitating Bomb](/Feats.aspx?ID=5778)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 67",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 79 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Debilitating Bomb](/Feats.aspx?ID=103)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have learned enhanced techniques and alchemical secrets that allow you to expand the range of effects you can impose with your bombs.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=812\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 67 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Debilitating Bomb](/Feats.aspx?ID=5778)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have learned enhanced techniques and alchemical secrets that allow you to expand the range of effects you can impose with your bombs.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 79"
+  "Player Core 2 pg. 67"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 79 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 67 <sup>1.1</sup>",
  "speed": {},
  "summary": "You have learned enhanced techniques and alchemical secrets that allow you to expand the range of effects you can impose with your bombs.",
  "summary_markdown": "You have learned enhanced techniques and alchemical secrets that allow you to expand the range of effects you can impose with your bombs.",
- "text": "<title level=\"1\" right=\"Feat 10\" pfs=\"Standard\" > Greater Debilitating Bomb Source Core Rulebook pg. 79 4.0 Prerequisites Debilitating Bomb --- You have learned enhanced techniques and alchemical secrets that allow you to expand the range of effects you can impose with your bombs. When you use Debilitating Bomb, add the following to the list you can choose from: clumsy 1, enfeebled 1, stupefied 1, or –10-foot status penalty to Speeds. Greater Debilitating Bomb leads to... True Debilitating Bomb",
+ "text": "<title level=\"1\" right=\"Feat 10\" pfs=\"Standard\" > Greater Debilitating Bomb Source Player Core 2 pg. 67 1.1 Prerequisites Debilitating Bomb --- You have learned enhanced techniques and alchemical secrets that allow you to expand the range of effects you can impose with your bombs. When you use Debilitating Bomb, add the following to the list you can choose from: clumsy 1, enfeebled 1, stupefied 1, or –10-foot status penalty to Speeds. Greater Debilitating Bomb leads to... True Debilitating Bomb",
  "trait": [
   "Alchemist"
  ],
- "trait_markdown": "[Alchemist](/Traits.aspx?ID=7)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Alchemist](/Traits.aspx?ID=812)",
  "trait_raw": [
   "Alchemist"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=110",
+ "url": "/Feats.aspx?ID=5789",
  "weakness": {}
 }

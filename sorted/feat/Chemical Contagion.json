@@ -1,46 +1,57 @@
 {
- "actions": "Reaction",
  "archetype": [
   "Poisoner"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Chemical Contagion"
  ],
  "feat_markdown": "Chemical Contagion",
- "id": "feat-1601",
- "level": 16,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 16\"\r\n    pfs=\"Standard\"\r\n>\r\n[Chemical Contagion](/Feats.aspx?ID=1601) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 107 <sup>2.0</sup></row>\n\n**Archetype** [Poisoner](/Archetypes.aspx?ID=71) (Level 18)\n\n**Trigger**\r\nA creature within 30 feet critically fails its initial saving throw against a poison you created.\n\n</column>\r\n\r\n---\r\n\r\nWith carefully engineered enzymes, you coax some of your poison to infect another target, using the original victim as a carrier. A creature adjacent to the triggering creature is exposed to the triggering poison.",
+ "id": "feat-6387",
+ "legacy_id": [
+  "feat-1601"
+ ],
+ "level": 18,
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 18\"\r\n    pfs=\"Standard\"\r\n>\r\n[Chemical Contagion](/Feats.aspx?ID=6387) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 210 <sup>1.1</sup>\n\n**Archetypes** [Poisoner](/Archetypes.aspx?ID=259), [Poisoner](/Archetypes.aspx?ID=71) (Level 18)\n\n**Prerequisites**\r\n[Poisoner Dedication](/Feats.aspx?ID=6382)\n\n</column>\r\n\r\n---\r\n\r\nYour injury [poisons](/Traits.aspx?ID=669) can spray onto creatures. You gain the [toxicologist](/ResearchFields.aspx?ID=4) alchemist's greater field discovery.",
  "name": "Chemical Contagion",
  "pfs": "Standard",
+ "prerequisite": "Poisoner Dedication",
+ "prerequisite_markdown": "[Poisoner Dedication](/Feats.aspx?ID=6382)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 210",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 107 <sup>2.0</sup></row>\n\n**Trigger**\r\nA creature within 30 feet critically fails its initial saving throw against a poison you created.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWith carefully engineered enzymes, you coax some of your poison to infect another target, using the original victim as a carrier.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 210 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Poisoner Dedication](/Feats.aspx?ID=6382)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour injury poisons can spray onto creatures.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 107"
+  "Player Core 2 pg. 210"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 107 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 210 <sup>1.1</sup>",
  "speed": {},
- "summary": "With carefully engineered enzymes, you coax some of your poison to infect another target, using the original victim as a carrier.",
- "summary_markdown": "With carefully engineered enzymes, you coax some of your poison to infect another target, using the original victim as a carrier.",
- "text": "<title level=\"1\" right=\"Feat 16\" pfs=\"Standard\" > Chemical Contagion Reaction Source Advanced Player's Guide pg. 107 2.0 Archetype Poisoner (Level 18) Trigger A creature within 30 feet critically fails its initial saving throw against a poison you created. --- With carefully engineered enzymes, you coax some of your poison to infect another target, using the original victim as a carrier. A creature adjacent to the triggering creature is exposed to the triggering poison.",
+ "summary": "Your injury poisons can spray onto creatures.",
+ "summary_markdown": "Your injury poisons can spray onto creatures.",
+ "text": "<title level=\"1\" right=\"Feat 18\" pfs=\"Standard\" > Chemical Contagion Source Player Core 2 pg. 210 1.1 Archetypes Poisoner, Poisoner (Level 18) Prerequisites Poisoner Dedication --- Your injury poisons can spray onto creatures. You gain the toxicologist alchemist's greater field discovery.",
  "trait": [
-  "Alchemist"
+  "Archetype"
  ],
- "trait_markdown": "[Alchemist](/Traits.aspx?ID=7)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
-  "Alchemist"
+  "Archetype"
  ],
- "trigger": "A creature within 30 feet critically fails its initial saving throw against a poison you created.",
- "trigger_markdown": "A creature within 30 feet critically fails its initial saving throw against a poison you created.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=1601",
+ "url": "/Feats.aspx?ID=6387",
  "weakness": {}
 }

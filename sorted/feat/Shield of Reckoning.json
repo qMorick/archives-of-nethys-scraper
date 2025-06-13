@@ -1,47 +1,59 @@
 {
  "actions": "Reaction",
- "breadcrumbs_spa": [],
+ "actions_number": 1,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Shield of Reckoning"
  ],
  "feat_markdown": "Shield of Reckoning",
- "id": "feat-241",
+ "frequency": "once per round",
+ "id": "feat-5910",
+ "legacy_id": [
+  "feat-241"
+ ],
  "level": 10,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Shield of Reckoning](/Feats.aspx?ID=241) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n<trait label=\"Flourish\" url=\"/Traits.aspx?ID=73\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 113 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[champion's reaction](/Classes.aspx?ID=4); [Shield Warden](/Feats.aspx?ID=229)\n\n**Trigger**\r\nA foe’s attack against an ally matches the trigger for both your Shield Block reaction and your champion’s reaction.\n\n</column>\r\n\r\n---\r\n\r\nWhen you shield your ally against an attack, you call upon your power to protect your ally further. You use the Shield Block reaction to prevent damage to an ally and also use your champion’s reaction against the foe that attacked your ally.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Shield of Reckoning](/Feats.aspx?ID=5910) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 97 <sup>1.1</sup>\n\n**Frequency**\r\nonce per round\r\n\r\n**Prerequisites**\r\n[Shield Warden](/Feats.aspx?ID=4807); blessed shield, champion's reaction\n\n**Trigger**\r\nAn enemy’s attack against an ally matches the trigger for both your [Shield Block](/Feats.aspx?ID=5212) reaction and your champion’s reaction.\n\n</column>\r\n\r\n---\r\n\r\nWhen you shield your ally against an attack, you call upon your power to protect your ally further. You use the Shield Block reaction to prevent damage to an ally and also use your champion's reaction against the enemy that attacked your ally.\n\n**Special** If you have an ability that gives you an additional reaction you can use to Shield Block or use your champion's reaction, you can use it for Shield of Reckoning.",
  "name": "Shield of Reckoning",
  "pfs": "Standard",
- "prerequisite": "champion's reaction; Shield Warden",
- "prerequisite_markdown": "[champion's reaction](/Classes.aspx?ID=4); [Shield Warden](/Feats.aspx?ID=229)",
+ "prerequisite": "Shield Warden; blessed shield, champion's reaction",
+ "prerequisite_markdown": "[Shield Warden](/Feats.aspx?ID=4807); blessed shield, champion's reaction",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 97",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n<trait label=\"Flourish\" url=\"/Traits.aspx?ID=73\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 113 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[champion's reaction](/Classes.aspx?ID=4); [Shield Warden](/Feats.aspx?ID=229)\n\n**Trigger**\r\nA foe’s attack against an ally matches the trigger for both your Shield Block reaction and your champion’s reaction.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen you shield your ally against an attack, you call upon your power to protect your ally further.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 97 <sup>1.1</sup>\n\n**Frequency**\r\nonce per round\r\n\r\n**Prerequisites**\r\n[Shield Warden](/Feats.aspx?ID=4807); blessed shield, champion's reaction\n\n**Trigger**\r\nAn enemy’s attack against an ally matches the trigger for both your [Shield Block](/Feats.aspx?ID=5212) reaction and your champion’s reaction.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen you shield your ally against an attack, you call upon your power to protect your ally further.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 113"
+  "Player Core 2 pg. 97"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 113 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 97 <sup>1.1</sup>",
  "speed": {},
  "summary": "When you shield your ally against an attack, you call upon your power to protect your ally further.",
  "summary_markdown": "When you shield your ally against an attack, you call upon your power to protect your ally further.",
- "text": "<title level=\"1\" right=\"Feat 10\" pfs=\"Standard\" > Shield of Reckoning Reaction Source Core Rulebook pg. 113 4.0 Prerequisites champion's reaction; Shield Warden Trigger A foe’s attack against an ally matches the trigger for both your Shield Block reaction and your champion’s reaction. --- When you shield your ally against an attack, you call upon your power to protect your ally further. You use the Shield Block reaction to prevent damage to an ally and also use your champion’s reaction against the foe that attacked your ally.",
+ "text": "<title level=\"1\" right=\"Feat 10\" pfs=\"Standard\" > Shield of Reckoning Reaction Source Player Core 2 pg. 97 1.1 Frequency once per round Prerequisites Shield Warden; blessed shield, champion's reaction Trigger An enemy’s attack against an ally matches the trigger for both your Shield Block reaction and your champion’s reaction. --- When you shield your ally against an attack, you call upon your power to protect your ally further. You use the Shield Block reaction to prevent damage to an ally and also use your champion's reaction against the enemy that attacked your ally. Special If you have an ability that gives you an additional reaction you can use to Shield Block or use your champion's reaction, you can use it for Shield of Reckoning.",
  "trait": [
-  "Champion",
-  "Flourish"
+  "Champion"
  ],
- "trait_markdown": "[Champion](/Traits.aspx?ID=24), [Flourish](/Traits.aspx?ID=73)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Champion](/Traits.aspx?ID=811)",
  "trait_raw": [
-  "Champion",
-  "Flourish"
+  "Champion"
  ],
- "trigger": "A foe’s attack against an ally matches the trigger for both your Shield Block reaction and your champion’s reaction.",
- "trigger_markdown": "A foe’s attack against an ally matches the trigger for both your Shield Block reaction and your champion’s reaction.",
+ "trigger": "An enemy’s attack against an ally matches the trigger for both your  Shield Block  reaction and your champion’s reaction.",
+ "trigger_markdown": "An enemy’s attack against an ally matches the trigger for both your [Shield Block](/Feats.aspx?ID=5212) reaction and your champion’s reaction.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=241",
+ "url": "/Feats.aspx?ID=5910",
  "weakness": {}
 }

@@ -1,42 +1,57 @@
 {
- "breadcrumbs_spa": [],
+ "archetype": [
+  "Blessed One"
+ ],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Ultimate Mercy"
  ],
  "feat_markdown": "Ultimate Mercy",
- "id": "feat-260",
+ "id": "feat-5929",
+ "legacy_id": [
+  "feat-260"
+ ],
  "level": 18,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 18\"\r\n    pfs=\"Standard\"\r\n>\r\n[Ultimate Mercy](/Feats.aspx?ID=260) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 115 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Mercy](/Feats.aspx?ID=225)\n\n</column>\r\n\r\n---\r\n\r\nYour mercy transcends the bounds of life and death. When you use Mercy, you can cast [_lay on hands_](/Spells.aspx?ID=395) on a creature that died since your last turn to return it to life. The target returns to life with 1 hit point and becomes wounded 1. You can’t use Ultimate Mercy if the triggering effect was [_disintegrate_](/Spells.aspx?ID=76) or a death effect.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 18\"\r\n    pfs=\"Standard\"\r\n>\r\n[Ultimate Mercy](/Feats.aspx?ID=5929) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 99 <sup>1.1</sup>\n\n**Archetype** [Blessed One](/Archetypes.aspx?ID=242) (Level 20)\n\n**Prerequisites**\r\n[Mercy](/Feats.aspx?ID=5897)\n\n</column>\r\n\r\n---\r\n\r\nYour mercy transcends the bounds of life and death. Add ultimate mercy to the types of mercy you can provide. When you use Mercy, you can target a creature that died since your last turn to return it to life. The target returns to life with 1 Hit Point and becomes [wounded 1](/Conditions.aspx?ID=99). You can't return the target to life if it died from [_disintegrate_](/Spells.aspx?ID=1492) or a [death](/Traits.aspx?ID=571) effect. The creature gains the other benefits of _lay on hands_ after it returns to life.",
  "name": "Ultimate Mercy",
  "pfs": "Standard",
  "prerequisite": "Mercy",
- "prerequisite_markdown": "[Mercy](/Feats.aspx?ID=225)",
+ "prerequisite_markdown": "[Mercy](/Feats.aspx?ID=5897)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 99",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 115 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Mercy](/Feats.aspx?ID=225)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour mercy transcends the bounds of life and death.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 99 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Mercy](/Feats.aspx?ID=5897)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour mercy transcends the bounds of life and death.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 115"
+  "Player Core 2 pg. 99"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 115 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 99 <sup>1.1</sup>",
  "speed": {},
  "summary": "Your mercy transcends the bounds of life and death.",
  "summary_markdown": "Your mercy transcends the bounds of life and death.",
- "text": "<title level=\"1\" right=\"Feat 18\" pfs=\"Standard\" > Ultimate Mercy Source Core Rulebook pg. 115 4.0 Prerequisites Mercy --- Your mercy transcends the bounds of life and death. When you use Mercy, you can cast lay on hands on a creature that died since your last turn to return it to life. The target returns to life with 1 hit point and becomes wounded 1. You can’t use Ultimate Mercy if the triggering effect was disintegrate or a death effect.",
+ "text": "<title level=\"1\" right=\"Feat 18\" pfs=\"Standard\" > Ultimate Mercy Source Player Core 2 pg. 99 1.1 Archetype Blessed One (Level 20) Prerequisites Mercy --- Your mercy transcends the bounds of life and death. Add ultimate mercy to the types of mercy you can provide. When you use Mercy, you can target a creature that died since your last turn to return it to life. The target returns to life with 1 Hit Point and becomes wounded 1. You can't return the target to life if it died from disintegrate or a death effect. The creature gains the other benefits of lay on hands after it returns to life.",
  "trait": [
   "Champion"
  ],
- "trait_markdown": "[Champion](/Traits.aspx?ID=24)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Champion](/Traits.aspx?ID=811)",
  "trait_raw": [
   "Champion"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=260",
+ "url": "/Feats.aspx?ID=5929",
  "weakness": {}
 }

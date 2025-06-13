@@ -1,39 +1,50 @@
 {
  "breadcrumbs": [
-  "Chapter 10: Game Mastering",
+  "Chapter 1: Running the Game",
   "Difficulty Classes",
   "Specific Actions",
   "Recall Knowledge"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-566",
- "markdown": "<title level=\"1\" right=\"Rules\">[Creature Identification](/Rules.aspx?ID=566)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 506 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nA character who successfully identifies a creature learns one of its best-known attributes—such as a troll’s regeneration (and the fact that it can be stopped by acid or fire) or a manticore’s tail spikes. On a critical success, the character also learns something subtler, like a demon’s weakness or the trigger for one of the creature’s reactions.\n\n The skill used to identify a creature usually depends on that creature’s trait, as shown on Table 10–7, but you have leeway on which skills apply. For instance, hags are humanoids but have a strong connection to occult spells and live outside society, so you might allow a character to use Occultism to identify them without any DC adjustment, while Society is harder. Lore skills can also be used to identify their specific creature. Using the applicable Lore usually has an easy or very easy DC (before adjusting for rarity).\n\n## Table 10-7: Creature Identification Skills\n<row gap=\"tiny\">\n<table> <tr><td>**Creature Trait**</td><td>**Skills**</td></tr> <tr><td>Aberration</td><td>Occultism</td></tr> <tr><td>Animal</td><td>Nature</td></tr> <tr><td>Astral</td><td>Occultism</td></tr> <tr><td>Beast</td><td>Arcana, Nature</td></tr> <tr><td>Celestial</td><td>Religion</td></tr> <tr><td>Construct</td><td>Arcana, Crafting</td></tr> <tr><td>Dragon</td><td>Arcana</td></tr> <tr><td>Elemental</td><td>Arcana, Nature</td></tr> <tr><td>Ethereal</td><td>Occultism</td></tr> <tr><td>Fey</td><td>Nature</td></tr> <tr><td>Fiend</td><td>Religion</td></tr> <tr><td>Fungus</td><td>Nature</td></tr> <tr><td>Humanoid</td><td>Society</td></tr> <tr><td>Monitor</td><td>Religion</td></tr> <tr><td>Ooze</td><td>Occultism</td></tr> <tr><td>Plant</td><td>Nature</td></tr> <tr><td>Spirit</td><td>Occultism</td></tr> <tr><td>Undead</td><td>Religion</td></tr> </table></row>\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2641",
+ "legacy_id": [
+  "rules-566"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Creature Identification](/Rules.aspx?ID=2641)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 54 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nA character who successfully identifies a creature learns one of its best-known attributes—such as a hydra's head regrowth (and the fact that it can be stopped by acid or fire) or a manticore's tail spikes. On a critical success, the character also learns something subtler, like a weakness that's not obvious or the trigger for one of the creature's reactions.\n\nThe skill used to identify a creature usually depends on that creature's trait, as shown on the Creature Identification Skills table, but you have leeway on which skills apply. For instance, hags are humanoids but have a strong connection to occult spells and live outside society, so you might allow a character to use Occultism to identify them without any DC adjustment and make using Society harder. Lore skills can also be used to identify a specific creature. Using the applicable Lore usually has an easy or very easy DC (before adjusting for rarity).\n\n## Creature Identification Skills\n<row gap=\"tiny\">\n<table><tr><td>**Creature Trait**</td><td>**Skills**</td></tr><tr><td>Aberration</td><td>Occultism</td></tr><tr><td>Animal</td><td>Nature</td></tr><tr><td>Astral</td><td>Occultism</td></tr><tr><td>Beast</td><td>Arcana, Nature</td></tr><tr><td>Celestial</td><td>Religion</td></tr><tr><td>Construct</td><td>Arcana, Crafting</td></tr><tr><td>Dragon</td><td>Arcana</td></tr><tr><td>Dream</td><td>Occultism</td></tr><tr><td>Elemental</td><td>Arcana, Nature</td></tr><tr><td>Ethereal</td><td>Occultism</td></tr><tr><td>Fey</td><td>Nature</td></tr><tr><td>Fiend</td><td>Religion</td></tr><tr><td>Fungus</td><td>Nature</td></tr><tr><td>Humanoid</td><td>Society</td></tr><tr><td>Monitor</td><td>Religion</td></tr><tr><td>Ooze</td><td>Occultism</td></tr><tr><td>Plant</td><td>Nature</td></tr><tr><td>Shade</td><td>Religion</td></tr><tr><td>Spirit</td><td>Occultism</td></tr><tr><td>Time</td><td>Occultism</td></tr><tr><td>Undead</td><td>Religion</td></tr><tr></tr></table></row>\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Creature Identification",
  "next_link": {
   "label": "Sense Direction",
-  "url": "/Rules.aspx?ID=567"
+  "url": "/Rules.aspx?ID=2642"
  },
  "previous_link": {
   "label": "Additional Knowledge",
-  "url": "/Rules.aspx?ID=565"
+  "url": "/Rules.aspx?ID=2640"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 54",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 506 <sup>4.0</sup></row>\r\n\r\nChapter 10: Game Mastering / Difficulty Classes / Specific Actions / Recall Knowledge\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 54 <sup>2.0</sup>\r\n\r\nChapter 1: Running the Game / Difficulty Classes / Specific Actions / Recall Knowledge\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA character who successfully identifies a creature learns one of its best-known attributes—such as a hydra's head regrowth (and the fact that it can …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 506"
+  "GM Core pg. 54"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 506 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 54 <sup>2.0</sup>",
  "speed": {},
- "text": " Creature Identification Source Core Rulebook pg. 506 4.0 A character who successfully identifies a creature learns one of its best-known attributes—such as a troll’s regeneration (and the fact that it can be stopped by acid or fire) or a manticore’s tail spikes. On a critical success, the character also learns something subtler, like a demon’s weakness or the trigger for one of the creature’s reactions. The skill used to identify a creature usually depends on that creature’s trait, as shown on Table 10–7, but you have leeway on which skills apply. For instance, hags are humanoids but have a strong connection to occult spells and live outside society, so you might allow a character to use Occultism to identify them without any DC adjustment, while Society is harder. Lore skills can also be used to identify their specific creature. Using the applicable Lore usually has an easy or very easy DC (before adjusting for rarity). ## Table 10-7: Creature Identification Skills Creature Trait Skills Aberration Occultism Animal Nature Astral Occultism Beast Arcana, Nature Celestial Religion Construct Arcana, Crafting Dragon Arcana Elemental Arcana, Nature Ethereal Occultism Fey Nature Fiend Religion Fungus Nature Humanoid Society Monitor Religion Ooze Occultism Plant Nature Spirit Occultism Undead Religion ",
+ "summary": "A character who successfully identifies a creature learns one of its best-known attributes—such as a hydra's head regrowth (and the fact that it can …",
+ "summary_markdown": "A character who successfully identifies a creature learns one of its best-known attributes—such as a hydra's head regrowth (and the fact that it can …",
+ "text": " Creature Identification Source GM Core pg. 54 2.0 A character who successfully identifies a creature learns one of its best-known attributes—such as a hydra's head regrowth (and the fact that it can be stopped by acid or fire) or a manticore's tail spikes. On a critical success, the character also learns something subtler, like a weakness that's not obvious or the trigger for one of the creature's reactions. The skill used to identify a creature usually depends on that creature's trait, as shown on the Creature Identification Skills table, but you have leeway on which skills apply. For instance, hags are humanoids but have a strong connection to occult spells and live outside society, so you might allow a character to use Occultism to identify them without any DC adjustment and make using Society harder. Lore skills can also be used to identify a specific creature. Using the applicable Lore usually has an easy or very easy DC (before adjusting for rarity). ## Creature Identification Skills Creature Trait Skills Aberration Occultism Animal Nature Astral Occultism Beast Arcana, Nature Celestial Religion Construct Arcana, Crafting Dragon Arcana Dream Occultism Elemental Arcana, Nature Ethereal Occultism Fey Nature Fiend Religion Fungus Nature Humanoid Society Monitor Religion Ooze Occultism Plant Nature Shade Religion Spirit Occultism Time Occultism Undead Religion ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=566",
+ "url": "/Rules.aspx?ID=2641",
  "weakness": {}
 }

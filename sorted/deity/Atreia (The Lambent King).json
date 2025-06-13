@@ -1,10 +1,15 @@
 {
- "ability": [
+ "attribute": [
   "Wisdom",
   "Charisma"
  ],
- "alignment": "NG",
- "breadcrumbs_spa": [],
+ "anathema": "Abandon a creature in darkness; deny a suffering creature warmth, shade, or water",
+ "area_of_concern": [
+  "Fire",
+  "purification",
+  "radiance"
+ ],
+ "area_of_concern_raw": "Fire, purification, radiance",
  "category": "deity",
  "cleric_spell": [
   "Soothe",
@@ -14,10 +19,9 @@
  "deity": [
   "Atreia"
  ],
- "deity_markdown": "[Atreia](/Deities.aspx?ID=101)",
  "deity_category": "Elemental Lords",
- "deity_category_markdown": "[Elemental Lords\r\n](/DeityCategories.aspx?ID=8)",
- "deity_category_order": "2Elemental Lords\r\n",
+ "deity_category_markdown": "[Elemental Lords](/DeityCategories.aspx?ID=8)",
+ "deity_category_order": "2Elemental Lords",
  "divine_font": [
   "Heal"
  ],
@@ -28,7 +32,7 @@
   "Protection",
   "Sun"
  ],
- "domain_markdown": "[Fire](/Domains.aspx?ID=13), [Healing](/Domains.aspx?ID=15), [Protection](/Domains.aspx?ID=27), [Sun](/Domains.aspx?ID=29)",
+ "domain_markdown": "[Fire](/Domains.aspx?ID=76), [Healing](/Domains.aspx?ID=78), [Protection](/Domains.aspx?ID=90), [Sun](/Domains.aspx?ID=92)",
  "domain_alternate_markdown": "",
  "domain_primary": [
   "Fire",
@@ -36,49 +40,58 @@
   "Protection",
   "Sun"
  ],
- "domain_primary_markdown": "[Fire](/Domains.aspx?ID=13), [Healing](/Domains.aspx?ID=15), [Protection](/Domains.aspx?ID=27), [Sun](/Domains.aspx?ID=29)",
+ "domain_primary_markdown": "[Fire](/Domains.aspx?ID=76), [Healing](/Domains.aspx?ID=78), [Protection](/Domains.aspx?ID=90), [Sun](/Domains.aspx?ID=92)",
+ "edict": "Burn away corruption, clear the way for new growth, purify tainted areas",
  "exclude_from_search": false,
  "favored_weapon": [
   "Katar"
  ],
- "favored_weapon_markdown": "[Katar](/Weapons.aspx?ID=14)",
- "follower_alignment": [
-  "LG",
-  "NG",
-  "N",
-  "CG"
+ "favored_weapon_markdown": "[Katar](/Weapons.aspx?ID=369)",
+ "id": "deity-686",
+ "legacy_id": [
+  "deity-101"
  ],
- "id": "deity-101",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Atreia (The Lambent King)](/Deities.aspx?ID=101)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"NG\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 126 <sup>2.0</sup></row>\n\nResponsible for fire, purification, and radiance, Atreia the Lambent King is the benevolent elemental lord of fire. When the multiverse was young, Atreia soared across the [Plane of Fire](/Planes.aspx?ID=6) as a triple-headed ibis, with wings that burned and eyes of flame, routing evil from the plane. Now, he is imprisoned within the _Garnet Brand_, a red gem encased in an eternal shroud of steam. Though he cannot hear or grant power to his followers from his prison, some groups of [salamanders](/Monsters.aspx?ID=189) on the Plane of Fire still honor the Lambent King for his dominion over protection and life-giving fire, as do a few small circles of mortals who hold the discovery and purification of evil above all other causes. Statues depicting his likeness can be found across his former realms, hidden in ancient sites dedicated to healing and holy light.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Elemental Lords\r\n](/DeityCategories.aspx?ID=8)\r\n\r\n**Edicts** Burn away corruption, clear the way for new growth, purify tainted areas\r\n\r\n**Anathema** Deny a suffering creature warmth, shade, or water; abandon a creature in darkness\r\n\r\n**Area of Concern**\r\nfire, purification, and radiance\r\n\r\n**Follower Alignments**\r\nLG, NG, N, CG\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nWisdom or Charisma\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Performance](/Skills.aspx?ID=12)\r\n\r\n**Favored Weapon** [Katar](/Weapons.aspx?ID=14)\r\n\r\n**Domains** [Fire](/Domains.aspx?ID=13), [Healing](/Domains.aspx?ID=15), [Protection](/Domains.aspx?ID=27), [Sun](/Domains.aspx?ID=29)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Soothe](/Spells.aspx?ID=291)\n\n- **3rd**\r\n[Ghostly Weapon](/Spells.aspx?ID=133)\n\n- **4th**\r\n[Fire Shield](/Spells.aspx?ID=118)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Atreia (The Lambent King)](/Deities.aspx?ID=686)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 306\n\nResponsible for fire, purification, and radiance, Atreia the Lambent King is the benevolent elemental lord of fire. When the multiverse was young, Atreia soared across the [Plane of Fire](/Planes.aspx?ID=31) as a triple-headed ibis, with wings that burned and eyes of flame, routing evil from the plane. Though his strength was weakened from a long imprisonment, he maintained worship among some groups of munsahirs on the Plane of Fire for his dominion over protection and life-giving fire. With his return, his worship now also extends to a few circles of mortals who hold the discovery and purification of evil above all other causes.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Elemental Lords](/DeityCategories.aspx?ID=8)\r\n\r\n**Edicts** Burn away corruption, clear the way for new growth, purify tainted areas\r\n\r\n**Anathema** Abandon a creature in darkness; deny a suffering creature warmth, shade, or water\r\n\r\n**Area of Concern**\r\nFire, purification, radiance\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nWisdom or Charisma\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** must choose holy\r\n\r\n**Divine Skill** [Performance](/Skills.aspx?ID=45)\r\n\r\n**Favored Weapon** [Katar](/Weapons.aspx?ID=369)\r\n\r\n**Domains** [Fire](/Domains.aspx?ID=76), [Healing](/Domains.aspx?ID=78), [Protection](/Domains.aspx?ID=90), [Sun](/Domains.aspx?ID=92)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Soothe](/Spells.aspx?ID=1678)\n\n- **3rd**\r\n[Ghostly Weapon](/Spells.aspx?ID=1544)\n\n- **4th**\r\n[Fire Shield](/Spells.aspx?ID=1529)\n\n</column>",
  "name": "Atreia (The Lambent King)",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 306",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 126 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Performance](/Skills.aspx?ID=12)\r\n\r\n**Favored Weapon** [Katar](/Weapons.aspx?ID=14)\r\n\r\n**Domains** [Fire](/Domains.aspx?ID=13), [Healing](/Domains.aspx?ID=15), [Protection](/Domains.aspx?ID=27), [Sun](/Domains.aspx?ID=29)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nResponsible for fire, purification, and radiance, Atreia the Lambent King is the benevolent elemental lord of fire. When the multiverse was young, …\r\n</summary>",
+ "sanctification": [
+  "holy"
+ ],
+ "sanctification_raw": "must choose holy",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 306\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Performance](/Skills.aspx?ID=45)\r\n\r\n**Favored Weapon** [Katar](/Weapons.aspx?ID=369)\r\n\r\n**Domains** [Fire](/Domains.aspx?ID=76), [Healing](/Domains.aspx?ID=78), [Protection](/Domains.aspx?ID=90), [Sun](/Domains.aspx?ID=92)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nResponsible for fire, purification, and radiance, Atreia the Lambent King is the benevolent elemental lord of fire. When the multiverse was young, …\r\n</summary>",
  "skill": [
   "Performance"
  ],
- "skill_markdown": "[Performance](/Skills.aspx?ID=12)",
+ "skill_markdown": "[Performance](/Skills.aspx?ID=45)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 126"
+  "Divine Mysteries pg. 306"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 126 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 306",
  "speed": {},
+ "spell": [
+  "Soothe",
+  "Ghostly Weapon",
+  "Fire Shield"
+ ],
+ "spell_markdown": "[Fire Shield](/Spells.aspx?ID=1529), [Ghostly Weapon](/Spells.aspx?ID=1544), [Soothe](/Spells.aspx?ID=1678)",
  "summary": "Responsible for fire, purification, and radiance, Atreia the Lambent King is the benevolent elemental lord of fire. When the multiverse was young, …",
  "summary_markdown": "Responsible for fire, purification, and radiance, Atreia the Lambent King is the benevolent elemental lord of fire. When the multiverse was young, …",
- "text": " Atreia (The Lambent King) Source Gods &amp; Magic pg. 126 2.0 Responsible for fire, purification, and radiance, Atreia the Lambent King is the benevolent elemental lord of fire. When the multiverse was young, Atreia soared across the Plane of Fire as a triple-headed ibis, with wings that burned and eyes of flame, routing evil from the plane. Now, he is imprisoned within the Garnet Brand , a red gem encased in an eternal shroud of steam. Though he cannot hear or grant power to his followers from his prison, some groups of salamanders on the Plane of Fire still honor the Lambent King for his dominion over protection and life-giving fire, as do a few small circles of mortals who hold the discovery and purification of evil above all other causes. Statues depicting his likeness can be found across his former realms, hidden in ancient sites dedicated to healing and holy light. Category [Elemental Lords ](/DeityCategories.aspx?ID=8) Edicts Burn away corruption, clear the way for new growth, purify tainted areas Anathema Deny a suffering creature warmth, shade, or water; abandon a creature in darkness Area of Concern fire, purification, and radiance Follower Alignments LG, NG, N, CG Devotee Benefits Divine Ability Wisdom or Charisma Divine Font Heal Divine Skill Performance Favored Weapon Katar Domains Fire, Healing, Protection, Sun Alternate Domains Cleric Spells - 1st Soothe - 3rd Ghostly Weapon - 4th Fire Shield\n",
- "trait": [
-  "NG"
- ],
- "trait_raw": [
-  "NG"
- ],
+ "text": " Atreia (The Lambent King) Source Divine Mysteries pg. 306 Responsible for fire, purification, and radiance, Atreia the Lambent King is the benevolent elemental lord of fire. When the multiverse was young, Atreia soared across the Plane of Fire as a triple-headed ibis, with wings that burned and eyes of flame, routing evil from the plane. Though his strength was weakened from a long imprisonment, he maintained worship among some groups of munsahirs on the Plane of Fire for his dominion over protection and life-giving fire. With his return, his worship now also extends to a few circles of mortals who hold the discovery and purification of evil above all other causes. Category Elemental Lords Edicts Burn away corruption, clear the way for new growth, purify tainted areas Anathema Abandon a creature in darkness; deny a suffering creature warmth, shade, or water Area of Concern Fire, purification, radiance Devotee Benefits Divine Attribute Wisdom or Charisma Divine Font Heal Divine Sanctification must choose holy Divine Skill Performance Favored Weapon Katar Domains Fire, Healing, Protection, Sun Alternate Domains Cleric Spells - 1st Soothe - 3rd Ghostly Weapon - 4th Fire Shield\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=101",
+ "url": "/Deities.aspx?ID=686",
  "weakness": {}
 }

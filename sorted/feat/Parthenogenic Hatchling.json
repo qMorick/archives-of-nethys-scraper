@@ -1,40 +1,53 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Parthenogenic Hatchling"
  ],
  "feat_markdown": "Parthenogenic Hatchling",
- "id": "feat-1052",
+ "id": "feat-5636",
+ "legacy_id": [
+  "feat-1052"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Parthenogenic Hatchling](/Feats.aspx?ID=1052) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 58 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou were hatched from an unfertilized egg during hard times for your people, and you are a biological copy of your mother. You gain a +1 circumstance bonus to saving throws against diseases. Each of your successful saving throws against a disease reduces its stage by 2, or by 1 for a virulent disease. Each critical success against an ongoing disease reduces its stage by 3, or by 2 for a virulent disease. You take damage only every 2 hours from thirst and every 2 days from starvation, rather than every hour and every day.\n\n**Special** You can take this feat only at 1st level.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Parthenogenic Hatchling](/Feats.aspx?ID=5636) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=760\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 26 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou were hatched from an unfertilized egg during hard times for your people, and are a biological copy of your mother. You gain a +1 circumstance bonus to saving throws against [diseases](/Traits.aspx?ID=578). If you roll a success on a saving throw against a disease, you get a critical success instead. If you have a different ability that would improve the save in this way (such as the [battle hardened fighter class feature](/Classes.aspx?ID=7)), if you roll a critical failure on the save you get a failure instead.\n\n You take damage only every 2 hours from thirst and every 2 days from starvation, [rather than every hour and every day](/Rules.aspx?ID=2603).\n\n**Special** You can select this feat only at 1st level.",
  "name": "Parthenogenic Hatchling",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 26",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-10-16",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 58 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou were hatched from an unfertilized egg during hard times for your people, and you are a biological copy of your mother.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=760\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 26 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou were hatched from an unfertilized egg during hard times for your people, and are a biological copy of your mother.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Character Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Character Guide pg. 58"
+  "Player Core 2 pg. 26"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Character Guide](/Sources.aspx?ID=12) pg. 58 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 26 <sup>1.1</sup>",
  "speed": {},
- "summary": "You were hatched from an unfertilized egg during hard times for your people, and you are a biological copy of your mother.",
- "summary_markdown": "You were hatched from an unfertilized egg during hard times for your people, and you are a biological copy of your mother.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Parthenogenic Hatchling Source Character Guide pg. 58 2.0 --- You were hatched from an unfertilized egg during hard times for your people, and you are a biological copy of your mother. You gain a +1 circumstance bonus to saving throws against diseases. Each of your successful saving throws against a disease reduces its stage by 2, or by 1 for a virulent disease. Each critical success against an ongoing disease reduces its stage by 3, or by 2 for a virulent disease. You take damage only every 2 hours from thirst and every 2 days from starvation, rather than every hour and every day. Special You can take this feat only at 1st level.",
+ "summary": "You were hatched from an unfertilized egg during hard times for your people, and are a biological copy of your mother.",
+ "summary_markdown": "You were hatched from an unfertilized egg during hard times for your people, and are a biological copy of your mother.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Parthenogenic Hatchling Source Player Core 2 pg. 26 1.1 --- You were hatched from an unfertilized egg during hard times for your people, and are a biological copy of your mother. You gain a +1 circumstance bonus to saving throws against diseases. If you roll a success on a saving throw against a disease, you get a critical success instead. If you have a different ability that would improve the save in this way (such as the battle hardened fighter class feature), if you roll a critical failure on the save you get a failure instead. You take damage only every 2 hours from thirst and every 2 days from starvation, rather than every hour and every day. Special You can select this feat only at 1st level.",
  "trait": [
   "Lizardfolk"
  ],
- "trait_markdown": "[Lizardfolk](/Traits.aspx?ID=226)",
+ "trait_group": [
+  "Monster",
+  "Ancestry"
+ ],
+ "trait_markdown": "[Lizardfolk](/Traits.aspx?ID=760)",
  "trait_raw": [
   "Lizardfolk"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1052",
+ "url": "/Feats.aspx?ID=5636",
  "weakness": {}
 }

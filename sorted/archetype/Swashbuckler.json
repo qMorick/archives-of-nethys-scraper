@@ -5,34 +5,46 @@
  "archetype_category": [
   "Multiclass"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-43",
+ "id": "archetype-235",
+ "image": [
+  "/Images/Archetypes/Archetype_Swashbuckler.webp"
+ ],
+ "legacy_id": [
+  "archetype-43"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Swashbuckler](/Archetypes.aspx?ID=43)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 153 <sup>2.0</sup></row>\n\nThe swashbuckler archetype is a great fit for martial characters who want to be a bit flashier or for Charisma-based spellcasters who want to add a bit of dramatic flair to their routine. Multiclass swashbucklers work especially well for characters who already wanted to perform the actions associated with gaining panache, such as a monk or barbarian with the gymnast style or a braggart, battledancer, or wit-style bard.\n\n<document level=\"2\" id=\"feat-1859\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1860\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1861\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1862\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1863\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1864\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1865\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Swashbuckler](/Archetypes.aspx?ID=235)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 182 <sup>1.1</sup>\n\nYou fight with flair and style, adding swashbuckling tricks to your combat repertoire.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Swashbuckler.webp\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"3\">Multiclass Swashbuckler Characters</title>\r\n\r\nThe swashbuckler archetype is a great fit for martial characters who want to be a bit flashier or for Charismabased spellcasters who want to add a bit of dramatic flair to their routine. Multiclass swashbucklers work especially well for characters who already want to incorporate skill-based action and seek out daring deeds to do in the heat of battle. \n<ul><li>Barbarian swashbucklers love to show off their strength and brutality with devastating finishers.</li><li>Champion swashbucklers can show off the powers of their deity to inspire awe in potential converts and fear in enemies of the faith.</li><li>Investigator swashbucklers might love to solve big cases with an audience to show off their prowess.</li><li>Monk swashbucklers can take full advantage of their perfectly trained bodies to perform impressive feats.</li><li>Rogue swashbucklers might hide in the shadows before emerging to put on a flashy show.</li><li>Spellcaster swashbucklers might want to show off their mastery of both martial and magical arts.</li></ul>\n\n<document level=\"2\" id=\"feat-6233\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6234\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6235\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6236\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6237\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6238\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6239\"\n\n/>",
  "name": "Swashbuckler",
  "pfs": "Standard",
- "prerequisite": "Charisma 14; Dexterity 14",
- "prerequisite_markdown": "Charisma 14; Dexterity 14",
+ "prerequisite": "Charisma +2; Dexterity +2",
+ "prerequisite_markdown": "Charisma +2; Dexterity +2",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 182",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 153 <sup>2.0</sup></row>\r\n\r\n**Prerequisites**\r\nCharisma 14; Dexterity 14\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe swashbuckler archetype is a great fit for martial characters who want to be a bit flashier or for Charisma-based spellcasters who want to add a …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 182 <sup>1.1</sup>\r\n\r\n**Prerequisites**\r\nCharisma +2; Dexterity +2\n\n**Archetype Category**\r\nMulticlass\r\n\r\n**Number of Feats** 7\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou fight with flair and style, adding swashbuckling tricks to your combat repertoire.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 153"
+  "Player Core 2 pg. 182"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 153 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 182 <sup>1.1</sup>",
  "speed": {},
- "summary": "The swashbuckler archetype is a great fit for martial characters who want to be a bit flashier or for Charisma-based spellcasters who want to add a …",
- "summary_markdown": "The swashbuckler archetype is a great fit for martial characters who want to be a bit flashier or for Charisma-based spellcasters who want to add a …",
- "text": " Swashbuckler Source Advanced Player's Guide pg. 153 2.0 The swashbuckler archetype is a great fit for martial characters who want to be a bit flashier or for Charisma-based spellcasters who want to add a bit of dramatic flair to their routine. Multiclass swashbucklers work especially well for characters who already wanted to perform the actions associated with gaining panache, such as a monk or barbarian with the gymnast style or a braggart, battledancer, or wit-style bard. <document level=\"2\" id=\"feat-1860\" /> <document level=\"2\" id=\"feat-1861\" /> <document level=\"2\" id=\"feat-1862\" /> <document level=\"2\" id=\"feat-1863\" /> <document level=\"2\" id=\"feat-1864\" /> <document level=\"2\" id=\"feat-1865\" />",
+ "summary": "You fight with flair and style, adding swashbuckling tricks to your combat repertoire.",
+ "summary_markdown": "You fight with flair and style, adding swashbuckling tricks to your combat repertoire.",
+ "text": " Swashbuckler Source Player Core 2 pg. 182 1.1 You fight with flair and style, adding swashbuckling tricks to your combat repertoire. Multiclass Swashbuckler Characters The swashbuckler archetype is a great fit for martial characters who want to be a bit flashier or for Charismabased spellcasters who want to add a bit of dramatic flair to their routine. Multiclass swashbucklers work especially well for characters who already want to incorporate skill-based action and seek out daring deeds to do in the heat of battle. Barbarian swashbucklers love to show off their strength and brutality with devastating finishers. Champion swashbucklers can show off the powers of their deity to inspire awe in potential converts and fear in enemies of the faith. Investigator swashbucklers might love to solve big cases with an audience to show off their prowess. Monk swashbucklers can take full advantage of their perfectly trained bodies to perform impressive feats. Rogue swashbucklers might hide in the shadows before emerging to put on a flashy show. Spellcaster swashbucklers might want to show off their mastery of both martial and magical arts. <document level=\"2\" id=\"feat-6234\" /> <document level=\"2\" id=\"feat-6235\" /> <document level=\"2\" id=\"feat-6236\" /> <document level=\"2\" id=\"feat-6237\" /> <document level=\"2\" id=\"feat-6238\" /> <document level=\"2\" id=\"feat-6239\" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=43",
+ "url": "/Archetypes.aspx?ID=235",
  "weakness": {}
 }

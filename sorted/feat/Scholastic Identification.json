@@ -2,50 +2,62 @@
  "archetype": [
   "Archaeologist"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Scholastic Identification"
  ],
  "feat_markdown": "Scholastic Identification",
- "id": "feat-1882",
+ "id": "feat-6249",
+ "legacy_id": [
+  "feat-1882"
+ ],
  "level": 7,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 7\"\r\n    pfs=\"Standard\"\r\n>\r\n[Scholastic Identification](/Feats.aspx?ID=1882) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=144\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 156 <sup>2.0</sup></row>\n\n**Archetype** [Archaeologist](/Archetypes.aspx?ID=46)\n\n**Prerequisites**\r\n[Archaeologist Dedication](/Feats.aspx?ID=1879); Master in [Society](/Skills.aspx?ID=14)\n\n</column>\r\n\r\n---\r\n\r\nYou have the knowledge needed to understand ancient texts and cultural artifacts. You can use [Society](/Skills.aspx?ID=14) when [Deciphering Writing](/Actions.aspx?ID=22), no matter the type of writing you are examining. You can also use Society to [Identify Magic](/Actions.aspx?ID=24) when examining a magic item or location with cultural significance.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 7\"\r\n    pfs=\"Standard\"\r\n>\r\n[Scholastic Identification](/Feats.aspx?ID=6249) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=695\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 184 <sup>1.1</sup>\n\n**Archetype** [Archaeologist](/Archetypes.aspx?ID=237)\n\n**Prerequisites**\r\n[Archaeologist Dedication](/Feats.aspx?ID=6246); Master in [Society](/Skills.aspx?ID=47)\n\n</column>\r\n\r\n---\r\n\r\nYou have the knowledge needed to understand ancient texts and cultural artifacts. You can use [Society](/Skills.aspx?ID=47) when [Deciphering Writing](/Actions.aspx?ID=2363), no matter the type of writing you are examining. You can also use Society to [Identify Magic](/Actions.aspx?ID=2365) when examining a magic item or location with cultural significance.",
  "name": "Scholastic Identification",
  "pfs": "Standard",
  "prerequisite": "Archaeologist Dedication; Master in Society",
- "prerequisite_markdown": "[Archaeologist Dedication](/Feats.aspx?ID=1879); Master in [Society](/Skills.aspx?ID=14)",
+ "prerequisite_markdown": "[Archaeologist Dedication](/Feats.aspx?ID=6246); Master in [Society](/Skills.aspx?ID=47)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 184",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=144\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 156 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Archaeologist Dedication](/Feats.aspx?ID=1879); Master in [Society](/Skills.aspx?ID=14)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have the knowledge needed to understand ancient texts and cultural artifacts.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=695\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 184 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Archaeologist Dedication](/Feats.aspx?ID=6246); Master in [Society](/Skills.aspx?ID=47)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have the knowledge needed to understand ancient texts and cultural artifacts.\r\n</summary>",
  "skill": [
   "Society",
   "Society"
  ],
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 156"
+  "Player Core 2 pg. 184"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 156 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 184 <sup>1.1</sup>",
  "speed": {},
  "summary": "You have the knowledge needed to understand ancient texts and cultural artifacts.",
  "summary_markdown": "You have the knowledge needed to understand ancient texts and cultural artifacts.",
- "text": "<title level=\"1\" right=\"Feat 7\" pfs=\"Standard\" > Scholastic Identification Source Advanced Player's Guide pg. 156 2.0 Archetype Archaeologist Prerequisites Archaeologist Dedication; Master in Society --- You have the knowledge needed to understand ancient texts and cultural artifacts. You can use Society when Deciphering Writing, no matter the type of writing you are examining. You can also use Society to Identify Magic when examining a magic item or location with cultural significance.",
+ "text": "<title level=\"1\" right=\"Feat 7\" pfs=\"Standard\" > Scholastic Identification Source Player Core 2 pg. 184 1.1 Archetype Archaeologist Prerequisites Archaeologist Dedication; Master in Society --- You have the knowledge needed to understand ancient texts and cultural artifacts. You can use Society when Deciphering Writing, no matter the type of writing you are examining. You can also use Society to Identify Magic when examining a magic item or location with cultural significance.",
  "trait": [
   "Archetype",
   "Skill"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Skill](/Traits.aspx?ID=144)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535), [Skill](/Traits.aspx?ID=695)",
  "trait_raw": [
   "Archetype",
   "Skill"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1882",
+ "url": "/Feats.aspx?ID=6249",
  "weakness": {}
 }

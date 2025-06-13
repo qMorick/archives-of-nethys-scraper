@@ -1,50 +1,57 @@
 {
- "actions": "Reaction",
  "archetype": [
   "Poisoner"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Poison Coat"
  ],
  "feat_markdown": "Poison Coat",
- "id": "feat-2039",
+ "id": "feat-6385",
+ "legacy_id": [
+  "feat-2039"
+ ],
  "level": 6,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Poison Coat](/Feats.aspx?ID=2039) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 186 <sup>2.0</sup></row>\n\n**Archetype** [Poisoner](/Archetypes.aspx?ID=71)\n\n**Prerequisites**\r\n[Poisoner Dedication](/Feats.aspx?ID=2036)\n\n**Trigger**\r\nA creature adjacent to you hits you with a melee unarmed Strike.\r\n\r\n**Requirements**\r\nYou have prepared your clothing to poison attackers (see below).\r\n\r\n</column>\r\n\r\n---\r\n\r\nIn nature, certain animals are covered in venomous spines, such that even touching them is deadly. To use this reaction, you must have brushed poison onto your clothing or woven sharp poisoned needles into the garment's fabric. This takes 10 minutes and uses one dose of [contact](/Traits.aspx?ID=37) or [injury](/Traits.aspx?ID=97) poison. You can have only one such poison suffused into your clothing at a time.\n\n When you use this reaction, the triggering creature is exposed to the suffused poison.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Poison Coat](/Feats.aspx?ID=6385) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 210 <sup>1.1</sup>\n\n**Archetype** [Poisoner](/Archetypes.aspx?ID=259)\n\n**Prerequisites**\r\n[Poisoner Dedication](/Feats.aspx?ID=6382)\n\n</column>\r\n\r\n---\r\n\r\nIn nature, certain animals are covered in venomous spines, and just brushing against them can prove deadly. You expend a [contact](/Traits.aspx?ID=565) or [injury](/Traits.aspx?ID=635) poison and spend 10 minutes brushing that poison onto your clothing or weaving sharp, poisoned needles into the garment's fabric. You can have only one poison suffused into your clothing at a time. You can use the Once Bitten reaction while you have a poison suffused in this way.\n\n**Once Bitten** <actions string=\"Reaction\" />A creature adjacent to you hits you with a melee unarmed [Strike](/Actions.aspx?ID=2306); **Requirements** You have prepared your clothing to poison attackers; **Effect** The triggering creature is exposed to the suffused poison, and the poison becomes inert.",
  "name": "Poison Coat",
  "pfs": "Standard",
  "prerequisite": "Poisoner Dedication",
- "prerequisite_markdown": "[Poisoner Dedication](/Feats.aspx?ID=2036)",
+ "prerequisite_markdown": "[Poisoner Dedication](/Feats.aspx?ID=6382)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 210",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
- "requirement": "You have prepared your clothing to poison attackers (see below).",
- "requirement_markdown": "You have prepared your clothing to poison attackers (see below).",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 186 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Poisoner Dedication](/Feats.aspx?ID=2036)\n\n**Trigger**\r\nA creature adjacent to you hits you with a melee unarmed Strike.\r\n\r\n**Requirements**\r\nYou have prepared your clothing to poison attackers (see below).\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIn nature, certain animals are covered in venomous spines, such that even touching them is deadly.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 210 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Poisoner Dedication](/Feats.aspx?ID=6382)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIn nature, certain animals are covered in venomous spines, and just brushing against them can prove deadly.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 186"
+  "Player Core 2 pg. 210"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 186 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 210 <sup>1.1</sup>",
  "speed": {},
- "summary": "In nature, certain animals are covered in venomous spines, such that even touching them is deadly.",
- "summary_markdown": "In nature, certain animals are covered in venomous spines, such that even touching them is deadly.",
- "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Poison Coat Reaction Source Advanced Player's Guide pg. 186 2.0 Archetype Poisoner Prerequisites Poisoner Dedication Trigger A creature adjacent to you hits you with a melee unarmed Strike. Requirements You have prepared your clothing to poison attackers (see below). --- In nature, certain animals are covered in venomous spines, such that even touching them is deadly. To use this reaction, you must have brushed poison onto your clothing or woven sharp poisoned needles into the garment's fabric. This takes 10 minutes and uses one dose of contact or injury poison. You can have only one such poison suffused into your clothing at a time. When you use this reaction, the triggering creature is exposed to the suffused poison.",
+ "summary": "In nature, certain animals are covered in venomous spines, and just brushing against them can prove deadly.",
+ "summary_markdown": "In nature, certain animals are covered in venomous spines, and just brushing against them can prove deadly.",
+ "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Poison Coat Source Player Core 2 pg. 210 1.1 Archetype Poisoner Prerequisites Poisoner Dedication --- In nature, certain animals are covered in venomous spines, and just brushing against them can prove deadly. You expend a contact or injury poison and spend 10 minutes brushing that poison onto your clothing or weaving sharp, poisoned needles into the garment's fabric. You can have only one poison suffused into your clothing at a time. You can use the Once Bitten reaction while you have a poison suffused in this way. Once Bitten ReactionA creature adjacent to you hits you with a melee unarmed Strike; Requirements You have prepared your clothing to poison attackers; Effect The triggering creature is exposed to the suffused poison, and the poison becomes inert.",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
- "trigger": "A creature adjacent to you hits you with a melee unarmed Strike.",
- "trigger_markdown": "A creature adjacent to you hits you with a melee unarmed Strike.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=2039",
+ "url": "/Feats.aspx?ID=6385",
  "weakness": {}
 }

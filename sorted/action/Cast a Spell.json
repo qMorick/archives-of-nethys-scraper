@@ -1,30 +1,35 @@
 {
- "breadcrumbs_spa": [],
  "category": "action",
  "exclude_from_search": true,
  "frequency": "once per day",
- "id": "action-1998",
- "markdown": "**Activate** <actions string=\"\" />Cast a Spell;  **Frequency** once per day;   **Effect** You cast [_outcast's curse_](/Spells.aspx?ID=211).",
+ "id": "action-3271",
+ "markdown": "**Activate** <actions string=\"\" /> Cast a Spell;  **Frequency** once per day;   **Effect** The beads cast 5th-rank [_vital luminance_](/Spells.aspx?ID=1837).",
  "name": "Cast a Spell",
+ "primary_source": "Treasure Vault",
+ "primary_source_raw": "Treasure Vault pg. 2263",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
+ "rarity_id": 1,
  "release_date": "2023-02-22",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 80</row>\r\n\r\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou cast   outcast's curse  .\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 2263 <sup>2.0</sup>\r\n\r\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe beads cast 5th-rank   vital luminance  .\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Pathfinder #188: They Watched the Stars"
+  "Treasure Vault"
  ],
  "source_raw": [
-  "Pathfinder #188: They Watched the Stars pg. 80"
+  "Treasure Vault pg. 2263"
  ],
- "source_category": "Adventure Paths",
- "source_group": "Gatewalkers",
- "source_markdown": "<row gap=\"tiny\">[Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 80</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Treasure Vault](/Sources.aspx?ID=191) pg. 2263 <sup>2.0</sup>",
  "speed": {},
- "summary": "You cast   outcast's curse  .",
- "summary_markdown": "You cast   outcast's curse  .",
- "text": " Activate Cast a Spell; Frequency once per day; Effect You cast outcast's curse .",
+ "summary": "The beads cast 5th-rank   vital luminance  .",
+ "summary_markdown": "The beads cast 5th-rank   vital luminance  .",
+ "text": " Activate Cast a Spell; Frequency once per day; Effect The beads cast 5th-rank vital luminance .",
  "trait_markdown": "",
  "type": "Action",
- "url": "/Actions.aspx?ID=1998",
+ "url": "/Actions.aspx?ID=3271",
  "weakness": {}
 }

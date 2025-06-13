@@ -1,42 +1,56 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Divine Wall"
  ],
  "feat_markdown": "Divine Wall",
- "id": "feat-246",
+ "id": "feat-5917",
+ "legacy_id": [
+  "feat-246"
+ ],
  "level": 12,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Divine Wall](/Feats.aspx?ID=246) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 114 <sup>4.0</sup></row>\n\n**Requirements**\r\nYou are wielding a shield.\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou use your shield to harry your enemies, preventing them from stepping away from or around you. All spaces adjacent to you are difficult terrain for your enemies.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Divine Wall](/Feats.aspx?ID=5917) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 98 <sup>1.1</sup>\n\n**Prerequisites**\r\nYou're wielding a shield\n\n**Requirements**\r\nYou're wielding a shield.\n\n</column>\r\n\r\n---\r\n\r\nYou use your shield to harry your enemies, preventing them from stepping away from or around you. All spaces adjacent to you are [difficult terrain](/Rules.aspx?ID=453) for your enemies.",
  "name": "Divine Wall",
  "pfs": "Standard",
+ "prerequisite": "You're wielding a shield",
+ "prerequisite_markdown": "You're wielding a shield",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 98",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
- "requirement": "You are wielding a shield.",
- "requirement_markdown": "You are wielding a shield.",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
+ "requirement": "You're wielding a shield.",
+ "requirement_markdown": "You're wielding a shield.",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 114 <sup>4.0</sup></row>\n\n**Requirements**\r\nYou are wielding a shield.\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou use your shield to harry your enemies, preventing them from stepping away from or around you.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 98 <sup>1.1</sup>\n\n**Prerequisites**\r\nYou're wielding a shield\n\n**Requirements**\r\nYou're wielding a shield.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou use your shield to harry your enemies, preventing them from stepping away from or around you.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 114"
+  "Player Core 2 pg. 98"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 114 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 98 <sup>1.1</sup>",
  "speed": {},
  "summary": "You use your shield to harry your enemies, preventing them from stepping away from or around you.",
  "summary_markdown": "You use your shield to harry your enemies, preventing them from stepping away from or around you.",
- "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Divine Wall Source Core Rulebook pg. 114 4.0 Requirements You are wielding a shield. --- You use your shield to harry your enemies, preventing them from stepping away from or around you. All spaces adjacent to you are difficult terrain for your enemies.",
+ "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Divine Wall Source Player Core 2 pg. 98 1.1 Prerequisites You're wielding a shield Requirements You're wielding a shield. --- You use your shield to harry your enemies, preventing them from stepping away from or around you. All spaces adjacent to you are difficult terrain for your enemies.",
  "trait": [
   "Champion"
  ],
- "trait_markdown": "[Champion](/Traits.aspx?ID=24)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Champion](/Traits.aspx?ID=811)",
  "trait_raw": [
   "Champion"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=246",
+ "url": "/Feats.aspx?ID=5917",
  "weakness": {}
 }

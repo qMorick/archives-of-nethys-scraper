@@ -1,37 +1,49 @@
 {
  "breadcrumbs": [
-  "Gods & Magic",
-  "Philosophies and Spirituality"
+  "Chapter 2: Building Games",
+  "Building Worlds",
+  "Religion"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1386",
- "markdown": "<title level=\"1\" right=\"Rules\">[Pantheons](/Rules.aspx?ID=1386)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 92 <sup>2.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nA pantheon is a group of related gods worshipped either individually or together. Most pantheons are associated with a specific ancestry or geopolitical region, but rarely, a pantheon consists of deities with overlapping areas of concern. Followers work to advance the shared interests of their pantheon, directing prayers to whichever god presides over their current activity or circumstance. At the GM’s discretion, champions and clerics can dedicate themselves to a pantheon. In such cases, the characters still worship a specific patron deity among those in the pantheon, but also follow the edicts and anathema of the pantheon as a whole. A character who worships a pantheon this way can gain the domains, alternate domains, and spells from the pantheon instead of those from their patron deity. They must uphold the ideals of both their patron deity and the pantheon, though the patron deity’s edicts and anathema take precedence. For example, a worshipper of [Iomedae](/Deities.aspx?ID=9) could worship [the Godclaw](/Deities.aspx?ID=198), but they wouldn’t take the [tyranny](/Domains.aspx?ID=33) domain, as it would be in conflict with Iomedae’s edicts. In rare cases, a character can worship a pantheon without following a patron deity. Such cases are unique and subject to GM approval.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2978",
+ "legacy_id": [
+  "rules-1143"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Pantheons](/Rules.aspx?ID=2978)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 139 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nIn polytheistic traditions, a pantheon is a divine hierarchy of multiple (or even all) deities.\n\n**Universal:** All deities in the setting belong to a single pantheon. Different cultures might have their own names for the god of magic, for instance, but only a single deity answers their prayers.\n\n**Ancestral or Regional:** Each ancestry or region worships its own distinct pantheon. These pantheons coexist in the same cosmology but establish control in separate divine realms. Across the cosmos, several gods from disparate pantheons may share the same area of concern, but they seldom compete for worshippers from rival pantheons.\n\n**Competitive:** The world contains smaller regional pantheons competing for mortal worship. Only one deity of a specific area of concern may ascend to greater power across all the pantheons. As such, deities typically have little loyalty to their own pantheons and may actually switch to another pantheon if it earns them additional worshippers.\n\n**None:** The deities of this multiverse act as individuals with no familial ties or common agendas binding them to each other.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Pantheons",
  "next_link": {
-  "label": "Introduction",
-  "url": "/Rules.aspx?ID=808"
+  "label": "Deities",
+  "url": "/Rules.aspx?ID=2979"
  },
  "previous_link": {
-  "label": "Demigods and Other Divinities",
-  "url": "/Rules.aspx?ID=807"
+  "label": "Theology",
+  "url": "/Rules.aspx?ID=2977"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 139",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 92 <sup>2.0</sup></row>\r\n\r\nGods &amp; Magic / Philosophies and Spirituality\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 139 <sup>2.0</sup>\r\n\r\nChapter 2: Building Games / Building Worlds / Religion\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIn polytheistic traditions, a pantheon is a divine hierarchy of multiple (or even all) deities.   Universal:  All deities in the setting belong to a …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "GM Core"
  ],
  "source_raw": [
-  "Gods & Magic pg. 92"
+  "GM Core pg. 139"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 92 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 139 <sup>2.0</sup>",
  "speed": {},
- "text": " Pantheons Source Gods &amp; Magic pg. 92 2.0 A pantheon is a group of related gods worshipped either individually or together. Most pantheons are associated with a specific ancestry or geopolitical region, but rarely, a pantheon consists of deities with overlapping areas of concern. Followers work to advance the shared interests of their pantheon, directing prayers to whichever god presides over their current activity or circumstance. At the GM’s discretion, champions and clerics can dedicate themselves to a pantheon. In such cases, the characters still worship a specific patron deity among those in the pantheon, but also follow the edicts and anathema of the pantheon as a whole. A character who worships a pantheon this way can gain the domains, alternate domains, and spells from the pantheon instead of those from their patron deity. They must uphold the ideals of both their patron deity and the pantheon, though the patron deity’s edicts and anathema take precedence. For example, a worshipper of Iomedae could worship the Godclaw, but they wouldn’t take the tyranny domain, as it would be in conflict with Iomedae’s edicts. In rare cases, a character can worship a pantheon without following a patron deity. Such cases are unique and subject to GM approval. ",
+ "summary": "In polytheistic traditions, a pantheon is a divine hierarchy of multiple (or even all) deities.   Universal:  All deities in the setting belong to a …",
+ "summary_markdown": "In polytheistic traditions, a pantheon is a divine hierarchy of multiple (or even all) deities.   Universal:  All deities in the setting belong to a …",
+ "text": " Pantheons Source GM Core pg. 139 2.0 In polytheistic traditions, a pantheon is a divine hierarchy of multiple (or even all) deities. Universal: All deities in the setting belong to a single pantheon. Different cultures might have their own names for the god of magic, for instance, but only a single deity answers their prayers. Ancestral or Regional: Each ancestry or region worships its own distinct pantheon. These pantheons coexist in the same cosmology but establish control in separate divine realms. Across the cosmos, several gods from disparate pantheons may share the same area of concern, but they seldom compete for worshippers from rival pantheons. Competitive: The world contains smaller regional pantheons competing for mortal worship. Only one deity of a specific area of concern may ascend to greater power across all the pantheons. As such, deities typically have little loyalty to their own pantheons and may actually switch to another pantheon if it earns them additional worshippers. None: The deities of this multiverse act as individuals with no familial ties or common agendas binding them to each other. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1386",
+ "url": "/Rules.aspx?ID=2978",
  "weakness": {}
 }

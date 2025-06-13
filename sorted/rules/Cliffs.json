@@ -1,38 +1,49 @@
 {
  "breadcrumbs": [
-  "Chapter 10: Game Mastering",
+  "Chapter 2: Building Games",
   "Environment",
   "Mountain"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-607",
- "markdown": "<title level=\"1\" right=\"Rules\">[Cliffs](/Rules.aspx?ID=607)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 513 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nCliffs and rock walls require creatures to Climb to ascend or descend. Without extensive safety precautions, a critical failure can result in significant falling damage.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2785",
+ "legacy_id": [
+  "rules-607"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Cliffs](/Rules.aspx?ID=2785)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 91 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nCliffs and rock walls require creatures to Climb to ascend or descend. Without extensive safety precautions, a critical failure on Climb checks can result in significant falling damage.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Cliffs",
  "next_link": {
   "label": "Rubble",
-  "url": "/Rules.aspx?ID=608"
+  "url": "/Rules.aspx?ID=2786"
  },
  "previous_link": {
   "label": "Chasms",
-  "url": "/Rules.aspx?ID=606"
+  "url": "/Rules.aspx?ID=2784"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 91",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 513 <sup>4.0</sup></row>\r\n\r\nChapter 10: Game Mastering / Environment / Mountain\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 91 <sup>2.0</sup>\r\n\r\nChapter 2: Building Games / Environment / Mountain\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCliffs and rock walls require creatures to Climb to ascend or descend. Without extensive safety precautions, a critical failure on Climb checks can …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 513"
+  "GM Core pg. 91"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 513 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 91 <sup>2.0</sup>",
  "speed": {},
- "text": " Cliffs Source Core Rulebook pg. 513 4.0 Cliffs and rock walls require creatures to Climb to ascend or descend. Without extensive safety precautions, a critical failure can result in significant falling damage. ",
+ "summary": "Cliffs and rock walls require creatures to Climb to ascend or descend. Without extensive safety precautions, a critical failure on Climb checks can …",
+ "summary_markdown": "Cliffs and rock walls require creatures to Climb to ascend or descend. Without extensive safety precautions, a critical failure on Climb checks can …",
+ "text": " Cliffs Source GM Core pg. 91 2.0 Cliffs and rock walls require creatures to Climb to ascend or descend. Without extensive safety precautions, a critical failure on Climb checks can result in significant falling damage. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=607",
+ "url": "/Rules.aspx?ID=2785",
  "weakness": {}
 }

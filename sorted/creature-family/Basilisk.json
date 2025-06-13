@@ -1,29 +1,38 @@
 {
- "breadcrumbs_spa": [],
  "category": "creature-family",
  "creature_family": "Basilisk",
  "creature_family_markdown": "Basilisk",
  "exclude_from_search": false,
- "id": "creature-family-124",
- "markdown": "<title level=\"1\" right=\"Creature Family\">[Basilisk](/MonsterFamilies.aspx?ID=124)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 38</row>\n\n_This entry did not have a separate description for the family._\r\n\r\n<title level=\"2\">Members</title>\r\n[Basilisk](/Monsters.aspx?ID=44) (Creature 5), [Dracolisk](/Monsters.aspx?ID=565) (Creature 9)",
+ "id": "creature-family-488",
+ "legacy_id": [
+  "creature-family-124"
+ ],
+ "markdown": "<title level=\"1\" right=\"Creature Family\">[Basilisk](/MonsterFamilies.aspx?ID=488)</title>\r\n\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 39 <sup>1.1</sup>\n\n_Nethys Note: This entry did not have a separate description for the family_\r\n\r\n<title level=\"2\">Members</title>\r\n[Basilisk](/Monsters.aspx?ID=2847) (Creature 5), [Royal Basilisk](/Monsters.aspx?ID=3255) (Creature 13)",
  "name": "Basilisk",
+ "primary_source": "Monster Core",
+ "primary_source_raw": "Monster Core pg. 39",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-03-27",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 38</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n This entry did not have a separate description for the family  .\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 39 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Nethys Note: This entry did not have a separate description for the family \r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Bestiary"
+  "Monster Core"
  ],
  "source_raw": [
-  "Bestiary pg. 38"
+  "Monster Core pg. 39"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 38</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Monster Core](/Sources.aspx?ID=221) pg. 39 <sup>1.1</sup>",
  "speed": {},
- "summary": " This entry did not have a separate description for the family  .",
- "summary_markdown": " This entry did not have a separate description for the family  .",
- "text": " Basilisk Source Bestiary pg. 38 This entry did not have a separate description for the family. Members Basilisk (Creature 5), Dracolisk (Creature 9)",
+ "summary": " Nethys Note: This entry did not have a separate description for the family ",
+ "summary_markdown": " Nethys Note: This entry did not have a separate description for the family ",
+ "text": " Basilisk Source Monster Core pg. 39 1.1 Nethys Note: This entry did not have a separate description for the family Members Basilisk (Creature 5), Royal Basilisk (Creature 13)",
  "type": "Creature Family",
- "url": "/MonsterFamilies.aspx?ID=124",
+ "url": "/MonsterFamilies.aspx?ID=488",
  "weakness": {}
 }

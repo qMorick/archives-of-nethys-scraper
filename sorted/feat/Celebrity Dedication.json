@@ -2,44 +2,56 @@
  "archetype": [
   "Celebrity"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Celebrity Dedication"
  ],
  "feat_markdown": "Celebrity Dedication",
- "id": "feat-1931",
+ "id": "feat-6298",
+ "legacy_id": [
+  "feat-1931"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Celebrity Dedication](/Feats.aspx?ID=1931) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=41\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 166 <sup>2.0</sup></row>\n\n**Archetype** [Celebrity](/Archetypes.aspx?ID=54)\n\n</column>\r\n\r\n---\r\n\r\nThe more people you have looking at you, the more content you are, and you take every opportunity to show up others when their performances are less than perfect. You gain the Upstage reaction. In addition, when you [Earn Income](/Actions.aspx?ID=23), if the level of the task is higher than your level, you gain a +1 circumstance bonus to your check to Earn Income.\n\n<document level=\"2\" id=\"action-566\" />\n\n**Special** You can't select another dedication feat until you have gained two other feats from the celebrity archetype.\n\n<title level=\"2\">Celebrity Dedication leads to...</title>\r\n[Acknowledge Fan](/Feats.aspx?ID=4150), [Big Debut](/Feats.aspx?ID=4146), [Command Attention](/Feats.aspx?ID=1934), [Feeling Your Oats](/Feats.aspx?ID=4139), [Grudging Compliment](/Feats.aspx?ID=4141), [Mesmerizing Gaze](/Feats.aspx?ID=1933), [Never Tire](/Feats.aspx?ID=1932), [Statement Strut](/Feats.aspx?ID=4145)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Celebrity Dedication](/Feats.aspx?ID=6298) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=572\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 194 <sup>1.1</sup>\n\n**Archetype** [Celebrity](/Archetypes.aspx?ID=245)\n\n</column>\r\n\r\n---\r\n\r\nThe more people you have looking at you, the more content you are, and you take every opportunity to show up others when their performances are less than perfect. You gain the Upstage reaction. In addition, when you [Earn Income](/Skills.aspx?General=true&amp;ID=21), if the level of the task is higher than your level, you gain a +1 circumstance bonus to your check to Earn Income. \n\n<document level=\"2\" id=\"action-2979\" />\n\n<title level=\"2\">Celebrity Dedication leads to...</title>\r\n[Command Attention](/Feats.aspx?ID=6301), [Costume Change](/Feats.aspx?ID=7640), [It's Not Over](/Feats.aspx?ID=7642), [Mesmerizing Gaze](/Feats.aspx?ID=6300), [More Real than Real](/Feats.aspx?ID=7646), [Never Tire](/Feats.aspx?ID=6299), [Operatic Adventurer](/Feats.aspx?ID=7635), [Perfect Pitch](/Feats.aspx?ID=7636), [Primadonna](/Feats.aspx?ID=7638), [Tempo Shift](/Feats.aspx?ID=7643)",
  "name": "Celebrity Dedication",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 194",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=41\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 166 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe more people you have looking at you, the more content you are.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=572\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 194 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe more people you have looking at you, the more content you are, and you take every opportunity to show up others when their performances are less than perfect.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 166"
+  "Player Core 2 pg. 194"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 166 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 194 <sup>1.1</sup>",
  "speed": {},
- "summary": "The more people you have looking at you, the more content you are.",
- "summary_markdown": "The more people you have looking at you, the more content you are.",
- "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Celebrity Dedication Source Advanced Player's Guide pg. 166 2.0 Archetype Celebrity --- The more people you have looking at you, the more content you are, and you take every opportunity to show up others when their performances are less than perfect. You gain the Upstage reaction. In addition, when you Earn Income, if the level of the task is higher than your level, you gain a +1 circumstance bonus to your check to Earn Income. Special You can't select another dedication feat until you have gained two other feats from the celebrity archetype. Celebrity Dedication leads to... Acknowledge Fan, Big Debut, Command Attention, Feeling Your Oats, Grudging Compliment, Mesmerizing Gaze, Never Tire, Statement Strut",
+ "summary": "The more people you have looking at you, the more content you are, and you take every opportunity to show up others when their performances are less than perfect.",
+ "summary_markdown": "The more people you have looking at you, the more content you are, and you take every opportunity to show up others when their performances are less than perfect.",
+ "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Celebrity Dedication Source Player Core 2 pg. 194 1.1 Archetype Celebrity --- The more people you have looking at you, the more content you are, and you take every opportunity to show up others when their performances are less than perfect. You gain the Upstage reaction. In addition, when you Earn Income, if the level of the task is higher than your level, you gain a +1 circumstance bonus to your check to Earn Income. Celebrity Dedication leads to... Command Attention, Costume Change, It's Not Over, Mesmerizing Gaze, More Real than Real, Never Tire, Operatic Adventurer, Perfect Pitch, Primadonna, Tempo Shift",
  "trait": [
   "Archetype",
   "Dedication"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Dedication](/Traits.aspx?ID=41)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535), [Dedication](/Traits.aspx?ID=572)",
  "trait_raw": [
   "Archetype",
   "Dedication"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1931",
+ "url": "/Feats.aspx?ID=6298",
  "weakness": {}
 }

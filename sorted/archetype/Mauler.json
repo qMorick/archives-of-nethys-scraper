@@ -6,34 +6,46 @@
   "Combat Style",
   "Core"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-68",
+ "id": "archetype-256",
+ "image": [
+  "/Images/Archetypes/Archetype_Mauler.webp"
+ ],
+ "legacy_id": [
+  "archetype-68"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Mauler](/Archetypes.aspx?ID=68)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 183 <sup>2.0</sup></row>\n\nYou shove your way through legions of foes, knock enemies on all sides to the ground, and deal massive blows to anyone or anything that comes near.\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-2022\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-372\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-359\"\r\noverride-title-right=\"Feat 4*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2023\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2024\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-403\"\r\noverride-title-right=\"Feat 12*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-406\"\r\noverride-title-right=\"Feat 14*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2025\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1625\"\r\noverride-title-right=\"Feat 14*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2026\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Mauler](/Archetypes.aspx?ID=256)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 207 <sup>1.1</sup>\n\nYou shove your way through legions of foes, knock enemies on all sides to the ground, and deal massive blows to anyone or anything that comes near. You know that when it comes to taking down an enemy, it never hurts to have a bigger weapon.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Mauler.webp\" />\r\n</column>\r\n\r\n</row>\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-6368\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4794\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4775\"\r\noverride-title-right=\"Feat 4*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6369\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6370\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4821\"\r\noverride-title-right=\"Feat 12*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4832\"\r\noverride-title-right=\"Feat 14*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6371\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-5861\"\r\noverride-title-right=\"Feat 14*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6372\"\n\n/>",
  "name": "Mauler",
  "pfs": "Standard",
- "prerequisite": "Strength 14",
- "prerequisite_markdown": "Strength 14",
+ "prerequisite": "Strength +2",
+ "prerequisite_markdown": "Strength +2",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 207",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 183 <sup>2.0</sup></row>\r\n\r\n**Prerequisites**\r\nStrength 14\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou shove your way through legions of foes, knock enemies on all sides to the ground, and deal massive blows to anyone or anything that comes near.\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 207 <sup>1.1</sup>\r\n\r\n**Prerequisites**\r\nStrength +2\n\n**Archetype Categories**\r\nCombat Style, Core\r\n\r\n**Number of Feats** 10\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou shove your way through legions of foes, knock enemies on all sides to the ground, and deal massive blows to anyone or anything that comes near. …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 183"
+  "Player Core 2 pg. 207"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 183 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 207 <sup>1.1</sup>",
  "speed": {},
- "summary": "You shove your way through legions of foes, knock enemies on all sides to the ground, and deal massive blows to anyone or anything that comes near.",
- "summary_markdown": "You shove your way through legions of foes, knock enemies on all sides to the ground, and deal massive blows to anyone or anything that comes near.",
- "text": " Mauler Source Advanced Player's Guide pg. 183 2.0 You shove your way through legions of foes, knock enemies on all sides to the ground, and deal massive blows to anyone or anything that comes near. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-372\" /> <document level=\"2\" id=\"feat-359\" override-title-right=\"Feat 4 \" /> <document level=\"2\" id=\"feat-2023\" /> <document level=\"2\" id=\"feat-2024\" /> <document level=\"2\" id=\"feat-403\" override-title-right=\"Feat 12 \" /> <document level=\"2\" id=\"feat-406\" override-title-right=\"Feat 14 \" /> <document level=\"2\" id=\"feat-2025\" /> <document level=\"2\" id=\"feat-1625\" override-title-right=\"Feat 14 \" /> <document level=\"2\" id=\"feat-2026\" />",
+ "summary": "You shove your way through legions of foes, knock enemies on all sides to the ground, and deal massive blows to anyone or anything that comes near. …",
+ "summary_markdown": "You shove your way through legions of foes, knock enemies on all sides to the ground, and deal massive blows to anyone or anything that comes near. …",
+ "text": " Mauler Source Player Core 2 pg. 207 1.1 You shove your way through legions of foes, knock enemies on all sides to the ground, and deal massive blows to anyone or anything that comes near. You know that when it comes to taking down an enemy, it never hurts to have a bigger weapon. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-4794\" /> <document level=\"2\" id=\"feat-4775\" override-title-right=\"Feat 4 \" /> <document level=\"2\" id=\"feat-6369\" /> <document level=\"2\" id=\"feat-6370\" /> <document level=\"2\" id=\"feat-4821\" override-title-right=\"Feat 12 \" /> <document level=\"2\" id=\"feat-4832\" override-title-right=\"Feat 14 \" /> <document level=\"2\" id=\"feat-6371\" /> <document level=\"2\" id=\"feat-5861\" override-title-right=\"Feat 14 \" /> <document level=\"2\" id=\"feat-6372\" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=68",
+ "url": "/Archetypes.aspx?ID=256",
  "weakness": {}
 }

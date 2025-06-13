@@ -1,37 +1,50 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Pale Horse"
  ],
  "feat_markdown": "Pale Horse",
- "id": "feat-1686",
+ "id": "feat-7523",
+ "legacy_id": [
+  "feat-1686"
+ ],
  "level": 12,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Pale Horse](/Feats.aspx?ID=1686) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 121 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[divine ally (steed)](/Classes.aspx?ID=4); [tenets of evil](/Tenets.aspx?ID=2)\n\n</column>\r\n\r\n---\r\n\r\nYour mount becomes a grotesque creature of foreboding when you ride it. Its appearance transforms as flames erupt from its skin, a whorl of negative energy surrounds it, or poison leaks from its flesh. When you Mount your steed ally, you can choose fire, negative, or poison. As long as you ride it, your steed gains resistance 10 to the chosen damage type, and any creature that touches your steed takes 1d6 damage of the chosen type; this includes hitting the steed with unarmed attacks or with a melee weapon Strike while adjacent to the steed. This damage increases to 2d6 at 16th level and 3d6 at 20th level.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Pale Horse](/Feats.aspx?ID=7523) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 277\n\n**Prerequisites**\r\n[Faithful Steed](/Feats.aspx?ID=5885); \n\n</column>\r\n\r\n---\r\n\r\nYour mount becomes a grotesque creature of foreboding when you ride it. Its appearance transforms as flames erupt from its skin, a whorl of void energy surrounds it, or poison leaks from its flesh. When you [Mount](/Actions.aspx?ID=2314) your faithful steed, you can choose [fire](/Traits.aspx?ID=604), [poison](/Traits.aspx?ID=669), or [void](/Traits.aspx?ID=510). As long as you ride it, your steed gains [resistance](/Rules.aspx?ID=2312) 10 to the chosen damage type, and any creature that touches your steed takes 1d6 damage of the chosen type; this includes hitting the steed with an unarmed attack or with a melee weapon [Strike](/Actions.aspx?ID=2306) while adjacent to the steed. This damage increases to 2d6 at 16th level and 3d6 at 20th level.",
  "name": "Pale Horse",
  "pfs": "Standard",
- "prerequisite": "divine ally (steed); tenets of evil",
- "prerequisite_markdown": "[divine ally (steed)](/Classes.aspx?ID=4); [tenets of evil](/Tenets.aspx?ID=2)",
+ "prerequisite": "Faithful Steed; ",
+ "prerequisite_markdown": "[Faithful Steed](/Feats.aspx?ID=5885); ",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 277",
+ "primary_source_category": "Lost Omens",
  "rarity": "uncommon",
- "release_date": "2020-07-30",
+ "rarity_id": 2,
+ "release_date": "2025-01-30",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 121 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[divine ally (steed)](/Classes.aspx?ID=4); [tenets of evil](/Tenets.aspx?ID=2)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour mount becomes a grotesque creature of foreboding when you ride it.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 277\n\n**Prerequisites**\r\n[Faithful Steed](/Feats.aspx?ID=5885); \n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour mount becomes a grotesque creature of foreboding when you ride it.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 121"
+  "Divine Mysteries pg. 277"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 121 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 277",
  "speed": {},
  "summary": "Your mount becomes a grotesque creature of foreboding when you ride it.",
  "summary_markdown": "Your mount becomes a grotesque creature of foreboding when you ride it.",
- "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Pale Horse Source Advanced Player's Guide pg. 121 2.0 Prerequisites divine ally (steed); tenets of evil --- Your mount becomes a grotesque creature of foreboding when you ride it. Its appearance transforms as flames erupt from its skin, a whorl of negative energy surrounds it, or poison leaks from its flesh. When you Mount your steed ally, you can choose fire, negative, or poison. As long as you ride it, your steed gains resistance 10 to the chosen damage type, and any creature that touches your steed takes 1d6 damage of the chosen type; this includes hitting the steed with unarmed attacks or with a melee weapon Strike while adjacent to the steed. This damage increases to 2d6 at 16th level and 3d6 at 20th level.",
+ "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Pale Horse Source Divine Mysteries pg. 277 Prerequisites Faithful Steed; --- Your mount becomes a grotesque creature of foreboding when you ride it. Its appearance transforms as flames erupt from its skin, a whorl of void energy surrounds it, or poison leaks from its flesh. When you Mount your faithful steed, you can choose fire, poison, or void. As long as you ride it, your steed gains resistance 10 to the chosen damage type, and any creature that touches your steed takes 1d6 damage of the chosen type; this includes hitting the steed with an unarmed attack or with a melee weapon Strike while adjacent to the steed. This damage increases to 2d6 at 16th level and 3d6 at 20th level.",
  "trait": [
   "Champion",
   "Uncommon"
+ ],
+ "trait_group": [
+  "Class",
+  "Rarity"
  ],
  "trait_markdown": "[Champion](/Traits.aspx?ID=24), [Uncommon](/Traits.aspx?ID=159)",
  "trait_raw": [
@@ -39,6 +52,6 @@
   "Uncommon"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1686",
+ "url": "/Feats.aspx?ID=7523",
  "weakness": {}
 }

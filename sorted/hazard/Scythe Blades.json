@@ -1,48 +1,61 @@
 {
  "ac": 21,
- "breadcrumbs_spa": [],
  "category": "hazard",
  "complexity": "Simple",
- "disable": "Thievery  DC 21 (trained) to disable each blade",
+ "disable": "DC 21  Thievery  (trained) to disable each blade",
  "exclude_from_search": false,
  "fortitude_save": 12,
  "hardness": 11,
- "hardness_raw": "11",
+ "hardness_raw": "11 Hardness",
  "hazard_type": "Trap",
  "hp": 44,
  "hp_raw": "44 (BT 22)",
- "id": "hazard-6",
+ "id": "hazard-480",
  "immunity": [
   "critical hits",
   "object immunities",
   "precision damage"
  ],
- "immunity_markdown": "critical hits, object immunities, precision damage",
+ "immunity_markdown": "[critical hits](/Rules.aspx?ID=2190), [object immunities](/Rules.aspx?ID=2161), precision damage",
+ "legacy_id": [
+  "hazard-6"
+ ],
  "level": 4,
- "markdown": "<title level=\"1\" right=\"Hazard 4\" pfs=\"\">[Scythe Blades](/Hazards.aspx?ID=6)</title>\r\n\r\n<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 523 <sup>4.0</sup></row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nTwo blades, each hidden in a 15-foot-long ceiling groove, are both connected to a trip wire.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 23 (trained)\r\n\r\n**Disable**\r\n[Thievery](/Skills.aspx?ID=17) DC 21 (trained) to disable each blade\n\n<column gap=\"tiny\">\r\n\r\n**AC** 21, **Fort** +12, **Ref** +8\r\n\r\n**Hardness**\r\n11\r\n\r\n**HP**\r\n44 (BT 22)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Falling Scythes** <actions string=\"Reaction\" /> (attack); **Trigger** The trip wire is pulled or severed. **Effect** Both blades swing down, each one attacking all creatures under the ceiling grooves.<br />**Melee** scythe +17 (deadly 1d12), **Damage** 2d12+4 slashing; no multiple attack penalty\n\n---\r\n**Reset**\r\nThe trap resets after 15 minutes.",
+ "markdown": "<title level=\"1\" right=\"Hazard 4\" pfs=\"\">[Scythe Blades](/Hazards.aspx?ID=480)</title>\r\n\r\n<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 103 <sup>2.0</sup>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nTwo blades, each hidden in a 15-foot-long ceiling groove, are both connected to a trip wire.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 23 (trained)\r\n\r\n**Disable**\r\nDC 21 [Thievery](/Skills.aspx?ID=50) (trained) to disable each blade\n\n<column gap=\"tiny\">\r\n\r\n**AC** 21, **Fort** +12, **Ref** +8\r\n\r\n**Hardness**\r\n11\r\n\r\n**HP**\r\n44 (BT 22)\r\n\r\n**Immunities**\r\n[critical hits](/Rules.aspx?ID=2190), [object immunities](/Rules.aspx?ID=2161), precision damage\n\n</column>\r\n\r\n**Falling Scythes** <actions string=\"Reaction\" /> **Trigger** The trip wire is pulled or severed; **Effect** Both blades swing down, each one [Striking](/Actions.aspx?ID=2306) all creatures under the ceiling grooves. \n\n**Melee** scythe +17 ([deadly d12](/Traits.aspx?ID=570)), **Damage** 2d12+4 slashing; no multiple attack penalty\n\n---\r\n**Reset**\r\nThe trap resets after 15 minutes.",
  "name": "Scythe Blades",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 103",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
+ "rarity_id": 1,
  "reflex_save": 8,
- "release_date": "2019-08-01",
+ "release_date": "2023-11-15",
  "reset": "The trap resets after 15 minutes.",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 523 <sup>4.0</sup></row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTwo blades, each hidden in a 15-foot-long ceiling groove, are both connected to a trip wire.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 103 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTwo blades, each hidden in a 15-foot-long ceiling groove, are both connected to a trip wire.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 523"
+  "GM Core pg. 103"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 523 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 103 <sup>2.0</sup>",
  "speed": {},
  "stealth": "DC 23 (trained)",
  "summary": "Two blades, each hidden in a 15-foot-long ceiling groove, are both connected to a trip wire.",
  "summary_markdown": "Two blades, each hidden in a 15-foot-long ceiling groove, are both connected to a trip wire.",
- "text": " Scythe Blades Source Core Rulebook pg. 523 4.0 Complexity Simple Two blades, each hidden in a 15-foot-long ceiling groove, are both connected to a trip wire. --- Stealth DC 23 (trained) Disable Thievery DC 21 (trained) to disable each blade AC 21, Fort +12, Ref +8 Hardness 11 HP 44 (BT 22) Immunities critical hits, object immunities, precision damage Falling Scythes Reaction (attack); Trigger The trip wire is pulled or severed. Effect Both blades swing down, each one attacking all creatures under the ceiling grooves. Melee scythe +17 (deadly 1d12), Damage 2d12+4 slashing; no multiple attack penalty --- Reset The trap resets after 15 minutes.",
+ "text": " Scythe Blades Source GM Core pg. 103 2.0 Complexity Simple Two blades, each hidden in a 15-foot-long ceiling groove, are both connected to a trip wire. --- Stealth DC 23 (trained) Disable DC 21 Thievery (trained) to disable each blade AC 21, Fort +12, Ref +8 Hardness 11 HP 44 (BT 22) Immunities critical hits, object immunities, precision damage Falling Scythes Reaction Trigger The trip wire is pulled or severed; Effect Both blades swing down, each one Striking all creatures under the ceiling grooves. Melee scythe +17 (deadly d12), Damage 2d12+4 slashing; no multiple attack penalty --- Reset The trap resets after 15 minutes.",
  "trait": [
   "Mechanical",
   "Trap"
+ ],
+ "trait_group": [
+  "Equipment",
+  "Hazard"
  ],
  "trait_markdown": "[Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
  "trait_raw": [
@@ -50,6 +63,6 @@
   "Trap"
  ],
  "type": "Hazard",
- "url": "/Hazards.aspx?ID=6",
+ "url": "/Hazards.aspx?ID=480",
  "weakness": {}
 }

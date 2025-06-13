@@ -1,42 +1,57 @@
 {
- "breadcrumbs_spa": [],
+ "archetype": [
+  "Lion Blade"
+ ],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Focused Fascination"
  ],
  "feat_markdown": "Focused Fascination",
- "id": "feat-1516",
+ "id": "feat-6131",
+ "legacy_id": [
+  "feat-1516"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Focused Fascination](/Feats.aspx?ID=1516) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=321\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 88 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Fascinating Performance](/Feats.aspx?ID=781)\n\n</column>\r\n\r\n---\r\n\r\nWhen you use [Fascinating Performance](/Feats.aspx?ID=781) in a combat encounter, you need only a success, rather than a critical success, to [fascinate](/Conditions.aspx?ID=14) your target. This works only if you're attempting to fascinate one target. For example, if you were an expert in [Performance](/Skills.aspx?ID=12), you could choose to target multiple creatures normally or target one creature and fascinate it on a success.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Focused Fascination](/Feats.aspx?ID=6131) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=825\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 163 <sup>1.1</sup>\n\n**Archetype** [Lion Blade](/Archetypes.aspx?ID=319) (Level 4)\n\n**Prerequisites**\r\n[Fascinating Performance](/Feats.aspx?ID=5147)\n\n</column>\r\n\r\n---\r\n\r\nWhen you use Fascinating Performance in a combat encounter, you need only a success, rather than a critical success, to [fascinate](/Conditions.aspx?ID=72) your target. This works only if you're attempting to fascinate one target. For example, if you were an expert in [Performance](/Skills.aspx?ID=45), you could choose to target multiple creatures normally or target one creature and fascinate it on a success.",
  "name": "Focused Fascination",
  "pfs": "Standard",
  "prerequisite": "Fascinating Performance",
- "prerequisite_markdown": "[Fascinating Performance](/Feats.aspx?ID=781)",
+ "prerequisite_markdown": "[Fascinating Performance](/Feats.aspx?ID=5147)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 163",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=321\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 88 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Fascinating Performance](/Feats.aspx?ID=781)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen you use Fascinating Performance in a combat encounter, you need only a success, rather than a critical success, to fascinate your target.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=825\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 163 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Fascinating Performance](/Feats.aspx?ID=5147)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen you use Fascinating Performance in a combat encounter, you need only a success, rather than a critical success, to [fascinate](/Conditions.aspx?ID=72) your target.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 88"
+  "Player Core 2 pg. 163"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 88 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 163 <sup>1.1</sup>",
  "speed": {},
- "summary": "When you use Fascinating Performance in a combat encounter, you need only a success, rather than a critical success, to fascinate your target.",
- "summary_markdown": "When you use Fascinating Performance in a combat encounter, you need only a success, rather than a critical success, to fascinate your target.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Focused Fascination Source Advanced Player's Guide pg. 88 2.0 Prerequisites Fascinating Performance --- When you use Fascinating Performance in a combat encounter, you need only a success, rather than a critical success, to fascinate your target. This works only if you're attempting to fascinate one target. For example, if you were an expert in Performance, you could choose to target multiple creatures normally or target one creature and fascinate it on a success.",
+ "summary": "When you use Fascinating Performance in a combat encounter, you need only a success, rather than a critical success, to  fascinate  your target.",
+ "summary_markdown": "When you use Fascinating Performance in a combat encounter, you need only a success, rather than a critical success, to [fascinate](/Conditions.aspx?ID=72) your target.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Focused Fascination Source Player Core 2 pg. 163 1.1 Archetype Lion Blade (Level 4) Prerequisites Fascinating Performance --- When you use Fascinating Performance in a combat encounter, you need only a success, rather than a critical success, to fascinate your target. This works only if you're attempting to fascinate one target. For example, if you were an expert in Performance, you could choose to target multiple creatures normally or target one creature and fascinate it on a success.",
  "trait": [
   "Swashbuckler"
  ],
- "trait_markdown": "[Swashbuckler](/Traits.aspx?ID=321)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Swashbuckler](/Traits.aspx?ID=825)",
  "trait_raw": [
   "Swashbuckler"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1516",
+ "url": "/Feats.aspx?ID=6131",
  "weakness": {}
 }

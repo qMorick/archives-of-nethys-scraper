@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Alchemical Scholar"
  ],
  "feat_markdown": "Alchemical Scholar",
- "id": "feat-1024",
+ "id": "feat-5568",
+ "legacy_id": [
+  "feat-1024"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Alchemical Scholar](/Feats.aspx?ID=1024) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=268\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 50 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou learn formulas more easily. You gain four common 1st-level alchemical formulas when you take this feat, and each time you gain a level, you gain a common alchemical formula of that level. You still need [Alchemical Crafting](/Feats.aspx?ID=752) to Craft alchemical items.\n\n**Special** You can take this feat only at 1st level, and you can’t retrain into or out of this feat.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Alchemical Scholar](/Feats.aspx?ID=5568) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=757\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 14 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou gain the [Alchemical Crafting](/Feats.aspx?ID=5117) feat. If you would automatically gain that feat (from your background or the alchemist class, for example), you instead gain a different 1st-level Crafting skill feat. Add an additional common 1st-level [alchemical](/Traits.aspx?ID=528) formula to your formula book when you take this feat. Each time you gain a level beyond 1st, add one common alchemical formula of that level to your formula book.",
  "name": "Alchemical Scholar",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 14",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-10-16",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=268\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 50 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou learn formulas more easily.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=757\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 14 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain the Alchemical Crafting feat.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Character Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Character Guide pg. 50"
+  "Player Core 2 pg. 14"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Character Guide](/Sources.aspx?ID=12) pg. 50 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 14 <sup>1.1</sup>",
  "speed": {},
- "summary": "You learn formulas more easily.",
- "summary_markdown": "You learn formulas more easily.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Alchemical Scholar Source Character Guide pg. 50 2.0 --- You learn formulas more easily. You gain four common 1st-level alchemical formulas when you take this feat, and each time you gain a level, you gain a common alchemical formula of that level. You still need Alchemical Crafting to Craft alchemical items. Special You can take this feat only at 1st level, and you can’t retrain into or out of this feat.",
+ "summary": "You gain the Alchemical Crafting feat.",
+ "summary_markdown": "You gain the Alchemical Crafting feat.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Alchemical Scholar Source Player Core 2 pg. 14 1.1 --- You gain the Alchemical Crafting feat. If you would automatically gain that feat (from your background or the alchemist class, for example), you instead gain a different 1st-level Crafting skill feat. Add an additional common 1st-level alchemical formula to your formula book when you take this feat. Each time you gain a level beyond 1st, add one common alchemical formula of that level to your formula book.",
  "trait": [
   "Hobgoblin"
  ],
- "trait_markdown": "[Hobgoblin](/Traits.aspx?ID=268)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Hobgoblin](/Traits.aspx?ID=757)",
  "trait_raw": [
   "Hobgoblin"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1024",
+ "url": "/Feats.aspx?ID=5568",
  "weakness": {}
 }

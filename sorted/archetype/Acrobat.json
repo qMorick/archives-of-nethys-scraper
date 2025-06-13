@@ -6,34 +6,46 @@
   "Profession",
   "Core"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-45",
+ "id": "archetype-236",
+ "image": [
+  "/Images/Archetypes/Archetype_Acrobat.webp"
+ ],
+ "legacy_id": [
+  "archetype-45"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Acrobat](/Archetypes.aspx?ID=45)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 155 <sup>2.0</sup></row>\n\nYou have trained your body to perform incredible, seemingly superhuman feats of grace. You move in ways that leave your opponents caught off guard and fumbling for a response, turning every fight into performance art.\n\n<document level=\"2\" id=\"feat-1873\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1874\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1875\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1876\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4144\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1877\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4148\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1878\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4151\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Acrobat](/Archetypes.aspx?ID=236)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 183 <sup>1.1</sup>\n\nYou have trained your body to perform incredible, seemingly superhuman feats of grace and agility. You move in ways that leave your opponents fumbling for a response, turning every fight into a nimble piece of performance art.\n\n Often underestimated, such mastery over the body is useful both on a stage and a battlefield. In fact, acrobatics is an often-practiced art among thieves, assassins, and explorers.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Acrobat.webp\" />\r\n</column>\r\n\r\n</row>\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-6240\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6241\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6242\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6243\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4144\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6244\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4148\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6245\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7635\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7639\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4151\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7640\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7641\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7643\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7644\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7646\"\n\n/>",
  "name": "Acrobat",
  "pfs": "Standard",
  "prerequisite": "Trained in Acrobatics",
- "prerequisite_markdown": "Trained in [Acrobatics](/Skills.aspx?ID=1)",
+ "prerequisite_markdown": "Trained in [Acrobatics](/Skills.aspx?ID=34)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 183",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 155 <sup>2.0</sup></row>\r\n\r\n**Prerequisites**\r\nTrained in [Acrobatics](/Skills.aspx?ID=1)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have trained your body to perform incredible, seemingly superhuman feats of grace. You move in ways that leave your opponents caught off guard …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 183 <sup>1.1</sup>\r\n\r\n**Prerequisites**\r\nTrained in [Acrobatics](/Skills.aspx?ID=34)\n\n**Archetype Categories**\r\nProfession, Core\r\n\r\n**Number of Feats** 16\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have trained your body to perform incredible, seemingly superhuman feats of grace and agility. You move in ways that leave your opponents …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 155"
+  "Player Core 2 pg. 183"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 155 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 183 <sup>1.1</sup>",
  "speed": {},
- "summary": "You have trained your body to perform incredible, seemingly superhuman feats of grace. You move in ways that leave your opponents caught off guard …",
- "summary_markdown": "You have trained your body to perform incredible, seemingly superhuman feats of grace. You move in ways that leave your opponents caught off guard …",
- "text": " Acrobat Source Advanced Player's Guide pg. 155 2.0 You have trained your body to perform incredible, seemingly superhuman feats of grace. You move in ways that leave your opponents caught off guard and fumbling for a response, turning every fight into performance art. <document level=\"2\" id=\"feat-1874\" /> <document level=\"2\" id=\"feat-1875\" /> <document level=\"2\" id=\"feat-1876\" /> <document level=\"2\" id=\"feat-4144\" /> <document level=\"2\" id=\"feat-1877\" /> <document level=\"2\" id=\"feat-4148\" /> <document level=\"2\" id=\"feat-1878\" /> <document level=\"2\" id=\"feat-4151\" />",
+ "summary": "You have trained your body to perform incredible, seemingly superhuman feats of grace and agility. You move in ways that leave your opponents …",
+ "summary_markdown": "You have trained your body to perform incredible, seemingly superhuman feats of grace and agility. You move in ways that leave your opponents …",
+ "text": " Acrobat Source Player Core 2 pg. 183 1.1 You have trained your body to perform incredible, seemingly superhuman feats of grace and agility. You move in ways that leave your opponents fumbling for a response, turning every fight into a nimble piece of performance art. Often underestimated, such mastery over the body is useful both on a stage and a battlefield. In fact, acrobatics is an often-practiced art among thieves, assassins, and explorers. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-6241\" /> <document level=\"2\" id=\"feat-6242\" /> <document level=\"2\" id=\"feat-6243\" /> <document level=\"2\" id=\"feat-4144\" /> <document level=\"2\" id=\"feat-6244\" /> <document level=\"2\" id=\"feat-4148\" /> <document level=\"2\" id=\"feat-6245\" /> <document level=\"2\" id=\"feat-7635\" /> <document level=\"2\" id=\"feat-7639\" /> <document level=\"2\" id=\"feat-4151\" /> <document level=\"2\" id=\"feat-7640\" /> <document level=\"2\" id=\"feat-7641\" /> <document level=\"2\" id=\"feat-7643\" /> <document level=\"2\" id=\"feat-7644\" /> <document level=\"2\" id=\"feat-7646\" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=45",
+ "url": "/Archetypes.aspx?ID=236",
  "weakness": {}
 }

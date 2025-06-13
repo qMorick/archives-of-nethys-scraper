@@ -1,29 +1,38 @@
 {
- "breadcrumbs_spa": [],
  "category": "creature-family",
  "creature_family": "Ape",
  "creature_family_markdown": "Ape",
  "exclude_from_search": false,
- "id": "creature-family-6",
- "markdown": "<title level=\"1\" right=\"Creature Family\">[Ape](/MonsterFamilies.aspx?ID=6)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 23</row>\n\nWhile many apes exhibit peaceful or reclusive behavior, gorillas can be territorial, and the megaprimatus is especially aggressive and dangerous.\r\n\r\n<title level=\"2\">Members</title>\r\n[Gorilla](/Monsters.aspx?ID=25) (Creature 3), [Megaprimatus](/Monsters.aspx?ID=26) (Creature 8)",
+ "id": "creature-family-363",
+ "legacy_id": [
+  "creature-family-6"
+ ],
+ "markdown": "<title level=\"1\" right=\"Creature Family\">[Ape](/MonsterFamilies.aspx?ID=363)</title>\r\n\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 23 <sup>1.1</sup>\n\nWhile many apes exhibit peaceful or reclusive behavior, gorillas can be territorial, and the megaprimatus is especially aggressive and dangerous.\r\n\r\n<title level=\"2\">Members</title>\r\n[Gorilla](/Monsters.aspx?ID=2827) (Creature 3), [Megaprimatus](/Monsters.aspx?ID=2828) (Creature 8)",
  "name": "Ape",
+ "primary_source": "Monster Core",
+ "primary_source_raw": "Monster Core pg. 23",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-03-27",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 23</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile many apes exhibit peaceful or reclusive behavior, gorillas can be territorial, and the megaprimatus is especially aggressive and dangerous .\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 23 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile many apes exhibit peaceful or reclusive behavior, gorillas can be territorial, and the megaprimatus is especially aggressive and dangerous.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Bestiary"
+  "Monster Core"
  ],
  "source_raw": [
-  "Bestiary pg. 23"
+  "Monster Core pg. 23"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 23</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Monster Core](/Sources.aspx?ID=221) pg. 23 <sup>1.1</sup>",
  "speed": {},
- "summary": "While many apes exhibit peaceful or reclusive behavior, gorillas can be territorial, and the megaprimatus is especially aggressive and dangerous .",
- "summary_markdown": "While many apes exhibit peaceful or reclusive behavior, gorillas can be territorial, and the megaprimatus is especially aggressive and dangerous .",
- "text": " Ape Source Bestiary pg. 23 While many apes exhibit peaceful or reclusive behavior, gorillas can be territorial, and the megaprimatus is especially aggressive and dangerous. Members Gorilla (Creature 3), Megaprimatus (Creature 8)",
+ "summary": "While many apes exhibit peaceful or reclusive behavior, gorillas can be territorial, and the megaprimatus is especially aggressive and dangerous.",
+ "summary_markdown": "While many apes exhibit peaceful or reclusive behavior, gorillas can be territorial, and the megaprimatus is especially aggressive and dangerous.",
+ "text": " Ape Source Monster Core pg. 23 1.1 While many apes exhibit peaceful or reclusive behavior, gorillas can be territorial, and the megaprimatus is especially aggressive and dangerous. Members Gorilla (Creature 3), Megaprimatus (Creature 8)",
  "type": "Creature Family",
- "url": "/MonsterFamilies.aspx?ID=6",
+ "url": "/MonsterFamilies.aspx?ID=363",
  "weakness": {}
 }

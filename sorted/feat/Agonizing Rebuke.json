@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Agonizing Rebuke"
  ],
  "feat_markdown": "Agonizing Rebuke",
- "id": "feat-1030",
+ "id": "feat-5577",
+ "legacy_id": [
+  "feat-1030"
+ ],
  "level": 5,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Agonizing Rebuke](/Feats.aspx?ID=1030) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=268\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 50 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nWhen you terrorize your enemies, you also cause them painful mental distress. When you successfully [Demoralize](/Actions.aspx?ID=53) a foe, that foe takes 1d4 mental damage at the start of each of its turns as long as it remains [frightened](/Conditions.aspx?ID=19) and continues to engage in combat with you. If you have master proficiency in [Intimidation](/Skills.aspx?ID=7), the damage increases to 2d4, and if you have legendary proficiency, the damage increases to 3d4.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Agonizing Rebuke](/Feats.aspx?ID=5577) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=757\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 14 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nWhen you terrorize your enemies, you also cause them painful mental distress. When you successfully [Demoralize](/Actions.aspx?ID=2395) an enemy, that enemy takes 1d4 mental damage at the start of each of its turns. This effect ends if the creature loses the [frightened](/Conditions.aspx?ID=76) condition, if it is more than 30 feet away from you, or if 1 minute passes, whichever comes first. If you have master proficiency in Intimidation, the damage increases to 2d4, and if you have legendary proficiency, the damage increases to 3d4.",
  "name": "Agonizing Rebuke",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 14",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-10-16",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=268\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 50 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen you terrorize your enemies, you also cause them painful mental distress.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=757\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 14 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen you terrorize your enemies, you also cause them painful mental distress.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Character Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Character Guide pg. 50"
+  "Player Core 2 pg. 14"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Character Guide](/Sources.aspx?ID=12) pg. 50 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 14 <sup>1.1</sup>",
  "speed": {},
  "summary": "When you terrorize your enemies, you also cause them painful mental distress.",
  "summary_markdown": "When you terrorize your enemies, you also cause them painful mental distress.",
- "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Agonizing Rebuke Source Character Guide pg. 50 2.0 --- When you terrorize your enemies, you also cause them painful mental distress. When you successfully Demoralize a foe, that foe takes 1d4 mental damage at the start of each of its turns as long as it remains frightened and continues to engage in combat with you. If you have master proficiency in Intimidation, the damage increases to 2d4, and if you have legendary proficiency, the damage increases to 3d4.",
+ "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Agonizing Rebuke Source Player Core 2 pg. 14 1.1 --- When you terrorize your enemies, you also cause them painful mental distress. When you successfully Demoralize an enemy, that enemy takes 1d4 mental damage at the start of each of its turns. This effect ends if the creature loses the frightened condition, if it is more than 30 feet away from you, or if 1 minute passes, whichever comes first. If you have master proficiency in Intimidation, the damage increases to 2d4, and if you have legendary proficiency, the damage increases to 3d4.",
  "trait": [
   "Hobgoblin"
  ],
- "trait_markdown": "[Hobgoblin](/Traits.aspx?ID=268)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Hobgoblin](/Traits.aspx?ID=757)",
  "trait_raw": [
   "Hobgoblin"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1030",
+ "url": "/Feats.aspx?ID=5577",
  "weakness": {}
 }

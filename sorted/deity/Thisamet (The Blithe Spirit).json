@@ -1,91 +1,109 @@
 {
- "ability": [
+ "attribute": [
   "Constitution",
   "Charisma"
  ],
- "alignment": "CG",
- "breadcrumbs_spa": [],
+ "anathema": "Ruin a holiday, quarrel at a feast, ignore workers when celebrating",
+ "area_of_concern": [
+  "Celebrations",
+  "feasts",
+  "holidays"
+ ],
+ "area_of_concern_raw": "Celebrations, feasts, and holidays",
  "category": "deity",
  "cleric_spell": [
-  "Color Spray",
+  "Dizzying Colors",
   "Enthrall",
   "Cloak of Colors"
  ],
  "deity": [
   "Thisamet"
  ],
- "deity_markdown": "[Thisamet](/Deities.aspx?ID=267)",
- "deity_category": "Other Gods",
- "deity_category_markdown": "[Other Gods](/DeityCategories.aspx?ID=2)",
- "deity_category_order": "2Other Gods",
+ "deity_category": "Empyreal Lords",
+ "deity_category_markdown": "[Empyreal Lords](/DeityCategories.aspx?ID=10)",
+ "deity_category_order": "2Empyreal Lords",
  "divine_font": [
   "Heal"
  ],
  "divine_font_markdown": "[Heal](/Spells.aspx?ID=148)",
  "domain": [
   "Cities",
-  "Delirium",
+  "Disorientation",
   "Family",
   "Fire",
   "Indulgence",
   "Wealth"
  ],
- "domain_markdown": "[Cities](/Domains.aspx?ID=3), [Delirium](/Domains.aspx?ID=43), [Family](/Domains.aspx?ID=11), [Fire](/Domains.aspx?ID=13), [Indulgence](/Domains.aspx?ID=16), [Wealth](/Domains.aspx?ID=36)",
+ "domain_markdown": "[Cities](/Domains.aspx?ID=66), [Disorientation](/Domains.aspx?ID=105), [Family](/Domains.aspx?ID=74), [Fire](/Domains.aspx?ID=76), [Indulgence](/Domains.aspx?ID=79), [Wealth](/Domains.aspx?ID=99)",
  "domain_alternate": [
   "Family",
   "Fire"
  ],
- "domain_alternate_markdown": "[Family](/Domains.aspx?ID=11), [Fire](/Domains.aspx?ID=13)",
+ "domain_alternate_markdown": "[Family](/Domains.aspx?ID=74), [Fire](/Domains.aspx?ID=76)",
  "domain_primary": [
   "Cities",
-  "Delirium",
+  "Disorientation",
   "Indulgence",
   "Wealth"
  ],
- "domain_primary_markdown": "[Cities](/Domains.aspx?ID=3), [Delirium](/Domains.aspx?ID=43), [Indulgence](/Domains.aspx?ID=16), [Wealth](/Domains.aspx?ID=36)",
+ "domain_primary_markdown": "[Cities](/Domains.aspx?ID=66), [Disorientation](/Domains.aspx?ID=105), [Indulgence](/Domains.aspx?ID=79), [Wealth](/Domains.aspx?ID=99)",
+ "edict": "Celebrate freely, share prosperity, invite all to your table",
  "exclude_from_search": false,
  "favored_weapon": [
   "Shortsword"
  ],
- "favored_weapon_markdown": "[Shortsword](/Weapons.aspx?ID=43)",
- "follower_alignment": [
-  "LG",
-  "NG",
-  "N",
-  "CG",
-  "CN"
+ "favored_weapon_markdown": "[Shortsword](/Weapons.aspx?ID=398)",
+ "id": "deity-655",
+ "legacy_id": [
+  "deity-267"
  ],
- "id": "deity-267",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Thisamet (The Blithe Spirit)](/Deities.aspx?ID=267)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"CG\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Firebrands](/Sources.aspx?ID=196) pg. 67</row>\n\nThe Blithe Spirit, Thisamet, exemplifies the warmth of celebration. In her merriment, she takes many forms and adjusts each to match the event. Often, she appears as a middle-aged woman with laugh lines worn deep in her face. She delights in attending events without fanfare, walking amongst mortal celebrants and immersing herself in the crowd. It's only as she leaves that the other celebrants notice the sheen of divinity remaining.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Other Gods](/DeityCategories.aspx?ID=2)\r\n\r\n**Edicts** celebrate freely, share prosperity, invite all to your table\r\n\r\n**Anathema** ruin a holiday, quarrel at a feast, ignore workers when celebrating\r\n\r\n**Area of Concern**\r\ncelebrations, feasts, and holidays\r\n\r\n**Follower Alignments**\r\nLG, NG, N, CG, CN\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nConstitution or Charisma\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=14)\r\n\r\n**Favored Weapon** [Shortsword](/Weapons.aspx?ID=43)\r\n\r\n**Domains** [Cities](/Domains.aspx?ID=3), [Delirium](/Domains.aspx?ID=43), [Indulgence](/Domains.aspx?ID=16), [Wealth](/Domains.aspx?ID=36)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** [Family](/Domains.aspx?ID=11), [Fire](/Domains.aspx?ID=13)\r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Color Spray](/Spells.aspx?ID=44)\n\n- **3rd**\r\n[Enthrall](/Spells.aspx?ID=104)\n\n- **5th**\r\n[Cloak of Colors](/Spells.aspx?ID=41)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Thisamet (The Blithe Spirit)](/Deities.aspx?ID=655)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries Web Supplement](/Sources.aspx?ID=237) pg. 12\n\n_Nethys Note: no description has been provided of this deity_\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Empyreal Lords](/DeityCategories.aspx?ID=10)\r\n\r\n**Edicts** Celebrate freely, share prosperity, invite all to your table\r\n\r\n**Anathema** Ruin a holiday, quarrel at a feast, ignore workers when celebrating\r\n\r\n**Area of Concern**\r\nCelebrations, feasts, and holidays\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nConstitution or Charisma\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** can choose holy\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=47)\r\n\r\n**Favored Weapon** [Shortsword](/Weapons.aspx?ID=398)\r\n\r\n**Domains** [Cities](/Domains.aspx?ID=66), [Disorientation](/Domains.aspx?ID=105), [Indulgence](/Domains.aspx?ID=79), [Wealth](/Domains.aspx?ID=99)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** [Family](/Domains.aspx?ID=74), [Fire](/Domains.aspx?ID=76)\r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Dizzying Colors](/Spells.aspx?ID=1500)\n\n- **3rd**\r\n[Enthrall](/Spells.aspx?ID=1516)\n\n- **5th**\r\n[Cloak of Colors](/Spells.aspx?ID=1977)\n\n</column>",
  "name": "Thisamet (The Blithe Spirit)",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries Web Supplement",
+ "primary_source_raw": "Divine Mysteries Web Supplement pg. 12",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2023-03-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "Cornucopia of food",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Firebrands](/Sources.aspx?ID=196) pg. 67</row>\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=14)\r\n\r\n**Favored Weapon** [Shortsword](/Weapons.aspx?ID=43)\r\n\r\n**Domains** [Cities](/Domains.aspx?ID=3), [Delirium](/Domains.aspx?ID=43), [Family](/Domains.aspx?ID=11), [Fire](/Domains.aspx?ID=13), [Indulgence](/Domains.aspx?ID=16), [Wealth](/Domains.aspx?ID=36)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe Blithe Spirit, Thisamet, exemplifies the warmth of celebration. In her merriment, she takes many forms and adjusts each to match the event. …\r\n</summary>",
+ "sacred_animal": "Cow",
+ "sacred_color": [
+  "brown",
+  "green"
+ ],
+ "sanctification": [
+  "holy"
+ ],
+ "sanctification_raw": "can choose holy",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries Web Supplement](/Sources.aspx?ID=237) pg. 12\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=47)\r\n\r\n**Favored Weapon** [Shortsword](/Weapons.aspx?ID=398)\r\n\r\n**Domains** [Cities](/Domains.aspx?ID=66), [Disorientation](/Domains.aspx?ID=105), [Family](/Domains.aspx?ID=74), [Fire](/Domains.aspx?ID=76), [Indulgence](/Domains.aspx?ID=79), [Wealth](/Domains.aspx?ID=99)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Nethys Note: no description has been provided of this deity \r\n</summary>",
  "skill": [
   "Society"
  ],
- "skill_markdown": "[Society](/Skills.aspx?ID=14)",
+ "skill_markdown": "[Society](/Skills.aspx?ID=47)",
+ "skill_mod": {},
  "source": [
-  "Firebrands"
+  "Divine Mysteries Web Supplement"
  ],
  "source_raw": [
-  "Firebrands pg. 67"
+  "Divine Mysteries Web Supplement pg. 12"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Firebrands](/Sources.aspx?ID=196) pg. 67</row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries Web Supplement](/Sources.aspx?ID=237) pg. 12",
  "speed": {},
- "summary": "The Blithe Spirit, Thisamet, exemplifies the warmth of celebration. In her merriment, she takes many forms and adjusts each to match the event. …",
- "summary_markdown": "The Blithe Spirit, Thisamet, exemplifies the warmth of celebration. In her merriment, she takes many forms and adjusts each to match the event. …",
- "text": " Thisamet (The Blithe Spirit) Source Firebrands pg. 67 The Blithe Spirit, Thisamet, exemplifies the warmth of celebration. In her merriment, she takes many forms and adjusts each to match the event. Often, she appears as a middle-aged woman with laugh lines worn deep in her face. She delights in attending events without fanfare, walking amongst mortal celebrants and immersing herself in the crowd. It's only as she leaves that the other celebrants notice the sheen of divinity remaining. Category Other Gods Edicts celebrate freely, share prosperity, invite all to your table Anathema ruin a holiday, quarrel at a feast, ignore workers when celebrating Area of Concern celebrations, feasts, and holidays Follower Alignments LG, NG, N, CG, CN Devotee Benefits Divine Ability Constitution or Charisma Divine Font Heal Divine Skill Society Favored Weapon Shortsword Domains Cities, Delirium, Indulgence, Wealth Alternate Domains Family, Fire Cleric Spells - 1st Color Spray - 3rd Enthrall - 5th Cloak of Colors\n",
- "trait": [
-  "CG"
+ "spell": [
+  "Dizzying Colors",
+  "Enthrall",
+  "Cloak of Colors"
  ],
- "trait_raw": [
-  "CG"
- ],
+ "spell_markdown": "[Cloak of Colors](/Spells.aspx?ID=1977), [Dizzying Colors](/Spells.aspx?ID=1500), [Enthrall](/Spells.aspx?ID=1516)",
+ "summary": " Nethys Note: no description has been provided of this deity ",
+ "summary_markdown": " Nethys Note: no description has been provided of this deity ",
+ "text": " Thisamet (The Blithe Spirit) Source Divine Mysteries Web Supplement pg. 12 Nethys Note: no description has been provided of this deity Category Empyreal Lords Edicts Celebrate freely, share prosperity, invite all to your table Anathema Ruin a holiday, quarrel at a feast, ignore workers when celebrating Area of Concern Celebrations, feasts, and holidays Devotee Benefits Divine Attribute Constitution or Charisma Divine Font Heal Divine Sanctification can choose holy Divine Skill Society Favored Weapon Shortsword Domains Cities, Disorientation, Indulgence, Wealth Alternate Domains Family, Fire Cleric Spells - 1st Dizzying Colors - 3rd Enthrall - 5th Cloak of Colors\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=267",
+ "url": "/Deities.aspx?ID=655",
  "weakness": {}
 }

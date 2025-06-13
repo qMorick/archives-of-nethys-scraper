@@ -1,42 +1,55 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Svetocher"
  ],
  "feat_markdown": "Svetocher",
- "id": "feat-1338",
+ "id": "feat-5714",
+ "legacy_id": [
+  "feat-1338"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Svetocher](/Feats.aspx?ID=1338) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Dhampir\" url=\"/Traits.aspx?ID=215\" />\r\n<trait label=\"Lineage\" url=\"/Traits.aspx?ID=317\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 33 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou were born to one of the moroi, the most common vampires, and you share their supernatural fortitude and power of persuasion. When you have the [drained](/Conditions.aspx?ID=10) condition, calculate the penalty to your Fortitude saves and your Hit Point reduction as though the condition value were 1 lower. You are trained [Diplomacy](/Skills.aspx?ID=6). If you would automatically be trained in it, you instead become trained in a skill of your choice.\n\n<title level=\"2\">Svetocher leads to...</title>\r\n[Taste Blood](/Feats.aspx?ID=2349)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Svetocher](/Feats.aspx?ID=5714) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Dhampir\" url=\"/Traits.aspx?ID=750\" />\r\n<trait label=\"Lineage\" url=\"/Traits.aspx?ID=641\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 43 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou were born to a [moroi](/MonsterFamilies.aspx?ID=480), the most common vampires, and you share their supernatural fortitude and power of persuasion. When you have the [drained](/Conditions.aspx?ID=68) condition, calculate the penalty to your Fortitude saves and your Hit Point reduction as though the condition value were 1 lower. You're trained in [Diplomacy](/Skills.aspx?ID=39). If you would automatically be trained in it, you instead become trained in a skill of your choice.",
  "name": "Svetocher",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 43",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Dhampir\" url=\"/Traits.aspx?ID=215\" />\r\n<trait label=\"Lineage\" url=\"/Traits.aspx?ID=317\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 33 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou were born to one of the moroi, the most common vampires, and you share their supernatural fortitude and power of persuasion.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Dhampir\" url=\"/Traits.aspx?ID=750\" />\r\n<trait label=\"Lineage\" url=\"/Traits.aspx?ID=641\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 43 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou were born to a [moroi](/MonsterFamilies.aspx?ID=480), the most common vampires, and you share their supernatural fortitude and power of persuasion.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 33"
+  "Player Core 2 pg. 43"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 33 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 43 <sup>1.1</sup>",
  "speed": {},
- "summary": "You were born to one of the moroi, the most common vampires, and you share their supernatural fortitude and power of persuasion.",
- "summary_markdown": "You were born to one of the moroi, the most common vampires, and you share their supernatural fortitude and power of persuasion.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Svetocher Source Advanced Player's Guide pg. 33 2.0 --- You were born to one of the moroi, the most common vampires, and you share their supernatural fortitude and power of persuasion. When you have the drained condition, calculate the penalty to your Fortitude saves and your Hit Point reduction as though the condition value were 1 lower. You are trained Diplomacy. If you would automatically be trained in it, you instead become trained in a skill of your choice. Svetocher leads to... Taste Blood",
+ "summary": "You were born to a  moroi , the most common vampires, and you share their supernatural fortitude and power of persuasion.",
+ "summary_markdown": "You were born to a [moroi](/MonsterFamilies.aspx?ID=480), the most common vampires, and you share their supernatural fortitude and power of persuasion.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Svetocher Source Player Core 2 pg. 43 1.1 --- You were born to a moroi, the most common vampires, and you share their supernatural fortitude and power of persuasion. When you have the drained condition, calculate the penalty to your Fortitude saves and your Hit Point reduction as though the condition value were 1 lower. You're trained in Diplomacy. If you would automatically be trained in it, you instead become trained in a skill of your choice.",
  "trait": [
   "Dhampir",
   "Lineage"
  ],
- "trait_markdown": "[Dhampir](/Traits.aspx?ID=215), [Lineage](/Traits.aspx?ID=317)",
+ "trait_group": [
+  "Monster",
+  "Feat"
+ ],
+ "trait_markdown": "[Dhampir](/Traits.aspx?ID=750), [Lineage](/Traits.aspx?ID=641)",
  "trait_raw": [
   "Dhampir",
   "Lineage"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1338",
+ "url": "/Feats.aspx?ID=5714",
  "weakness": {}
 }

@@ -1,35 +1,49 @@
 {
- "breadcrumbs_spa": [],
  "category": "hazard",
  "complexity": "Simple",
- "disable": "Thievery  DC 27 (master) to painstakingly remove the lintel without triggering the magic, or  dispel magic   (4th level; counteract DC 25) to counteract the rune",
+ "disable": "DC 27  Thievery  (master) to painstakingly remove the lintel without triggering the magic, or   dispel magic   (4th rank;  counteract  DC 25) to counteract the rune",
  "exclude_from_search": false,
  "hazard_type": "Trap",
- "id": "hazard-9",
+ "id": "hazard-475",
+ "legacy_id": [
+  "hazard-9"
+ ],
  "level": 7,
- "markdown": "<title level=\"1\" right=\"Hazard 7\" pfs=\"\">[Pharaoh's Ward](/Hazards.aspx?ID=9)</title>\r\n\r\n<traits>\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 524 <sup>4.0</sup></row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nA curse is imbued on an entryway’s threshold.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 25 (expert)\r\n\r\n**Disable**\r\n[Thievery](/Skills.aspx?ID=17) DC 27 (master) to painstakingly remove the lintel without triggering the magic, or [dispel magic_](/Spells.aspx?ID=78) (4th level; counteract DC 25) to counteract the rune\n\n<column gap=\"tiny\">\n\n</column>\r\n\r\n**Curse the Intruders** <actions string=\"Reaction\" /> (curse, divine, necromancy); **Trigger** The seal on the tomb is broken from the outside. **Effect** Each living creature within 60 feet must succeed at a DC 23 Will save or be subjected to the pharaoh’s curse. A cursed creature takes a –2 status penalty to Fortitude saves, and any natural or magical healing it receives is halved. The curse remains until removed by [_remove curse_](/Spells.aspx?ID=250) or similar magic.\n\n---\r\n**Reset**\r\nThe trap resets when the door is shut",
+ "markdown": "<title level=\"1\" right=\"Hazard 7\" pfs=\"\">[Pharaoh's Ward](/Hazards.aspx?ID=475)</title>\r\n\r\n<traits>\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 103 <sup>2.0</sup>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nA curse is imbued on an entryway’s threshold.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 25 (expert)\r\n\r\n**Disable**\r\nDC 27 [Thievery](/Skills.aspx?ID=50) (master) to painstakingly remove the lintel without triggering the magic, or [_dispel magic_](/Spells.aspx?ID=1493) (4th rank; [counteract](/Rules.aspx?ID=2250) DC 25) to counteract the rune\n\n<column gap=\"tiny\">\n\n</column>\r\n\r\n**Curse the Intruders** <actions string=\"Reaction\" /> ([curse](/Traits.aspx?ID=566), [divine](/Traits.aspx?ID=579)) **Trigger** The seal on the tomb is broken from the outside; **Effect** Each living creature within 60 feet must succeed at a DC 23 Will save or be subjected to the pharaoh’s curse. A cursed creature takes a –2 status penalty to Fortitude saves, and any natural or magical [healing](/Traits.aspx?ID=623) it receives is halved. The curse remains until removed by [_cleanse affliction_](/Spells.aspx?ID=1467) or similar magic.\n\n---\r\n**Reset**\r\nThe trap resets when the door is shut.",
  "name": "Pharaoh's Ward",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 103",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
- "reset": "The trap resets when the door is shut",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
+ "reset": "The trap resets when the door is shut.",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 524 <sup>4.0</sup></row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA curse is imbued on an entryway’s threshold.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 103 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA curse is imbued on an entryway’s threshold.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 524"
+  "GM Core pg. 103"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 524 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 103 <sup>2.0</sup>",
  "speed": {},
  "stealth": "DC 25 (expert)",
  "summary": "A curse is imbued on an entryway’s threshold.",
  "summary_markdown": "A curse is imbued on an entryway’s threshold.",
- "text": " Pharaoh's Ward Source Core Rulebook pg. 524 4.0 Complexity Simple A curse is imbued on an entryway’s threshold. --- Stealth DC 25 (expert) Disable Thievery DC 27 (master) to painstakingly remove the lintel without triggering the magic, or dispel magic (4th level; counteract DC 25) to counteract the rune Curse the Intruders Reaction (curse, divine, necromancy); Trigger The seal on the tomb is broken from the outside. Effect Each living creature within 60 feet must succeed at a DC 23 Will save or be subjected to the pharaoh’s curse. A cursed creature takes a –2 status penalty to Fortitude saves, and any natural or magical healing it receives is halved. The curse remains until removed by remove curse or similar magic. --- Reset The trap resets when the door is shut",
+ "text": " Pharaoh's Ward Source GM Core pg. 103 2.0 Complexity Simple A curse is imbued on an entryway’s threshold. --- Stealth DC 25 (expert) Disable DC 27 Thievery (master) to painstakingly remove the lintel without triggering the magic, or dispel magic (4th rank; counteract DC 25) to counteract the rune Curse the Intruders Reaction (curse, divine) Trigger The seal on the tomb is broken from the outside; Effect Each living creature within 60 feet must succeed at a DC 23 Will save or be subjected to the pharaoh’s curse. A cursed creature takes a –2 status penalty to Fortitude saves, and any natural or magical healing it receives is halved. The curse remains until removed by cleanse affliction or similar magic. --- Reset The trap resets when the door is shut.",
  "trait": [
   "Magical",
   "Trap"
+ ],
+ "trait_group": [
+  "Mechanics",
+  "Equipment",
+  "Hazard"
  ],
  "trait_markdown": "[Magical](/Traits.aspx?ID=103), [Trap](/Traits.aspx?ID=158)",
  "trait_raw": [
@@ -37,6 +51,6 @@
   "Trap"
  ],
  "type": "Hazard",
- "url": "/Hazards.aspx?ID=9",
+ "url": "/Hazards.aspx?ID=475",
  "weakness": {}
 }

@@ -1,38 +1,49 @@
 {
  "breadcrumbs": [
-  "Chapter 10: Game Mastering",
+  "Chapter 2: Building Games",
   "Environment",
   "Mountain"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-609",
- "markdown": "<title level=\"1\" right=\"Rules\">[Slopes](/Rules.aspx?ID=609)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 514 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nSlopes vary from the gentle rises of normal terrain to difficult terrain and inclines, depending on the angle of elevation. Moving down a slope is typically normal terrain, but characters might need to Climb up particularly steep slopes.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2787",
+ "legacy_id": [
+  "rules-609"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Slopes](/Rules.aspx?ID=2787)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 91 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nSlopes vary from the gentle rises of normal terrain to difficult terrain and inclines, depending on the angle of elevation. Moving down a slope is typically normal terrain, but characters might need to Climb up particularly steep slopes.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Terrain Rules</title>\r\n\r\nEnvironments make frequent use of the rules for difficult terrain, greater difficult terrain, and hazardous terrain, so those rules are summarized here.\n\n**Difficult terrain** is any terrain that impedes movement, ranging from particularly rough or unstable surfaces to thick ground cover and countless other impediments. Moving into a square of difficult terrain (or moving 5 feet into or within an area of difficult terrain, if you're not using a grid) costs an extra 5 feet of movement. Moving into a square of **greater difficult terrain** instead costs 10 additional feet of movement. This additional cost is not increased when moving diagonally. Creatures can't normally Step into difficult terrain.\n\nAny movement creatures make while jumping ignores terrain that the creature is jumping over. Some abilities (such as flight or being incorporeal) allow creatures to avoid the movement reduction from some types of difficult terrain. Certain other abilities let creatures ignore difficult terrain while traveling on foot; such an ability also allows a creature to move through greater difficult terrain using the movement cost for difficult terrain, but unless the ability specifies otherwise, these abilities don't let creatures ignore greater difficult terrain.\n\n**Hazardous terrain** damages creatures whenever they move through it. For instance, an acid pool, a pit of burning embers, and a spike-filled passageway all constitute hazardous terrain. The amount and type of damage depend on the specific hazardous terrain.\r\n</aside>",
  "name": "Slopes",
  "next_link": {
   "label": "Undergrowth",
-  "url": "/Rules.aspx?ID=610"
+  "url": "/Rules.aspx?ID=2788"
  },
  "previous_link": {
   "label": "Rubble",
-  "url": "/Rules.aspx?ID=608"
+  "url": "/Rules.aspx?ID=2786"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 91",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 514 <sup>4.0</sup></row>\r\n\r\nChapter 10: Game Mastering / Environment / Mountain\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 91 <sup>2.0</sup>\r\n\r\nChapter 2: Building Games / Environment / Mountain\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSlopes vary from the gentle rises of normal terrain to difficult terrain and inclines, depending on the angle of elevation. Moving down a slope is …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 514"
+  "GM Core pg. 91"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 514 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 91 <sup>2.0</sup>",
  "speed": {},
- "text": " Slopes Source Core Rulebook pg. 514 4.0 Slopes vary from the gentle rises of normal terrain to difficult terrain and inclines, depending on the angle of elevation. Moving down a slope is typically normal terrain, but characters might need to Climb up particularly steep slopes. ",
+ "summary": "Slopes vary from the gentle rises of normal terrain to difficult terrain and inclines, depending on the angle of elevation. Moving down a slope is …",
+ "summary_markdown": "Slopes vary from the gentle rises of normal terrain to difficult terrain and inclines, depending on the angle of elevation. Moving down a slope is …",
+ "text": " Slopes Source GM Core pg. 91 2.0 Slopes vary from the gentle rises of normal terrain to difficult terrain and inclines, depending on the angle of elevation. Moving down a slope is typically normal terrain, but characters might need to Climb up particularly steep slopes. Terrain Rules Environments make frequent use of the rules for difficult terrain, greater difficult terrain, and hazardous terrain, so those rules are summarized here. Difficult terrain is any terrain that impedes movement, ranging from particularly rough or unstable surfaces to thick ground cover and countless other impediments. Moving into a square of difficult terrain (or moving 5 feet into or within an area of difficult terrain, if you're not using a grid) costs an extra 5 feet of movement. Moving into a square of greater difficult terrain instead costs 10 additional feet of movement. This additional cost is not increased when moving diagonally. Creatures can't normally Step into difficult terrain. Any movement creatures make while jumping ignores terrain that the creature is jumping over. Some abilities (such as flight or being incorporeal) allow creatures to avoid the movement reduction from some types of difficult terrain. Certain other abilities let creatures ignore difficult terrain while traveling on foot; such an ability also allows a creature to move through greater difficult terrain using the movement cost for difficult terrain, but unless the ability specifies otherwise, these abilities don't let creatures ignore greater difficult terrain. Hazardous terrain damages creatures whenever they move through it. For instance, an acid pool, a pit of burning embers, and a spike-filled passageway all constitute hazardous terrain. The amount and type of damage depend on the specific hazardous terrain. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=609",
+ "url": "/Rules.aspx?ID=2787",
  "weakness": {}
 }

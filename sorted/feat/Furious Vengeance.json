@@ -1,47 +1,61 @@
 {
  "actions": "Reaction",
- "breadcrumbs_spa": [],
+ "actions_number": 1,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Furious Vengeance"
  ],
  "feat_markdown": "Furious Vengeance",
- "id": "feat-1628",
+ "id": "feat-5870",
+ "legacy_id": [
+  "feat-1628"
+ ],
  "level": 16,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 16\"\r\n    pfs=\"Standard\"\r\n>\r\n[Furious Vengeance](/Feats.aspx?ID=1628) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 111 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[fury instinct](/Instincts.aspx?ID=3)\n\n**Trigger**\r\nAn enemy within your melee reach critically hits you with a melee Strike.\n\n</column>\r\n\r\n---\r\n\r\nYour enemy's blow fuels your rage and provokes your immediate retaliation. Make a melee Strike against the triggering enemy.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 16\"\r\n    pfs=\"Standard\"\r\n>\r\n[Furious Vengeance](/Feats.aspx?ID=5870) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 84 <sup>1.1</sup>\n\n**Prerequisites**\r\n[fury instinct](/Instincts.aspx?ID=10)\n\n**Trigger**\r\nAn enemy within your melee reach critically hits you with a melee [Strike](/Actions.aspx?ID=2306).\n\n</column>\r\n\r\n---\r\n\r\nYour enemy's blow fuels your rage and provokes your immediate retaliation. Make a melee Strike against the triggering enemy.",
  "name": "Furious Vengeance",
  "pfs": "Standard",
  "prerequisite": "fury instinct",
- "prerequisite_markdown": "[fury instinct](/Instincts.aspx?ID=3)",
+ "prerequisite_markdown": "[fury instinct](/Instincts.aspx?ID=10)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 84",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 111 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[fury instinct](/Instincts.aspx?ID=3)\n\n**Trigger**\r\nAn enemy within your melee reach critically hits you with a melee Strike.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour enemy's blow fuels your rage and provokes your immediate retaliation.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 84 <sup>1.1</sup>\n\n**Prerequisites**\r\n[fury instinct](/Instincts.aspx?ID=10)\n\n**Trigger**\r\nAn enemy within your melee reach critically hits you with a melee [Strike](/Actions.aspx?ID=2306).\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour enemy's blow fuels your rage and provokes your immediate retaliation.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 111"
+  "Player Core 2 pg. 84"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 111 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 84 <sup>1.1</sup>",
  "speed": {},
  "summary": "Your enemy's blow fuels your rage and provokes your immediate retaliation.",
  "summary_markdown": "Your enemy's blow fuels your rage and provokes your immediate retaliation.",
- "text": "<title level=\"1\" right=\"Feat 16\" pfs=\"Standard\" > Furious Vengeance Reaction Source Advanced Player's Guide pg. 111 2.0 Prerequisites fury instinct Trigger An enemy within your melee reach critically hits you with a melee Strike. --- Your enemy's blow fuels your rage and provokes your immediate retaliation. Make a melee Strike against the triggering enemy.",
+ "text": "<title level=\"1\" right=\"Feat 16\" pfs=\"Standard\" > Furious Vengeance Reaction Source Player Core 2 pg. 84 1.1 Prerequisites fury instinct Trigger An enemy within your melee reach critically hits you with a melee Strike. --- Your enemy's blow fuels your rage and provokes your immediate retaliation. Make a melee Strike against the triggering enemy.",
  "trait": [
   "Barbarian",
   "Rage"
  ],
- "trait_markdown": "[Barbarian](/Traits.aspx?ID=18), [Rage](/Traits.aspx?ID=135)",
+ "trait_group": [
+  "Class",
+  "Class-Specific"
+ ],
+ "trait_markdown": "[Barbarian](/Traits.aspx?ID=813), [Rage](/Traits.aspx?ID=680)",
  "trait_raw": [
   "Barbarian",
   "Rage"
  ],
- "trigger": "An enemy within your melee reach critically hits you with a melee Strike.",
- "trigger_markdown": "An enemy within your melee reach critically hits you with a melee Strike.",
+ "trigger": "An enemy within your melee reach critically hits you with a melee  Strike .",
+ "trigger_markdown": "An enemy within your melee reach critically hits you with a melee [Strike](/Actions.aspx?ID=2306).",
  "type": "Feat",
- "url": "/Feats.aspx?ID=1628",
+ "url": "/Feats.aspx?ID=5870",
  "weakness": {}
 }

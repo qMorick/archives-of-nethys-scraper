@@ -1,20 +1,24 @@
 {
- "ability": [
+ "attribute": [
   "Constitution",
   "Wisdom"
  ],
- "alignment": "N",
- "breadcrumbs_spa": [],
+ "anathema": "Celebrate specific calendar dates over others, avoid travel or change, freeze time for an object or creature",
+ "area_of_concern": [
+  "Compasses",
+  "travelers",
+  "vigils"
+ ],
+ "area_of_concern_raw": "Compasses, travelers, vigils",
  "category": "deity",
  "cleric_spell": [
-  "Longstrider",
+  "Tailwind",
   "Knock",
   "Teleport"
  ],
  "deity": [
   "Barzahk"
  ],
- "deity_markdown": "[Barzahk](/Deities.aspx?ID=138)",
  "deity_category": "Monitor Demigods",
  "deity_category_markdown": "[Monitor Demigods\r\n](/DeityCategories.aspx?ID=12)",
  "deity_category_order": "2Monitor Demigods\r\n",
@@ -28,7 +32,7 @@
   "Travel",
   "Vigil"
  ],
- "domain_markdown": "[Death](/Domains.aspx?ID=7), [Knowledge](/Domains.aspx?ID=17), [Travel](/Domains.aspx?ID=30), [Vigil](/Domains.aspx?ID=55)",
+ "domain_markdown": "[Death](/Domains.aspx?ID=70), [Knowledge](/Domains.aspx?ID=80), [Travel](/Domains.aspx?ID=93), [Vigil](/Domains.aspx?ID=123)",
  "domain_alternate_markdown": "",
  "domain_primary": [
   "Death",
@@ -36,48 +40,61 @@
   "Travel",
   "Vigil"
  ],
- "domain_primary_markdown": "[Death](/Domains.aspx?ID=7), [Knowledge](/Domains.aspx?ID=17), [Travel](/Domains.aspx?ID=30), [Vigil](/Domains.aspx?ID=55)",
+ "domain_primary_markdown": "[Death](/Domains.aspx?ID=70), [Knowledge](/Domains.aspx?ID=80), [Travel](/Domains.aspx?ID=93), [Vigil](/Domains.aspx?ID=123)",
+ "edict": "Aid travelers and those who return from the dead, tend to roadside graves, find missing objects or people",
  "exclude_from_search": false,
  "favored_weapon": [
   "Club"
  ],
- "favored_weapon_markdown": "[Club](/Weapons.aspx?ID=2)",
- "follower_alignment": [
-  "NG",
-  "N",
-  "CN"
+ "favored_weapon_markdown": "[Club](/Weapons.aspx?ID=357)",
+ "id": "deity-534",
+ "legacy_id": [
+  "deity-138"
  ],
- "id": "deity-138",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Barzahk (The Passage)](/Deities.aspx?ID=138)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 130 <sup>2.0</sup></row>\n\nAppearing as an enormous migratory bird—usually a corvid, but sometimes a songbird—draped in robes and carrying a tombstone lock and a giant bone key, Barzahk the Passage is the psychopomp usher who maintains the Dead Roads, the secret back routes between the planes and the mortal world. Among mortals, they are worshipped as a patron of compasses, travelers, and vigils. Barzahk is tasked with transporting the souls of those who die far from home to ensure that they reach their proper destination. Unfortunately, Barzahk wanders far and wide, and so they rarely attend to this duty. Thus his followers, both psychopomps and mortals, take it upon themselves to care for lost souls, both literal and figurative. Like their patron, followers of Barzahk are often migratory, helping those they find along the way.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Monitor Demigods\r\n](/DeityCategories.aspx?ID=12)\r\n\r\n**Edicts** Aid travelers and those who return from the dead, tend to roadside graves, find missing objects or people\r\n\r\n**Anathema** Celebrate specific calendar dates over others, avoid travel or change, freeze time for an object or creature\r\n\r\n**Area of Concern**\r\ncompasses, travelers, and vigils\r\n\r\n**Follower Alignments**\r\nNG, N, CN\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nConstitution or Wisdom\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favored Weapon** [Club](/Weapons.aspx?ID=2)\r\n\r\n**Domains** [Death](/Domains.aspx?ID=7), [Knowledge](/Domains.aspx?ID=17), [Travel](/Domains.aspx?ID=30), [Vigil](/Domains.aspx?ID=55)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Longstrider](/Spells.aspx?ID=175)\n\n- **2nd**\r\n[Knock](/Spells.aspx?ID=168)\n\n- **6th**\r\n[Teleport](/Spells.aspx?ID=338)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Barzahk (The Passage)](/Deities.aspx?ID=534)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 314\n\nAppearing as an enormous migratory bird—usually a corvid, but sometimes a songbird—draped in robes and carrying a tombstone lock and a giant bone key, Barzahk the Passage is the [psychopomp](/MonsterFamilies.aspx?ID=458) usher who maintains the Dead Roads, the secret back routes between the planes and the mortal world. Among mortals, they are worshipped as a patron of compasses, travelers, and vigils. Barzahk is tasked with transporting the souls of those who die far from home to ensure that they reach their proper destination. Unfortunately, Barzahk wanders far and wide, and so they rarely attend to this duty. Thus Barzahk’s followers, both psychopomps and mortals, take it upon themselves to care for lost souls, both literal and figurative. Like their patron, followers of Barzahk are often migratory, helping those they find along the way.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Monitor Demigods\r\n](/DeityCategories.aspx?ID=12)\r\n\r\n**Edicts** Aid travelers and those who return from the dead, tend to roadside graves, find missing objects or people\r\n\r\n**Anathema** Celebrate specific calendar dates over others, avoid travel or change, freeze time for an object or creature\r\n\r\n**Area of Concern**\r\nCompasses, travelers, vigils\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nConstitution or Wisdom\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** none\r\n\r\n**Divine Skill** [Survival](/Skills.aspx?ID=49)\r\n\r\n**Favored Weapon** [Club](/Weapons.aspx?ID=357)\r\n\r\n**Domains** [Death](/Domains.aspx?ID=70), [Knowledge](/Domains.aspx?ID=80), [Travel](/Domains.aspx?ID=93), [Vigil](/Domains.aspx?ID=123)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Tailwind](/Spells.aspx?ID=1711)\n\n- **2nd**\r\n[Knock](/Spells.aspx?ID=1581)\n\n- **6th**\r\n[Teleport](/Spells.aspx?ID=1720)\n\n</column>",
  "name": "Barzahk (The Passage)",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 314",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "Two straight lines that converge vertically through a circle",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 130 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favored Weapon** [Club](/Weapons.aspx?ID=2)\r\n\r\n**Domains** [Death](/Domains.aspx?ID=7), [Knowledge](/Domains.aspx?ID=17), [Travel](/Domains.aspx?ID=30), [Vigil](/Domains.aspx?ID=55)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAppearing as an enormous migratory bird—usually a corvid, but sometimes a songbird—draped in robes and carrying a tombstone lock and a giant bone …\r\n</summary>",
+ "sacred_animal": "Migratory birds",
+ "sacred_color": [
+  "black",
+  "gray"
+ ],
+ "sanctification_raw": "none",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 314\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Survival](/Skills.aspx?ID=49)\r\n\r\n**Favored Weapon** [Club](/Weapons.aspx?ID=357)\r\n\r\n**Domains** [Death](/Domains.aspx?ID=70), [Knowledge](/Domains.aspx?ID=80), [Travel](/Domains.aspx?ID=93), [Vigil](/Domains.aspx?ID=123)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAppearing as an enormous migratory bird—usually a corvid, but sometimes a songbird—draped in robes and carrying a tombstone lock and a giant bone …\r\n</summary>",
  "skill": [
   "Survival"
  ],
- "skill_markdown": "[Survival](/Skills.aspx?ID=16)",
+ "skill_markdown": "[Survival](/Skills.aspx?ID=49)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 130"
+  "Divine Mysteries pg. 314"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 130 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 314",
  "speed": {},
+ "spell": [
+  "Tailwind",
+  "Knock",
+  "Teleport"
+ ],
+ "spell_markdown": "[Knock](/Spells.aspx?ID=1581), [Tailwind](/Spells.aspx?ID=1711), [Teleport](/Spells.aspx?ID=1720)",
  "summary": "Appearing as an enormous migratory bird—usually a corvid, but sometimes a songbird—draped in robes and carrying a tombstone lock and a giant bone …",
  "summary_markdown": "Appearing as an enormous migratory bird—usually a corvid, but sometimes a songbird—draped in robes and carrying a tombstone lock and a giant bone …",
- "text": " Barzahk (The Passage) Source Gods &amp; Magic pg. 130 2.0 Appearing as an enormous migratory bird—usually a corvid, but sometimes a songbird—draped in robes and carrying a tombstone lock and a giant bone key, Barzahk the Passage is the psychopomp usher who maintains the Dead Roads, the secret back routes between the planes and the mortal world. Among mortals, they are worshipped as a patron of compasses, travelers, and vigils. Barzahk is tasked with transporting the souls of those who die far from home to ensure that they reach their proper destination. Unfortunately, Barzahk wanders far and wide, and so they rarely attend to this duty. Thus his followers, both psychopomps and mortals, take it upon themselves to care for lost souls, both literal and figurative. Like their patron, followers of Barzahk are often migratory, helping those they find along the way. Category [Monitor Demigods ](/DeityCategories.aspx?ID=12) Edicts Aid travelers and those who return from the dead, tend to roadside graves, find missing objects or people Anathema Celebrate specific calendar dates over others, avoid travel or change, freeze time for an object or creature Area of Concern compasses, travelers, and vigils Follower Alignments NG, N, CN Devotee Benefits Divine Ability Constitution or Wisdom Divine Font Heal Divine Skill Survival Favored Weapon Club Domains Death, Knowledge, Travel, Vigil Alternate Domains Cleric Spells - 1st Longstrider - 2nd Knock - 6th Teleport\n",
- "trait": [
-  "N"
- ],
- "trait_raw": [
-  "N"
- ],
+ "text": " Barzahk (The Passage) Source Divine Mysteries pg. 314 Appearing as an enormous migratory bird—usually a corvid, but sometimes a songbird—draped in robes and carrying a tombstone lock and a giant bone key, Barzahk the Passage is the psychopomp usher who maintains the Dead Roads, the secret back routes between the planes and the mortal world. Among mortals, they are worshipped as a patron of compasses, travelers, and vigils. Barzahk is tasked with transporting the souls of those who die far from home to ensure that they reach their proper destination. Unfortunately, Barzahk wanders far and wide, and so they rarely attend to this duty. Thus Barzahk’s followers, both psychopomps and mortals, take it upon themselves to care for lost souls, both literal and figurative. Like their patron, followers of Barzahk are often migratory, helping those they find along the way. Category [Monitor Demigods ](/DeityCategories.aspx?ID=12) Edicts Aid travelers and those who return from the dead, tend to roadside graves, find missing objects or people Anathema Celebrate specific calendar dates over others, avoid travel or change, freeze time for an object or creature Area of Concern Compasses, travelers, vigils Devotee Benefits Divine Attribute Constitution or Wisdom Divine Font Heal Divine Sanctification none Divine Skill Survival Favored Weapon Club Domains Death, Knowledge, Travel, Vigil Alternate Domains Cleric Spells - 1st Tailwind - 2nd Knock - 6th Teleport\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=138",
+ "url": "/Deities.aspx?ID=534",
  "weakness": {}
 }

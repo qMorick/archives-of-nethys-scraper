@@ -1,30 +1,34 @@
 {
- "breadcrumbs_spa": [],
  "category": "action",
  "exclude_from_search": true,
- "frequency": "once per day",
- "id": "action-1318",
- "markdown": "**Activate** <actions string=\"\" />10 minutes (envision, Interact);  **Frequency** once per day;   **Effect** You cast a [_nightmare_](/Spells.aspx?ID=208) spell.",
+ "id": "action-168",
+ "markdown": "**Activate** <actions string=\"\" /> 10 minutes (envision, Interact);     **Effect** As you flip through the book, you think about a broad topic you want to know more about. Choose one skill: Arcana, Crafting, Medicine, Nature, Occultism, Religion, Society, or a single subcategory of Lore. The book’s pages fill with information about that skill, though only you can see the information. While the pages are full, you can spend an Interact action perusing the book just before attempting a check to Recall Knowledge with the chosen skill. This grants you a +3 item bonus to the check, and if you roll a critical failure, you get a failure instead. The information within the book disappears after 24 hours or when the tome is activated again.",
  "name": "10 minutes (envision, Interact)",
+ "primary_source": "Core Rulebook",
+ "primary_source_raw": "Core Rulebook pg. 574",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2022-10-26",
+ "rarity_id": 1,
+ "release_date": "2019-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Crown of the Kobold King](/Sources.aspx?ID=148) pg. 115</row>\r\n\r\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou cast a   nightmare   spell.\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 574 <sup>4.0</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAs you flip through the book, you think about a broad topic you want to know more about. Choose one skill: Arcana, Crafting, Medicine, Nature, …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Crown of the Kobold King"
+  "Core Rulebook"
  ],
  "source_raw": [
-  "Crown of the Kobold King pg. 115"
+  "Core Rulebook pg. 574"
  ],
- "source_category": "Adventures",
- "source_group": "Crown of the Kobold King",
- "source_markdown": "<row gap=\"tiny\">[Crown of the Kobold King](/Sources.aspx?ID=148) pg. 115</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 574 <sup>4.0</sup>",
  "speed": {},
- "summary": "You cast a   nightmare   spell.",
- "summary_markdown": "You cast a   nightmare   spell.",
- "text": " Activate 10 minutes (envision, Interact); Frequency once per day; Effect You cast a nightmare spell.",
+ "summary": "As you flip through the book, you think about a broad topic you want to know more about. Choose one skill: Arcana, Crafting, Medicine, Nature, …",
+ "summary_markdown": "As you flip through the book, you think about a broad topic you want to know more about. Choose one skill: Arcana, Crafting, Medicine, Nature, …",
+ "text": " Activate 10 minutes (envision, Interact); Effect As you flip through the book, you think about a broad topic you want to know more about. Choose one skill: Arcana, Crafting, Medicine, Nature, Occultism, Religion, Society, or a single subcategory of Lore. The book’s pages fill with information about that skill, though only you can see the information. While the pages are full, you can spend an Interact action perusing the book just before attempting a check to Recall Knowledge with the chosen skill. This grants you a +3 item bonus to the check, and if you roll a critical failure, you get a failure instead. The information within the book disappears after 24 hours or when the tome is activated again.",
  "trait_markdown": "",
  "type": "Action",
- "url": "/Actions.aspx?ID=1318",
+ "url": "/Actions.aspx?ID=168",
  "weakness": {}
 }

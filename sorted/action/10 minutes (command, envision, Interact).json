@@ -1,29 +1,35 @@
 {
- "breadcrumbs_spa": [],
  "category": "action",
  "exclude_from_search": true,
- "id": "action-2045",
- "markdown": "**Activate** <actions string=\"\" />10 minutes (command, envision, Interact);     **Effect** By touching the _witchwyrd beacon_ and focusing on it for 10 minutes, you attune yourself to it. Up to four creatures can be attuned to a single _witchwyrd beacon_ at any one time—to attune another creature, one of the previous four must become unattuned. You can break your attunement to a _witchwyrd beacon_ by Dismissing the effect. The attunement automatically ends if the attuned creature dies or if the attuned creature attunes themselves to a different _witchwyrd beacon_. The effect can also be dispelled normally. You can sense whenever the _witchwyrd beacon_ you are attuned to is activated in any way.",
+ "frequency": "twice per day",
+ "id": "action-157",
+ "markdown": "**Activate** <actions string=\"\" /> 10 minutes (command, envision, Interact);  **Frequency** twice per day;   **Effect** The _crystal ball_ casts a DC 33 _scrying_ spell to your specifications.",
  "name": "10 minutes (command, envision, Interact)",
+ "primary_source": "Core Rulebook",
+ "primary_source_raw": "Core Rulebook pg. 572",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2023-05-24",
+ "rarity_id": 1,
+ "release_date": "2019-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #191: The Destiny War](/Sources.aspx?ID=199) pg. 71</row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBy touching the  witchwyrd beacon  and focusing on it for 10 minutes, you attune yourself to it. Up to four creatures can be attuned to a single  …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 572 <sup>4.0</sup>\r\n\r\n**Frequency**\r\ntwice per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe  crystal ball  casts a DC 33  scrying  spell to your specifications.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Pathfinder #191: The Destiny War"
+  "Core Rulebook"
  ],
  "source_raw": [
-  "Pathfinder #191: The Destiny War pg. 71"
+  "Core Rulebook pg. 572"
  ],
- "source_category": "Adventure Paths",
- "source_group": "Stolen Fate",
- "source_markdown": "<row gap=\"tiny\">[Pathfinder #191: The Destiny War](/Sources.aspx?ID=199) pg. 71</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 572 <sup>4.0</sup>",
  "speed": {},
- "summary": "By touching the  witchwyrd beacon  and focusing on it for 10 minutes, you attune yourself to it. Up to four creatures can be attuned to a single  …",
- "summary_markdown": "By touching the  witchwyrd beacon  and focusing on it for 10 minutes, you attune yourself to it. Up to four creatures can be attuned to a single  …",
- "text": " Activate 10 minutes (command, envision, Interact); Effect By touching the witchwyrd beacon and focusing on it for 10 minutes, you attune yourself to it. Up to four creatures can be attuned to a single witchwyrd beacon at any one time—to attune another creature, one of the previous four must become unattuned. You can break your attunement to a witchwyrd beacon by Dismissing the effect. The attunement automatically ends if the attuned creature dies or if the attuned creature attunes themselves to a different witchwyrd beacon . The effect can also be dispelled normally. You can sense whenever the witchwyrd beacon you are attuned to is activated in any way.",
+ "summary": "The  crystal ball  casts a DC 33  scrying  spell to your specifications.",
+ "summary_markdown": "The  crystal ball  casts a DC 33  scrying  spell to your specifications.",
+ "text": " Activate 10 minutes (command, envision, Interact); Frequency twice per day; Effect The crystal ball casts a DC 33 scrying spell to your specifications.",
  "trait_markdown": "",
  "type": "Action",
- "url": "/Actions.aspx?ID=2045",
+ "url": "/Actions.aspx?ID=157",
  "weakness": {}
 }

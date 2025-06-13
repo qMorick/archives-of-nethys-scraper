@@ -1,60 +1,84 @@
 {
  "actions": "Two Actions",
- "area": "15-foot emanation",
- "bloodline_markdown": "",
- "breadcrumbs_spa": [],
- "category": "spell",
- "component": [
-  "somatic",
-  "verbal"
+ "actions_number": 4,
+ "area": [
+  15
  ],
- "deity_markdown": "",
+ "area_raw": "15-foot <%RULES%2385%%>burst<%END>",
+ "area_type": [
+  "burst"
+ ],
+ "bloodline_markdown": "",
+ "category": "spell",
  "domain": [
   "Soul"
  ],
- "domain_markdown": "[Soul](/Domains.aspx?ID=51)",
+ "domain_markdown": "[Soul](/Domains.aspx?ID=118)",
  "duration": 60,
- "duration_raw": "sustained up to 1 minute",
+ "duration_raw": "<%ACTIONS%2317%%>sustained<%END> up to 1 minute",
  "exclude_from_search": false,
+ "heighten_group": [
+  "4th rank"
+ ],
  "heighten_level": [
   4
  ],
- "id": "spell-617",
+ "id": "spell-2410",
+ "legacy_id": [
+  "spell-617"
+ ],
  "level": 4,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Focus 4\" pfs=\"Standard\">[Ectoplasmic Interstice](/Spells.aspx?ID=617)</title>\n\n<traits>\r\n<trait label=\"Necromancy\" url=\"/Traits.aspx?ID=117\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 117 <sup>2.0</sup></row>\n\n**Domain**\r\n[Soul](/Domains.aspx?ID=51)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 30 feet\r\n\r\n**Area** 15-foot emanation\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** sustained up to 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou force the Material and Ethereal Planes to partially overlap, creating a zone that causes incorporeal and spiritual entities to take on many of the aspects of corporeal creatures. Within the ectoplasmic interstice, [incorporeal](/Traits.aspx?ID=222) creatures cannot pass through solid objects or corporeal creatures, and they can manipulate and attempt Strength-based checks against physical creatures and objects. An incorporeal PC or other creature with a normal Strength modifier simply uses that modifier, but if the creature had a Strength modifier of –5, like most incorporeal monsters, it uses a +4 modifier instead, increasing its [Athletics](/Skills.aspx?ID=3) modifier by 9 accordingly. Attacks against creatures that are within the interstice overcome resistances as if they were by [_ghost touch_](/Equipment.aspx?ID=297) weapons.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Focus 4\" pfs=\"Standard\">\r\n[Ectoplasmic Interstice](/Spells.aspx?ID=2410)\r\n<actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 269\n\n**Domain**\r\n[Soul](/Domains.aspx?ID=118)\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 30 feet\r\n\r\n**Area** 15-foot [burst](/Rules.aspx?ID=2385)\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** [sustained](/Actions.aspx?ID=2317) up to 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou force the mortal [Universe](/Planes.aspx?ID=26) and [Ethereal Planes](/Planes.aspx?ID=34) to partially merge, creating a zone that causes incorporeal and spiritual entities to take on many of the aspects of corporeal creatures. Within the area of effect, [incorporeal](/Traits.aspx?ID=632) creatures can’t pass through solid objects or corporeal creatures, and they can manipulate and attempt Strength-based checks against physical creatures and objects. An incorporeal PC or other creature with a normal Strength modifier simply uses that modifier, but if the creature had a Strength modifier of –5, like most incorporeal monsters, it uses a +4 modifier instead, increasing its [Athletics](/Skills.aspx?ID=36) modifier by 9 accordingly. Attacks against creatures that are within the area overcome [resistances](/Rules.aspx?ID=2312) as if they were by [ghost touch](/Equipment.aspx?ID=2840) weapons.",
  "name": "Ectoplasmic Interstice",
- "patron_theme_markdown": "",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 269",
+ "primary_source_category": "Lost Omens",
  "range": 30,
  "range_raw": "30 feet",
- "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity": "uncommon",
+ "rarity_id": 2,
+ "release_date": "2025-01-30",
  "resistance": {},
- "school": "necromancy",
- "search_markdown": "<traits>\r\n<trait label=\"Necromancy\" url=\"/Traits.aspx?ID=117\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 117 <sup>2.0</sup></row>\n\n**Domain**\r\n[Soul](/Domains.aspx?ID=51)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 30 feet\r\n\r\n**Area** 15-foot emanation\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Duration** sustained up to 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou force the Material and Ethereal Planes to partially overlap, creating a zone that causes incorporeal and spiritual entities to take on many of the aspects of corporeal creatures.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 269\n\n**Domain**\r\n[Soul](/Domains.aspx?ID=118)\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 30 feet\r\n\r\n**Area** 15-foot [burst](/Rules.aspx?ID=2385)\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** [sustained](/Actions.aspx?ID=2317) up to 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou force the mortal [Universe](/Planes.aspx?ID=26) and [Ethereal Planes](/Planes.aspx?ID=34) to partially merge, creating a zone that causes incorporeal and spiritual entities to take on many of the aspects of corporeal creatures.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 117"
+  "Divine Mysteries pg. 269"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 117 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 269",
  "speed": {},
- "summary": "You force the Material and Ethereal Planes to partially overlap, creating a zone that causes incorporeal and spiritual entities to take on many of the aspects of corporeal creatures.",
- "summary_markdown": "You force the Material and Ethereal Planes to partially overlap, creating a zone that causes incorporeal and spiritual entities to take on many of the aspects of corporeal creatures.",
- "text": " Ectoplasmic Interstice Source Gods &amp; Magic pg. 117 2.0 Domain Soul Cast Two Actions somatic, verbal Range 30 feet Area 15-foot emanation Duration sustained up to 1 minute --- You force the Material and Ethereal Planes to partially overlap, creating a zone that causes incorporeal and spiritual entities to take on many of the aspects of corporeal creatures. Within the ectoplasmic interstice, incorporeal creatures cannot pass through solid objects or corporeal creatures, and they can manipulate and attempt Strength-based checks against physical creatures and objects. An incorporeal PC or other creature with a normal Strength modifier simply uses that modifier, but if the creature had a Strength modifier of –5, like most incorporeal monsters, it uses a +4 modifier instead, increasing its Athletics modifier by 9 accordingly. Attacks against creatures that are within the interstice overcome resistances as if they were by ghost touch weapons.",
+ "spell_type": "Focus",
+ "summary": "You force the mortal  Universe  and  Ethereal Planes  to partially merge, creating a zone that causes incorporeal and spiritual entities to take on many of the aspects of corporeal creatures.",
+ "summary_markdown": "You force the mortal [Universe](/Planes.aspx?ID=26) and [Ethereal Planes](/Planes.aspx?ID=34) to partially merge, creating a zone that causes incorporeal and spiritual entities to take on many of the aspects of corporeal creatures.",
+ "text": "\nEctoplasmic Interstice Two Actions Source Divine Mysteries pg. 269 Domain Soul Range 30 feet Area 15-foot burst Duration sustained up to 1 minute --- You force the mortal Universe and Ethereal Planes to partially merge, creating a zone that causes incorporeal and spiritual entities to take on many of the aspects of corporeal creatures. Within the area of effect, incorporeal creatures can’t pass through solid objects or corporeal creatures, and they can manipulate and attempt Strength-based checks against physical creatures and objects. An incorporeal PC or other creature with a normal Strength modifier simply uses that modifier, but if the creature had a Strength modifier of –5, like most incorporeal monsters, it uses a +4 modifier instead, increasing its Athletics modifier by 9 accordingly. Attacks against creatures that are within the area overcome resistances as if they were by ghost touch weapons.",
  "tradition_markdown": "",
  "trait": [
-  "Necromancy"
+  "Cleric",
+  "Concentrate",
+  "Focus",
+  "Manipulate",
+  "Uncommon"
  ],
- "trait_markdown": "[Necromancy](/Traits.aspx?ID=117)",
+ "trait_group": [
+  "Class",
+  "Mechanics",
+  "Rarity"
+ ],
+ "trait_markdown": "[Cleric](/Traits.aspx?ID=26), [Concentrate](/Traits.aspx?ID=32), [Focus](/Traits.aspx?ID=511), [Manipulate](/Traits.aspx?ID=104), [Uncommon](/Traits.aspx?ID=159)",
  "trait_raw": [
-  "Necromancy"
+  "Cleric",
+  "Concentrate",
+  "Focus",
+  "Manipulate",
+  "Uncommon"
  ],
- "type": "Focus",
- "url": "/Spells.aspx?ID=617",
+ "type": "Spell",
+ "url": "/Spells.aspx?ID=2410",
  "weakness": {}
 }

@@ -1,53 +1,69 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
  "bulk": 0.1,
  "bulk_raw": "L",
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-698",
+ "id": "equipment-3359",
  "item_category": "Alchemical Items",
  "item_subcategory": "Alchemical Tools",
+ "legacy_id": [
+  "equipment-698"
+ ],
  "level": 7,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 7\"\r\n    pfs=\"Standard\"\r\n>\r\n[Skinstitch Salve](/Equipment.aspx?ID=698)\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=6\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=89\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 255 <sup>2.0</sup></row>\n\n**Price** 55 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis sticky salve stubbornly holds wounds closed and encourages swift natural healing. You can activate the salve in either of the following ways.\n\n<document level=\"2\" id=\"action-570\" />\n\n<document level=\"2\" id=\"action-571\" />\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 7\"\r\n    pfs=\"Standard\"\r\n>\r\n[Skinstitch Salve](/Equipment.aspx?ID=3359)\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=528\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=623\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 296 <sup>1.1</sup>\n\n**Price** 55 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis sticky salve stubbornly holds wounds closed and encourages swift natural healing. You can activate the salve in either of the following ways.\n\n**Activate—Administer Stitch** <actions string=\"Single Action\" /> ([manipulate](/Traits.aspx?ID=645))    **Effect** You [Administer First Aid](/Actions.aspx?ID=2396) without requiring healer's tools. You can either gain a +2 item bonus to the Medicine check or use the salve's Medicine modifier of +13 instead of your own.\n\n**Activate—Stitch Wounds** <actions string=\"Free Action\" /> ([manipulate](/Traits.aspx?ID=645))    **Effect** You gain a +2 item bonus to the triggering Medicine check. If you roll a success on the Medicine check, you get a critical success instead.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Skinstitch Salve",
  "pfs": "Standard",
  "price": 5500,
  "price_raw": "55 gp",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 296",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=6\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=89\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 255 <sup>2.0</sup></row>\r\n\r\n**Price** 55 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis sticky salve stubbornly holds wounds closed and encourages swift natural healing. You can activate the salve in either of the following ways.  \r\n\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=528\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=623\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 296 <sup>1.1</sup>\r\n\r\n**Price** 55 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis sticky salve stubbornly holds wounds closed and encourages swift natural healing. You can activate the salve in either of the following ways.  \r\n</summary>",
  "skill": [
   "Medicine"
  ],
+ "skill_markdown": "[Medicine](/Skills.aspx?ID=42)",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 255"
+  "Player Core 2 pg. 296"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 255 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 296 <sup>1.1</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "This sticky salve stubbornly holds wounds closed and encourages swift natural healing. You can activate the salve in either of the following ways.  \r\n",
- "summary_markdown": "This sticky salve stubbornly holds wounds closed and encourages swift natural healing. You can activate the salve in either of the following ways.  \r\n",
- "text": "<title level=\"1\" right=\"Item 7\" pfs=\"Standard\" > Skinstitch Salve Source Advanced Player's Guide pg. 255 2.0 Price 55 gp Usage held in 1 hand Bulk L --- This sticky salve stubbornly holds wounds closed and encourages swift natural healing. You can activate the salve in either of the following ways.\n",
+ "summary": "This sticky salve stubbornly holds wounds closed and encourages swift natural healing. You can activate the salve in either of the following ways.  ",
+ "summary_markdown": "This sticky salve stubbornly holds wounds closed and encourages swift natural healing. You can activate the salve in either of the following ways.  ",
+ "text": "<title level=\"1\" right=\"Item 7\" pfs=\"Standard\" > Skinstitch Salve Source Player Core 2 pg. 296 1.1 Price 55 gp Usage held in 1 hand Bulk L --- This sticky salve stubbornly holds wounds closed and encourages swift natural healing. You can activate the salve in either of the following ways. Activate—Administer Stitch Single Action (manipulate) Effect You Administer First Aid without requiring healer's tools. You can either gain a +2 item bonus to the Medicine check or use the salve's Medicine modifier of +13 instead of your own. Activate—Stitch Wounds Free Action (manipulate) Effect You gain a +2 item bonus to the triggering Medicine check. If you roll a success on the Medicine check, you get a critical success instead.\n",
  "trait": [
   "Alchemical",
   "Consumable",
   "Healing"
  ],
- "trait_markdown": "[Alchemical](/Traits.aspx?ID=6), [Consumable](/Traits.aspx?ID=36), [Healing](/Traits.aspx?ID=89)",
+ "trait_group": [
+  "Monster",
+  "Equipment",
+  "Weapon",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Alchemical](/Traits.aspx?ID=528), [Consumable](/Traits.aspx?ID=564), [Healing](/Traits.aspx?ID=623)",
  "trait_raw": [
   "Alchemical",
   "Consumable",
   "Healing"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=698",
+ "url": "/Equipment.aspx?ID=3359",
  "usage": "held in 1 hand",
  "usage_markdown": "held in 1 hand",
  "weakness": {}

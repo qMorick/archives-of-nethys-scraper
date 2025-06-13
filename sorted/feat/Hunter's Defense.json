@@ -1,6 +1,6 @@
 {
  "actions": "Reaction",
- "breadcrumbs_spa": [],
+ "actions_number": 1,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
@@ -8,43 +8,56 @@
  ],
  "feat_markdown": "Hunter's Defense",
  "frequency": "once per hour",
- "id": "feat-2819",
+ "id": "feat-5694",
+ "legacy_id": [
+  "feat-2819"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Hunter's Defense](/Feats.aspx?ID=2819) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Grippli\" url=\"/Traits.aspx?ID=264\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 120 <sup>2.0</sup></row>\n\n**Frequency**\r\nonce per hour\r\n\r\n**Prerequisites**\r\nTrained in [Nature](/Skills.aspx?ID=10)\n\n**Trigger**\r\nA creature with the [animal](/Traits.aspx?ID=9), [beast](/Traits.aspx?ID=20), [elemental](/Traits.aspx?ID=57), [fey](/Traits.aspx?ID=69), [fungus](/Traits.aspx?ID=77), or [plant](/Traits.aspx?ID=125) trait attacks you, and you can see the attacker. \n\n</column>\r\n\r\n---\r\n\r\nYour canny understanding of natural and primal creatures helps you predict and dodge their attacks. The triggering attack roll targets your [Nature](/Skills.aspx?ID=10) DC instead of your AC. Though this allows you to avoid taking penalties to your AC, it doesn't remove any conditions or other effects causing such penalties. For example, an enemy with sneak attack would still deal extra damage to you for being [flat-footed](/Conditions.aspx?ID=16), even though you wouldn't take the –2 circumstance penalty against the attack.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Hunter's Defense](/Feats.aspx?ID=5694) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Tripkee\" url=\"/Traits.aspx?ID=793\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 38 <sup>1.1</sup>\n\n**Frequency**\r\nonce per hour\r\n\r\n**Prerequisites**\r\nTrained in [Nature](/Skills.aspx?ID=10)\n\n**Trigger**\r\nA creature with the [animal](/Traits.aspx?ID=531), [beast](/Traits.aspx?ID=547), [elemental](/Traits.aspx?ID=587), [fey](/Languages.aspx?ID=119), [fungus](/Traits.aspx?ID=614), or [plant](/Traits.aspx?ID=668) trait attacks you, and you can see the attacker.\n\n</column>\r\n\r\n---\r\n\r\nYour canny understanding of natural and primal creatures helps you predict and dodge their attacks. The triggering attack roll targets your Nature DC instead of your AC. Though this allows you to avoid taking penalties to your AC, it doesn't remove any conditions or other effects causing such penalties. For example, an enemy with sneak attack would still deal extra damage to you for being [off-guard](/Conditions.aspx?ID=58), even though you wouldn't take the –2 circumstance penalty against the attack.",
  "name": "Hunter's Defense",
  "pfs": "Standard",
  "prerequisite": "Trained in Nature",
  "prerequisite_markdown": "Trained in [Nature](/Skills.aspx?ID=10)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 38",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2021-07-07",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Grippli\" url=\"/Traits.aspx?ID=264\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 120 <sup>2.0</sup></row>\r\n\r\n**Frequency**\r\nonce per hour\r\n\r\n**Prerequisites**\r\nTrained in [Nature](/Skills.aspx?ID=10)\n\n**Trigger**\r\nA creature with the [animal](/Traits.aspx?ID=9), [beast](/Traits.aspx?ID=20), [elemental](/Traits.aspx?ID=57), [fey](/Traits.aspx?ID=69), [fungus](/Traits.aspx?ID=77), or [plant](/Traits.aspx?ID=125) trait attacks you, and you can see the attacker. \n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour canny understanding of natural and primal creatures helps you predict and dodge their attacks.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Tripkee\" url=\"/Traits.aspx?ID=793\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 38 <sup>1.1</sup>\n\n**Frequency**\r\nonce per hour\r\n\r\n**Prerequisites**\r\nTrained in [Nature](/Skills.aspx?ID=10)\n\n**Trigger**\r\nA creature with the [animal](/Traits.aspx?ID=531), [beast](/Traits.aspx?ID=547), [elemental](/Traits.aspx?ID=587), [fey](/Languages.aspx?ID=119), [fungus](/Traits.aspx?ID=614), or [plant](/Traits.aspx?ID=668) trait attacks you, and you can see the attacker.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour canny understanding of natural and primal creatures helps you predict and dodge their attacks.\r\n</summary>",
  "skill": [
   "Nature",
   "Nature"
  ],
+ "skill_mod": {},
  "source": [
-  "The Mwangi Expanse"
+  "Player Core 2"
  ],
  "source_raw": [
-  "The Mwangi Expanse pg. 120"
+  "Player Core 2 pg. 38"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[The Mwangi Expanse](/Sources.aspx?ID=89) pg. 120 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 38 <sup>1.1</sup>",
  "speed": {},
  "summary": "Your canny understanding of natural and primal creatures helps you predict and dodge their attacks.",
  "summary_markdown": "Your canny understanding of natural and primal creatures helps you predict and dodge their attacks.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Hunter's Defense Reaction Source The Mwangi Expanse pg. 120 2.0 Frequency once per hour Prerequisites Trained in Nature Trigger A creature with the animal, beast, elemental, fey, fungus, or plant trait attacks you, and you can see the attacker. --- Your canny understanding of natural and primal creatures helps you predict and dodge their attacks. The triggering attack roll targets your Nature DC instead of your AC. Though this allows you to avoid taking penalties to your AC, it doesn't remove any conditions or other effects causing such penalties. For example, an enemy with sneak attack would still deal extra damage to you for being flat-footed, even though you wouldn't take the –2 circumstance penalty against the attack.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Hunter's Defense Reaction Source Player Core 2 pg. 38 1.1 Frequency once per hour Prerequisites Trained in Nature Trigger A creature with the animal, beast, elemental, fey, fungus, or plant trait attacks you, and you can see the attacker. --- Your canny understanding of natural and primal creatures helps you predict and dodge their attacks. The triggering attack roll targets your Nature DC instead of your AC. Though this allows you to avoid taking penalties to your AC, it doesn't remove any conditions or other effects causing such penalties. For example, an enemy with sneak attack would still deal extra damage to you for being off-guard, even though you wouldn't take the –2 circumstance penalty against the attack.",
  "trait": [
-  "Grippli"
+  "Tripkee"
  ],
- "trait_markdown": "[Grippli](/Traits.aspx?ID=264)",
+ "trait_group": [
+  "Ancestry"
+ ],
+ "trait_markdown": "[Tripkee](/Traits.aspx?ID=793)",
  "trait_raw": [
-  "Grippli"
+  "Tripkee"
  ],
- "trigger": "A creature with the  animal ,  beast ,  elemental ,  fey ,  fungus , or  plant  trait attacks you, and you can see the attacker. ",
- "trigger_markdown": "A creature with the [animal](/Traits.aspx?ID=9), [beast](/Traits.aspx?ID=20), [elemental](/Traits.aspx?ID=57), [fey](/Traits.aspx?ID=69), [fungus](/Traits.aspx?ID=77), or [plant](/Traits.aspx?ID=125) trait attacks you, and you can see the attacker. ",
+ "trigger": "A creature with the  animal ,  beast ,  elemental ,  fey ,  fungus , or  plant  trait attacks you, and you can see the attacker.",
+ "trigger_markdown": "A creature with the [animal](/Traits.aspx?ID=531), [beast](/Traits.aspx?ID=547), [elemental](/Traits.aspx?ID=587), [fey](/Languages.aspx?ID=119), [fungus](/Traits.aspx?ID=614), or [plant](/Traits.aspx?ID=668) trait attacks you, and you can see the attacker.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=2819",
+ "url": "/Feats.aspx?ID=5694",
  "weakness": {}
 }

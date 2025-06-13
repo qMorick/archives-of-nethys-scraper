@@ -2,24 +2,30 @@
  "archetype": [
   "Ritualist"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Ritualist Dedication"
  ],
  "feat_markdown": "Ritualist Dedication",
- "id": "feat-2041",
+ "id": "feat-6388",
+ "legacy_id": [
+  "feat-2041"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Ritualist Dedication](/Feats.aspx?ID=2041) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=41\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 187 <sup>2.0</sup></row>\n\n**Archetype** [Ritualist](/Archetypes.aspx?ID=72)\n\n**Prerequisites**\r\nExpert in [Arcana](/Skills.aspx?ID=2), Expert in [Nature](/Skills.aspx?ID=10), Expert in [Occultism](/Skills.aspx?ID=11), or Expert in [Religion](/Skills.aspx?ID=13)\n\n</column>\r\n\r\n---\r\n\r\nYou have begun to master the difficult art of casting [rituals](/Rules.aspx?ID=777). You gain a +2 circumstance bonus to all primary checks to perform a ritual. You learn two [uncommon](/Traits.aspx?ID=159) [rituals](/rituals) with a level no higher than half your level; you must meet all prerequisites for casting the ritual to choose it. At 8th level and every 4 levels thereafter, you learn another uncommon ritual with a level no higher than half your level and for which you meet the prerequisites. You can cast these as the primary caster, but you can't teach them to anyone else or allow someone else to serve as primary caster unless they know the ritual as well.\n\n**Special** You can't select another dedication feat until you've gained two other feats from the ritualist archetype. If you retrain out of this feat, you lose the rituals learned from it.\n\n<title level=\"2\">Ritualist Dedication leads to...</title>\r\n[Efficient Rituals](/Feats.aspx?ID=2044), [Flexible Ritualist](/Feats.aspx?ID=2042), [Resourceful Ritualist](/Feats.aspx?ID=2043)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Ritualist Dedication](/Feats.aspx?ID=6388) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=572\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 211 <sup>1.1</sup>\n\n**Archetype** [Ritualist](/Archetypes.aspx?ID=260)\n\n**Prerequisites**\r\nExpert in [Occultism](/Skills.aspx?ID=44), Expert in [Arcana](/Skills.aspx?ID=35), Expert in [Nature](/Skills.aspx?ID=43), or Expert in [Religion](/Skills.aspx?ID=46)\n\n</column>\r\n\r\n---\r\n\r\nYou have begun to master the difficult art of casting [rituals](Rituals.aspx). You gain a +2 circumstance bonus to all checks to perform a ritual. You learn two [uncommon](/Traits.aspx?ID=721) rituals of 2nd rank or lower. You must meet all prerequisites to be the primary caster of a ritual to select it, and you can't teach it to anyone else or allow someone else to serve as primary caster unless they know the ritual as well. <br />At 8th level and every 4 levels thereafter, you learn two more rituals with the same restrictions and with a maximum rank of half that level.\n\n<title level=\"2\">Ritualist Dedication leads to...</title>\r\n[Efficient Rituals](/Feats.aspx?ID=6391), [Enterprising Ritualist](/Feats.aspx?ID=6393), [Flexible Ritualist](/Feats.aspx?ID=6389), [Resourceful Ritualist](/Feats.aspx?ID=6390)",
  "name": "Ritualist Dedication",
  "pfs": "Standard",
- "prerequisite": "Expert in Arcana, Expert in Nature, Expert in Occultism, or Expert in Religion",
- "prerequisite_markdown": "Expert in [Arcana](/Skills.aspx?ID=2), Expert in [Nature](/Skills.aspx?ID=10), Expert in [Occultism](/Skills.aspx?ID=11), or Expert in [Religion](/Skills.aspx?ID=13)",
+ "prerequisite": "Expert in Occultism, Expert in Arcana, Expert in Nature, or Expert in Religion",
+ "prerequisite_markdown": "Expert in [Occultism](/Skills.aspx?ID=44), Expert in [Arcana](/Skills.aspx?ID=35), Expert in [Nature](/Skills.aspx?ID=43), or Expert in [Religion](/Skills.aspx?ID=46)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 211",
+ "primary_source_category": "Rulebooks",
  "rarity": "uncommon",
- "release_date": "2020-07-30",
+ "rarity_id": 2,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=41\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 187 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nExpert in [Arcana](/Skills.aspx?ID=2), Expert in [Nature](/Skills.aspx?ID=10), Expert in [Occultism](/Skills.aspx?ID=11), or Expert in [Religion](/Skills.aspx?ID=13)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have begun to master the difficult art of casting rituals.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=572\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 211 <sup>1.1</sup>\n\n**Prerequisites**\r\nExpert in [Occultism](/Skills.aspx?ID=44), Expert in [Arcana](/Skills.aspx?ID=35), Expert in [Nature](/Skills.aspx?ID=43), or Expert in [Religion](/Skills.aspx?ID=46)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have begun to master the difficult art of casting [rituals](Rituals.aspx).\r\n</summary>",
  "skill": [
   "Arcana",
   "Nature",
@@ -30,30 +36,37 @@
   "Occultism",
   "Religion"
  ],
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 187"
+  "Player Core 2 pg. 211"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 187 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 211 <sup>1.1</sup>",
  "speed": {},
- "summary": "You have begun to master the difficult art of casting rituals.",
- "summary_markdown": "You have begun to master the difficult art of casting rituals.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Ritualist Dedication Source Advanced Player's Guide pg. 187 2.0 Archetype Ritualist Prerequisites Expert in Arcana, Expert in Nature, Expert in Occultism, or Expert in Religion --- You have begun to master the difficult art of casting rituals. You gain a +2 circumstance bonus to all primary checks to perform a ritual. You learn two uncommon rituals with a level no higher than half your level; you must meet all prerequisites for casting the ritual to choose it. At 8th level and every 4 levels thereafter, you learn another uncommon ritual with a level no higher than half your level and for which you meet the prerequisites. You can cast these as the primary caster, but you can't teach them to anyone else or allow someone else to serve as primary caster unless they know the ritual as well. Special You can't select another dedication feat until you've gained two other feats from the ritualist archetype. If you retrain out of this feat, you lose the rituals learned from it. Ritualist Dedication leads to... Efficient Rituals, Flexible Ritualist, Resourceful Ritualist",
+ "summary": "You have begun to master the difficult art of casting  rituals .",
+ "summary_markdown": "You have begun to master the difficult art of casting [rituals](Rituals.aspx).",
+ "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Ritualist Dedication Source Player Core 2 pg. 211 1.1 Archetype Ritualist Prerequisites Expert in Occultism, Expert in Arcana, Expert in Nature, or Expert in Religion --- You have begun to master the difficult art of casting rituals. You gain a +2 circumstance bonus to all checks to perform a ritual. You learn two uncommon rituals of 2nd rank or lower. You must meet all prerequisites to be the primary caster of a ritual to select it, and you can't teach it to anyone else or allow someone else to serve as primary caster unless they know the ritual as well. At 8th level and every 4 levels thereafter, you learn two more rituals with the same restrictions and with a maximum rank of half that level. Ritualist Dedication leads to... Efficient Rituals, Enterprising Ritualist, Flexible Ritualist, Resourceful Ritualist",
  "trait": [
   "Archetype",
   "Dedication",
   "Uncommon"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Dedication](/Traits.aspx?ID=41), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Feat",
+  "Rarity"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535), [Dedication](/Traits.aspx?ID=572), [Uncommon](/Traits.aspx?ID=721)",
  "trait_raw": [
   "Archetype",
   "Dedication",
   "Uncommon"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2041",
+ "url": "/Feats.aspx?ID=6388",
  "weakness": {}
 }

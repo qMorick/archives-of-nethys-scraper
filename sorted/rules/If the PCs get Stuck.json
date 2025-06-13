@@ -1,38 +1,53 @@
 {
  "breadcrumbs": [
-  "Chapter 3: Subsystems",
+  "Chapter 4: Subsystems",
   "Chases",
-  "Running a Chase"
+  "Running a Chase",
+  "Visual Aids"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1219",
- "markdown": "<title level=\"1\" right=\"Rules\">[If the PCs get Stuck](/Rules.aspx?ID=1219)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 158</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nSometimes despite their best efforts, an obstacle will stymie the PCs over and over again. In most cases, after 3 rounds of the PCs struggling with an obstacle that requires the standard number of Chase Points, it’s a good idea to just say they found another way around it. If the obstacle requires more or fewer Chase Points, you can change the number of rounds before letting them get past it. If presenting another way around the obstacle just doesn’t make sense, such as if a spherical barrier completely blocks the PCs, you might introduce an NPC or other outside force that can help them bypass it, but at a high cost.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
- "name": "If the PCs get Stuck",
+ "id": "rules-3058",
+ "legacy_id": [
+  "rules-1219"
+ ],
+ "legacy_name": [
+  "If the PCs get Stuck"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[If the PCs Get Stuck](/Rules.aspx?ID=3058)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 194 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nSometimes, despite their best efforts, an obstacle will stymie the PCs over and over again. In most cases, after 3 rounds of the PCs struggling with an obstacle that requires the standard number of Chase Points, it’s a good idea to just say they found another way around it. If presenting another way around the obstacle just doesn’t make sense, such as if a spherical barrier completely blocks the PCs, you might introduce an NPC or other outside force that can help them bypass it, but at a high cost.\n\n## Underground Obstacles\n<row gap=\"tiny\"><table class=\"inner no-head\"> <tr><td>**Crumbling Corridor (1st)**</td><td>DC 13 Acrobatics to avoid disturbing the walls, DC 15 Crafting to shore up the walls; **Quaking Corridor (11th)** DC 25 Acrobatics, DC 30 Crafting</td></tr> <tr><td>**Fungus Grotto (1st)**</td><td>DC 15 Fortitude to endure poisonous spore, DC 13 Survival to avoid the mushrooms; **Virulent Fungi (5th)** DC 20 Fortitude, DC 18 Survival</td></tr> <tr><td>**Pit Trap (1st)**</td><td>DC 13 Athletics to quickly climb out, DC 15 Perception to spot the trap before it’s triggered; **Exceptional Pit Trap (5th)** DC 20 Athletics, DC 18 Perception</td></tr> <tr><td>**Wandering Gelatinous Cube (1st)**</td><td>DC 18 Occultism to identify its deficiencies, DC 15 Stealth to sneak past; **Wandering Black Pudding (7th)** DC 24 Occultism, DC 19 Stealth</td></tr> <tr><td>**Collapsed Tunnel (5th)**</td><td>DC 20 Athletics to dig through, DC 18 Perception to find a secret door around; **Ancient Collapse (12th)** DC 30 Athletics, DC 28 Perception</td></tr> <tr><td>**Pendulum Trap (5th)**</td><td>DC 20 Reflex to dodge the blades, DC 15 Thievery to disable the tap; **Panoply of Pendulums (12th)** DC 30 Reflex, DC 28 Thievery</td></tr> <tr><td>**Wooden Portcullis (8th)**</td><td>DC 25 Acrobatics to squeeze through, DC 20 Athletics to lift the gate; **Iron Portcullis (11th)** DC 25 Acrobatics, DC 30 Athletics</td></tr> </table></row><br />\n\n## Urban Obstacles\n<row gap=\"tiny\"><table class=\"inner no-head\"> <tr><td>**Crowd (1st)**</td><td>DC 15 Acrobatics or Athletics to weave or push through, DC 13 Society to follow the flow; **Festival Crowd (4th)** DC 20 Athletics, DC 18 Society</td></tr> <tr><td>**Fruit Cart (1st)**</td><td>DC 13 Athletics to vault over or smash through, DC 15 Intimidation to make the merchant move it; **Merchant Pavilion (5th)** DC 20 Athletics, DC 22 Intimidation</td></tr> <tr><td>**Guard Dog (1st)**</td><td>DC 14 Nature to calm, DC 16 Stealth to sneak past; **Guard Roc (9th)** DC 26 Nature, DC 28 Stealth</td></tr> <tr><td>**Rickety Rooftops (1st)**</td><td>DC 15 Acrobatics to cross clotheslines, DC 13 Athletics to jump from roof to roof; **Crumbling, Steep Rooftops (5th)** DC 18 Acrobatics, DC 20 Athletics</td></tr> <tr><td>**Wooden Fence (1st)**</td><td>DC 13 Athletics to climb over, DC 15 Thievery to unlock a gate; **High Iron Fence (8th)** DC 20 Athletics, DC 25 Thievery</td></tr> <tr><td>**Gang of Hooligans (2nd)**</td><td>DC 13 Deception to trick, DC 15 Stealth to sneak past; **Elite Criminals (12th)** DC 28 Deception, DC 30 Stealth</td></tr> <tr><td>**Twisting Alleyways (2nd)**</td><td>DC 17 Perception to find a path, DC 13 Society to recall a map; **Multi-Story Maze (7th)** DC 22 Perception, DC 20 Society</td></tr> </table></row><br />\n\n## Wilderness Obstacles\n<row gap=\"tiny\"><table class=\"inner no-head\"> <tr><td>**Deep Mud (1st)**</td><td>DC 15 Athletics to slog through, DC 13 Perception to find a path; **Horrid Bog (5th)** DC 20 Athletics, DC 18 Perception</td></tr> <tr><td>**Downpour (1st)**</td><td>DC 13 Fortitude to push through, DC 15 Nature to predict the weather; **Magical Thunderstorm (5th)** DC 30 Fortitude, DC 25 Nature</td></tr> <tr><td>**Rope Bridge (1st)**</td><td>DC 15 Acrobatics to cross carefully, DC 13 Crafting to make repairs; **Solitary Frayed Rope (11th)** DC 25 Acrobatics, DC 30 Crafting</td></tr> <tr><td>**Rushing River (1st)**</td><td>DC 15 Athletics to swim or hop across stones, DC 13 Survival to find a ford nearby; **Flash Flood (5th)** DC 20 Athletics, DC 18 Survival</td></tr> <tr><td>**Steep Hills (1st)**</td><td>DC 13 Athletics to climb across, DC 15 Perception to find easier path; **Rugged Mountain (5th)** DC 20 Athletics, DC 18 Perception</td></tr> <tr><td>**Swarm of Wasps (1st)**</td><td>DC 15 Fortitude to endure stings, DC 13 Survival to smoke them out; **Those Aren’t Wasps! (5th)** DC 20 Fortitude, DC 18 Survival</td></tr> <tr><td>**Tangled Forest (2nd)**</td><td>DC 17 Perception to find the way, DC 13 Survival to plot a path; **Enchanted Forest (5th)** DC 20 Perception, DC 18 Survival</td></tr> </table></row>\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "name": "If the PCs Get Stuck",
  "next_link": {
-  "label": "Sample Obstacles",
-  "url": "/Rules.aspx?ID=1220"
+  "label": "Infiltration",
+  "url": "/Rules.aspx?ID=3059"
  },
  "previous_link": {
-  "label": "Visual Aids",
-  "url": "/Rules.aspx?ID=1218"
+  "label": "Building a Chase",
+  "url": "/Rules.aspx?ID=3051"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 194",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 158</row>\r\n\r\nChapter 3: Subsystems / Chases / Running a Chase\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 194 <sup>2.0</sup>\r\n\r\nChapter 4: Subsystems / Chases / Running a Chase / Visual Aids\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSometimes, despite their best efforts, an obstacle will stymie the PCs over and over again. In most cases, after 3 rounds of the PCs struggling with …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 158"
+  "GM Core pg. 194"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 158</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 194 <sup>2.0</sup>",
  "speed": {},
- "text": " If the PCs get Stuck Source Gamemastery Guide pg. 158 Sometimes despite their best efforts, an obstacle will stymie the PCs over and over again. In most cases, after 3 rounds of the PCs struggling with an obstacle that requires the standard number of Chase Points, it’s a good idea to just say they found another way around it. If the obstacle requires more or fewer Chase Points, you can change the number of rounds before letting them get past it. If presenting another way around the obstacle just doesn’t make sense, such as if a spherical barrier completely blocks the PCs, you might introduce an NPC or other outside force that can help them bypass it, but at a high cost. ",
+ "summary": "Sometimes, despite their best efforts, an obstacle will stymie the PCs over and over again. In most cases, after 3 rounds of the PCs struggling with …",
+ "summary_markdown": "Sometimes, despite their best efforts, an obstacle will stymie the PCs over and over again. In most cases, after 3 rounds of the PCs struggling with …",
+ "text": " If the PCs Get Stuck Source GM Core pg. 194 2.0 Sometimes, despite their best efforts, an obstacle will stymie the PCs over and over again. In most cases, after 3 rounds of the PCs struggling with an obstacle that requires the standard number of Chase Points, it’s a good idea to just say they found another way around it. If presenting another way around the obstacle just doesn’t make sense, such as if a spherical barrier completely blocks the PCs, you might introduce an NPC or other outside force that can help them bypass it, but at a high cost. ## Underground Obstacles Crumbling Corridor (1st) DC 13 Acrobatics to avoid disturbing the walls, DC 15 Crafting to shore up the walls; Quaking Corridor (11th) DC 25 Acrobatics, DC 30 Crafting Fungus Grotto (1st) DC 15 Fortitude to endure poisonous spore, DC 13 Survival to avoid the mushrooms; Virulent Fungi (5th) DC 20 Fortitude, DC 18 Survival Pit Trap (1st) DC 13 Athletics to quickly climb out, DC 15 Perception to spot the trap before it’s triggered; Exceptional Pit Trap (5th) DC 20 Athletics, DC 18 Perception Wandering Gelatinous Cube (1st) DC 18 Occultism to identify its deficiencies, DC 15 Stealth to sneak past; Wandering Black Pudding (7th) DC 24 Occultism, DC 19 Stealth Collapsed Tunnel (5th) DC 20 Athletics to dig through, DC 18 Perception to find a secret door around; Ancient Collapse (12th) DC 30 Athletics, DC 28 Perception Pendulum Trap (5th) DC 20 Reflex to dodge the blades, DC 15 Thievery to disable the tap; Panoply of Pendulums (12th) DC 30 Reflex, DC 28 Thievery Wooden Portcullis (8th) DC 25 Acrobatics to squeeze through, DC 20 Athletics to lift the gate; Iron Portcullis (11th) DC 25 Acrobatics, DC 30 Athletics ## Urban Obstacles Crowd (1st) DC 15 Acrobatics or Athletics to weave or push through, DC 13 Society to follow the flow; Festival Crowd (4th) DC 20 Athletics, DC 18 Society Fruit Cart (1st) DC 13 Athletics to vault over or smash through, DC 15 Intimidation to make the merchant move it; Merchant Pavilion (5th) DC 20 Athletics, DC 22 Intimidation Guard Dog (1st) DC 14 Nature to calm, DC 16 Stealth to sneak past; Guard Roc (9th) DC 26 Nature, DC 28 Stealth Rickety Rooftops (1st) DC 15 Acrobatics to cross clotheslines, DC 13 Athletics to jump from roof to roof; Crumbling, Steep Rooftops (5th) DC 18 Acrobatics, DC 20 Athletics Wooden Fence (1st) DC 13 Athletics to climb over, DC 15 Thievery to unlock a gate; High Iron Fence (8th) DC 20 Athletics, DC 25 Thievery Gang of Hooligans (2nd) DC 13 Deception to trick, DC 15 Stealth to sneak past; Elite Criminals (12th) DC 28 Deception, DC 30 Stealth Twisting Alleyways (2nd) DC 17 Perception to find a path, DC 13 Society to recall a map; Multi-Story Maze (7th) DC 22 Perception, DC 20 Society ## Wilderness Obstacles Deep Mud (1st) DC 15 Athletics to slog through, DC 13 Perception to find a path; Horrid Bog (5th) DC 20 Athletics, DC 18 Perception Downpour (1st) DC 13 Fortitude to push through, DC 15 Nature to predict the weather; Magical Thunderstorm (5th) DC 30 Fortitude, DC 25 Nature Rope Bridge (1st) DC 15 Acrobatics to cross carefully, DC 13 Crafting to make repairs; Solitary Frayed Rope (11th) DC 25 Acrobatics, DC 30 Crafting Rushing River (1st) DC 15 Athletics to swim or hop across stones, DC 13 Survival to find a ford nearby; Flash Flood (5th) DC 20 Athletics, DC 18 Survival Steep Hills (1st) DC 13 Athletics to climb across, DC 15 Perception to find easier path; Rugged Mountain (5th) DC 20 Athletics, DC 18 Perception Swarm of Wasps (1st) DC 15 Fortitude to endure stings, DC 13 Survival to smoke them out; Those Aren’t Wasps! (5th) DC 20 Fortitude, DC 18 Survival Tangled Forest (2nd) DC 17 Perception to find the way, DC 13 Survival to plot a path; Enchanted Forest (5th) DC 20 Perception, DC 18 Survival ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1219",
+ "url": "/Rules.aspx?ID=3058",
  "weakness": {}
 }

@@ -2,44 +2,56 @@
  "archetype": [
   "Investigator"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Basic Deduction"
  ],
  "feat_markdown": "Basic Deduction",
- "id": "feat-1845",
+ "id": "feat-6204",
+ "legacy_id": [
+  "feat-1845"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Basic Deduction](/Feats.aspx?ID=1845) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 151 <sup>2.0</sup></row>\n\n**Archetype** [Investigator](/Archetypes.aspx?ID=41)\n\n**Prerequisites**\r\n[Investigator Dedication](/Feats.aspx?ID=1844)\n\n</column>\r\n\r\n---\r\n\r\nYou gain a 1st- or 2nd-level [investigator feat](/Classes.aspx?ID=13/feats) of your choice.\n\n<title level=\"2\">Basic Deduction leads to...</title>\r\n[Advanced Deduction](/Feats.aspx?ID=1847)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Basic Deduction](/Feats.aspx?ID=6204) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 178 <sup>1.1</sup>\n\n**Archetype** [Investigator](/Archetypes.aspx?ID=231)\n\n**Prerequisites**\r\n[Investigator Dedication](/Feats.aspx?ID=6203)\n\n</column>\r\n\r\n---\r\n\r\nYou gain a 1st- or 2nd-level [investigator feat](/Feats.aspx?Traits=318) of your choice.\n\n<title level=\"2\">Basic Deduction leads to...</title>\r\n[Advanced Deduction](/Feats.aspx?ID=6206)",
  "name": "Basic Deduction",
  "pfs": "Standard",
  "prerequisite": "Investigator Dedication",
- "prerequisite_markdown": "[Investigator Dedication](/Feats.aspx?ID=1844)",
+ "prerequisite_markdown": "[Investigator Dedication](/Feats.aspx?ID=6203)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 178",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 151 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Investigator Dedication](/Feats.aspx?ID=1844)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain a 1st- or 2nd-level investigator feat of your choice.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 178 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Investigator Dedication](/Feats.aspx?ID=6203)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain a 1st- or 2nd-level investigator feat of your choice.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 151"
+  "Player Core 2 pg. 178"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 151 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 178 <sup>1.1</sup>",
  "speed": {},
  "summary": "You gain a 1st- or 2nd-level investigator feat of your choice.",
  "summary_markdown": "You gain a 1st- or 2nd-level investigator feat of your choice.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Basic Deduction Source Advanced Player's Guide pg. 151 2.0 Archetype Investigator Prerequisites Investigator Dedication --- You gain a 1st- or 2nd-level investigator feat of your choice. Basic Deduction leads to... Advanced Deduction",
+ "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Basic Deduction Source Player Core 2 pg. 178 1.1 Archetype Investigator Prerequisites Investigator Dedication --- You gain a 1st- or 2nd-level investigator feat of your choice. Basic Deduction leads to... Advanced Deduction",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1845",
+ "url": "/Feats.aspx?ID=6204",
  "weakness": {}
 }

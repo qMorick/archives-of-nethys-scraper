@@ -2,44 +2,56 @@
  "archetype": [
   "Scroll Trickster"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Basic Scroll Cache"
  ],
  "feat_markdown": "Basic Scroll Cache",
- "id": "feat-2054",
+ "id": "feat-6401",
+ "legacy_id": [
+  "feat-2054"
+ ],
  "level": 6,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Basic Scroll Cache](/Feats.aspx?ID=2054) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 189 <sup>2.0</sup></row>\n\n**Archetype** [Scroll Trickster](/Archetypes.aspx?ID=74)\n\n**Prerequisites**\r\n[Scroll Trickster Dedication](/Feats.aspx?ID=2053)\n\n</column>\r\n\r\n---\r\n\r\nYou have a vast and overflowing collection of scroll scraps, riddled with errors and misspellings and leaking energy like a sieve. With enough care, you can coax these scroll scraps into functioning—briefly. Each day during your daily preparations, you can create a single temporary scroll containing a 1st-level spell. The spell must be a common spell from the _Core Rulebook_, or another spell you learned via [Learn a Spell](/Actions.aspx?ID=25), and it must come from a tradition in which you have the corresponding skill trained. This scroll is an unstable, temporary item and loses its magic the next time you make your daily preparations if you haven't already used it. It can't be used to Learn the Spell. \n\nAt 8th level, add a second temporary scroll containing a 2nd-level spell.\n\n<title level=\"2\">Basic Scroll Cache leads to...</title>\r\n[Expert Scroll Cache](/Feats.aspx?ID=2056)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Basic Scroll Cache](/Feats.aspx?ID=6401) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 213 <sup>1.1</sup>\n\n**Archetype** [Scroll Trickster](/Archetypes.aspx?ID=262)\n\n**Prerequisites**\r\n[Scroll Trickster Dedication](/Feats.aspx?ID=6400)\n\n</column>\r\n\r\n---\r\n\r\nYou have a vast and overflowing collection of [scroll](/Equipment.aspx?Category=52)  scraps, riddled with errors and misspellings and leaking energy like a sieve. With enough care, you can coax these scroll scraps into functioning—briefly. Each day during your daily preparations, you can create a single temporary scroll containing a 1st-rank spell. The spell must be a common spell, a spell to which you have access, or a spell you are able to cast, and you must be trained in the skill corresponding to at least one of the spell's traditions. You can use [Learn a Spell](/Actions.aspx?ID=2366) to add spells to those you can use with this feat, even if you aren't a spellcaster. This scroll is an unstable, temporary item and loses its magic the next time you make your daily preparations if you haven't already used it. This temporary scroll can't be used to Learn the Spell. <br />At 8th level, add a second temporary scroll containing a 2nd-rank spell.\n\n<title level=\"2\">Basic Scroll Cache leads to...</title>\r\n[Expert Scroll Cache](/Feats.aspx?ID=6403)",
  "name": "Basic Scroll Cache",
  "pfs": "Standard",
  "prerequisite": "Scroll Trickster Dedication",
- "prerequisite_markdown": "[Scroll Trickster Dedication](/Feats.aspx?ID=2053)",
+ "prerequisite_markdown": "[Scroll Trickster Dedication](/Feats.aspx?ID=6400)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 213",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 189 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Scroll Trickster Dedication](/Feats.aspx?ID=2053)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have a vast and overflowing collection of scroll scraps, riddled with errors and misspellings and leaking energy like a sieve.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 213 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Scroll Trickster Dedication](/Feats.aspx?ID=6400)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have a vast and overflowing collection of [scroll](/Equipment.aspx?Category=52)  scraps, riddled with errors and misspellings and leaking energy like a sieve.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 189"
+  "Player Core 2 pg. 213"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 189 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 213 <sup>1.1</sup>",
  "speed": {},
- "summary": "You have a vast and overflowing collection of scroll scraps, riddled with errors and misspellings and leaking energy like a sieve.",
- "summary_markdown": "You have a vast and overflowing collection of scroll scraps, riddled with errors and misspellings and leaking energy like a sieve.",
- "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Basic Scroll Cache Source Advanced Player's Guide pg. 189 2.0 Archetype Scroll Trickster Prerequisites Scroll Trickster Dedication --- You have a vast and overflowing collection of scroll scraps, riddled with errors and misspellings and leaking energy like a sieve. With enough care, you can coax these scroll scraps into functioning—briefly. Each day during your daily preparations, you can create a single temporary scroll containing a 1st-level spell. The spell must be a common spell from the Core Rulebook , or another spell you learned via Learn a Spell, and it must come from a tradition in which you have the corresponding skill trained. This scroll is an unstable, temporary item and loses its magic the next time you make your daily preparations if you haven't already used it. It can't be used to Learn the Spell. At 8th level, add a second temporary scroll containing a 2nd-level spell. Basic Scroll Cache leads to... Expert Scroll Cache",
+ "summary": "You have a vast and overflowing collection of  scroll   scraps, riddled with errors and misspellings and leaking energy like a sieve.",
+ "summary_markdown": "You have a vast and overflowing collection of [scroll](/Equipment.aspx?Category=52)  scraps, riddled with errors and misspellings and leaking energy like a sieve.",
+ "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Basic Scroll Cache Source Player Core 2 pg. 213 1.1 Archetype Scroll Trickster Prerequisites Scroll Trickster Dedication --- You have a vast and overflowing collection of scroll scraps, riddled with errors and misspellings and leaking energy like a sieve. With enough care, you can coax these scroll scraps into functioning—briefly. Each day during your daily preparations, you can create a single temporary scroll containing a 1st-rank spell. The spell must be a common spell, a spell to which you have access, or a spell you are able to cast, and you must be trained in the skill corresponding to at least one of the spell's traditions. You can use Learn a Spell to add spells to those you can use with this feat, even if you aren't a spellcaster. This scroll is an unstable, temporary item and loses its magic the next time you make your daily preparations if you haven't already used it. This temporary scroll can't be used to Learn the Spell. At 8th level, add a second temporary scroll containing a 2nd-rank spell. Basic Scroll Cache leads to... Expert Scroll Cache",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2054",
+ "url": "/Feats.aspx?ID=6401",
  "weakness": {}
 }

@@ -4,35 +4,46 @@
   "Playing the Game",
   "Key Terms"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-27",
- "markdown": "<title level=\"1\" right=\"Rules\">[Game Master (GM)](/Rules.aspx?ID=27)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 12 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThe Game Master is the player who adjudicates the rules and narrates the various elements of the Pathfinder story and world that the other players explore.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-3297",
+ "legacy_id": [
+  "rules-27"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Game Master (GM)](/Rules.aspx?ID=3297)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 10 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThe Game Master is the player who adjudicates the rules and narrates the various elements of the Pathfinder story and world that the other players explore. The GM uses the rules found in [Pathfinder GM Core](/Rules.aspx?ID=2460).\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Game Master (GM)",
  "next_link": {
   "label": "Golarion",
-  "url": "/Rules.aspx?ID=28"
+  "url": "/Rules.aspx?ID=3298"
  },
  "previous_link": {
   "label": "Feat",
-  "url": "/Rules.aspx?ID=26"
+  "url": "/Rules.aspx?ID=3296"
  },
+ "primary_source": "Player Core",
+ "primary_source_raw": "Player Core pg. 10",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 12 <sup>4.0</sup></row>\r\n\r\nChapter 1: Introduction / Playing the Game / Key Terms\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 10 <sup>2.0</sup>\r\n\r\nChapter 1: Introduction / Playing the Game / Key Terms\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe Game Master is the player who adjudicates the rules and narrates the various elements of the Pathfinder story and world that the other players …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 12"
+  "Player Core pg. 10"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 12 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 10 <sup>2.0</sup>",
  "speed": {},
- "text": " Game Master (GM) Source Core Rulebook pg. 12 4.0 The Game Master is the player who adjudicates the rules and narrates the various elements of the Pathfinder story and world that the other players explore. ",
+ "summary": "The Game Master is the player who adjudicates the rules and narrates the various elements of the Pathfinder story and world that the other players …",
+ "summary_markdown": "The Game Master is the player who adjudicates the rules and narrates the various elements of the Pathfinder story and world that the other players …",
+ "text": " Game Master (GM) Source Player Core pg. 10 2.0 The Game Master is the player who adjudicates the rules and narrates the various elements of the Pathfinder story and world that the other players explore. The GM uses the rules found in Pathfinder GM Core. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=27",
+ "url": "/Rules.aspx?ID=3297",
  "weakness": {}
 }

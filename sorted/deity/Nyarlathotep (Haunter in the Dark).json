@@ -1,6 +1,16 @@
 {
- "alignment": "CE",
- "breadcrumbs_spa": [],
+ "attribute": [
+  "Dexterity",
+  "Wisdom"
+ ],
+ "anathema": "None",
+ "area_of_concern": [
+  "Conspiracies",
+  "conquest",
+  "darkness",
+  "long-term plans"
+ ],
+ "area_of_concern_raw": "Conspiracies, conquest, darkness, long-term plans",
  "category": "deity",
  "cleric_spell": [
   "Grim Tendrils",
@@ -10,10 +20,9 @@
  "deity": [
   "Nyarlathotep (Haunter in the Dark)"
  ],
- "deity_markdown": "[Nyarlathotep (Haunter in the Dark)](/Deities.aspx?ID=222)",
  "deity_category": "Outer Gods and Great Old Ones",
- "deity_category_markdown": "[Outer Gods and Great Old Ones\r\n](/DeityCategories.aspx?ID=13)",
- "deity_category_order": "2Outer Gods and Great Old Ones\r\n",
+ "deity_category_markdown": "[Outer Gods and Great Old Ones](/DeityCategories.aspx?ID=13)",
+ "deity_category_order": "2Outer Gods and Great Old Ones",
  "divine_font": [
   "Harm"
  ],
@@ -24,7 +33,7 @@
   "Nightmares",
   "Trickery"
  ],
- "domain_markdown": "[Darkness](/Domains.aspx?ID=6), [Knowledge](/Domains.aspx?ID=17), [Nightmares](/Domains.aspx?ID=23), [Trickery](/Domains.aspx?ID=31)",
+ "domain_markdown": "[Darkness](/Domains.aspx?ID=69), [Knowledge](/Domains.aspx?ID=80), [Nightmares](/Domains.aspx?ID=86), [Trickery](/Domains.aspx?ID=94)",
  "domain_alternate_markdown": "",
  "domain_primary": [
   "Darkness",
@@ -32,47 +41,61 @@
   "Nightmares",
   "Trickery"
  ],
- "domain_primary_markdown": "[Darkness](/Domains.aspx?ID=6), [Knowledge](/Domains.aspx?ID=17), [Nightmares](/Domains.aspx?ID=23), [Trickery](/Domains.aspx?ID=31)",
+ "domain_primary_markdown": "[Darkness](/Domains.aspx?ID=69), [Knowledge](/Domains.aspx?ID=80), [Nightmares](/Domains.aspx?ID=86), [Trickery](/Domains.aspx?ID=94)",
+ "edict": "Create darkness, encourage authorities to bring the apocalypse",
  "exclude_from_search": false,
  "favored_weapon": [
   "Kukri"
  ],
- "favored_weapon_markdown": "[Kukri](/Weapons.aspx?ID=56)",
- "follower_alignment": [
-  "NE",
-  "CE"
+ "favored_weapon_markdown": "[Kukri](/Weapons.aspx?ID=413)",
+ "id": "deity-684",
+ "legacy_id": [
+  "deity-222"
  ],
- "id": "deity-222",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Nyarlathotep (Haunter in the Dark)](/Deities.aspx?ID=222)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 122</row>\n\nNyarlathotep is often venerated by [grioth](/MonsterFamilies.aspx?ID=240)s in a bat-like incarnation with a three-lobed burning eye known as the Haunter in the Dark. His symbol is a circle with wing-shaped arms.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Outer Gods and Great Old Ones\r\n](/DeityCategories.aspx?ID=13)\r\n\r\n**Edicts** Create darkness, encourage authorities to bring the apocalypse \r\n\r\n**Anathema** none\n\n**Follower Alignments**\r\nNE, CE\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\n\n**Divine Font** [Harm](/Spells.aspx?ID=146)\r\n\r\n**Divine Skill** [Occultism](/Skills.aspx?ID=11)\r\n\r\n**Favored Weapon** [Kukri](/Weapons.aspx?ID=56)\r\n\r\n**Domains** [Darkness](/Domains.aspx?ID=6), [Knowledge](/Domains.aspx?ID=17), [Nightmares](/Domains.aspx?ID=23), [Trickery](/Domains.aspx?ID=31)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Grim Tendrils](/Spells.aspx?ID=141)\n\n- **4th**\r\n[Nightmare](/Spells.aspx?ID=208)\n\n- **5th**\r\n[Summon Entity](/Spells.aspx?ID=321)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Restricted\">[Nyarlathotep (Haunter in the Dark)](/Deities.aspx?ID=684)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries Web Supplement](/Sources.aspx?ID=237) pg. 19\n\n_Nethys Note: no description has been provided of this deity_\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Outer Gods and Great Old Ones](/DeityCategories.aspx?ID=13)\r\n\r\n**Edicts** Create darkness, encourage authorities to bring the apocalypse\r\n\r\n**Anathema** None\r\n\r\n**Area of Concern**\r\nConspiracies, conquest, darkness, long-term plans\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nDexterity or Wisdom\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146)\r\n\r\n**Divine Sanctification** none\r\n\r\n**Divine Skill** [Occultism](/Skills.aspx?ID=44)\r\n\r\n**Favored Weapon** [Kukri](/Weapons.aspx?ID=413)\r\n\r\n**Domains** [Darkness](/Domains.aspx?ID=69), [Knowledge](/Domains.aspx?ID=80), [Nightmares](/Domains.aspx?ID=86), [Trickery](/Domains.aspx?ID=94)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Grim Tendrils](/Spells.aspx?ID=1548)\n\n- **4th**\r\n[Nightmare](/Spells.aspx?ID=1615)\n\n- **5th**\r\n[Summon Entity](/Spells.aspx?ID=1699)\n\n</column>",
  "name": "Nyarlathotep (Haunter in the Dark)",
- "pfs": "Standard",
+ "pfs": "Restricted",
+ "primary_source": "Divine Mysteries Web Supplement",
+ "primary_source_raw": "Divine Mysteries Web Supplement pg. 19",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2021-04-07",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "Circle with wing shaped arms",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 122</row>\r\n\r\n**Divine Font** Harm\r\n\r\n**Divine Skill** [Occultism](/Skills.aspx?ID=11)\r\n\r\n**Favored Weapon** [Kukri](/Weapons.aspx?ID=56)\r\n\r\n**Domains** [Darkness](/Domains.aspx?ID=6), [Knowledge](/Domains.aspx?ID=17), [Nightmares](/Domains.aspx?ID=23), [Trickery](/Domains.aspx?ID=31)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nNyarlathotep is often venerated by  grioth s in a bat-like incarnation with a three-lobed burning eye known as the Haunter in the Dark. His symbol is …\r\n</summary>",
+ "sacred_animal": "Bat",
+ "sacred_color": [
+  "black",
+  "gray"
+ ],
+ "sanctification_raw": "none",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries Web Supplement](/Sources.aspx?ID=237) pg. 19\r\n\r\n**Divine Font** Harm\r\n\r\n**Divine Skill** [Occultism](/Skills.aspx?ID=44)\r\n\r\n**Favored Weapon** [Kukri](/Weapons.aspx?ID=413)\r\n\r\n**Domains** [Darkness](/Domains.aspx?ID=69), [Knowledge](/Domains.aspx?ID=80), [Nightmares](/Domains.aspx?ID=86), [Trickery](/Domains.aspx?ID=94)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Nethys Note: no description has been provided of this deity \r\n</summary>",
  "skill": [
   "Occultism"
  ],
- "skill_markdown": "[Occultism](/Skills.aspx?ID=11)",
+ "skill_markdown": "[Occultism](/Skills.aspx?ID=44)",
+ "skill_mod": {},
  "source": [
-  "Bestiary 3"
+  "Divine Mysteries Web Supplement"
  ],
  "source_raw": [
-  "Bestiary 3 pg. 122"
+  "Divine Mysteries Web Supplement pg. 19"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 122</row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries Web Supplement](/Sources.aspx?ID=237) pg. 19",
  "speed": {},
- "summary": "Nyarlathotep is often venerated by  grioth s in a bat-like incarnation with a three-lobed burning eye known as the Haunter in the Dark. His symbol is …",
- "summary_markdown": "Nyarlathotep is often venerated by  grioth s in a bat-like incarnation with a three-lobed burning eye known as the Haunter in the Dark. His symbol is …",
- "text": " Nyarlathotep (Haunter in the Dark) Source Bestiary 3 pg. 122 Nyarlathotep is often venerated by grioths in a bat-like incarnation with a three-lobed burning eye known as the Haunter in the Dark. His symbol is a circle with wing-shaped arms. Category [Outer Gods and Great Old Ones ](/DeityCategories.aspx?ID=13) Edicts Create darkness, encourage authorities to bring the apocalypse Anathema none Follower Alignments NE, CE Devotee Benefits Divine Font Harm Divine Skill Occultism Favored Weapon Kukri Domains Darkness, Knowledge, Nightmares, Trickery Alternate Domains Cleric Spells - 1st Grim Tendrils - 4th Nightmare - 5th Summon Entity\n",
- "trait": [
-  "CE"
+ "spell": [
+  "Grim Tendrils",
+  "Nightmare",
+  "Summon Entity"
  ],
- "trait_raw": [
-  "CE"
- ],
+ "spell_markdown": "[Grim Tendrils](/Spells.aspx?ID=1548), [Nightmare](/Spells.aspx?ID=1615), [Summon Entity](/Spells.aspx?ID=1699)",
+ "summary": " Nethys Note: no description has been provided of this deity ",
+ "summary_markdown": " Nethys Note: no description has been provided of this deity ",
+ "text": " Nyarlathotep (Haunter in the Dark) Source Divine Mysteries Web Supplement pg. 19 Nethys Note: no description has been provided of this deity Category Outer Gods and Great Old Ones Edicts Create darkness, encourage authorities to bring the apocalypse Anathema None Area of Concern Conspiracies, conquest, darkness, long-term plans Devotee Benefits Divine Attribute Dexterity or Wisdom Divine Font Harm Divine Sanctification none Divine Skill Occultism Favored Weapon Kukri Domains Darkness, Knowledge, Nightmares, Trickery Alternate Domains Cleric Spells - 1st Grim Tendrils - 4th Nightmare - 5th Summon Entity\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=222",
+ "url": "/Deities.aspx?ID=684",
  "weakness": {}
 }

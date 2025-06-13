@@ -1,52 +1,63 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Express Rider"
  ],
  "feat_markdown": "Express Rider",
- "id": "feat-2126",
+ "id": "feat-6480",
+ "legacy_id": [
+  "feat-2126"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Express Rider](/Feats.aspx?ID=2126) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Exploration\" url=\"/Traits.aspx?ID=66\" />\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=78\" />\r\n<trait label=\"Move\" url=\"/Traits.aspx?ID=114\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=144\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 206 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nTrained in [Nature](/Skills.aspx?ID=10)\n\n</column>\r\n\r\n---\r\n\r\nYou know how to encourage your mount to cover ground quickly. When calculating your [travel speed](/Rules.aspx?ID=470) for the day while mounted, you can attempt a [Nature](/Skills.aspx?ID=10) check to [Command an Animal](/Actions.aspx?ID=58) to increase your mount's travel speed. The DC is determined by the GM, but is typically based on the mount's level or the difficulty of the environment, whichever is harder. On a success, increase your mount's travel speed by half. This has no effect on your mount's movement in encounters.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Express Rider](/Feats.aspx?ID=6480) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Exploration\" url=\"/Traits.aspx?ID=595\" />\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=615\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=695\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 230 <sup>1.1</sup>\n\n**Prerequisites**\r\nTrained in [Nature](/Skills.aspx?ID=43)\n\n</column>\r\n\r\n---\r\n\r\nYou can encourage your mount to cover ground quickly. When calculating your travel [Speed](/Rules.aspx?ID=2347) for the day while mounted, you can attempt a Nature check to [Command an Animal](/Actions.aspx?ID=2400) to increase your mount's travel Speed. The DC is determined by the GM, but is typically based on the mount's level or the difficulty of the environment, whichever is harder. On a success, increase your mount's travel Speed by half. This has no effect on your mount's movement in encounters. This benefit extends to up to six other allies traveling with you, as long as all such allies are also mounted, or are quadrupeds with a Speed of at least 30 feet.",
  "name": "Express Rider",
  "pfs": "Standard",
  "prerequisite": "Trained in Nature",
- "prerequisite_markdown": "Trained in [Nature](/Skills.aspx?ID=10)",
+ "prerequisite_markdown": "Trained in [Nature](/Skills.aspx?ID=43)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 230",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Exploration\" url=\"/Traits.aspx?ID=66\" />\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=78\" />\r\n<trait label=\"Move\" url=\"/Traits.aspx?ID=114\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=144\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 206 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nTrained in [Nature](/Skills.aspx?ID=10)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIncrease your mount’s travel speed.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Exploration\" url=\"/Traits.aspx?ID=595\" />\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=615\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=695\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 230 <sup>1.1</sup>\n\n**Prerequisites**\r\nTrained in [Nature](/Skills.aspx?ID=43)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can encourage your mount to cover ground quickly.\r\n</summary>",
  "skill": [
   "Nature",
   "Nature"
  ],
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 206"
+  "Player Core 2 pg. 230"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 206 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 230 <sup>1.1</sup>",
  "speed": {},
- "summary": "Increase your mount’s travel speed.",
- "summary_markdown": "Increase your mount’s travel speed.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Express Rider Source Advanced Player's Guide pg. 206 2.0 Prerequisites Trained in Nature --- You know how to encourage your mount to cover ground quickly. When calculating your travel speed for the day while mounted, you can attempt a Nature check to Command an Animal to increase your mount's travel speed. The DC is determined by the GM, but is typically based on the mount's level or the difficulty of the environment, whichever is harder. On a success, increase your mount's travel speed by half. This has no effect on your mount's movement in encounters.",
+ "summary": "You can encourage your mount to cover ground quickly.",
+ "summary_markdown": "You can encourage your mount to cover ground quickly.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Express Rider Source Player Core 2 pg. 230 1.1 Prerequisites Trained in Nature --- You can encourage your mount to cover ground quickly. When calculating your travel Speed for the day while mounted, you can attempt a Nature check to Command an Animal to increase your mount's travel Speed. The DC is determined by the GM, but is typically based on the mount's level or the difficulty of the environment, whichever is harder. On a success, increase your mount's travel Speed by half. This has no effect on your mount's movement in encounters. This benefit extends to up to six other allies traveling with you, as long as all such allies are also mounted, or are quadrupeds with a Speed of at least 30 feet.",
  "trait": [
   "Exploration",
   "General",
-  "Move",
   "Skill"
  ],
- "trait_markdown": "[Exploration](/Traits.aspx?ID=66), [General](/Traits.aspx?ID=78), [Move](/Traits.aspx?ID=114), [Skill](/Traits.aspx?ID=144)",
+ "trait_group": [
+  "Mechanics",
+  "Feat"
+ ],
+ "trait_markdown": "[Exploration](/Traits.aspx?ID=595), [General](/Traits.aspx?ID=615), [Skill](/Traits.aspx?ID=695)",
  "trait_raw": [
   "Exploration",
   "General",
-  "Move",
   "Skill"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2126",
+ "url": "/Feats.aspx?ID=6480",
  "weakness": {}
 }

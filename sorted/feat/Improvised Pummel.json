@@ -1,48 +1,57 @@
 {
- "actions": "Single Action",
  "archetype": [
   "Weapon Improviser"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Improvised Pummel"
  ],
  "feat_markdown": "Improvised Pummel",
- "id": "feat-2100",
+ "id": "feat-6441",
+ "legacy_id": [
+  "feat-2100"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Improvised Pummel](/Feats.aspx?ID=2100) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 199 <sup>2.0</sup></row>\n\n**Archetype** [Weapon Improviser](/Archetypes.aspx?ID=82)\n\n**Prerequisites**\r\n[Weapon Improviser Dedication](/Feats.aspx?ID=2099)\n\n**Requirements**\r\nYou are wielding an improvised weapon.\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou make a Strike with your wielded improvised weapon. You gain a +1 item bonus to the attack roll, and the Strike deals two weapon damage dice if it would have dealt fewer. If the attack is a critical hit, in addition to the effect of the critical hit, the improvised weapon breaks. If the item has a Hardness greater than your level, or if it's an [artifact](/equipment/artifacts), [cursed item](/equipment/cursed-items), or other item that's difficult to break or destroy, the item doesn't break and the attack is a hit instead of a critical hit.\n\n At 12th level, your item bonus to the attack roll increases to +2 instead of +1, and at 16th level, the Strike deals three weapon damage dice if it would have dealt fewer, instead of two.\n\n<title level=\"2\">Improvised Pummel leads to...</title>\r\n[Shattering Strike (Weapon Improviser)](/Feats.aspx?ID=2104)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Improvised Pummel](/Feats.aspx?ID=6441) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 221 <sup>1.1</sup>\n\n**Archetype** [Weapon Improviser](/Archetypes.aspx?ID=269)\n\n**Prerequisites**\r\n[Weapon Improviser Dedication](/Feats.aspx?ID=6440)\n\n</column>\r\n\r\n---\r\n\r\nWhen you make a [Strike](/Actions.aspx?ID=2306) with an improvised weapon you're wielding, you gain a +1 item bonus to the attack roll, and you can have the Strike deal two weapon damage dice instead of the improvised weapon's normal number. If the attack is a critical hit, the improvised weapon breaks after the normal effects of a critical hit occur. If the item has a Hardness greater than your level, or if it's an [artifact](/Traits.aspx?ID=537), [cursed](/Traits.aspx?ID=567) item, or other item that's difficult to break or destroy, it doesn't break but the attack is a normal hit instead of a critical hit. You can choose not to get any of the effects of Improvised Pummel on a Strike if you don't want to risk breaking the item. At 12th level, the item bonus increases to +2, and at 16th level, the Strike deals three weapon damage dice instead of the improvised weapon's normal number. <br />If you're benefiting from [handwraps of mighty blows](/Equipment.aspx?ID=3086), you use the handwraps' item bonus if it's higher and can choose to use its number of damage dice. Any property runes from the handwraps also apply if you use the handwraps' number of weapon damage dice, provided they could apply to the improvised weapon (as determined by the GM).\n\n<title level=\"2\">Improvised Pummel leads to...</title>\r\n[Shattering Strike (Weapon Improviser)](/Feats.aspx?ID=6445)",
  "name": "Improvised Pummel",
  "pfs": "Standard",
  "prerequisite": "Weapon Improviser Dedication",
- "prerequisite_markdown": "[Weapon Improviser Dedication](/Feats.aspx?ID=2099)",
+ "prerequisite_markdown": "[Weapon Improviser Dedication](/Feats.aspx?ID=6440)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 221",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
- "requirement": "You are wielding an improvised weapon.",
- "requirement_markdown": "You are wielding an improvised weapon.",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 199 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Weapon Improviser Dedication](/Feats.aspx?ID=2099)\n\n**Requirements**\r\nYou are wielding an improvised weapon.\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou make a Strike with your wielded improvised weapon.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 221 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Weapon Improviser Dedication](/Feats.aspx?ID=6440)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen you make a [Strike](/Actions.aspx?ID=2306) with an improvised weapon you're wielding, you gain a +1 item bonus to the attack roll, and you can have the Strike deal two weapon damage dice instead of the improvised weapon's normal number.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 199"
+  "Player Core 2 pg. 221"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 199 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 221 <sup>1.1</sup>",
  "speed": {},
- "summary": "You make a Strike with your wielded improvised weapon.",
- "summary_markdown": "You make a Strike with your wielded improvised weapon.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Improvised Pummel Single Action Source Advanced Player's Guide pg. 199 2.0 Archetype Weapon Improviser Prerequisites Weapon Improviser Dedication Requirements You are wielding an improvised weapon. --- You make a Strike with your wielded improvised weapon. You gain a +1 item bonus to the attack roll, and the Strike deals two weapon damage dice if it would have dealt fewer. If the attack is a critical hit, in addition to the effect of the critical hit, the improvised weapon breaks. If the item has a Hardness greater than your level, or if it's an artifact, cursed item, or other item that's difficult to break or destroy, the item doesn't break and the attack is a hit instead of a critical hit. At 12th level, your item bonus to the attack roll increases to +2 instead of +1, and at 16th level, the Strike deals three weapon damage dice if it would have dealt fewer, instead of two. Improvised Pummel leads to... Shattering Strike (Weapon Improviser)",
+ "summary": "When you make a  Strike  with an improvised weapon you're wielding, you gain a +1 item bonus to the attack roll, and you can have the Strike deal two weapon damage dice instead of the improvised weapon's normal number.",
+ "summary_markdown": "When you make a [Strike](/Actions.aspx?ID=2306) with an improvised weapon you're wielding, you gain a +1 item bonus to the attack roll, and you can have the Strike deal two weapon damage dice instead of the improvised weapon's normal number.",
+ "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Improvised Pummel Source Player Core 2 pg. 221 1.1 Archetype Weapon Improviser Prerequisites Weapon Improviser Dedication --- When you make a Strike with an improvised weapon you're wielding, you gain a +1 item bonus to the attack roll, and you can have the Strike deal two weapon damage dice instead of the improvised weapon's normal number. If the attack is a critical hit, the improvised weapon breaks after the normal effects of a critical hit occur. If the item has a Hardness greater than your level, or if it's an artifact, cursed item, or other item that's difficult to break or destroy, it doesn't break but the attack is a normal hit instead of a critical hit. You can choose not to get any of the effects of Improvised Pummel on a Strike if you don't want to risk breaking the item. At 12th level, the item bonus increases to +2, and at 16th level, the Strike deals three weapon damage dice instead of the improvised weapon's normal number. If you're benefiting from handwraps of mighty blows, you use the handwraps' item bonus if it's higher and can choose to use its number of damage dice. Any property runes from the handwraps also apply if you use the handwraps' number of weapon damage dice, provided they could apply to the improvised weapon (as determined by the GM). Improvised Pummel leads to... Shattering Strike (Weapon Improviser)",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2100",
+ "url": "/Feats.aspx?ID=6441",
  "weakness": {}
 }

@@ -1,37 +1,48 @@
 {
  "breadcrumbs": [
-  "Guns Equipment",
-  "Classic Firearms"
+  "Chapter 5: Treasure Trove",
+  "Momentary Magic"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1650",
- "markdown": "<title level=\"1\" right=\"Rules\">[Ammunition](/Rules.aspx?ID=1650)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 150</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nFirearms require ammunition consisting of a projectile and black powder. A round of ammo can vary in its composition but is typically either a prepackaged paper cartridge, including wadding, bullet, and black powder, or loose shot packed in manually. Some weapons, like hand cannons and blunderbusses, can fire other materials, but their ammunition has the same Price due to the cost of the black powder. Because making rounds of firearm ammunition requires creating black powder, you need the [Alchemical Crafting](/Feats.aspx?ID=752) skill feat to make them. Firearm rounds are a valid option for magical ammunition, just like arrows or bolts. Crafting magical firearm ammunition requires you to be able to craft both alchemical and magical items.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-3193",
+ "legacy_id": [
+  "rules-1065"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Ammunition](/Rules.aspx?ID=3193)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 255 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThese magic items are ammunition for ranged weapons. Each item's stat block includes an Ammunition entry that lists which type of ammunition it can be [Crafted](/Actions.aspx?ID=2385) as, or “any” if it's not limited to any particular type. All stat blocks for ammunition omit the Usage and Bulk entries; use the standard rules for the type of ammunition to determine reloading times and Bulk.\n\nWhen using magic ammunition, use your ranged weapon's fundamental runes to determine the attack modifier and damage dice. Don't add the effects of your weapon's property runes unless the ammunition states otherwise—the ammunition creates its own effects. Magic ammunition deals damage on a hit normally in addition to any listed effects unless its description states otherwise.\n\nRegardless of whether an attack with magic ammunition hits or misses, launching the ammunition consumes its magic. Magic ammunition is made of normal materials, not precious materials, unless stated otherwise.\n\n[Click here for the Magical Ammunition category page](/Equipment.aspx?Category=15&amp;Subcategory=16).\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-3194\" />",
  "name": "Ammunition",
  "next_link": {
-  "label": "Fantasy Firearms",
-  "url": "/Rules.aspx?ID=1651"
+  "label": "Oils",
+  "url": "/Rules.aspx?ID=3195"
  },
  "previous_link": {
-  "label": "Guns Characters",
-  "url": "/Rules.aspx?ID=1646"
+  "label": "Materials",
+  "url": "/Rules.aspx?ID=3188"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 255",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2021-10-13",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 150</row>\r\n\r\nGuns Equipment / Classic Firearms\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 255 <sup>2.0</sup>\r\n\r\nChapter 5: Treasure Trove / Momentary Magic\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese magic items are ammunition for ranged weapons. Each item's stat block includes an Ammunition entry that lists which type of ammunition it can …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Guns & Gears"
+  "GM Core"
  ],
  "source_raw": [
-  "Guns & Gears pg. 150"
+  "GM Core pg. 255"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Guns &amp; Gears](/Sources.aspx?ID=98) pg. 150</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 255 <sup>2.0</sup>",
  "speed": {},
- "text": " Ammunition Source Guns &amp; Gears pg. 150 Firearms require ammunition consisting of a projectile and black powder. A round of ammo can vary in its composition but is typically either a prepackaged paper cartridge, including wadding, bullet, and black powder, or loose shot packed in manually. Some weapons, like hand cannons and blunderbusses, can fire other materials, but their ammunition has the same Price due to the cost of the black powder. Because making rounds of firearm ammunition requires creating black powder, you need the Alchemical Crafting skill feat to make them. Firearm rounds are a valid option for magical ammunition, just like arrows or bolts. Crafting magical firearm ammunition requires you to be able to craft both alchemical and magical items. ",
+ "summary": "These magic items are ammunition for ranged weapons. Each item's stat block includes an Ammunition entry that lists which type of ammunition it can …",
+ "summary_markdown": "These magic items are ammunition for ranged weapons. Each item's stat block includes an Ammunition entry that lists which type of ammunition it can …",
+ "text": " Ammunition Source GM Core pg. 255 2.0 These magic items are ammunition for ranged weapons. Each item's stat block includes an Ammunition entry that lists which type of ammunition it can be Crafted as, or “any” if it's not limited to any particular type. All stat blocks for ammunition omit the Usage and Bulk entries; use the standard rules for the type of ammunition to determine reloading times and Bulk. When using magic ammunition, use your ranged weapon's fundamental runes to determine the attack modifier and damage dice. Don't add the effects of your weapon's property runes unless the ammunition states otherwise—the ammunition creates its own effects. Magic ammunition deals damage on a hit normally in addition to any listed effects unless its description states otherwise. Regardless of whether an attack with magic ammunition hits or misses, launching the ammunition consumes its magic. Magic ammunition is made of normal materials, not precious materials, unless stated otherwise. Click here for the Magical Ammunition category page. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1650",
+ "url": "/Rules.aspx?ID=3193",
  "weakness": {}
 }

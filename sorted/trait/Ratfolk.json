@@ -1,38 +1,46 @@
 {
- "breadcrumbs_spa": [],
  "category": "trait",
  "exclude_from_search": false,
- "id": "trait-234",
- "markdown": "<title level=\"1\" right=\"Trait\">[Ratfolk](/Traits.aspx?ID=234)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 269 <sup>2.0</sup></row>\n\nA creature with this trait is a member of the ratfolk ancestry. Ratfolk are [humanoids](/Traits.aspx?ID=91) who resemble rats. An ability with this trait can be used or selected only by ratfolk.",
+ "id": "trait-769",
+ "legacy_id": [
+  "trait-234"
+ ],
+ "markdown": "<title level=\"1\" right=\"Trait\">[Ratfolk](/Traits.aspx?ID=769)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 317 <sup>1.1</sup>\n\nA creature with this trait is a member of the [ratfolk](/Ancestries.aspx?ID=82) ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or selected only by ratfolk.",
  "name": "Ratfolk",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 317",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 269 <sup>2.0</sup></row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA creature with this trait is a member of the ratfolk ancestry. Ratfolk are  humanoids  who resemble rats. An ability with this trait can be used or …\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 317 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA creature with this trait is a member of the  ratfolk  ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 269"
+  "Player Core 2 pg. 317"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 269 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 317 <sup>1.1</sup>",
  "speed": {},
- "summary": "A creature with this trait is a member of the ratfolk ancestry. Ratfolk are  humanoids  who resemble rats. An ability with this trait can be used or …",
- "summary_markdown": "A creature with this trait is a member of the ratfolk ancestry. Ratfolk are  humanoids  who resemble rats. An ability with this trait can be used or …",
- "text": " Ratfolk Source Advanced Player's Guide pg. 269 2.0 A creature with this trait is a member of the ratfolk ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or selected only by ratfolk.",
+ "summary": "A creature with this trait is a member of the  ratfolk  ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or …",
+ "summary_markdown": "A creature with this trait is a member of the  ratfolk  ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or …",
+ "text": " Ratfolk Source Player Core 2 pg. 317 1.1 A creature with this trait is a member of the ratfolk ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or selected only by ratfolk.",
  "trait": [
   "Ratfolk"
  ],
  "trait_group": [
-  "Monster",
-  "Ancestry"
+  "Monster"
  ],
  "trait_markdown": "Ratfolk",
  "trait_raw": [
   "Ratfolk"
  ],
  "type": "Trait",
- "url": "/Traits.aspx?ID=234",
+ "url": "/Traits.aspx?ID=769",
  "weakness": {}
 }

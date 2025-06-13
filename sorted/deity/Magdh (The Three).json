@@ -1,10 +1,15 @@
 {
- "ability": [
+ "attribute": [
   "Intelligence",
   "Wisdom"
  ],
- "alignment": "LN",
- "breadcrumbs_spa": [],
+ "anathema": "Lie, share your magic readings without payment (no matter how trivial",
+ "area_of_concern": [
+  "Complexity",
+  "fate",
+  "triplets"
+ ],
+ "area_of_concern_raw": "Complexity, fate, triplets",
  "category": "deity",
  "cleric_spell": [
   "Anticipate Peril",
@@ -14,7 +19,6 @@
  "deity": [
   "Magdh"
  ],
- "deity_markdown": "[Magdh](/Deities.aspx?ID=97)",
  "deity_category": "Eldest",
  "deity_category_markdown": "[Eldest\r\n](/DeityCategories.aspx?ID=7)",
  "deity_category_order": "2Eldest\r\n",
@@ -27,57 +31,75 @@
   "Fate",
   "Glyph",
   "Knowledge",
+  "Time",
   "Truth"
  ],
- "domain_markdown": "[Fate](/Domains.aspx?ID=12), [Glyph](/Domains.aspx?ID=46), [Knowledge](/Domains.aspx?ID=17), [Truth](/Domains.aspx?ID=32)",
- "domain_alternate_markdown": "",
+ "domain_markdown": "[Fate](/Domains.aspx?ID=75), [Glyph](/Domains.aspx?ID=109), [Knowledge](/Domains.aspx?ID=80), [Time](/Domains.aspx?ID=121), [Truth](/Domains.aspx?ID=95)",
+ "domain_alternate": [
+  "Time"
+ ],
+ "domain_alternate_markdown": "[Time](/Domains.aspx?ID=121)",
  "domain_primary": [
   "Fate",
   "Glyph",
   "Knowledge",
   "Truth"
  ],
- "domain_primary_markdown": "[Fate](/Domains.aspx?ID=12), [Glyph](/Domains.aspx?ID=46), [Knowledge](/Domains.aspx?ID=17), [Truth](/Domains.aspx?ID=32)",
+ "domain_primary_markdown": "[Fate](/Domains.aspx?ID=75), [Glyph](/Domains.aspx?ID=109), [Knowledge](/Domains.aspx?ID=80), [Truth](/Domains.aspx?ID=95)",
+ "edict": "Use magic to read the future and understand fate",
  "exclude_from_search": false,
  "favored_weapon": [
   "Scythe"
  ],
- "favored_weapon_markdown": "[Scythe](/Weapons.aspx?ID=39)",
- "follower_alignment": [
-  "LN",
-  "N"
+ "favored_weapon_markdown": "[Scythe](/Weapons.aspx?ID=394)",
+ "id": "deity-457",
+ "legacy_id": [
+  "deity-97"
  ],
- "id": "deity-97",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Magdh (The Three)](/Deities.aspx?ID=97)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"LN\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 126 <sup>2.0</sup></row>\n\nMagdh is the Eldest of foreknowledge, complexity, and triplets, and she is the greatest seer in the First World. Most often appearing as a woman with three faces set equidistantly around her head, Magdh looks across the skeins of fate into myriad alternate realities and possible futures. Among all the Eldest, she has the deepest knowledge of reality’s true design and the ripples a single action or inaction can create throughout all of existence. Her communications are veiled in conditional language and oddly juxtaposed statements to an almost maddening degree, and thus she never communicates the prophetic truths she sees—so plain to her six eyes—in a straightforward way. Because of their shared knowledge of branching timelines, Shyka and Magdh can communicate more easily with each other about such topics, though the other Eldest are cautious around Magdh, lest a careless comment or errant gesture cause her to predict apocalyptic dooms.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Eldest\r\n](/DeityCategories.aspx?ID=7)\r\n\r\n**Edicts** Use divination\r\n\r\n**Anathema** Lie, share your divinations without payment (no matter how trivial)\r\n\r\n**Area of Concern**\r\nforeknowledge, complexity, and triplets\r\n\r\n**Follower Alignments**\r\nLN, N\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nIntelligence or Wisdom\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Occultism](/Skills.aspx?ID=11)\r\n\r\n**Favored Weapon** [Scythe](/Weapons.aspx?ID=39)\r\n\r\n**Domains** [Fate](/Domains.aspx?ID=12), [Glyph](/Domains.aspx?ID=46), [Knowledge](/Domains.aspx?ID=17), [Truth](/Domains.aspx?ID=32)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Anticipate Peril](/Spells.aspx?ID=568)\n\n- **3rd**\r\n[Threefold Aspect](/Spells.aspx?ID=723)\n\n- **6th**\r\n[Scrying](/Spells.aspx?ID=268)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Magdh (The Three)](/Deities.aspx?ID=457)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 306\n\nMagdh is the Eldest of foreknowledge, complexity, and triplets, and she is the greatest seer in the [First World](/Planes.aspx?ID=35). Most often appearing as a woman with three faces set equidistantly around her head, Magdh looks across the skeins of fate into myriad alternate realities and possible futures. Among all the Eldest, she has the deepest knowledge of reality’s true design and the ripples a single action or inaction can create throughout all of existence. Her communications are veiled in conditional language and oddly juxtaposed statements to an almost infuriating degree, and thus she never communicates the prophetic truths she sees—so plain to her six eyes—in a straightforward way. Because of their shared knowledge of branching timelines, [Shyka](/Deities.aspx?ID=100) and Magdh can communicate more easily with each other about such topics, though the other Eldest are cautious around Magdh, lest a careless comment or errant gesture cause her to predict apocalyptic dooms.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Eldest\r\n](/DeityCategories.aspx?ID=7)\r\n\r\n**Edicts** Use magic to read the future and understand fate\r\n\r\n**Anathema** Lie, share your magic readings without payment (no matter how trivial\r\n\r\n**Area of Concern**\r\nComplexity, fate, triplets\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nIntelligence or Wisdom\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** none\r\n\r\n**Divine Skill** [Occultism](/Skills.aspx?ID=44)\r\n\r\n**Favored Weapon** [Scythe](/Weapons.aspx?ID=394)\r\n\r\n**Domains** [Fate](/Domains.aspx?ID=75), [Glyph](/Domains.aspx?ID=109), [Knowledge](/Domains.aspx?ID=80), [Truth](/Domains.aspx?ID=95)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** [Time](/Domains.aspx?ID=121)\r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Anticipate Peril](/Spells.aspx?ID=2343)\n\n- **3rd**\r\n[Threefold Aspect](/Spells.aspx?ID=2038)\n\n- **6th**\r\n[Scrying](/Spells.aspx?ID=1662)\n\n</column>",
  "name": "Magdh (The Three)",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 306",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "Green three-pointed knot",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 126 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Harm or Heal\r\n\r\n**Divine Skill** [Occultism](/Skills.aspx?ID=11)\r\n\r\n**Favored Weapon** [Scythe](/Weapons.aspx?ID=39)\r\n\r\n**Domains** [Fate](/Domains.aspx?ID=12), [Glyph](/Domains.aspx?ID=46), [Knowledge](/Domains.aspx?ID=17), [Truth](/Domains.aspx?ID=32)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMagdh is the Eldest of foreknowledge, complexity, and triplets, and she is the greatest seer in the First World. Most often appearing as a woman with …\r\n</summary>",
+ "sacred_animal": "Multi-headed animals",
+ "sacred_color": [
+  "blue",
+  "green"
+ ],
+ "sanctification_raw": "none",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 306\r\n\r\n**Divine Font** Harm or Heal\r\n\r\n**Divine Skill** [Occultism](/Skills.aspx?ID=44)\r\n\r\n**Favored Weapon** [Scythe](/Weapons.aspx?ID=394)\r\n\r\n**Domains** [Fate](/Domains.aspx?ID=75), [Glyph](/Domains.aspx?ID=109), [Knowledge](/Domains.aspx?ID=80), [Time](/Domains.aspx?ID=121), [Truth](/Domains.aspx?ID=95)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMagdh is the Eldest of foreknowledge, complexity, and triplets, and she is the greatest seer in the  First World . Most often appearing as a woman …\r\n</summary>",
  "skill": [
   "Occultism"
  ],
- "skill_markdown": "[Occultism](/Skills.aspx?ID=11)",
+ "skill_markdown": "[Occultism](/Skills.aspx?ID=44)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 126"
+  "Divine Mysteries pg. 306"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 126 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 306",
  "speed": {},
- "summary": "Magdh is the Eldest of foreknowledge, complexity, and triplets, and she is the greatest seer in the First World. Most often appearing as a woman with …",
- "summary_markdown": "Magdh is the Eldest of foreknowledge, complexity, and triplets, and she is the greatest seer in the First World. Most often appearing as a woman with …",
- "text": " Magdh (The Three) Source Gods &amp; Magic pg. 126 2.0 Magdh is the Eldest of foreknowledge, complexity, and triplets, and she is the greatest seer in the First World. Most often appearing as a woman with three faces set equidistantly around her head, Magdh looks across the skeins of fate into myriad alternate realities and possible futures. Among all the Eldest, she has the deepest knowledge of reality’s true design and the ripples a single action or inaction can create throughout all of existence. Her communications are veiled in conditional language and oddly juxtaposed statements to an almost maddening degree, and thus she never communicates the prophetic truths she sees—so plain to her six eyes—in a straightforward way. Because of their shared knowledge of branching timelines, Shyka and Magdh can communicate more easily with each other about such topics, though the other Eldest are cautious around Magdh, lest a careless comment or errant gesture cause her to predict apocalyptic dooms. Category [Eldest ](/DeityCategories.aspx?ID=7) Edicts Use divination Anathema Lie, share your divinations without payment (no matter how trivial) Area of Concern foreknowledge, complexity, and triplets Follower Alignments LN, N Devotee Benefits Divine Ability Intelligence or Wisdom Divine Font Harm or Heal Divine Skill Occultism Favored Weapon Scythe Domains Fate, Glyph, Knowledge, Truth Alternate Domains Cleric Spells - 1st Anticipate Peril - 3rd Threefold Aspect - 6th Scrying\n",
- "trait": [
-  "LN"
+ "spell": [
+  "Anticipate Peril",
+  "Threefold Aspect",
+  "Scrying"
  ],
- "trait_raw": [
-  "LN"
- ],
+ "spell_markdown": "[Anticipate Peril](/Spells.aspx?ID=2343), [Scrying](/Spells.aspx?ID=1662), [Threefold Aspect](/Spells.aspx?ID=2038)",
+ "summary": "Magdh is the Eldest of foreknowledge, complexity, and triplets, and she is the greatest seer in the  First World . Most often appearing as a woman …",
+ "summary_markdown": "Magdh is the Eldest of foreknowledge, complexity, and triplets, and she is the greatest seer in the  First World . Most often appearing as a woman …",
+ "text": " Magdh (The Three) Source Divine Mysteries pg. 306 Magdh is the Eldest of foreknowledge, complexity, and triplets, and she is the greatest seer in the First World. Most often appearing as a woman with three faces set equidistantly around her head, Magdh looks across the skeins of fate into myriad alternate realities and possible futures. Among all the Eldest, she has the deepest knowledge of reality’s true design and the ripples a single action or inaction can create throughout all of existence. Her communications are veiled in conditional language and oddly juxtaposed statements to an almost infuriating degree, and thus she never communicates the prophetic truths she sees—so plain to her six eyes—in a straightforward way. Because of their shared knowledge of branching timelines, Shyka and Magdh can communicate more easily with each other about such topics, though the other Eldest are cautious around Magdh, lest a careless comment or errant gesture cause her to predict apocalyptic dooms. Category [Eldest ](/DeityCategories.aspx?ID=7) Edicts Use magic to read the future and understand fate Anathema Lie, share your magic readings without payment (no matter how trivial Area of Concern Complexity, fate, triplets Devotee Benefits Divine Attribute Intelligence or Wisdom Divine Font Harm or Heal Divine Sanctification none Divine Skill Occultism Favored Weapon Scythe Domains Fate, Glyph, Knowledge, Truth Alternate Domains Time Cleric Spells - 1st Anticipate Peril - 3rd Threefold Aspect - 6th Scrying\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=97",
+ "url": "/Deities.aspx?ID=457",
  "weakness": {}
 }

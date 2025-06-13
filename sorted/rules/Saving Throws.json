@@ -1,38 +1,49 @@
 {
  "breadcrumbs": [
-  "Game Master's Trove",
-  "Blighted Boons",
-  "Progression"
+  "Chapter 2: Building Games",
+  "Building Creatures",
+  "Defenses"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1967",
- "markdown": "<title level=\"1\" right=\"Rules\">[Saving Throws](/Rules.aspx?ID=1967)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 186 <sup>1.1</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nIf an effect a [partaker](/Rules.aspx?ID=1964) creates with a blighted boon requires the target to attempt a saving throw, the DC equals the character's class DC or the DC you assign to an NPC or monster. If the partaker must attempt a save against the blighted boon, unless stated otherwise (such as in the Intervals section), the DC equals 10 + the partaker's level + the blighted boon's current stage.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2890",
+ "legacy_id": [
+  "rules-1011"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Saving Throws](/Rules.aspx?ID=2890)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 118 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nYou can often set saves quickly by assigning one high, one moderate, and one low modifier. Some creatures might vary from this, either because they have poor AC but better saves or because they should thematically have multiple good saves and compensate elsewhere. You have more flexibility with saves, and having one save be 1 more or 1 less than the listed number is rarely a big deal. Pay attention to the creature's Con, Dex, and Wis modifiers—these don't have to correspond to the creature's saves exactly, but should inform your choices.\n\nExtreme saves often pair with extreme or high attribute modifiers. Almost no creature should have more than one extreme save, even at high levels. Assign terrible saves to creatures that have a clear weak point—for example, a nearly immobile creature would have a terrible Reflex save.\n\n## Table 2–6: Saving Throws\n<row gap=\"tiny\">\n<table> <tr><td>**Level**</td><td>**Extreme**</td><td>**High**</td><td>**Moderate**</td><td>**Low**</td><td>**Terrible**</td></tr> <tr><td>–1</td><td>+9</td><td>+8</td><td>+5</td><td>+2</td><td>+0</td></tr> <tr><td>0</td><td>+10</td><td>+9</td><td>+6</td><td>+3</td><td>+1</td></tr> <tr><td>1</td><td>+11</td><td>+10</td><td>+7</td><td>+4</td><td>+2</td></tr> <tr><td>2</td><td>+12</td><td>+11</td><td>+8</td><td>+5</td><td>+3</td></tr> <tr><td>3</td><td>+14</td><td>+12</td><td>+9</td><td>+6</td><td>+4</td></tr> <tr><td>4</td><td>+15</td><td>+14</td><td>+11</td><td>+8</td><td>+6</td></tr> <tr><td>5</td><td>+17</td><td>+15</td><td>+12</td><td>+9</td><td>+7</td></tr> <tr><td>6</td><td>+18</td><td>+17</td><td>+14</td><td>+11</td><td>+8</td></tr> <tr><td>7</td><td>+20</td><td>+18</td><td>+15</td><td>+12</td><td>+10</td></tr> <tr><td>8</td><td>+21</td><td>+19</td><td>+16</td><td>+13</td><td>+11</td></tr> <tr><td>9</td><td>+23</td><td>+21</td><td>+18</td><td>+15</td><td>+12</td></tr> <tr><td>10</td><td>+24</td><td>+22</td><td>+19</td><td>+16</td><td>+14</td></tr> <tr><td>11</td><td>+26</td><td>+24</td><td>+21</td><td>+18</td><td>+15</td></tr> <tr><td>12</td><td>+27</td><td>+25</td><td>+22</td><td>+19</td><td>+16</td></tr> <tr><td>13</td><td>+29</td><td>+26</td><td>+23</td><td>+20</td><td>+18</td></tr> <tr><td>14</td><td>+30</td><td>+28</td><td>+25</td><td>+22</td><td>+19</td></tr> <tr><td>15</td><td>+32</td><td>+29</td><td>+26</td><td>+23</td><td>+20</td></tr> <tr><td>16</td><td>+33</td><td>+30</td><td>+28</td><td>+25</td><td>+22</td></tr> <tr><td>17</td><td>+35</td><td>+32</td><td>+29</td><td>+26</td><td>+23</td></tr> <tr><td>18</td><td>+36</td><td>+33</td><td>+30</td><td>+27</td><td>+24</td></tr> <tr><td>19</td><td>+38</td><td>+35</td><td>+32</td><td>+29</td><td>+26</td></tr> <tr><td>20</td><td>+39</td><td>+36</td><td>+33</td><td>+30</td><td>+27</td></tr> <tr><td>21</td><td>+41</td><td>+38</td><td>+35</td><td>+32</td><td>+28</td></tr> <tr><td>22</td><td>+43</td><td>+39</td><td>+36</td><td>+33</td><td>+30</td></tr> <tr><td>23</td><td>+44</td><td>+40</td><td>+37</td><td>+34</td><td>+31</td></tr> <tr><td>24</td><td>+46</td><td>+42</td><td>+38</td><td>+36</td><td>+32</td></tr> </table></row>\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Saving Throws",
  "next_link": {
-  "label": "Death",
-  "url": "/Rules.aspx?ID=1968"
+  "label": "Hit Points",
+  "url": "/Rules.aspx?ID=2891"
  },
  "previous_link": {
-  "label": "Intervals",
-  "url": "/Rules.aspx?ID=1966"
+  "label": "Armor Class",
+  "url": "/Rules.aspx?ID=2889"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 118",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2023-02-22",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 186 <sup>1.1</sup></row>\r\n\r\nGame Master's Trove / Blighted Boons / Progression\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 118 <sup>2.0</sup>\r\n\r\nChapter 2: Building Games / Building Creatures / Defenses\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can often set saves quickly by assigning one high, one moderate, and one low modifier. Some creatures might vary from this, either because they …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Treasure Vault"
+  "GM Core"
  ],
  "source_raw": [
-  "Treasure Vault pg. 186"
+  "GM Core pg. 118"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Treasure Vault](/Sources.aspx?ID=191) pg. 186 <sup>1.1</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 118 <sup>2.0</sup>",
  "speed": {},
- "text": " Saving Throws Source Treasure Vault pg. 186 1.1 If an effect a partaker creates with a blighted boon requires the target to attempt a saving throw, the DC equals the character's class DC or the DC you assign to an NPC or monster. If the partaker must attempt a save against the blighted boon, unless stated otherwise (such as in the Intervals section), the DC equals 10 + the partaker's level + the blighted boon's current stage. ",
+ "summary": "You can often set saves quickly by assigning one high, one moderate, and one low modifier. Some creatures might vary from this, either because they …",
+ "summary_markdown": "You can often set saves quickly by assigning one high, one moderate, and one low modifier. Some creatures might vary from this, either because they …",
+ "text": " Saving Throws Source GM Core pg. 118 2.0 You can often set saves quickly by assigning one high, one moderate, and one low modifier. Some creatures might vary from this, either because they have poor AC but better saves or because they should thematically have multiple good saves and compensate elsewhere. You have more flexibility with saves, and having one save be 1 more or 1 less than the listed number is rarely a big deal. Pay attention to the creature's Con, Dex, and Wis modifiers—these don't have to correspond to the creature's saves exactly, but should inform your choices. Extreme saves often pair with extreme or high attribute modifiers. Almost no creature should have more than one extreme save, even at high levels. Assign terrible saves to creatures that have a clear weak point—for example, a nearly immobile creature would have a terrible Reflex save. ## Table 2–6: Saving Throws Level Extreme High Moderate Low Terrible –1 +9 +8 +5 +2 +0 0 +10 +9 +6 +3 +1 1 +11 +10 +7 +4 +2 2 +12 +11 +8 +5 +3 3 +14 +12 +9 +6 +4 4 +15 +14 +11 +8 +6 5 +17 +15 +12 +9 +7 6 +18 +17 +14 +11 +8 7 +20 +18 +15 +12 +10 8 +21 +19 +16 +13 +11 9 +23 +21 +18 +15 +12 10 +24 +22 +19 +16 +14 11 +26 +24 +21 +18 +15 12 +27 +25 +22 +19 +16 13 +29 +26 +23 +20 +18 14 +30 +28 +25 +22 +19 15 +32 +29 +26 +23 +20 16 +33 +30 +28 +25 +22 17 +35 +32 +29 +26 +23 18 +36 +33 +30 +27 +24 19 +38 +35 +32 +29 +26 20 +39 +36 +33 +30 +27 21 +41 +38 +35 +32 +28 22 +43 +39 +36 +33 +30 23 +44 +40 +37 +34 +31 24 +46 +42 +38 +36 +32 ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1967",
+ "url": "/Rules.aspx?ID=2890",
  "weakness": {}
 }

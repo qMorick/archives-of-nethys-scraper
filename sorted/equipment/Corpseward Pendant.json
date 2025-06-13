@@ -1,45 +1,60 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
+ "bulk": 0,
  "category": "equipment",
  "exclude_from_search": false,
  "id": "equipment-2341",
  "item_category": "Worn Items",
  "item_subcategory": "Other Worn Items",
  "level": 5,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Corpseward Pendant](/Equipment.aspx?ID=2341)\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Abjuration\" url=\"/Traits.aspx?ID=2\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 153 <sup>1.1</sup>, [Pathfinder #157: Devil at the Dreaming Palace](/Sources.aspx?ID=45) pg. 80</row>\n\n**Price** 150 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** worn\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nA _corpseward pendant_ is usually shaped like the skull of a humanoid or small animal.\n\n<document level=\"2\" id=\"action-1897\" />\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Corpseward Pendant](/Equipment.aspx?ID=2341)\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 153 <sup>2.0</sup>, [Pathfinder #157: Devil at the Dreaming Palace](/Sources.aspx?ID=45) pg. 80\n\n**Price** 150 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** worn\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nA _corpseward pendant_ is usually shaped like the skull of a humanoid or small animal.\n\n**Activate** <actions string=\"Single Action\" /> ([manipulate](/Traits.aspx?ID=645)) **Frequency** once per hour;   **Effect** You become [undetectable](/Conditions.aspx?ID=96) to undead creatures for 10 minutes. [Undead](/Traits.aspx?ID=722) can’t see, hear, or smell you, or detect you with sensory capabilities such as [tremorsense](/MonsterAbilities.aspx?ID=82). A creature can attempt a DC 18 Will saving throw to ignore this effect. If an undead has reason to believe that undetected opponents are present, it can still attempt to [Seek](/Actions.aspx?ID=2301) or [Strike](/Actions.aspx?ID=2306) you. If you attempt to use a [vitality](/Traits.aspx?ID=509) spell to damage undead, touch or damage an undead creature, or attack any creature while warded in this manner, the pendant’s effects immediately end. An undead creature who observes you in this manner or one who succeeds at the Will save is immune to the _corpseward pendant_ for 24 hours.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Corpseward Pendant",
  "pfs": "Standard",
  "price": 15000,
  "price_raw": "150 gp",
+ "primary_source": "Treasure Vault",
+ "primary_source_raw": "Treasure Vault pg. 153",
+ "primary_source_category": "Rulebooks",
  "rarity": "uncommon",
+ "rarity_id": 2,
  "release_date": "2023-02-22",
  "resistance": {},
- "school": "abjuration",
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Abjuration\" url=\"/Traits.aspx?ID=2\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Sources** [Treasure Vault](/Sources.aspx?ID=191) pg. 153 <sup>1.1</sup>, [Pathfinder #157: Devil at the Dreaming Palace](/Sources.aspx?ID=45) pg. 80</row>\r\n\r\n**Price** 150 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** worn\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA  corpseward pendant  is usually shaped like the skull of a humanoid or small animal. \r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 153 <sup>2.0</sup>, [Pathfinder #157: Devil at the Dreaming Palace](/Sources.aspx?ID=45) pg. 80\r\n\r\n**Price** 150 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** worn\r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA  corpseward pendant  is usually shaped like the skull of a humanoid or small animal. \r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Treasure Vault"
+  "Treasure Vault",
+  "Pathfinder #157: Devil at the Dreaming Palace"
  ],
  "source_raw": [
-  "Treasure Vault pg. 153"
+  "Treasure Vault pg. 153",
+  "Pathfinder #157: Devil at the Dreaming Palace pg. 80"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Treasure Vault](/Sources.aspx?ID=191) pg. 153 <sup>1.1</sup>, [Pathfinder #157: Devil at the Dreaming Palace](/Sources.aspx?ID=45) pg. 80</row>",
+ "source_category": [
+  "Rulebooks",
+  "Adventure Paths"
+ ],
+ "source_group": [
+  "Agents of Edgewatch"
+ ],
+ "source_markdown": "[Treasure Vault](/Sources.aspx?ID=191) pg. 153 <sup>2.0</sup>, [Pathfinder #157: Devil at the Dreaming Palace](/Sources.aspx?ID=45) pg. 80",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
  "summary": "A  corpseward pendant  is usually shaped like the skull of a humanoid or small animal. ",
  "summary_markdown": "A  corpseward pendant  is usually shaped like the skull of a humanoid or small animal. ",
- "text": "<title level=\"1\" right=\"Item 5\" pfs=\"Standard\" > Corpseward Pendant Source Treasure Vault pg. 153 1.1 , Pathfinder #157: Devil at the Dreaming Palace pg. 80 Price 150 gp Usage worn --- A corpseward pendant is usually shaped like the skull of a humanoid or small animal.\n",
+ "text": "<title level=\"1\" right=\"Item 5\" pfs=\"Standard\" > Corpseward Pendant Source Treasure Vault pg. 153 2.0 , Pathfinder #157: Devil at the Dreaming Palace pg. 80 Price 150 gp Usage worn --- A corpseward pendant is usually shaped like the skull of a humanoid or small animal. Activate Single Action (manipulate) Frequency once per hour; Effect You become undetectable to undead creatures for 10 minutes. Undead can’t see, hear, or smell you, or detect you with sensory capabilities such as tremorsense. A creature can attempt a DC 18 Will saving throw to ignore this effect. If an undead has reason to believe that undetected opponents are present, it can still attempt to Seek or Strike you. If you attempt to use a vitality spell to damage undead, touch or damage an undead creature, or attack any creature while warded in this manner, the pendant’s effects immediately end. An undead creature who observes you in this manner or one who succeeds at the Will save is immune to the corpseward pendant for 24 hours.\n",
  "trait": [
-  "Abjuration",
   "Invested",
   "Magical",
   "Uncommon"
  ],
- "trait_markdown": "[Abjuration](/Traits.aspx?ID=2), [Invested](/Traits.aspx?ID=98), [Magical](/Traits.aspx?ID=103), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Equipment",
+  "Mechanics",
+  "Rarity"
+ ],
+ "trait_markdown": "[Invested](/Traits.aspx?ID=98), [Magical](/Traits.aspx?ID=103), [Uncommon](/Traits.aspx?ID=159)",
  "trait_raw": [
-  "Abjuration",
   "Invested",
   "Magical",
   "Uncommon"

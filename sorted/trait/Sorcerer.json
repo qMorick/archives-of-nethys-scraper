@@ -1,26 +1,35 @@
 {
- "breadcrumbs_spa": [],
  "category": "trait",
  "exclude_from_search": false,
- "id": "trait-148",
- "markdown": "<title level=\"1\" right=\"Trait\">[Sorcerer](/Traits.aspx?ID=148)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 636 <sup>4.0</sup></row>\n\nThis indicates abilities from the [sorcerer](/Classes.aspx?ID=11) class.",
+ "id": "trait-824",
+ "legacy_id": [
+  "trait-148"
+ ],
+ "markdown": "<title level=\"1\" right=\"Trait\">[Sorcerer](/Traits.aspx?ID=824)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 318 <sup>1.1</sup>\n\nThis indicates abilities from the [sorcerer](/Classes.aspx?ID=62) class.",
  "name": "Sorcerer",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 318",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 636 <sup>4.0</sup></row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis indicates abilities from the  sorcerer  class.\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 318 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis indicates abilities from the  sorcerer  class.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 636"
+  "Player Core 2 pg. 318"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 636 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 318 <sup>1.1</sup>",
  "speed": {},
  "summary": "This indicates abilities from the  sorcerer  class.",
  "summary_markdown": "This indicates abilities from the  sorcerer  class.",
- "text": " Sorcerer Source Core Rulebook pg. 636 4.0 This indicates abilities from the sorcerer class.",
+ "text": " Sorcerer Source Player Core 2 pg. 318 1.1 This indicates abilities from the sorcerer class.",
  "trait": [
   "Sorcerer"
  ],
@@ -32,6 +41,6 @@
   "Sorcerer"
  ],
  "type": "Trait",
- "url": "/Traits.aspx?ID=148",
+ "url": "/Traits.aspx?ID=824",
  "weakness": {}
 }

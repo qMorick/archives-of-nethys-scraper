@@ -1,59 +1,77 @@
 {
  "actions": "Two Actions",
+ "actions_number": 4,
  "bloodline_markdown": "",
- "breadcrumbs_spa": [],
  "category": "spell",
- "component": [
-  "somatic",
-  "verbal"
- ],
- "deity_markdown": "",
  "domain": [
   "Change"
  ],
- "domain_markdown": "[Change](/Domains.aspx?ID=40)",
+ "domain_markdown": "[Change](/Domains.aspx?ID=102)",
  "duration": 60,
  "duration_raw": "1 minute",
  "exclude_from_search": false,
+ "heighten_group": [
+  "1st rank"
+ ],
  "heighten_level": [
   1
  ],
- "id": "spell-594",
+ "id": "spell-2377",
+ "legacy_id": [
+  "spell-594"
+ ],
  "level": 1,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Focus 1\" pfs=\"Standard\">[Adapt Self](/Spells.aspx?ID=594)</title>\n\n<traits>\r\n<trait label=\"Morph\" url=\"/Traits.aspx?ID=113\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 112 <sup>2.0</sup></row>\n\n**Domain**\r\n[Change](/Domains.aspx?ID=40)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou make subtle changes to yourself to adapt to the situation. Choose one of the following options that applies to you.\n\n-  If you are in water, you gain a swim Speed equal to half your Speed.\r\n-  If you are in water, you become able to breathe water.\r\n-  If it’s too dark for you to see, you gain [darkvision](/Rules.aspx?ID=415).\r\n-  If you are in an environment of [severe heat or severe cold](/Rules.aspx?ID=642), you are protected from the effects of severe heat or severe cold, and the spell lasts 10 minutes.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Focus 1\" pfs=\"Standard\">\r\n[Adapt Self](/Spells.aspx?ID=2377)\r\n<actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n<trait label=\"Morph\" url=\"/Traits.aspx?ID=113\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 262\n\n**Domain**\r\n[Change](/Domains.aspx?ID=102)\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou make subtle changes to your body to adapt to the situation. Choose one of the following options that applies to you. \n<ul><li>If you are in water, you gain a [swim Speed](/Rules.aspx?ID=2351) equal to half your Speed.</li><li>If you are in water, you become able to breathe water.</li><li>If it’s too dark for you to see, you gain [darkvision](/Rules.aspx?ID=2410).</li><li>If you are in an environment of [severe heat](/Rules.aspx?ID=2820) or severe cold, you are protected from the effects of severe heat or severe cold, and the spell lasts 10 minutes.</li></ul>",
  "name": "Adapt Self",
- "patron_theme_markdown": "",
  "pfs": "Standard",
- "rarity": "common",
- "release_date": "2020-01-29",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 262",
+ "primary_source_category": "Lost Omens",
+ "rarity": "uncommon",
+ "rarity_id": 2,
+ "release_date": "2025-01-30",
  "resistance": {},
- "school": "transmutation",
- "search_markdown": "<traits>\r\n<trait label=\"Morph\" url=\"/Traits.aspx?ID=113\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 112 <sup>2.0</sup></row>\n\n**Domain**\r\n[Change](/Domains.aspx?ID=40)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Duration** 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou make subtle changes to yourself to adapt to the situation.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n<trait label=\"Morph\" url=\"/Traits.aspx?ID=113\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 262\n\n**Domain**\r\n[Change](/Domains.aspx?ID=102)\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou make subtle changes to your body to adapt to the situation.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 112"
+  "Divine Mysteries pg. 262"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 112 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 262",
  "speed": {},
- "summary": "You make subtle changes to yourself to adapt to the situation.",
- "summary_markdown": "You make subtle changes to yourself to adapt to the situation.",
- "text": " Adapt Self Source Gods &amp; Magic pg. 112 2.0 Domain Change Cast Two Actions somatic, verbal Duration 1 minute --- You make subtle changes to yourself to adapt to the situation. Choose one of the following options that applies to you. - If you are in water, you gain a swim Speed equal to half your Speed. - If you are in water, you become able to breathe water. - If it’s too dark for you to see, you gain darkvision. - If you are in an environment of severe heat or severe cold, you are protected from the effects of severe heat or severe cold, and the spell lasts 10 minutes.",
+ "spell_type": "Focus",
+ "summary": "You make subtle changes to your body to adapt to the situation.",
+ "summary_markdown": "You make subtle changes to your body to adapt to the situation.",
+ "text": "\nAdapt Self Two Actions Source Divine Mysteries pg. 262 Domain Change Duration 1 minute --- You make subtle changes to your body to adapt to the situation. Choose one of the following options that applies to you. If you are in water, you gain a swim Speed equal to half your Speed. If you are in water, you become able to breathe water. If it’s too dark for you to see, you gain darkvision. If you are in an environment of severe heat or severe cold, you are protected from the effects of severe heat or severe cold, and the spell lasts 10 minutes. ",
  "tradition_markdown": "",
  "trait": [
+  "Cleric",
+  "Concentrate",
+  "Focus",
+  "Manipulate",
   "Morph",
-  "Transmutation"
+  "Uncommon"
  ],
- "trait_markdown": "[Morph](/Traits.aspx?ID=113), [Transmutation](/Traits.aspx?ID=157)",
+ "trait_group": [
+  "Class",
+  "Mechanics",
+  "Rarity"
+ ],
+ "trait_markdown": "[Cleric](/Traits.aspx?ID=26), [Concentrate](/Traits.aspx?ID=32), [Focus](/Traits.aspx?ID=511), [Manipulate](/Traits.aspx?ID=104), [Morph](/Traits.aspx?ID=113), [Uncommon](/Traits.aspx?ID=159)",
  "trait_raw": [
+  "Cleric",
+  "Concentrate",
+  "Focus",
+  "Manipulate",
   "Morph",
-  "Transmutation"
+  "Uncommon"
  ],
- "type": "Focus",
- "url": "/Spells.aspx?ID=594",
+ "type": "Spell",
+ "url": "/Spells.aspx?ID=2377",
  "weakness": {}
 }

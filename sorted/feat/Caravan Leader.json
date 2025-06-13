@@ -1,42 +1,54 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Caravan Leader"
  ],
  "feat_markdown": "Caravan Leader",
- "id": "feat-2115",
+ "id": "feat-6467",
+ "legacy_id": [
+  "feat-2115"
+ ],
  "level": 11,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 11\"\r\n    pfs=\"Standard\"\r\n>\r\n[Caravan Leader](/Feats.aspx?ID=2115) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=78\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 204 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nConstitution 18; [Pick up the Pace](/Feats.aspx?ID=2140)\n\n</column>\r\n\r\n---\r\n\r\nYou know how to get the most effort out of your allies on the road. When [Hustling](/Actions.aspx?ID=515) in a group during exploration mode, your group can Hustle for as long as the member who could Hustle longest on their own, plus an additional 20 minutes beyond that.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 11\"\r\n    pfs=\"Standard\"\r\n>\r\n[Caravan Leader](/Feats.aspx?ID=6467) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=615\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 228 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Pick Up the Pace](/Feats.aspx?ID=6495)\n\n</column>\r\n\r\n---\r\n\r\nYou know how to get the most effort out of your allies on the road. Your group can [Hustle](/Actions.aspx?ID=2626) for an additional 20 minutes beyond the length of time that the member who could Hustle longest on their own.",
  "name": "Caravan Leader",
  "pfs": "Standard",
- "prerequisite": "Constitution 18; Pick up the Pace",
- "prerequisite_markdown": "Constitution 18; [Pick up the Pace](/Feats.aspx?ID=2140)",
+ "prerequisite": "Pick Up the Pace",
+ "prerequisite_markdown": "[Pick Up the Pace](/Feats.aspx?ID=6495)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 228",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=78\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 204 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nConstitution 18; [Pick up the Pace](/Feats.aspx?ID=2140)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour group can Hustle for much longer.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=615\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 228 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Pick Up the Pace](/Feats.aspx?ID=6495)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou know how to get the most effort out of your allies on the road.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 204"
+  "Player Core 2 pg. 228"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 204 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 228 <sup>1.1</sup>",
  "speed": {},
- "summary": "Your group can Hustle for much longer.",
- "summary_markdown": "Your group can Hustle for much longer.",
- "text": "<title level=\"1\" right=\"Feat 11\" pfs=\"Standard\" > Caravan Leader Source Advanced Player's Guide pg. 204 2.0 Prerequisites Constitution 18; Pick up the Pace --- You know how to get the most effort out of your allies on the road. When Hustling in a group during exploration mode, your group can Hustle for as long as the member who could Hustle longest on their own, plus an additional 20 minutes beyond that.",
+ "summary": "You know how to get the most effort out of your allies on the road.",
+ "summary_markdown": "You know how to get the most effort out of your allies on the road.",
+ "text": "<title level=\"1\" right=\"Feat 11\" pfs=\"Standard\" > Caravan Leader Source Player Core 2 pg. 228 1.1 Prerequisites Pick Up the Pace --- You know how to get the most effort out of your allies on the road. Your group can Hustle for an additional 20 minutes beyond the length of time that the member who could Hustle longest on their own.",
  "trait": [
   "General"
  ],
- "trait_markdown": "[General](/Traits.aspx?ID=78)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[General](/Traits.aspx?ID=615)",
  "trait_raw": [
   "General"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2115",
+ "url": "/Feats.aspx?ID=6467",
  "weakness": {}
 }

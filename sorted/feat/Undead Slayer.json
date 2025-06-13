@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Undead Slayer"
  ],
  "feat_markdown": "Undead Slayer",
- "id": "feat-1343",
+ "id": "feat-5721",
+ "legacy_id": [
+  "feat-1343"
+ ],
  "level": 5,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Undead Slayer](/Feats.aspx?ID=1343) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Dhampir\" url=\"/Traits.aspx?ID=215\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 33 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYour knowledge of your own not-quite-living anatomy, combined with your experience in combat, helps you take down undead foes with ease. Against [undead](/Traits.aspx?ID=160) creatures, you gain a circumstance bonus to damage with weapons and unarmed attacks equal to the number of weapon damage dice for the Strike. This bonus increases to double the number of weapon damage dice if your target has the [vampire](/Traits.aspx?ID=242) trait.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Undead Slayer](/Feats.aspx?ID=5721) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Dhampir\" url=\"/Traits.aspx?ID=750\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 43 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYour knowledge of your own not-quite-living anatomy, combined with your experience in combat, helps you take down undead foes with ease. Against [undead](/Traits.aspx?ID=722) creatures, you gain a circumstance bonus to damage with weapon and unarmed Strikes equal to the number of weapon damage dice for the Strike. This bonus increases to double the number of weapon damage dice if your target has the [vampire](/Traits.aspx?ID=778) trait.",
  "name": "Undead Slayer",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 43",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Dhampir\" url=\"/Traits.aspx?ID=215\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 33 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour knowledge of your own not-quite-living anatomy, combined with your experience in combat, helps you take down undead foes with ease.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Dhampir\" url=\"/Traits.aspx?ID=750\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 43 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour knowledge of your own not-quite-living anatomy, combined with your experience in combat, helps you take down undead foes with ease.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 33"
+  "Player Core 2 pg. 43"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 33 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 43 <sup>1.1</sup>",
  "speed": {},
  "summary": "Your knowledge of your own not-quite-living anatomy, combined with your experience in combat, helps you take down undead foes with ease.",
  "summary_markdown": "Your knowledge of your own not-quite-living anatomy, combined with your experience in combat, helps you take down undead foes with ease.",
- "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Undead Slayer Source Advanced Player's Guide pg. 33 2.0 --- Your knowledge of your own not-quite-living anatomy, combined with your experience in combat, helps you take down undead foes with ease. Against undead creatures, you gain a circumstance bonus to damage with weapons and unarmed attacks equal to the number of weapon damage dice for the Strike. This bonus increases to double the number of weapon damage dice if your target has the vampire trait.",
+ "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Undead Slayer Source Player Core 2 pg. 43 1.1 --- Your knowledge of your own not-quite-living anatomy, combined with your experience in combat, helps you take down undead foes with ease. Against undead creatures, you gain a circumstance bonus to damage with weapon and unarmed Strikes equal to the number of weapon damage dice for the Strike. This bonus increases to double the number of weapon damage dice if your target has the vampire trait.",
  "trait": [
   "Dhampir"
  ],
- "trait_markdown": "[Dhampir](/Traits.aspx?ID=215)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Dhampir](/Traits.aspx?ID=750)",
  "trait_raw": [
   "Dhampir"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1343",
+ "url": "/Feats.aspx?ID=5721",
  "weakness": {}
 }

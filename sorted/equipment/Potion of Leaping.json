@@ -1,54 +1,65 @@
 {
  "actions": "Single Action",
+ "actions_number": 2,
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
  "bulk": 0.1,
  "bulk_raw": "L",
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-190",
+ "id": "equipment-2949",
  "item_category": "Consumables",
  "item_subcategory": "Potions",
+ "legacy_id": [
+  "equipment-190"
+ ],
  "level": 5,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Potion of Leaping](/Equipment.aspx?ID=190)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Potion\" url=\"/Traits.aspx?ID=130\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 563 <sup>4.0</sup></row>\n\n**Price** 21 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>Interact</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nFor 1 minute after you drink this fizzy potion, whenever you Leap, you gain the effect of the 1st-level [_jump_](/Spells.aspx?ID=167) spell.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Potion of Leaping](/Equipment.aspx?ID=2949)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Potion\" url=\"/Traits.aspx?ID=672\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 260 <sup>2.0</sup>\n\n**Price** 21 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([manipulate](/Traits.aspx?ID=104))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nFor 1 minute after you drink this fizzy potion, whenever you Leap, you gain the effect of the 1st-rank [_jump_](/Spells.aspx?ID=167) spell.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Potion of Leaping",
  "pfs": "Standard",
  "price": 2100,
  "price_raw": "21 gp",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 260",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "school": "transmutation",
- "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Potion\" url=\"/Traits.aspx?ID=130\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 563 <sup>4.0</sup></row>\r\n\r\n**Price** 21 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>Interact</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFor 1 minute after you drink this fizzy potion, whenever you Leap, you gain the effect of the 1st-level   jump   spell.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Potion\" url=\"/Traits.aspx?ID=672\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 260 <sup>2.0</sup>\r\n\r\n**Price** 21 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([manipulate](/Traits.aspx?ID=104))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFor 1 minute after you drink this fizzy potion, whenever you Leap, you gain the effect of the 1st-rank   jump   spell.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 563"
+  "GM Core pg. 260"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 563 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 260 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "For 1 minute after you drink this fizzy potion, whenever you Leap, you gain the effect of the 1st-level   jump   spell.",
- "summary_markdown": "For 1 minute after you drink this fizzy potion, whenever you Leap, you gain the effect of the 1st-level   jump   spell.",
- "text": "<title level=\"1\" right=\"Item 5\" pfs=\"Standard\" > Potion of Leaping Source Core Rulebook pg. 563 4.0 Price 21 gp Usage held in 1 hand Bulk L Activate Single Action Interact --- For 1 minute after you drink this fizzy potion, whenever you Leap, you gain the effect of the 1st-level jump spell.\n",
+ "summary": "For 1 minute after you drink this fizzy potion, whenever you Leap, you gain the effect of the 1st-rank   jump   spell.",
+ "summary_markdown": "For 1 minute after you drink this fizzy potion, whenever you Leap, you gain the effect of the 1st-rank   jump   spell.",
+ "text": "<title level=\"1\" right=\"Item 5\" pfs=\"Standard\" > Potion of Leaping Source GM Core pg. 260 2.0 Price 21 gp Usage held in 1 hand Bulk L Activate Single Action (manipulate) --- For 1 minute after you drink this fizzy potion, whenever you Leap, you gain the effect of the 1st-rank jump spell.\n",
  "trait": [
   "Consumable",
   "Magical",
-  "Potion",
-  "Transmutation"
+  "Potion"
  ],
- "trait_markdown": "[Consumable](/Traits.aspx?ID=36), [Magical](/Traits.aspx?ID=103), [Potion](/Traits.aspx?ID=130), [Transmutation](/Traits.aspx?ID=157)",
+ "trait_group": [
+  "Equipment",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Consumable](/Traits.aspx?ID=564), [Magical](/Traits.aspx?ID=644), [Potion](/Traits.aspx?ID=672)",
  "trait_raw": [
   "Consumable",
   "Magical",
-  "Potion",
-  "Transmutation"
+  "Potion"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=190",
+ "url": "/Equipment.aspx?ID=2949",
  "usage": "held in 1 hand",
  "usage_markdown": "held in 1 hand",
  "weakness": {}

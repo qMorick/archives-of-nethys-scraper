@@ -1,37 +1,51 @@
 {
  "actions": "Single Action",
+ "actions_number": 2,
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
  "bulk": 0.1,
  "bulk_raw": "L",
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-82-123",
+ "id": "equipment-3315-3214",
  "item_category": "Alchemical Items",
+ "item_parent_id": "equipment-3315",
  "item_subcategory": "Alchemical Elixirs",
+ "legacy_id": [
+  "equipment-82"
+ ],
+ "legacy_name": [
+  "Bestial Mutagen"
+ ],
  "level": 3,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 1+\"\r\n    pfs=\"\"\r\n>\r\n[Bestial Mutagen](/Equipment.aspx?ID=82)\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=6\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Elixir\" url=\"/Traits.aspx?ID=59\" />\r\n<trait label=\"Mutagen\" url=\"/Traits.aspx?ID=116\" />\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=127\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 546 <sup>4.0</sup></row>\n\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>Interact</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nYour features transform into something bestial and you take on muscle mass, but your lumbering form is clumsy. \n\n**Benefit** You gain an item bonus to Athletics checks and unarmed attack rolls. You gain a claw unarmed attack with the agile trait and a jaws unarmed attack. \n\n**Drawback** You take a –1 penalty to AC and a –2 penalty to Reflex saves.\n\n<column gap=\"tiny\">\n\n</column>\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 1\"\r\npfs=\"Standard\"\r\n>\r\nBestial Mutagen (Lesser)\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 546 <sup>4.0</sup></row>\n\n**Price** 4 gp\r\n\r\n<row gap=\"medium\">\n\n**Bulk** L\r\n\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\nYou gain a +1 item bonus, your claw deals 1d4 slashing damage, your jaws deal 1d6 piercing damage, and the duration is 1 minute.\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 3\"\r\npfs=\"Standard\"\r\n>\r\nBestial Mutagen (Moderate)\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 546 <sup>4.0</sup></row>\n\n**Price** 12 gp\r\n\r\n<row gap=\"medium\">\n\n**Bulk** L\r\n\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\nYou gain a +2 item bonus, your claw deals 1d6 slashing damage, your jaws deal 1d8 piercing damage, and the duration is 10 minutes.\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 11\"\r\npfs=\"Standard\"\r\n>\r\nBestial Mutagen (Greater)\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 546 <sup>4.0</sup></row>\n\n**Price** 300 gp\r\n\r\n<row gap=\"medium\">\n\n**Bulk** L\r\n\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\nYou gain a +3 item bonus, your claw deals 1d8 slashing damage, your jaws deal 1d10 piercing damage, and the duration is 1 hour.\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 17\"\r\npfs=\"Standard\"\r\n>\r\nBestial Mutagen (Major)\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 546 <sup>4.0</sup></row>\n\n**Price** 3,000 gp\r\n\r\n<row gap=\"medium\">\n\n**Bulk** L\r\n\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\nYou gain a +4 item bonus, your claw deals 1d8 slashing damage, your jaws deal 1d10 piercing damage, and the duration is 1 hour. You gain weapon specialization with the claws and jaws, or greater weapon specialization, if you already have weapon specialization with these unarmed attacks.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 1+\"\r\n    pfs=\"Standard\"\r\n>\r\n[Bestial Mutagen](/Equipment.aspx?ID=3315)\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=528\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Elixir\" url=\"/Traits.aspx?ID=589\" />\r\n<trait label=\"Mutagen\" url=\"/Traits.aspx?ID=808\" />\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=670\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 289 <sup>1.1</sup>\n\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([manipulate](/Traits.aspx?ID=104))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nYour features transform into something bestial and lumbering. \n\n**Benefit** You gain an item bonus to [Athletics](/Skills.aspx?ID=36) checks and unarmed attack rolls. You gain a claw unarmed attack with the agile trait and a jaws unarmed attack. Striking runes don't modify the damage caused by these attacks. \n\n**Drawback** You take a –2 penalty to Reflex saves, [Acrobatics](/Skills.aspx?ID=34) checks, and [Stealth](/Skills.aspx?ID=48) checks.\n\n<column gap=\"tiny\">\n\n</column>\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 1\"\r\npfs=\"Standard\"\r\n>\r\nBestial Mutagen (Lesser)\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 289 <sup>1.1</sup>, [Core Rulebook](/Sources.aspx?ID=1) pg. 546 <sup>4.0</sup>\n\n**Price** 4 gp\r\n\r\n<row gap=\"medium\">\n\n**Bulk** L\r\n\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\nYou gain a +1 item bonus, your claw deals 1d4 slashing damage, your jaws deal 1d6 piercing damage, and the duration is 1 minute.\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 3\"\r\npfs=\"Standard\"\r\n>\r\nBestial Mutagen (Moderate)\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 289 <sup>1.1</sup>, [Core Rulebook](/Sources.aspx?ID=1) pg. 546 <sup>4.0</sup>\n\n**Price** 12 gp\r\n\r\n<row gap=\"medium\">\n\n**Bulk** L\r\n\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\nYou gain a +2 item bonus, your claw deals 2d6 slashing damage, your jaws deal 2d8 piercing damage, and the duration is 10 minutes.\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 11\"\r\npfs=\"Standard\"\r\n>\r\nBestial Mutagen (Greater)\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 289 <sup>1.1</sup>, [Core Rulebook](/Sources.aspx?ID=1) pg. 546 <sup>4.0</sup>\n\n**Price** 300 gp\r\n\r\n<row gap=\"medium\">\n\n**Bulk** L\r\n\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\nYou gain a +3 item bonus, your claw deals 3d8 slashing damage, your jaws deal 3d10 piercing damage, and the duration is 1 hour.\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 17\"\r\npfs=\"Standard\"\r\n>\r\nBestial Mutagen (Major)\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 289 <sup>1.1</sup>, [Core Rulebook](/Sources.aspx?ID=1) pg. 546 <sup>4.0</sup>\n\n**Price** 3,000 gp\r\n\r\n<row gap=\"medium\">\n\n**Bulk** L\r\n\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\nYou gain a +4 item bonus, your claw deals 4d8 slashing damage, your jaws deal 4d10 piercing damage, and the duration is 1 hour. You gain weapon specialization with the claw and jaws, or greater weapon specialization if you already have weapon specialization with these unarmed attacks.",
  "name": "Bestial Mutagen (Moderate)",
  "pfs": "Standard",
  "price": 1200,
  "price_raw": "12 gp",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 289",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=6\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Elixir\" url=\"/Traits.aspx?ID=59\" />\r\n<trait label=\"Mutagen\" url=\"/Traits.aspx?ID=116\" />\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=127\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 546 <sup>4.0</sup></row>\r\n\r\n**Price** 12 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>Interact</row></row>\r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain a +2 item bonus, your claw deals 1d6 slashing damage, your jaws deal 1d8 piercing damage, and the duration is 10 minutes.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=528\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Elixir\" url=\"/Traits.aspx?ID=589\" />\r\n<trait label=\"Mutagen\" url=\"/Traits.aspx?ID=808\" />\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=670\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 289 <sup>1.1</sup>\r\n\r\n**Price** 12 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([manipulate](/Traits.aspx?ID=104))</row></row>\r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain a +2 item bonus, your claw deals 2d6 slashing damage, your jaws deal 2d8 piercing damage, and the duration is 10 minutes.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 546"
+  "Player Core 2 pg. 289"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 546 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 289 <sup>1.1</sup>",
  "speed": {},
  "spell_markdown": "",
- "summary": "You gain a +2 item bonus, your claw deals 1d6 slashing damage, your jaws deal 1d8 piercing damage, and the duration is 10 minutes.",
- "summary_markdown": "You gain a +2 item bonus, your claw deals 1d6 slashing damage, your jaws deal 1d8 piercing damage, and the duration is 10 minutes.",
- "text": "<title level=\"1\" right=\"Item 1+\" pfs=\"\" > Bestial Mutagen Source Core Rulebook pg. 546 4.0 Usage held in 1 hand Bulk L Activate Single Action Interact --- Your features transform into something bestial and you take on muscle mass, but your lumbering form is clumsy. Benefit You gain an item bonus to Athletics checks and unarmed attack rolls. You gain a claw unarmed attack with the agile trait and a jaws unarmed attack. Drawback You take a –1 penalty to AC and a –2 penalty to Reflex saves. <title level=\"2\" right=\"Item 1\" pfs=\"Standard\" > Bestial Mutagen (Lesser) Source Core Rulebook pg. 546 4.0 Price 4 gp Bulk L --- You gain a +1 item bonus, your claw deals 1d4 slashing damage, your jaws deal 1d6 piercing damage, and the duration is 1 minute. <title level=\"2\" right=\"Item 3\" pfs=\"Standard\" > Bestial Mutagen (Moderate) Source Core Rulebook pg. 546 4.0 Price 12 gp Bulk L --- You gain a +2 item bonus, your claw deals 1d6 slashing damage, your jaws deal 1d8 piercing damage, and the duration is 10 minutes. <title level=\"2\" right=\"Item 11\" pfs=\"Standard\" > Bestial Mutagen (Greater) Source Core Rulebook pg. 546 4.0 Price 300 gp Bulk L --- You gain a +3 item bonus, your claw deals 1d8 slashing damage, your jaws deal 1d10 piercing damage, and the duration is 1 hour. <title level=\"2\" right=\"Item 17\" pfs=\"Standard\" > Bestial Mutagen (Major) Source Core Rulebook pg. 546 4.0 Price 3,000 gp Bulk L --- You gain a +4 item bonus, your claw deals 1d8 slashing damage, your jaws deal 1d10 piercing damage, and the duration is 1 hour. You gain weapon specialization with the claws and jaws, or greater weapon specialization, if you already have weapon specialization with these unarmed attacks.",
+ "summary": "You gain a +2 item bonus, your claw deals 2d6 slashing damage, your jaws deal 2d8 piercing damage, and the duration is 10 minutes.",
+ "summary_markdown": "You gain a +2 item bonus, your claw deals 2d6 slashing damage, your jaws deal 2d8 piercing damage, and the duration is 10 minutes.",
+ "text": "<title level=\"1\" right=\"Item 1+\" pfs=\"Standard\" > Bestial Mutagen Source Player Core 2 pg. 289 1.1 Usage held in 1 hand Bulk L Activate Single Action (manipulate) --- Your features transform into something bestial and lumbering. Benefit You gain an item bonus to Athletics checks and unarmed attack rolls. You gain a claw unarmed attack with the agile trait and a jaws unarmed attack. Striking runes don't modify the damage caused by these attacks. Drawback You take a –2 penalty to Reflex saves, Acrobatics checks, and Stealth checks. <title level=\"2\" right=\"Item 1\" pfs=\"Standard\" > Bestial Mutagen (Lesser) Source Player Core 2 pg. 289 1.1 , Core Rulebook pg. 546 4.0 Price 4 gp Bulk L --- You gain a +1 item bonus, your claw deals 1d4 slashing damage, your jaws deal 1d6 piercing damage, and the duration is 1 minute. <title level=\"2\" right=\"Item 3\" pfs=\"Standard\" > Bestial Mutagen (Moderate) Source Player Core 2 pg. 289 1.1 , Core Rulebook pg. 546 4.0 Price 12 gp Bulk L --- You gain a +2 item bonus, your claw deals 2d6 slashing damage, your jaws deal 2d8 piercing damage, and the duration is 10 minutes. <title level=\"2\" right=\"Item 11\" pfs=\"Standard\" > Bestial Mutagen (Greater) Source Player Core 2 pg. 289 1.1 , Core Rulebook pg. 546 4.0 Price 300 gp Bulk L --- You gain a +3 item bonus, your claw deals 3d8 slashing damage, your jaws deal 3d10 piercing damage, and the duration is 1 hour. <title level=\"2\" right=\"Item 17\" pfs=\"Standard\" > Bestial Mutagen (Major) Source Player Core 2 pg. 289 1.1 , Core Rulebook pg. 546 4.0 Price 3,000 gp Bulk L --- You gain a +4 item bonus, your claw deals 4d8 slashing damage, your jaws deal 4d10 piercing damage, and the duration is 1 hour. You gain weapon specialization with the claw and jaws, or greater weapon specialization if you already have weapon specialization with these unarmed attacks.",
  "trait": [
   "Alchemical",
   "Consumable",
@@ -39,7 +53,13 @@
   "Mutagen",
   "Polymorph"
  ],
- "trait_markdown": "[Alchemical](/Traits.aspx?ID=6), [Consumable](/Traits.aspx?ID=36), [Elixir](/Traits.aspx?ID=59), [Mutagen](/Traits.aspx?ID=116), [Polymorph](/Traits.aspx?ID=127)",
+ "trait_group": [
+  "Monster",
+  "Equipment",
+  "Weapon",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Alchemical](/Traits.aspx?ID=528), [Consumable](/Traits.aspx?ID=564), [Elixir](/Traits.aspx?ID=589), [Mutagen](/Traits.aspx?ID=808), [Polymorph](/Traits.aspx?ID=670)",
  "trait_raw": [
   "Alchemical",
   "Consumable",
@@ -48,7 +68,7 @@
   "Polymorph"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=82",
+ "url": "/Equipment.aspx?ID=3315",
  "usage": "held in 1 hand",
  "usage_markdown": "held in 1 hand",
  "weakness": {}

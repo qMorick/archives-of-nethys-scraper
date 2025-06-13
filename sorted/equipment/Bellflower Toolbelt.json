@@ -1,6 +1,5 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
  "bulk": 1,
  "bulk_raw": "1",
  "category": "equipment",
@@ -9,42 +8,57 @@
  "item_category": "Worn Items",
  "item_subcategory": "Other Worn Items",
  "level": 6,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Bellflower Toolbelt](/Equipment.aspx?ID=2308)\r\n</title>\n\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 145 <sup>1.1</sup>, [Pathfinder #147: Tomorrow Must Burn](/Sources.aspx?ID=8) pg. 71</row>\n\n**Price** 220 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** worn belt\r\n\r\n**Bulk** 1\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nDifferent versions of the _bellflower toolbelt_ are customized to appear to suit specific trades, so a belt used for carpentry would look different from a belt for baking.\n\n<document level=\"2\" id=\"action-1856\" />\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Bellflower Toolbelt](/Equipment.aspx?ID=2308)\r\n</title>\n\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 145 <sup>2.0</sup>, [Pathfinder #147: Tomorrow Must Burn](/Sources.aspx?ID=8) pg. 71\n\n**Price** 220 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** worn belt\r\n\r\n**Bulk** 1\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nDifferent versions of the _bellflower toolbelt_ are customized to appear to suit specific trades, so a belt used for carpentry would look different from a belt for baking.\n\n**Activate** <actions string=\"Two Actions\" /> ([concentrate](/Traits.aspx?ID=561), [manipulate](/Traits.aspx?ID=645))    **Effect** You place an object of up to 1 Bulk into the belt, transforming that object into a tool befitting the trade for which the belt was created. Each object remains transformed until it has been removed from the belt for 24 hours or someone uses a single Interact action to return it to its normal form. If enough transformed items are in it, the belt can be used as [artisan's tools](/Equipment.aspx?ID=3) for that trade.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Bellflower Toolbelt",
  "pfs": "Standard",
  "price": 22000,
  "price_raw": "220 gp",
+ "primary_source": "Treasure Vault",
+ "primary_source_raw": "Treasure Vault pg. 145",
+ "primary_source_category": "Rulebooks",
  "rarity": "rare",
+ "rarity_id": 3,
  "release_date": "2023-02-22",
  "resistance": {},
- "school": "transmutation",
- "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Sources** [Treasure Vault](/Sources.aspx?ID=191) pg. 145 <sup>1.1</sup>, [Pathfinder #147: Tomorrow Must Burn](/Sources.aspx?ID=8) pg. 71</row>\r\n\r\n**Price** 220 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** worn belt\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDifferent versions of the  bellflower toolbelt  are customized to appear to suit specific trades, so a belt used for carpentry would look different …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 145 <sup>2.0</sup>, [Pathfinder #147: Tomorrow Must Burn](/Sources.aspx?ID=8) pg. 71\r\n\r\n**Price** 220 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** worn belt\r\n\r\n**Bulk** 1\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDifferent versions of the  bellflower toolbelt  are customized to appear to suit specific trades, so a belt used for carpentry would look different …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Treasure Vault"
+  "Treasure Vault",
+  "Pathfinder #147: Tomorrow Must Burn"
  ],
  "source_raw": [
-  "Treasure Vault pg. 145"
+  "Treasure Vault pg. 145",
+  "Pathfinder #147: Tomorrow Must Burn pg. 71"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Treasure Vault](/Sources.aspx?ID=191) pg. 145 <sup>1.1</sup>, [Pathfinder #147: Tomorrow Must Burn](/Sources.aspx?ID=8) pg. 71</row>",
+ "source_category": [
+  "Rulebooks",
+  "Adventure Paths"
+ ],
+ "source_group": [
+  "Age of Ashes"
+ ],
+ "source_markdown": "[Treasure Vault](/Sources.aspx?ID=191) pg. 145 <sup>2.0</sup>, [Pathfinder #147: Tomorrow Must Burn](/Sources.aspx?ID=8) pg. 71",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
  "summary": "Different versions of the  bellflower toolbelt  are customized to appear to suit specific trades, so a belt used for carpentry would look different …",
  "summary_markdown": "Different versions of the  bellflower toolbelt  are customized to appear to suit specific trades, so a belt used for carpentry would look different …",
- "text": "<title level=\"1\" right=\"Item 6\" pfs=\"Standard\" > Bellflower Toolbelt Source Treasure Vault pg. 145 1.1 , Pathfinder #147: Tomorrow Must Burn pg. 71 Price 220 gp Usage worn belt Bulk 1 --- Different versions of the bellflower toolbelt are customized to appear to suit specific trades, so a belt used for carpentry would look different from a belt for baking.\n",
+ "text": "<title level=\"1\" right=\"Item 6\" pfs=\"Standard\" > Bellflower Toolbelt Source Treasure Vault pg. 145 2.0 , Pathfinder #147: Tomorrow Must Burn pg. 71 Price 220 gp Usage worn belt Bulk 1 --- Different versions of the bellflower toolbelt are customized to appear to suit specific trades, so a belt used for carpentry would look different from a belt for baking. Activate Two Actions (concentrate, manipulate) Effect You place an object of up to 1 Bulk into the belt, transforming that object into a tool befitting the trade for which the belt was created. Each object remains transformed until it has been removed from the belt for 24 hours or someone uses a single Interact action to return it to its normal form. If enough transformed items are in it, the belt can be used as artisan's tools for that trade.\n",
  "trait": [
   "Invested",
   "Magical",
-  "Rare",
-  "Transmutation"
+  "Rare"
  ],
- "trait_markdown": "[Invested](/Traits.aspx?ID=98), [Magical](/Traits.aspx?ID=103), [Rare](/Traits.aspx?ID=137), [Transmutation](/Traits.aspx?ID=157)",
+ "trait_group": [
+  "Equipment",
+  "Mechanics",
+  "Rarity"
+ ],
+ "trait_markdown": "[Invested](/Traits.aspx?ID=98), [Magical](/Traits.aspx?ID=103), [Rare](/Traits.aspx?ID=137)",
  "trait_raw": [
   "Invested",
   "Magical",
-  "Rare",
-  "Transmutation"
+  "Rare"
  ],
  "type": "Item",
  "url": "/Equipment.aspx?ID=2308",

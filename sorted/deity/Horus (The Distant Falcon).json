@@ -1,23 +1,27 @@
 {
- "ability": [
+ "attribute": [
   "Strength",
   "Charisma"
  ],
- "alignment": "LN",
- "breadcrumbs_spa": [],
+ "anathema": "Undermine a rightful ruler, knowingly serve a usurper",
+ "area_of_concern": [
+  "Rulership",
+  "the sky",
+  "the sun"
+ ],
+ "area_of_concern_raw": "Rulership, the sky, the sun",
  "category": "deity",
  "cleric_spell": [
-  "Floating Disk",
+  "Carryall",
   "Wall of Wind",
   "Aerial Form"
  ],
  "deity": [
   "Horus"
  ],
- "deity_markdown": "[Horus](/Deities.aspx?ID=53)",
- "deity_category": "Ancient Osirian Gods",
- "deity_category_markdown": "[Ancient Osirian Gods\r\n](/DeityCategories.aspx?ID=3)",
- "deity_category_order": "2Ancient Osirian Gods\r\n",
+ "deity_category": "Dead or Missing Deities",
+ "deity_category_markdown": "[Dead or Missing Deities](/DeityCategories.aspx?ID=34)",
+ "deity_category_order": "2Dead or Missing Deities",
  "divine_font": [
   "Heal"
  ],
@@ -28,7 +32,7 @@
   "Protection",
   "Sun"
  ],
- "domain_markdown": "[Air](/Domains.aspx?ID=2), [Moon](/Domains.aspx?ID=21), [Protection](/Domains.aspx?ID=27), [Sun](/Domains.aspx?ID=29)",
+ "domain_markdown": "[Air](/Domains.aspx?ID=65), [Moon](/Domains.aspx?ID=84), [Protection](/Domains.aspx?ID=90), [Sun](/Domains.aspx?ID=92)",
  "domain_alternate_markdown": "",
  "domain_primary": [
   "Air",
@@ -36,49 +40,64 @@
   "Protection",
   "Sun"
  ],
- "domain_primary_markdown": "[Air](/Domains.aspx?ID=2), [Moon](/Domains.aspx?ID=21), [Protection](/Domains.aspx?ID=27), [Sun](/Domains.aspx?ID=29)",
+ "domain_primary_markdown": "[Air](/Domains.aspx?ID=65), [Moon](/Domains.aspx?ID=84), [Protection](/Domains.aspx?ID=90), [Sun](/Domains.aspx?ID=92)",
+ "edict": "Protect those you have authority over, maintain harmony in your community",
  "exclude_from_search": false,
  "favored_weapon": [
   "Khopesh"
  ],
- "favored_weapon_markdown": "[Khopesh](/Weapons.aspx?ID=290)",
- "follower_alignment": [
-  "LG",
-  "LN",
-  "NG",
-  "N"
+ "favored_weapon_markdown": "[Khopesh](/Weapons.aspx?ID=476)",
+ "id": "deity-516",
+ "legacy_id": [
+  "deity-53"
  ],
- "id": "deity-53",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Horus (The Distant Falcon)](/Deities.aspx?ID=53)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"LN\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 124 <sup>2.0</sup></row>\n\n_Nethys Note: no description has been provided of this deity_\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Ancient Osirian Gods\r\n](/DeityCategories.aspx?ID=3)\r\n\r\n**Edicts** Protect those you have authority over, maintain harmony in your community\r\n\r\n**Anathema** Undermine a rightful ruler, serve a usurper\n\n**Follower Alignments**\r\nLG, LN, NG, N\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nStrength or Charisma\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Diplomacy](/Skills.aspx?ID=6)\r\n\r\n**Favored Weapon** [Khopesh](/Weapons.aspx?ID=290)\r\n\r\n**Domains** [Air](/Domains.aspx?ID=2), [Moon](/Domains.aspx?ID=21), [Protection](/Domains.aspx?ID=27), [Sun](/Domains.aspx?ID=29)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Floating Disk](/Spells.aspx?ID=124)\n\n- **3rd**\r\n[Wall of Wind](/Spells.aspx?ID=367)\n\n- **4th**\r\n[Aerial Form](/Spells.aspx?ID=4)\r\n(bird only)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Restricted\">[Horus (The Distant Falcon)](/Deities.aspx?ID=516)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 312\n\n_Nethys Note: no description has been provided of this deity_\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Dead or Missing Deities](/DeityCategories.aspx?ID=34)\r\n\r\n**Edicts** Protect those you have authority over, maintain harmony in your community\r\n\r\n**Anathema** Undermine a rightful ruler, knowingly serve a usurper\r\n\r\n**Area of Concern**\r\nRulership, the sky, the sun\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nStrength or Charisma\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** can choose holy\r\n\r\n**Divine Skill** [Diplomacy](/Skills.aspx?ID=39)\r\n\r\n**Favored Weapon** [Khopesh](/Weapons.aspx?ID=476)\r\n\r\n**Domains** [Air](/Domains.aspx?ID=65), [Moon](/Domains.aspx?ID=84), [Protection](/Domains.aspx?ID=90), [Sun](/Domains.aspx?ID=92)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Carryall](/Spells.aspx?ID=1972)\n\n- **3rd**\r\n[Wall of Wind](/Spells.aspx?ID=1753)\n\n- **4th**\r\n[Aerial Form](/Spells.aspx?ID=1437)\r\n(bird only)\n\n</column>",
  "name": "Horus (The Distant Falcon)",
- "pfs": "Standard",
+ "pfs": "Restricted",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 312",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "Eye of Horus",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 124 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Diplomacy](/Skills.aspx?ID=6)\r\n\r\n**Favored Weapon** [Khopesh](/Weapons.aspx?ID=290)\r\n\r\n**Domains** [Air](/Domains.aspx?ID=2), [Moon](/Domains.aspx?ID=21), [Protection](/Domains.aspx?ID=27), [Sun](/Domains.aspx?ID=29)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Nethys Note: no description has been provided of this deity \r\n</summary>",
+ "sacred_animal": "Falcon",
+ "sacred_color": [
+  "blue",
+  "white"
+ ],
+ "sanctification": [
+  "holy"
+ ],
+ "sanctification_raw": "can choose holy",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 312\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Diplomacy](/Skills.aspx?ID=39)\r\n\r\n**Favored Weapon** [Khopesh](/Weapons.aspx?ID=476)\r\n\r\n**Domains** [Air](/Domains.aspx?ID=65), [Moon](/Domains.aspx?ID=84), [Protection](/Domains.aspx?ID=90), [Sun](/Domains.aspx?ID=92)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Nethys Note: no description has been provided of this deity \r\n</summary>",
  "skill": [
   "Diplomacy"
  ],
- "skill_markdown": "[Diplomacy](/Skills.aspx?ID=6)",
+ "skill_markdown": "[Diplomacy](/Skills.aspx?ID=39)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 124"
+  "Divine Mysteries pg. 312"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 124 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 312",
  "speed": {},
+ "spell": [
+  "Carryall",
+  "Wall of Wind",
+  "Aerial Form"
+ ],
+ "spell_markdown": "[Aerial Form](/Spells.aspx?ID=1437), [Carryall](/Spells.aspx?ID=1972), [Wall of Wind](/Spells.aspx?ID=1753)",
  "summary": " Nethys Note: no description has been provided of this deity ",
  "summary_markdown": " Nethys Note: no description has been provided of this deity ",
- "text": " Horus (The Distant Falcon) Source Gods &amp; Magic pg. 124 2.0 Nethys Note: no description has been provided of this deity Category [Ancient Osirian Gods ](/DeityCategories.aspx?ID=3) Edicts Protect those you have authority over, maintain harmony in your community Anathema Undermine a rightful ruler, serve a usurper Follower Alignments LG, LN, NG, N Devotee Benefits Divine Ability Strength or Charisma Divine Font Heal Divine Skill Diplomacy Favored Weapon Khopesh Domains Air, Moon, Protection, Sun Alternate Domains Cleric Spells - 1st Floating Disk - 3rd Wall of Wind - 4th Aerial Form (bird only)\n",
- "trait": [
-  "LN"
- ],
- "trait_raw": [
-  "LN"
- ],
+ "text": " Horus (The Distant Falcon) Source Divine Mysteries pg. 312 Nethys Note: no description has been provided of this deity Category Dead or Missing Deities Edicts Protect those you have authority over, maintain harmony in your community Anathema Undermine a rightful ruler, knowingly serve a usurper Area of Concern Rulership, the sky, the sun Devotee Benefits Divine Attribute Strength or Charisma Divine Font Heal Divine Sanctification can choose holy Divine Skill Diplomacy Favored Weapon Khopesh Domains Air, Moon, Protection, Sun Alternate Domains Cleric Spells - 1st Carryall - 3rd Wall of Wind - 4th Aerial Form (bird only)\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=53",
+ "url": "/Deities.aspx?ID=516",
  "weakness": {}
 }

@@ -1,40 +1,55 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Unstable Concoction"
  ],
  "feat_markdown": "Unstable Concoction",
- "id": "feat-1600",
+ "id": "feat-5790",
+ "legacy_id": [
+  "feat-1600"
+ ],
  "level": 10,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Unstable Concoction](/Feats.aspx?ID=1600) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 107 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou can create extraordinary—albeit volatile—alchemical wonders, though they have an unfortunate tendency to violently explode when you use them. When you use [Quick Alchemy](/Actions.aspx?ID=2), you can create an alchemical item from your formula book whose level is up to 2 higher than your advanced alchemy level. You can spend up to 3 additional batches of infused reagents when creating this item to stabilize it. Upon activating the item, attempt a DC 10 flat check; for every additional batch of infused reagents you spent to create the item, reduce this DC by 2. On a success, the item functions normally. On a failure, the item explodes, dealing force damage to the user equal to twice the item's level (doubled on a critical failure).",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Unstable Concoction](/Feats.aspx?ID=5790) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Additive\" url=\"/Traits.aspx?ID=795\" />\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=812\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 67 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou can mix a wondrous yet volatile liquid into an [alchemical](/Traits.aspx?ID=528) [consumable](/Traits.aspx?ID=564) if it has an initial effect that uses dice. You [increase the size of any dice](/Rules.aspx?ID=2305) for the item's initial effect by one step. For instance, you could increase damage from a [moderate alchemist's fire](/Equipment.aspx?ID=3287) to 2d10 or healing from a [moderate elixir of life](/Equipment.aspx?ID=3308) to 5d8+12. Because this affects only initial dice, it wouldn't increase unarmed attack damage from a [bestial mutagen](/Equipment.aspx?ID=3315), [persistent damage](/Conditions.aspx?ID=29) from an [acid flask](/Equipment.aspx?ID=3286), and the like. When this item is activated, the creature activating it must succeed at a DC 10 [flat check](/Rules.aspx?ID=333) or take acid damage equal to the item's level.",
  "name": "Unstable Concoction",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 67",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 107 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can create extraordinary—albeit volatile—alchemical wonders, though they have an unfortunate tendency to violently explode when you use them.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Additive\" url=\"/Traits.aspx?ID=795\" />\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=812\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 67 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can mix a wondrous yet volatile liquid into an [alchemical](/Traits.aspx?ID=528) [consumable](/Traits.aspx?ID=564) if it has an initial effect that uses dice.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 107"
+  "Player Core 2 pg. 67"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 107 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 67 <sup>1.1</sup>",
  "speed": {},
- "summary": "You can create extraordinary—albeit volatile—alchemical wonders, though they have an unfortunate tendency to violently explode when you use them.",
- "summary_markdown": "You can create extraordinary—albeit volatile—alchemical wonders, though they have an unfortunate tendency to violently explode when you use them.",
- "text": "<title level=\"1\" right=\"Feat 10\" pfs=\"Standard\" > Unstable Concoction Source Advanced Player's Guide pg. 107 2.0 --- You can create extraordinary—albeit volatile—alchemical wonders, though they have an unfortunate tendency to violently explode when you use them. When you use Quick Alchemy, you can create an alchemical item from your formula book whose level is up to 2 higher than your advanced alchemy level. You can spend up to 3 additional batches of infused reagents when creating this item to stabilize it. Upon activating the item, attempt a DC 10 flat check; for every additional batch of infused reagents you spent to create the item, reduce this DC by 2. On a success, the item functions normally. On a failure, the item explodes, dealing force damage to the user equal to twice the item's level (doubled on a critical failure).",
+ "summary": "You can mix a wondrous yet volatile liquid into an  alchemical   consumable  if it has an initial effect that uses dice.",
+ "summary_markdown": "You can mix a wondrous yet volatile liquid into an [alchemical](/Traits.aspx?ID=528) [consumable](/Traits.aspx?ID=564) if it has an initial effect that uses dice.",
+ "text": "<title level=\"1\" right=\"Feat 10\" pfs=\"Standard\" > Unstable Concoction Source Player Core 2 pg. 67 1.1 --- You can mix a wondrous yet volatile liquid into an alchemical consumable if it has an initial effect that uses dice. You increase the size of any dice for the item's initial effect by one step. For instance, you could increase damage from a moderate alchemist's fire to 2d10 or healing from a moderate elixir of life to 5d8+12. Because this affects only initial dice, it wouldn't increase unarmed attack damage from a bestial mutagen, persistent damage from an acid flask, and the like. When this item is activated, the creature activating it must succeed at a DC 10 flat check or take acid damage equal to the item's level.",
  "trait": [
+  "Additive",
   "Alchemist"
  ],
- "trait_markdown": "[Alchemist](/Traits.aspx?ID=7)",
+ "trait_group": [
+  "Class-Specific",
+  "Class"
+ ],
+ "trait_markdown": "[Additive](/Traits.aspx?ID=795), [Alchemist](/Traits.aspx?ID=812)",
  "trait_raw": [
+  "Additive",
   "Alchemist"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1600",
+ "url": "/Feats.aspx?ID=5790",
  "weakness": {}
 }

@@ -1,20 +1,24 @@
 {
- "ability": [
+ "attribute": [
   "Wisdom",
   "Charisma"
  ],
- "alignment": "LN",
- "breadcrumbs_spa": [],
+ "anathema": "Despoil nature, kill a natural plant or animal that has managed to thrive outside of its intended environment",
+ "area_of_concern": [
+  "Deduction",
+  "mind reading",
+  "subtlety"
+ ],
+ "area_of_concern_raw": "Deduction, mind reading, subtlety",
  "category": "deity",
  "cleric_spell": [
   "Anticipate Peril",
-  "Misdirection",
-  "Nondetection"
+  "Invisibility",
+  "Subconscious Suggestion"
  ],
  "deity": [
   "Erecura"
  ],
- "deity_markdown": "[Erecura](/Deities.aspx?ID=151)",
  "deity_category": "Other Gods",
  "deity_category_markdown": "[Other Gods](/DeityCategories.aspx?ID=2)",
  "deity_category_order": "2Other Gods",
@@ -29,7 +33,7 @@
   "Trickery",
   "Truth"
  ],
- "domain_markdown": "[Fate](/Domains.aspx?ID=12), [Secrecy](/Domains.aspx?ID=28), [Trickery](/Domains.aspx?ID=31), [Truth](/Domains.aspx?ID=32)",
+ "domain_markdown": "[Fate](/Domains.aspx?ID=75), [Secrecy](/Domains.aspx?ID=91), [Trickery](/Domains.aspx?ID=94), [Truth](/Domains.aspx?ID=95)",
  "domain_alternate_markdown": "",
  "domain_primary": [
   "Fate",
@@ -37,48 +41,61 @@
   "Trickery",
   "Truth"
  ],
- "domain_primary_markdown": "[Fate](/Domains.aspx?ID=12), [Secrecy](/Domains.aspx?ID=28), [Trickery](/Domains.aspx?ID=31), [Truth](/Domains.aspx?ID=32)",
+ "domain_primary_markdown": "[Fate](/Domains.aspx?ID=75), [Secrecy](/Domains.aspx?ID=91), [Trickery](/Domains.aspx?ID=94), [Truth](/Domains.aspx?ID=95)",
+ "edict": "Manipulate dangerous beings and opportunities to your benefit, thrive in hostile conditions, divine the future",
  "exclude_from_search": false,
  "favored_weapon": [
   "Light Mace"
  ],
- "favored_weapon_markdown": "[Light Mace](/Weapons.aspx?ID=5)",
- "follower_alignment": [
-  "LG",
-  "LN",
-  "N"
+ "favored_weapon_markdown": "[Light Mace](/Weapons.aspx?ID=360)",
+ "id": "deity-564",
+ "legacy_id": [
+  "deity-151"
  ],
- "id": "deity-151",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Erecura (Queen of Dis)](/Deities.aspx?ID=151)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"LN\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 130 <sup>2.0</sup></row>\n\n_Nethys Note: no description has been provided of this deity_\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Other Gods](/DeityCategories.aspx?ID=2)\r\n\r\n**Edicts** Manipulate dangerous beings and opportunities to your benefit, thrive in hostile conditions, divine the future\r\n\r\n**Anathema** Despoil nature, kill a natural plant or animal that has managed to thrive outside of its intended environment\n\n**Follower Alignments**\r\nLG, LN, N\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nWisdom or Charisma\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Deception](/Skills.aspx?ID=5)\r\n\r\n**Favored Weapon** [Light Mace](/Weapons.aspx?ID=5)\r\n\r\n**Domains** [Fate](/Domains.aspx?ID=12), [Secrecy](/Domains.aspx?ID=28), [Trickery](/Domains.aspx?ID=31), [Truth](/Domains.aspx?ID=32)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Anticipate Peril](/Spells.aspx?ID=568)\n\n- **2nd**\r\n[Misdirection](/Spells.aspx?ID=198)\n\n- **3rd**\r\n[Nondetection](/Spells.aspx?ID=209)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Erecura (Queen of Dis)](/Deities.aspx?ID=564)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 318\n\n_Nethys Note: no description has been provided of this deity_\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Other Gods](/DeityCategories.aspx?ID=2)\r\n\r\n**Edicts** Manipulate dangerous beings and opportunities to your benefit, thrive in hostile conditions, divine the future\r\n\r\n**Anathema** Despoil nature, kill a natural plant or animal that has managed to thrive outside of its intended environment\r\n\r\n**Area of Concern**\r\nDeduction, mind reading, subtlety\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nWisdom or Charisma\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** none\r\n\r\n**Divine Skill** [Deception](/Skills.aspx?ID=38)\r\n\r\n**Favored Weapon** [Light Mace](/Weapons.aspx?ID=360)\r\n\r\n**Domains** [Fate](/Domains.aspx?ID=75), [Secrecy](/Domains.aspx?ID=91), [Trickery](/Domains.aspx?ID=94), [Truth](/Domains.aspx?ID=95)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Anticipate Peril](/Spells.aspx?ID=2343)\n\n- **2nd**\r\n[Invisibility](/Spells.aspx?ID=1577)\n\n- **5th**\r\n[Subconscious Suggestion](/Spells.aspx?ID=1692)\n\n</column>",
  "name": "Erecura (Queen of Dis)",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 318",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "Halo of runes",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 130 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Harm or Heal\r\n\r\n**Divine Skill** [Deception](/Skills.aspx?ID=5)\r\n\r\n**Favored Weapon** [Light Mace](/Weapons.aspx?ID=5)\r\n\r\n**Domains** [Fate](/Domains.aspx?ID=12), [Secrecy](/Domains.aspx?ID=28), [Trickery](/Domains.aspx?ID=31), [Truth](/Domains.aspx?ID=32)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Nethys Note: no description has been provided of this deity \r\n</summary>",
+ "sacred_animal": "Deer",
+ "sacred_color": [
+  "green",
+  "tan"
+ ],
+ "sanctification_raw": "none",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 318\r\n\r\n**Divine Font** Harm or Heal\r\n\r\n**Divine Skill** [Deception](/Skills.aspx?ID=38)\r\n\r\n**Favored Weapon** [Light Mace](/Weapons.aspx?ID=360)\r\n\r\n**Domains** [Fate](/Domains.aspx?ID=75), [Secrecy](/Domains.aspx?ID=91), [Trickery](/Domains.aspx?ID=94), [Truth](/Domains.aspx?ID=95)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Nethys Note: no description has been provided of this deity \r\n</summary>",
  "skill": [
   "Deception"
  ],
- "skill_markdown": "[Deception](/Skills.aspx?ID=5)",
+ "skill_markdown": "[Deception](/Skills.aspx?ID=38)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 130"
+  "Divine Mysteries pg. 318"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 130 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 318",
  "speed": {},
+ "spell": [
+  "Anticipate Peril",
+  "Invisibility",
+  "Subconscious Suggestion"
+ ],
+ "spell_markdown": "[Anticipate Peril](/Spells.aspx?ID=2343), [Invisibility](/Spells.aspx?ID=1577), [Subconscious Suggestion](/Spells.aspx?ID=1692)",
  "summary": " Nethys Note: no description has been provided of this deity ",
  "summary_markdown": " Nethys Note: no description has been provided of this deity ",
- "text": " Erecura (Queen of Dis) Source Gods &amp; Magic pg. 130 2.0 Nethys Note: no description has been provided of this deity Category Other Gods Edicts Manipulate dangerous beings and opportunities to your benefit, thrive in hostile conditions, divine the future Anathema Despoil nature, kill a natural plant or animal that has managed to thrive outside of its intended environment Follower Alignments LG, LN, N Devotee Benefits Divine Ability Wisdom or Charisma Divine Font Harm or Heal Divine Skill Deception Favored Weapon Light Mace Domains Fate, Secrecy, Trickery, Truth Alternate Domains Cleric Spells - 1st Anticipate Peril - 2nd Misdirection - 3rd Nondetection\n",
- "trait": [
-  "LN"
- ],
- "trait_raw": [
-  "LN"
- ],
+ "text": " Erecura (Queen of Dis) Source Divine Mysteries pg. 318 Nethys Note: no description has been provided of this deity Category Other Gods Edicts Manipulate dangerous beings and opportunities to your benefit, thrive in hostile conditions, divine the future Anathema Despoil nature, kill a natural plant or animal that has managed to thrive outside of its intended environment Area of Concern Deduction, mind reading, subtlety Devotee Benefits Divine Attribute Wisdom or Charisma Divine Font Harm or Heal Divine Sanctification none Divine Skill Deception Favored Weapon Light Mace Domains Fate, Secrecy, Trickery, Truth Alternate Domains Cleric Spells - 1st Anticipate Peril - 2nd Invisibility - 5th Subconscious Suggestion\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=151",
+ "url": "/Deities.aspx?ID=564",
  "weakness": {}
 }

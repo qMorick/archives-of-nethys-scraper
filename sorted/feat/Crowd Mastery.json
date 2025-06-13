@@ -2,44 +2,56 @@
  "archetype": [
   "Lion Blade"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Crowd Mastery"
  ],
  "feat_markdown": "Crowd Mastery",
- "id": "feat-919",
+ "id": "feat-7727",
+ "legacy_id": [
+  "feat-919"
+ ],
  "level": 6,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Crowd Mastery](/Feats.aspx?ID=919) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [World Guide](/Sources.aspx?ID=6) pg. 131 <sup>2.0</sup></row>\n\n**Archetype** [Lion Blade](/Archetypes.aspx?ID=22)\n\n**Prerequisites**\r\n[Lost in the Crowd](/Feats.aspx?ID=918)\n\n</column>\r\n\r\n---\r\n\r\nYou use the crowd to your advantage, diverting your foes’ attention to potential hidden dangers in the crowd. When determining if your foe is flanked, treat all squares occupied by a crowd as if they were occupied by an ally with a melee reach of 5 feet.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Crowd Mastery](/Feats.aspx?ID=7727) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Shining Kingdoms](/Sources.aspx?ID=265) pg. 170\n\n**Archetype** [Lion Blade](/Archetypes.aspx?ID=319)\n\n**Prerequisites**\r\n[Lost in the Crowd](/Feats.aspx?ID=7726)\n\n</column>\r\n\r\n---\r\n\r\nYou use the crowd to your advantage, diverting your foes’ attention to potential hidden dangers in the crowd. When determining if your foe is [flanked](/Rules.aspx?ID=2375), treat all squares occupied by a crowd as if they were occupied by an ally with a melee reach of 5 feet.",
  "name": "Crowd Mastery",
  "pfs": "Standard",
  "prerequisite": "Lost in the Crowd",
- "prerequisite_markdown": "[Lost in the Crowd](/Feats.aspx?ID=918)",
+ "prerequisite_markdown": "[Lost in the Crowd](/Feats.aspx?ID=7726)",
+ "primary_source": "Shining Kingdoms",
+ "primary_source_raw": "Shining Kingdoms pg. 170",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2019-08-31",
+ "rarity_id": 1,
+ "release_date": "2025-06-04",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [World Guide](/Sources.aspx?ID=6) pg. 131 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Lost in the Crowd](/Feats.aspx?ID=918)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou use the crowd to your advantage, diverting your foes’ attention to potential hidden dangers in the crowd.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Shining Kingdoms](/Sources.aspx?ID=265) pg. 170\n\n**Prerequisites**\r\n[Lost in the Crowd](/Feats.aspx?ID=7726)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou use the crowd to your advantage, diverting your foes’ attention to potential hidden dangers in the crowd.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "World Guide"
+  "Shining Kingdoms"
  ],
  "source_raw": [
-  "World Guide pg. 131"
+  "Shining Kingdoms pg. 170"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[World Guide](/Sources.aspx?ID=6) pg. 131 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Shining Kingdoms](/Sources.aspx?ID=265) pg. 170",
  "speed": {},
  "summary": "You use the crowd to your advantage, diverting your foes’ attention to potential hidden dangers in the crowd.",
  "summary_markdown": "You use the crowd to your advantage, diverting your foes’ attention to potential hidden dangers in the crowd.",
- "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Crowd Mastery Source World Guide pg. 131 2.0 Archetype Lion Blade Prerequisites Lost in the Crowd --- You use the crowd to your advantage, diverting your foes’ attention to potential hidden dangers in the crowd. When determining if your foe is flanked, treat all squares occupied by a crowd as if they were occupied by an ally with a melee reach of 5 feet.",
+ "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Crowd Mastery Source Shining Kingdoms pg. 170 Archetype Lion Blade Prerequisites Lost in the Crowd --- You use the crowd to your advantage, diverting your foes’ attention to potential hidden dangers in the crowd. When determining if your foe is flanked, treat all squares occupied by a crowd as if they were occupied by an ally with a melee reach of 5 feet.",
  "trait": [
   "Archetype"
+ ],
+ "trait_group": [
+  "Feat"
  ],
  "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=919",
+ "url": "/Feats.aspx?ID=7727",
  "weakness": {}
 }

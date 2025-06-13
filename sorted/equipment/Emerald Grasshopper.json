@@ -1,56 +1,64 @@
 {
- "actions": "Free Action",
+ "actions": "Single Action",
+ "actions_number": 2,
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
+ "bulk": 0,
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-208",
+ "id": "equipment-2972-2845",
  "item_category": "Consumables",
+ "item_parent_id": "equipment-2972",
  "item_subcategory": "Talismans",
+ "legacy_id": [
+  "equipment-208"
+ ],
  "level": 5,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Emerald Grasshopper](/Equipment.aspx?ID=208)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=155\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 566 <sup>4.0</sup></row>\n\n**Price** 30 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** affixed to armor\n\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Free Action\" /><row>envision</row></row>\r\n\r\n \r\n\r\n**Trigger** You attempt a High Jump but haven't rolled yet\r\n\r\n**Requirement** You're an expert in Athletics\r\n</row>\n\n</column>\r\n\r\n---\n\nThis metal grasshopper studded with emeralds is usually clasped to the legs of a suit of armor. When you activate it, if you succeed at the Athletics check, you Leap up to 50 feet vertically and up to 10 feet horizontally. If you critically succeed, you can Leap up to 75 feet vertically and 20 feet horizontally. If you don’t end your jump on solid ground, you flutter in the air until the end of your turn, then fall harmlessly at a rate of 60 feet per round until you reach the ground.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 5+\"\r\n    pfs=\"Standard\"\r\n>\r\n[Emerald Grasshopper](/Equipment.aspx?ID=2972)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=709\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 264 <sup>2.0</sup>\n\n<row gap=\"medium\">\n\n**Usage** affixed to armor\n\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([concentrate](/Traits.aspx?ID=32))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n**Requirement** You are trained in Athletics\r\n</row>\n\n</column>\r\n\r\n---\n\nThis metal grasshopper studded with emeralds is usually clasped to the legs of a suit of armor. When you activate it, make a [Leap](/Actions.aspx?ID=81), traveling up to 40 feet horizontally and up to 10 feet vertically. If you don't end your jump on solid ground, you flutter in the air until the end of your turn, then fall harmlessly at a rate of 60 feet per round until you reach the ground.\n\n<column gap=\"tiny\">\n\n</column>\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 5\"\r\npfs=\"Standard\"\r\n>\r\nEmerald Grasshopper\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 264 <sup>2.0</sup>\n\n**Price** 30 gp\r\n\r\n<row gap=\"medium\">\n\n</row>\n\n</column>\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 9\"\r\npfs=\"Standard\"\r\n>\r\nEmerald Grasshopper (Greater)\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 264 <sup>2.0</sup>\n\n**Price** 150 gp\r\n\r\n<row gap=\"medium\">\n\n</row>\n\n</column>\r\n\r\n---\r\n\r\nThe distance of your Leap is up to 100 feet horizontally and up to 30 feet vertically. This benefit applies to any other Leaps you make before the end of your turn.",
  "name": "Emerald Grasshopper",
  "pfs": "Standard",
  "price": 3000,
  "price_raw": "30 gp",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 264",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
- "requirement": "You're an expert in Athletics",
- "requirement_markdown": "You're an expert in Athletics",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "school": "transmutation",
- "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=155\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 566 <sup>4.0</sup></row>\r\n\r\n**Price** 30 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** affixed to armor\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Free Action\" /><row>envision</row></row>\r\n\r\n \r\n\r\n**Trigger** You attempt a High Jump but haven't rolled yet\r\n\r\n**Requirement** You're an expert in Athletics\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis metal grasshopper studded with emeralds is usually clasped to the legs of a suit of armor. When you activate it, if you succeed at the Athletics …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=709\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 264 <sup>2.0</sup>\r\n\r\n**Price** 30 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** affixed to armor\r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([concentrate](/Traits.aspx?ID=32))</row></row>\r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis metal grasshopper studded with emeralds is usually clasped to the legs of a suit of armor. When you activate it, make a  Leap , traveling up to …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 566"
+  "GM Core pg. 264"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 566 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 264 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
- "stage_markdown": "",
- "summary": "This metal grasshopper studded with emeralds is usually clasped to the legs of a suit of armor. When you activate it, if you succeed at the Athletics …",
- "summary_markdown": "This metal grasshopper studded with emeralds is usually clasped to the legs of a suit of armor. When you activate it, if you succeed at the Athletics …",
- "text": "<title level=\"1\" right=\"Item 5\" pfs=\"Standard\" > Emerald Grasshopper Source Core Rulebook pg. 566 4.0 Price 30 gp Usage affixed to armor Activate Free Action envision Trigger You attempt a High Jump but haven't rolled yet Requirement You're an expert in Athletics --- This metal grasshopper studded with emeralds is usually clasped to the legs of a suit of armor. When you activate it, if you succeed at the Athletics check, you Leap up to 50 feet vertically and up to 10 feet horizontally. If you critically succeed, you can Leap up to 75 feet vertically and 20 feet horizontally. If you don’t end your jump on solid ground, you flutter in the air until the end of your turn, then fall harmlessly at a rate of 60 feet per round until you reach the ground.\n",
+ "summary": "This metal grasshopper studded with emeralds is usually clasped to the legs of a suit of armor. When you activate it, make a  Leap , traveling up to …",
+ "summary_markdown": "This metal grasshopper studded with emeralds is usually clasped to the legs of a suit of armor. When you activate it, make a  Leap , traveling up to …",
+ "text": "<title level=\"1\" right=\"Item 5+\" pfs=\"Standard\" > Emerald Grasshopper Source GM Core pg. 264 2.0 Usage affixed to armor Activate Single Action (concentrate) Requirement You are trained in Athletics --- This metal grasshopper studded with emeralds is usually clasped to the legs of a suit of armor. When you activate it, make a Leap, traveling up to 40 feet horizontally and up to 10 feet vertically. If you don't end your jump on solid ground, you flutter in the air until the end of your turn, then fall harmlessly at a rate of 60 feet per round until you reach the ground. <title level=\"2\" right=\"Item 5\" pfs=\"Standard\" > Emerald Grasshopper Source GM Core pg. 264 2.0 Price 30 gp <title level=\"2\" right=\"Item 9\" pfs=\"Standard\" > Emerald Grasshopper (Greater) Source GM Core pg. 264 2.0 Price 150 gp --- The distance of your Leap is up to 100 feet horizontally and up to 30 feet vertically. This benefit applies to any other Leaps you make before the end of your turn.",
  "trait": [
   "Consumable",
   "Magical",
-  "Talisman",
-  "Transmutation"
+  "Talisman"
  ],
- "trait_markdown": "[Consumable](/Traits.aspx?ID=36), [Magical](/Traits.aspx?ID=103), [Talisman](/Traits.aspx?ID=155), [Transmutation](/Traits.aspx?ID=157)",
+ "trait_group": [
+  "Equipment",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Consumable](/Traits.aspx?ID=564), [Magical](/Traits.aspx?ID=644), [Talisman](/Traits.aspx?ID=709)",
  "trait_raw": [
   "Consumable",
   "Magical",
-  "Talisman",
-  "Transmutation"
+  "Talisman"
  ],
- "trigger": "You attempt a High Jump but haven't rolled yet",
- "trigger_markdown": "You attempt a High Jump but haven't rolled yet",
  "type": "Item",
- "url": "/Equipment.aspx?ID=208",
+ "url": "/Equipment.aspx?ID=2972",
  "usage": "affixed to armor",
  "usage_markdown": "affixed to armor",
  "weakness": {}

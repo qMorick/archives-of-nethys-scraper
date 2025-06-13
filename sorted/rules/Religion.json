@@ -1,37 +1,48 @@
 {
  "breadcrumbs": [
-  "Chapter 2: Tools\r\n",
+  "Chapter 2: Building Games",
   "Building Worlds"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1141",
- "markdown": "<title level=\"1\" right=\"Rules\">[Religion](/Rules.aspx?ID=1141)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 127</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThe greatest stories from myth and legend speak of immortals with incredible powers of creation and destruction. Some meddle in the affairs of mortals, shaping heroes and history at a whim, while others remain aloof or oblivious to the mortal world. Regardless of the world you’re building, religion (or even the absence thereof) shapes the people and the stories you tell.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-1142\" />\r\n\r\n<document level=\"2\" id=\"rules-1143\" />\r\n\r\n<document level=\"2\" id=\"rules-1144\" />",
+ "id": "rules-2976",
+ "legacy_id": [
+  "rules-1141"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Religion](/Rules.aspx?ID=2976)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 139 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThe greatest stories from myth and legend speak of immortals with incredible powers of creation and destruction. Some meddle in the affairs of mortals, shaping heroes and history at a whim, while others remain aloof or oblivious to the mortal world. Regardless of the world you’re building, religion (or even the absence thereof) shapes the people and the stories you tell.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-2977\" />\r\n\r\n<document level=\"2\" id=\"rules-2978\" />\r\n\r\n<document level=\"2\" id=\"rules-2979\" />",
  "name": "Religion",
  "next_link": {
   "label": "Cosmology",
-  "url": "/Rules.aspx?ID=1148"
+  "url": "/Rules.aspx?ID=2983"
  },
  "previous_link": {
   "label": "Civilization",
-  "url": "/Rules.aspx?ID=1129"
+  "url": "/Rules.aspx?ID=2964"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 139",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 127</row>\r\n\r\nChapter 2: Tools\r\n/ Building Worlds\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 139 <sup>2.0</sup>\r\n\r\nChapter 2: Building Games / Building Worlds\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe greatest stories from myth and legend speak of immortals with incredible powers of creation and destruction. Some meddle in the affairs of …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 127"
+  "GM Core pg. 139"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 127</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 139 <sup>2.0</sup>",
  "speed": {},
- "text": " Religion Source Gamemastery Guide pg. 127 The greatest stories from myth and legend speak of immortals with incredible powers of creation and destruction. Some meddle in the affairs of mortals, shaping heroes and history at a whim, while others remain aloof or oblivious to the mortal world. Regardless of the world you’re building, religion (or even the absence thereof) shapes the people and the stories you tell. ",
+ "summary": "The greatest stories from myth and legend speak of immortals with incredible powers of creation and destruction. Some meddle in the affairs of …",
+ "summary_markdown": "The greatest stories from myth and legend speak of immortals with incredible powers of creation and destruction. Some meddle in the affairs of …",
+ "text": " Religion Source GM Core pg. 139 2.0 The greatest stories from myth and legend speak of immortals with incredible powers of creation and destruction. Some meddle in the affairs of mortals, shaping heroes and history at a whim, while others remain aloof or oblivious to the mortal world. Regardless of the world you’re building, religion (or even the absence thereof) shapes the people and the stories you tell. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1141",
+ "url": "/Rules.aspx?ID=2976",
  "weakness": {}
 }

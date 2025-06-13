@@ -1,40 +1,59 @@
 {
- "breadcrumbs_spa": [],
+ "actions": "Single Action",
+ "actions_number": 2,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Revivifying Mutagen"
  ],
  "feat_markdown": "Revivifying Mutagen",
- "id": "feat-97",
+ "id": "feat-5769",
+ "legacy_id": [
+  "feat-97"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Revivifying Mutagen](/Feats.aspx?ID=97) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 77 <sup>4.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nWhile under the effect of a mutagen, you can metabolize that mutagen’s power to heal yourself. This uses a single action, which has the concentrate and manipulate traits. Once the action is complete, you regain 1d6 Hit Points for every 2 item levels of the mutagen (minimum 1d6), but the mutagen’s duration immediately ends, even if you are under the effect of Persistent Mutagen.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Revivifying Mutagen](/Feats.aspx?ID=5769) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=812\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 64 <sup>1.1</sup>\n\n**Requirements**\r\nYou are under the effects of a mutagen.\n\n</column>\r\n\r\n---\r\n\r\nYou metabolize a mutagen to heal yourself. You regain 1d6 Hit Points for every 2 item levels of the required mutagen (minimum 1d6 HP), but the mutagen's duration immediately ends.",
  "name": "Revivifying Mutagen",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 64",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
+ "requirement": "You are under the effects of a mutagen.",
+ "requirement_markdown": "You are under the effects of a mutagen.",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 77 <sup>4.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile under the effect of a mutagen, you can metabolize that mutagen’s power to heal yourself.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=812\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 64 <sup>1.1</sup>\n\n**Requirements**\r\nYou are under the effects of a mutagen.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou metabolize a mutagen to heal yourself.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 77"
+  "Player Core 2 pg. 64"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 77 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 64 <sup>1.1</sup>",
  "speed": {},
- "summary": "While under the effect of a mutagen, you can metabolize that mutagen’s power to heal yourself.",
- "summary_markdown": "While under the effect of a mutagen, you can metabolize that mutagen’s power to heal yourself.",
- "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Revivifying Mutagen Source Core Rulebook pg. 77 4.0 --- While under the effect of a mutagen, you can metabolize that mutagen’s power to heal yourself. This uses a single action, which has the concentrate and manipulate traits. Once the action is complete, you regain 1d6 Hit Points for every 2 item levels of the mutagen (minimum 1d6), but the mutagen’s duration immediately ends, even if you are under the effect of Persistent Mutagen.",
+ "summary": "You metabolize a mutagen to heal yourself.",
+ "summary_markdown": "You metabolize a mutagen to heal yourself.",
+ "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Revivifying Mutagen Single Action Source Player Core 2 pg. 64 1.1 Requirements You are under the effects of a mutagen. --- You metabolize a mutagen to heal yourself. You regain 1d6 Hit Points for every 2 item levels of the required mutagen (minimum 1d6 HP), but the mutagen's duration immediately ends.",
  "trait": [
-  "Alchemist"
+  "Alchemist",
+  "Concentrate"
  ],
- "trait_markdown": "[Alchemist](/Traits.aspx?ID=7)",
+ "trait_group": [
+  "Class",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Alchemist](/Traits.aspx?ID=812), [Concentrate](/Traits.aspx?ID=561)",
  "trait_raw": [
-  "Alchemist"
+  "Alchemist",
+  "Concentrate"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=97",
+ "url": "/Feats.aspx?ID=5769",
  "weakness": {}
 }

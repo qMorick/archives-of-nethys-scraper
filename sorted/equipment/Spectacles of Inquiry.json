@@ -1,44 +1,52 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
+ "bulk": 0,
  "category": "equipment",
  "exclude_from_search": false,
  "id": "equipment-2316",
  "item_category": "Worn Items",
  "item_subcategory": "Other Worn Items",
  "level": 12,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Spectacles of Inquiry](/Equipment.aspx?ID=2316)\r\n</title>\n\n<traits>\r\n<trait label=\"Divination\" url=\"/Traits.aspx?ID=47\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 147 <sup>1.1</sup></row>\n\n**Price** 1,750 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** worn eyepiece\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nAnything viewed through these thin spectacles looks crisp and clear, and the earpieces accentuate sounds around you. You gain a +2 item bonus to Perception checks.\n\n<document level=\"2\" id=\"action-1865\" />\n\n**Craft Requirements** You are an investigator.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Spectacles of Inquiry](/Equipment.aspx?ID=2316)\r\n</title>\n\n<traits>\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 147 <sup>2.0</sup>\n\n**Price** 1,750 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** worn eyepiece\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nAnything viewed through these thin spectacles looks crisp and clear, and the earpieces accentuate sounds around you. You gain a +2 item bonus to Perception checks.\n\n**Activate** <actions string=\"Single Action\" /> ([concentrate](/Traits.aspx?ID=561)) **Frequency** once per hour;   **Effect** The spectacles key in on someone to show you their social cues in perfect clarity. Choose a creature you can see. You gain a +3 item bonus on Perception checks you make to use [Sense Motive](/Actions.aspx?ID=85) against that creature. This benefit lasts until you Activate the item again in this way.\n\n If you’re an [investigator](/Classes.aspx?ID=59), you can use this activation as part of the [Devise a Stratagem](/Actions.aspx?ID=2813) action (even if you’re doing it as a free action). Alternatively, you can use it as part of the [Pursue a Lead](/Actions.aspx?ID=2811) activity, even though you can’t see the creature. You must choose the same creature you chose for Devise a Stratagem or Pursue a Lead.\n\n**Craft Requirements** You are an investigator.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Spectacles of Inquiry",
  "pfs": "Standard",
  "price": 175000,
  "price_raw": "1,750 gp",
+ "primary_source": "Treasure Vault",
+ "primary_source_raw": "Treasure Vault pg. 147",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
+ "rarity_id": 1,
  "release_date": "2023-02-22",
  "resistance": {},
- "school": "divination",
- "search_markdown": "<traits>\r\n<trait label=\"Divination\" url=\"/Traits.aspx?ID=47\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 147 <sup>1.1</sup></row>\r\n\r\n**Price** 1,750 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** worn eyepiece\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAnything viewed through these thin spectacles looks crisp and clear, and the earpieces accentuate sounds around you. You gain a +2 item bonus to …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 147 <sup>2.0</sup>\r\n\r\n**Price** 1,750 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** worn eyepiece\r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAnything viewed through these thin spectacles looks crisp and clear, and the earpieces accentuate sounds around you. You gain a +2 item bonus to …\r\n</summary>",
+ "skill_mod": {},
  "source": [
   "Treasure Vault"
  ],
  "source_raw": [
   "Treasure Vault pg. 147"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Treasure Vault](/Sources.aspx?ID=191) pg. 147 <sup>1.1</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Treasure Vault](/Sources.aspx?ID=191) pg. 147 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
  "summary": "Anything viewed through these thin spectacles looks crisp and clear, and the earpieces accentuate sounds around you. You gain a +2 item bonus to …",
  "summary_markdown": "Anything viewed through these thin spectacles looks crisp and clear, and the earpieces accentuate sounds around you. You gain a +2 item bonus to …",
- "text": "<title level=\"1\" right=\"Item 12\" pfs=\"Standard\" > Spectacles of Inquiry Source Treasure Vault pg. 147 1.1 Price 1,750 gp Usage worn eyepiece --- Anything viewed through these thin spectacles looks crisp and clear, and the earpieces accentuate sounds around you. You gain a +2 item bonus to Perception checks. Craft Requirements You are an investigator.\n",
+ "text": "<title level=\"1\" right=\"Item 12\" pfs=\"Standard\" > Spectacles of Inquiry Source Treasure Vault pg. 147 2.0 Price 1,750 gp Usage worn eyepiece --- Anything viewed through these thin spectacles looks crisp and clear, and the earpieces accentuate sounds around you. You gain a +2 item bonus to Perception checks. Activate Single Action (concentrate) Frequency once per hour; Effect The spectacles key in on someone to show you their social cues in perfect clarity. Choose a creature you can see. You gain a +3 item bonus on Perception checks you make to use Sense Motive against that creature. This benefit lasts until you Activate the item again in this way. If you’re an investigator, you can use this activation as part of the Devise a Stratagem action (even if you’re doing it as a free action). Alternatively, you can use it as part of the Pursue a Lead activity, even though you can’t see the creature. You must choose the same creature you chose for Devise a Stratagem or Pursue a Lead. Craft Requirements You are an investigator.\n",
  "trait": [
-  "Divination",
   "Invested",
   "Magical"
  ],
- "trait_markdown": "[Divination](/Traits.aspx?ID=47), [Invested](/Traits.aspx?ID=98), [Magical](/Traits.aspx?ID=103)",
+ "trait_group": [
+  "Equipment",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Invested](/Traits.aspx?ID=98), [Magical](/Traits.aspx?ID=103)",
  "trait_raw": [
-  "Divination",
   "Invested",
   "Magical"
  ],

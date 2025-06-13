@@ -1,64 +1,79 @@
 {
  "actions": "Single Action",
+ "actions_number": 2,
  "bloodline": [
   "Imperial"
  ],
- "bloodline_markdown": "[Imperial](/Bloodlines.aspx?ID=9)",
- "breadcrumbs_spa": [],
+ "bloodline_markdown": "[Imperial](/Bloodlines.aspx?ID=27)",
  "category": "spell",
- "component": [
-  "verbal"
- ],
- "deity_markdown": "",
  "domain_markdown": "",
- "duration": 60,
- "duration_raw": "1 minute",
  "exclude_from_search": false,
  "heighten": [
-  "6th"
+  "5th",
+  "8th"
+ ],
+ "heighten_group": [
+  "1st rank",
+  "Heightened 5th rank",
+  "Heightened 8th rank"
  ],
  "heighten_level": [
   1,
-  6
+  5,
+  8
  ],
- "id": "spell-493",
+ "id": "spell-2114",
+ "legacy_id": [
+  "spell-493"
+ ],
  "level": 1,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Focus 1\" pfs=\"Standard\">[Ancestral Memories](/Spells.aspx?ID=493)</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Divination\" url=\"/Traits.aspx?ID=47\" />\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=148\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 402 <sup>4.0</sup></row>\n\n**Bloodline**\r\n[Imperial](/Bloodlines.aspx?ID=9)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Single Action\" /></row>\r\n<row>[verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nThe memories of long-dead spellcasters grant you knowledge in a specific skill. Choose any non-Lore skill, or a [Lore](/Skills.aspx?ID=8) skill related to the ancient empire from which your bloodline sprang. You temporarily become trained in that skill and might gain other memories associated with an ancestor who was trained in that skill. If you attempt a task or activity that lasts beyond this spell's duration, use the lower proficiency modifier.\n\n---\r\n**Heightened (6th)** You temporarily become an expert in the skill you choose.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Focus 1\" pfs=\"Standard\">\r\n[Ancestral Memories](/Spells.aspx?ID=2114)\r\n<actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=148\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 265 <sup>1.1</sup>\n\n**Bloodline**\r\n[Imperial](/Bloodlines.aspx?ID=27)\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nThe memories of long-dead spellcasters grant you their knowledge, making your spells more formidable. You gain either a +1 status bonus to the next spell attack roll you attempt before the end of your turn or an enemy within 60 feet takes a –1 status penalty to the next saving throw they attempt against a spell you cast before the end of your turn.\n\n---\r\n**Heightened (5th)** The bonus increases to +2 or the penalty increases to –2.\r\n\r\n**Heightened (8th)** The bonus increases to +3 or the penalty increases to –3.",
  "name": "Ancestral Memories",
- "patron_theme_markdown": "",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 265",
+ "primary_source_category": "Rulebooks",
  "rarity": "uncommon",
- "release_date": "2019-08-01",
+ "rarity_id": 2,
+ "release_date": "2024-08-01",
  "resistance": {},
- "school": "divination",
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Divination\" url=\"/Traits.aspx?ID=47\" />\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=148\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 402 <sup>4.0</sup></row>\n\n**Bloodline**\r\n[Imperial](/Bloodlines.aspx?ID=9)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Single Action\" /></row>\r\n<row>[verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Duration** 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe memories of long-dead spellcasters grant you knowledge in a specific skill.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=148\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 265 <sup>1.1</sup>\n\n**Bloodline**\r\n[Imperial](/Bloodlines.aspx?ID=27)\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe memories of long-dead spellcasters grant you their knowledge, making your spells more formidable.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 402"
+  "Player Core 2 pg. 265"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 402 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 265 <sup>1.1</sup>",
  "speed": {},
- "summary": "The memories of long-dead spellcasters grant you knowledge in a specific skill.",
- "summary_markdown": "The memories of long-dead spellcasters grant you knowledge in a specific skill.",
- "text": " Ancestral Memories Source Core Rulebook pg. 402 4.0 Bloodline Imperial Cast Single Action verbal Duration 1 minute --- The memories of long-dead spellcasters grant you knowledge in a specific skill. Choose any non-Lore skill, or a Lore skill related to the ancient empire from which your bloodline sprang. You temporarily become trained in that skill and might gain other memories associated with an ancestor who was trained in that skill. If you attempt a task or activity that lasts beyond this spell's duration, use the lower proficiency modifier. --- Heightened (6th) You temporarily become an expert in the skill you choose.",
+ "spell_type": "Focus",
+ "summary": "The memories of long-dead spellcasters grant you their knowledge, making your spells more formidable.",
+ "summary_markdown": "The memories of long-dead spellcasters grant you their knowledge, making your spells more formidable.",
+ "text": "\nAncestral Memories Single Action Source Player Core 2 pg. 265 1.1 Bloodline Imperial --- The memories of long-dead spellcasters grant you their knowledge, making your spells more formidable. You gain either a +1 status bonus to the next spell attack roll you attempt before the end of your turn or an enemy within 60 feet takes a –1 status penalty to the next saving throw they attempt against a spell you cast before the end of your turn. --- Heightened (5th) The bonus increases to +2 or the penalty increases to –2. Heightened (8th) The bonus increases to +3 or the penalty increases to –3.",
  "tradition_markdown": "",
  "trait": [
-  "Divination",
+  "Concentrate",
+  "Focus",
   "Sorcerer",
   "Uncommon"
  ],
- "trait_markdown": "[Divination](/Traits.aspx?ID=47), [Sorcerer](/Traits.aspx?ID=148), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Mechanics",
+  "Class",
+  "Rarity"
+ ],
+ "trait_markdown": "[Concentrate](/Traits.aspx?ID=561), [Focus](/Traits.aspx?ID=511), [Sorcerer](/Traits.aspx?ID=148), [Uncommon](/Traits.aspx?ID=721)",
  "trait_raw": [
-  "Divination",
+  "Concentrate",
+  "Focus",
   "Sorcerer",
   "Uncommon"
  ],
- "type": "Focus",
- "url": "/Spells.aspx?ID=493",
+ "type": "Spell",
+ "url": "/Spells.aspx?ID=2114",
  "weakness": {}
 }

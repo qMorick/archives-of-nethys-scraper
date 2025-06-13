@@ -1,42 +1,55 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Shattering Blows"
  ],
  "feat_markdown": "Shattering Blows",
- "id": "feat-1630",
+ "id": "feat-5872",
+ "legacy_id": [
+  "feat-1630"
+ ],
  "level": 16,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 16\"\r\n    pfs=\"Standard\"\r\n>\r\n[Shattering Blows](/Feats.aspx?ID=1630) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 111 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYour forceful blows shatter objects with ease. While you are raging, your melee Strikes ignore 5 points of an object's Hardness. If you have the devastator class feature, you instead ignore 10 points of an object's Hardness.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 16\"\r\n    pfs=\"Standard\"\r\n>\r\n[Shattering Blows](/Feats.aspx?ID=5872) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 85 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYour forceful blows shatter objects with ease. While you are raging, damage from your melee Strikes ignores the first 5 Hardness of an object. If you have the [devastator class feature](/Classes.aspx?ID=2), the damage instead ignores the first 10 points Hardness of an object.",
  "name": "Shattering Blows",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 85",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 111 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour forceful blows shatter objects with ease.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 85 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour forceful blows shatter objects with ease.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 111"
+  "Player Core 2 pg. 85"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 111 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 85 <sup>1.1</sup>",
  "speed": {},
  "summary": "Your forceful blows shatter objects with ease.",
  "summary_markdown": "Your forceful blows shatter objects with ease.",
- "text": "<title level=\"1\" right=\"Feat 16\" pfs=\"Standard\" > Shattering Blows Source Advanced Player's Guide pg. 111 2.0 --- Your forceful blows shatter objects with ease. While you are raging, your melee Strikes ignore 5 points of an object's Hardness. If you have the devastator class feature, you instead ignore 10 points of an object's Hardness.",
+ "text": "<title level=\"1\" right=\"Feat 16\" pfs=\"Standard\" > Shattering Blows Source Player Core 2 pg. 85 1.1 --- Your forceful blows shatter objects with ease. While you are raging, damage from your melee Strikes ignores the first 5 Hardness of an object. If you have the devastator class feature, the damage instead ignores the first 10 points Hardness of an object.",
  "trait": [
   "Barbarian",
   "Rage"
  ],
- "trait_markdown": "[Barbarian](/Traits.aspx?ID=18), [Rage](/Traits.aspx?ID=135)",
+ "trait_group": [
+  "Class",
+  "Class-Specific"
+ ],
+ "trait_markdown": "[Barbarian](/Traits.aspx?ID=813), [Rage](/Traits.aspx?ID=680)",
  "trait_raw": [
   "Barbarian",
   "Rage"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1630",
+ "url": "/Feats.aspx?ID=5872",
  "weakness": {}
 }

@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Divine Reflexes"
  ],
  "feat_markdown": "Divine Reflexes",
- "id": "feat-253",
+ "id": "feat-5922",
+ "legacy_id": [
+  "feat-253"
+ ],
  "level": 14,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 14\"\r\n    pfs=\"Standard\"\r\n>\r\n[Divine Reflexes](/Feats.aspx?ID=253) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 115 <sup>4.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nAt the start of each of your turns, you gain an additional reaction that you can use only for your champion’s reaction.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 14\"\r\n    pfs=\"Standard\"\r\n>\r\n[Divine Reflexes](/Feats.aspx?ID=5922) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 98 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nAt the start of each of your turns, you gain an additional reaction that you can use only for your champion's reaction.",
  "name": "Divine Reflexes",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 98",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 115 <sup>4.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can use your champion's reaction more.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 98 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain an additional reaction that you can use only for your champion's reaction.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 115"
+  "Player Core 2 pg. 98"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 115 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 98 <sup>1.1</sup>",
  "speed": {},
- "summary": "You can use your champion's reaction more.",
- "summary_markdown": "You can use your champion's reaction more.",
- "text": "<title level=\"1\" right=\"Feat 14\" pfs=\"Standard\" > Divine Reflexes Source Core Rulebook pg. 115 4.0 --- At the start of each of your turns, you gain an additional reaction that you can use only for your champion’s reaction.",
+ "summary": "You gain an additional reaction that you can use only for your champion's reaction.",
+ "summary_markdown": "You gain an additional reaction that you can use only for your champion's reaction.",
+ "text": "<title level=\"1\" right=\"Feat 14\" pfs=\"Standard\" > Divine Reflexes Source Player Core 2 pg. 98 1.1 --- At the start of each of your turns, you gain an additional reaction that you can use only for your champion's reaction.",
  "trait": [
   "Champion"
  ],
- "trait_markdown": "[Champion](/Traits.aspx?ID=24)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Champion](/Traits.aspx?ID=811)",
  "trait_raw": [
   "Champion"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=253",
+ "url": "/Feats.aspx?ID=5922",
  "weakness": {}
 }

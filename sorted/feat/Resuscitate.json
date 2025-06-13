@@ -1,56 +1,70 @@
 {
  "actions": "Three Actions",
+ "actions_number": 6,
  "archetype": [
   "Medic"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Resuscitate"
  ],
  "feat_markdown": "Resuscitate",
- "id": "feat-2031",
+ "id": "feat-6377",
+ "legacy_id": [
+  "feat-2031"
+ ],
  "level": 16,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 16\"\r\n    pfs=\"Standard\"\r\n>\r\n[Resuscitate](/Feats.aspx?ID=2031) <actions string=\"Three Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=89\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 184 <sup>2.0</sup></row>\n\n**Archetype** [Medic](/Archetypes.aspx?ID=69)\n\n**Prerequisites**\r\n[Medic Dedication](/Feats.aspx?ID=2027); Legendary in [Medicine](/Skills.aspx?ID=9)\n\n**Requirements**\r\nYou are holding [healer's tools](/Equipment.aspx?ID=25) or are wearing them and have a hand free. Also, the target's body is mostly intact.\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou can use [Medicine](/Skills.aspx?ID=9) to resuscitate the dead. Attempt a DC 40 Medicine check to revive a dead creature that has been dead for no more than 3 rounds. If you succeed, the target returns to life with the effects of [_raise dead_](/Spells.aspx?ID=243), except it still has the [wounded](/Conditions.aspx?ID=42) condition it had before [dying](/Conditions.aspx?ID=11), increased by 1 (or wounded 1 if it wasn't wounded before dying). Whether you succeed or fail, the target is temporarily immune to Resuscitate for 1 day.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 16\"\r\n    pfs=\"Standard\"\r\n>\r\n[Resuscitate](/Feats.aspx?ID=6377) <actions string=\"Three Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=623\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=645\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 208 <sup>1.1</sup>\n\n**Archetype** [Medic](/Archetypes.aspx?ID=257)\n\n**Prerequisites**\r\n[Medic Dedication](/Feats.aspx?ID=6373); Legendary in [Medicine](/Skills.aspx?ID=42)\n\n**Requirements**\r\nYou are holding [healer's tools](/Equipment.aspx?ID=25), or you are wearing them and have a hand free.\n\n</column>\r\n\r\n---\r\n\r\nYou resuscitate the dead. Attempt a DC 40 [Medicine](/Skills.aspx?ID=42) check to revive a dead creature who has been dead for no more than 3 rounds and whose body is mostly intact. If you succeed, the target returns to life with the effects of [_raise dead_](/Spells.aspx?ID=1645), except it still has the [wounded](/Conditions.aspx?ID=99) condition it had before dying, increased by 1 (or wounded 1 if it wasn’t wounded before dying). Whether you succeed or fail, the target is temporarily immune to Resuscitate for 1 day.",
  "name": "Resuscitate",
  "pfs": "Standard",
  "prerequisite": "Medic Dedication; Legendary in Medicine",
- "prerequisite_markdown": "[Medic Dedication](/Feats.aspx?ID=2027); Legendary in [Medicine](/Skills.aspx?ID=9)",
+ "prerequisite_markdown": "[Medic Dedication](/Feats.aspx?ID=6373); Legendary in [Medicine](/Skills.aspx?ID=42)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 208",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
- "requirement": "You are holding  healer's tools  or are wearing them and have a hand free. Also, the target's body is mostly intact.",
- "requirement_markdown": "You are holding [healer's tools](/Equipment.aspx?ID=25) or are wearing them and have a hand free. Also, the target's body is mostly intact.",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
+ "requirement": "You are holding  healer's tools , or you are wearing them and have a hand free.",
+ "requirement_markdown": "You are holding [healer's tools](/Equipment.aspx?ID=25), or you are wearing them and have a hand free.",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=89\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 184 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Medic Dedication](/Feats.aspx?ID=2027); Legendary in [Medicine](/Skills.aspx?ID=9)\n\n**Requirements**\r\nYou are holding [healer's tools](/Equipment.aspx?ID=25) or are wearing them and have a hand free. Also, the target's body is mostly intact.\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can use Medicine to resuscitate the dead.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=623\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=645\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 208 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Medic Dedication](/Feats.aspx?ID=6373); Legendary in [Medicine](/Skills.aspx?ID=42)\n\n**Requirements**\r\nYou are holding [healer's tools](/Equipment.aspx?ID=25), or you are wearing them and have a hand free.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou resuscitate the dead.\r\n</summary>",
  "skill": [
   "Medicine",
   "Medicine"
  ],
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 184"
+  "Player Core 2 pg. 208"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 184 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 208 <sup>1.1</sup>",
  "speed": {},
- "summary": "You can use Medicine to resuscitate the dead.",
- "summary_markdown": "You can use Medicine to resuscitate the dead.",
- "text": "<title level=\"1\" right=\"Feat 16\" pfs=\"Standard\" > Resuscitate Three Actions Source Advanced Player's Guide pg. 184 2.0 Archetype Medic Prerequisites Medic Dedication; Legendary in Medicine Requirements You are holding healer's tools or are wearing them and have a hand free. Also, the target's body is mostly intact. --- You can use Medicine to resuscitate the dead. Attempt a DC 40 Medicine check to revive a dead creature that has been dead for no more than 3 rounds. If you succeed, the target returns to life with the effects of raise dead , except it still has the wounded condition it had before dying, increased by 1 (or wounded 1 if it wasn't wounded before dying). Whether you succeed or fail, the target is temporarily immune to Resuscitate for 1 day.",
+ "summary": "You resuscitate the dead.",
+ "summary_markdown": "You resuscitate the dead.",
+ "text": "<title level=\"1\" right=\"Feat 16\" pfs=\"Standard\" > Resuscitate Three Actions Source Player Core 2 pg. 208 1.1 Archetype Medic Prerequisites Medic Dedication; Legendary in Medicine Requirements You are holding healer's tools, or you are wearing them and have a hand free. --- You resuscitate the dead. Attempt a DC 40 Medicine check to revive a dead creature who has been dead for no more than 3 rounds and whose body is mostly intact. If you succeed, the target returns to life with the effects of raise dead , except it still has the wounded condition it had before dying, increased by 1 (or wounded 1 if it wasn’t wounded before dying). Whether you succeed or fail, the target is temporarily immune to Resuscitate for 1 day.",
  "trait": [
   "Archetype",
   "Healing",
   "Manipulate"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Healing](/Traits.aspx?ID=89), [Manipulate](/Traits.aspx?ID=104)",
+ "trait_group": [
+  "Feat",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535), [Healing](/Traits.aspx?ID=623), [Manipulate](/Traits.aspx?ID=645)",
  "trait_raw": [
   "Archetype",
   "Healing",
   "Manipulate"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2031",
+ "url": "/Feats.aspx?ID=6377",
  "weakness": {}
 }

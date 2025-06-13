@@ -1,42 +1,54 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Loyal Warhorse"
  ],
  "feat_markdown": "Loyal Warhorse",
- "id": "feat-228",
+ "id": "feat-5900",
+ "legacy_id": [
+  "feat-228"
+ ],
  "level": 6,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Loyal Warhorse](/Feats.aspx?ID=228) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 112 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[divine ally (steed)](/Classes.aspx?ID=4)\n\n</column>\r\n\r\n---\r\n\r\nYou and your mount have grown closer, and your loyalty to each other is unbreakable. The mount you gained through the divine ally class feature is now a [mature animal companion](/Rules.aspx?ID=155). In addition, your mount never attacks you, even if it is magically compelled to do so.\n\n<title level=\"2\">Loyal Warhorse leads to...</title>\r\n[Imposing Destrier](/Feats.aspx?ID=238)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Loyal Warhorse](/Feats.aspx?ID=5900) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 95 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Faithful Steed](/Feats.aspx?ID=5885)\n\n</column>\r\n\r\n---\r\n\r\nThe loyalty you and your mount share is unbreakable. The mount you gained with Faithful Steed is now a [mature animal companion](/Rules.aspx?ID=2117). In addition, your mount never attacks you, even if it is magically compelled to do so.\n\n<title level=\"2\">Loyal Warhorse leads to...</title>\r\n[Imposing Destrier](/Feats.aspx?ID=5908)",
  "name": "Loyal Warhorse",
  "pfs": "Standard",
- "prerequisite": "divine ally (steed)",
- "prerequisite_markdown": "[divine ally (steed)](/Classes.aspx?ID=4)",
+ "prerequisite": "Faithful Steed",
+ "prerequisite_markdown": "[Faithful Steed](/Feats.aspx?ID=5885)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 95",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 112 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[divine ally (steed)](/Classes.aspx?ID=4)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou and your mount have grown closer, and your loyalty to each other is unbreakable.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 95 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Faithful Steed](/Feats.aspx?ID=5885)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe loyalty you and your mount share is unbreakable.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 112"
+  "Player Core 2 pg. 95"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 112 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 95 <sup>1.1</sup>",
  "speed": {},
- "summary": "You and your mount have grown closer, and your loyalty to each other is unbreakable.",
- "summary_markdown": "You and your mount have grown closer, and your loyalty to each other is unbreakable.",
- "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Loyal Warhorse Source Core Rulebook pg. 112 4.0 Prerequisites divine ally (steed) --- You and your mount have grown closer, and your loyalty to each other is unbreakable. The mount you gained through the divine ally class feature is now a mature animal companion. In addition, your mount never attacks you, even if it is magically compelled to do so. Loyal Warhorse leads to... Imposing Destrier",
+ "summary": "The loyalty you and your mount share is unbreakable.",
+ "summary_markdown": "The loyalty you and your mount share is unbreakable.",
+ "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Loyal Warhorse Source Player Core 2 pg. 95 1.1 Prerequisites Faithful Steed --- The loyalty you and your mount share is unbreakable. The mount you gained with Faithful Steed is now a mature animal companion. In addition, your mount never attacks you, even if it is magically compelled to do so. Loyal Warhorse leads to... Imposing Destrier",
  "trait": [
   "Champion"
  ],
- "trait_markdown": "[Champion](/Traits.aspx?ID=24)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Champion](/Traits.aspx?ID=811)",
  "trait_raw": [
   "Champion"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=228",
+ "url": "/Feats.aspx?ID=5900",
  "weakness": {}
 }

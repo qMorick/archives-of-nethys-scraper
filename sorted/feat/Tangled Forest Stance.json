@@ -1,45 +1,60 @@
 {
  "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions_number": 2,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Tangled Forest Stance"
  ],
  "feat_markdown": "Tangled Forest Stance",
- "id": "feat-461",
+ "id": "feat-6015",
+ "legacy_id": [
+  "feat-461"
+ ],
  "level": 8,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Tangled Forest Stance](/Feats.aspx?ID=461) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n<trait label=\"Stance\" url=\"/Traits.aspx?ID=152\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 163 <sup>4.0</sup></row>\n\n**Requirements**\r\nYou are unarmored.\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou extend your arms like gnarled branches to interfere with your foes’ movements. You can make lashing branch unarmed attacks. These deal 1d8 slashing damage; are in the brawling group; and have the agile, finesse, nonlethal, and unarmed traits.\n\n While you’re in Tangled Forest Stance and can act, every enemy in your reach that tries to move away from you must succeed at a Reflex save, Acrobatics check, or Athletics check against your class DC or be immobilized for that action. If you prefer, you can allow the enemy to move.\n\n<title level=\"2\">Tangled Forest Stance leads to...</title>\r\n[Tangled Forest Rake](/Feats.aspx?ID=475)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Tangled Forest Stance](/Feats.aspx?ID=6015) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n<trait label=\"Stance\" url=\"/Traits.aspx?ID=701\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 123 <sup>1.1</sup>\n\n**Requirements**\r\nYou are unarmored.\n\n</column>\r\n\r\n---\r\n\r\nYou extend your arms like gnarled branches to interfere with your foes' movements. You can make lashing branch unarmed attacks. These deal 1d8 slashing damage; are in the [brawling](/WeaponGroups.aspx?ID=4) group; and have the [agile](/Traits.aspx?ID=526), [finesse](/Traits.aspx?ID=602), [nonlethal](/Traits.aspx?ID=661), and [unarmed](/Traits.aspx?ID=719) traits.\n\n While you're in Tangled Forest Stance and can act, every enemy in your reach that tries to move away from you must succeed at a Reflex save, [Acrobatics](/Skills.aspx?ID=34) check, or [Athletics](/Skills.aspx?ID=36) check against your class DC or be [immobilized](/Conditions.aspx?ID=81) for that action. If you prefer, you can allow the enemy to move.\n\n<title level=\"2\">Tangled Forest Stance leads to...</title>\r\n[Tangled Forest Rake](/Feats.aspx?ID=6036)",
  "name": "Tangled Forest Stance",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 123",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "requirement": "You are unarmored.",
  "requirement_markdown": "You are unarmored.",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n<trait label=\"Stance\" url=\"/Traits.aspx?ID=152\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 163 <sup>4.0</sup></row>\n\n**Requirements**\r\nYou are unarmored.\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou extend your arms like gnarled branches to interfere with your foes’ movements.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n<trait label=\"Stance\" url=\"/Traits.aspx?ID=701\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 123 <sup>1.1</sup>\n\n**Requirements**\r\nYou are unarmored.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou extend your arms like gnarled branches to interfere with your foes' movements.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 163"
+  "Player Core 2 pg. 123"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 163 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 123 <sup>1.1</sup>",
  "speed": {},
- "summary": "You extend your arms like gnarled branches to interfere with your foes’ movements.",
- "summary_markdown": "You extend your arms like gnarled branches to interfere with your foes’ movements.",
- "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Tangled Forest Stance Single Action Source Core Rulebook pg. 163 4.0 Requirements You are unarmored. --- You extend your arms like gnarled branches to interfere with your foes’ movements. You can make lashing branch unarmed attacks. These deal 1d8 slashing damage; are in the brawling group; and have the agile, finesse, nonlethal, and unarmed traits. While you’re in Tangled Forest Stance and can act, every enemy in your reach that tries to move away from you must succeed at a Reflex save, Acrobatics check, or Athletics check against your class DC or be immobilized for that action. If you prefer, you can allow the enemy to move. Tangled Forest Stance leads to... Tangled Forest Rake",
+ "summary": "You extend your arms like gnarled branches to interfere with your foes' movements.",
+ "summary_markdown": "You extend your arms like gnarled branches to interfere with your foes' movements.",
+ "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Tangled Forest Stance Single Action Source Player Core 2 pg. 123 1.1 Requirements You are unarmored. --- You extend your arms like gnarled branches to interfere with your foes' movements. You can make lashing branch unarmed attacks. These deal 1d8 slashing damage; are in the brawling group; and have the agile, finesse, nonlethal, and unarmed traits. While you're in Tangled Forest Stance and can act, every enemy in your reach that tries to move away from you must succeed at a Reflex save, Acrobatics check, or Athletics check against your class DC or be immobilized for that action. If you prefer, you can allow the enemy to move. Tangled Forest Stance leads to... Tangled Forest Rake",
  "trait": [
   "Monk",
   "Stance"
  ],
- "trait_markdown": "[Monk](/Traits.aspx?ID=112), [Stance](/Traits.aspx?ID=152)",
+ "trait_group": [
+  "Class",
+  "Weapon",
+  "Class-Specific"
+ ],
+ "trait_markdown": "[Monk](/Traits.aspx?ID=656), [Stance](/Traits.aspx?ID=701)",
  "trait_raw": [
   "Monk",
   "Stance"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=461",
+ "url": "/Feats.aspx?ID=6015",
  "weakness": {}
 }

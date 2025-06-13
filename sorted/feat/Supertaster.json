@@ -1,42 +1,54 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Supertaster"
  ],
  "feat_markdown": "Supertaster",
- "id": "feat-2152",
+ "id": "feat-6508",
+ "legacy_id": [
+  "feat-2152"
+ ],
  "level": 7,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 7\"\r\n    pfs=\"Standard\"\r\n>\r\n[Supertaster](/Feats.aspx?ID=2152) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=78\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 209 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nmaster in Perception\n\n</column>\r\n\r\n---\r\n\r\nYou have refined your palate and have a discerning sense of taste that can detect abnormalities in the flavor and texture of food and beverages. When eating food or drinking a beverage, you automatically attempt to identify the ingredients, which might alert you to the presence of alterations or additives, such as [poisons](/Traits.aspx?ID=126). The GM rolls a [secret](/Traits.aspx?ID=142) Perception check using the poison's level to determine the DC; on a success, you learn that the food or drink was poisoned, but not the specific poison used. \n\nIf you lick or taste something while [Investigating](/Actions.aspx?ID=516) or attempting to [Recall Knowledge](/Actions.aspx?ID=26) to identify something, if the taste would provide relevant additional information (at the GM's discretion), you gain a +2 circumstance bonus to your check.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 7\"\r\n    pfs=\"Standard\"\r\n>\r\n[Supertaster](/Feats.aspx?ID=6508) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=615\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 234 <sup>1.1</sup>\n\n**Prerequisites**\r\nMaster in Perception\n\n</column>\r\n\r\n---\r\n\r\nYou have refined your palate and have a discerning sense of taste that can detect abnormalities in the flavor and texture of food and beverages. When eating food or drinking a beverage, you automatically attempt to identify the ingredients, which might alert you to the presence of alterations or additives, such as [poisons](/Traits.aspx?ID=669). The GM rolls a secret Perception check against a DC determined by the poison's level; if the food or drink is poisoned, on a success, you learn that the food or drink was poisoned, but not the specific poison used. If you successfully detect that the food or drink was poisoned, you can spit out the food or drink in time to not be exposed to that instance of the poison (unless you resume eating or drinking the poisoned food or beverage). <br />If you lick or taste something while [Investigating](/Actions.aspx?ID=2627) or attempting to [Recall Knowledge](/Actions.aspx?ID=2367) to identify something, and if the taste would provide relevant additional information (at the GM's discretion), you gain a +2 circumstance bonus to your check.",
  "name": "Supertaster",
  "pfs": "Standard",
- "prerequisite": "master in Perception",
- "prerequisite_markdown": "master in Perception",
+ "prerequisite": "Master in Perception",
+ "prerequisite_markdown": "Master in Perception",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 234",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=78\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 209 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nmaster in Perception\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGain secret checks to detect poison by taste.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=615\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 234 <sup>1.1</sup>\n\n**Prerequisites**\r\nMaster in Perception\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have refined your palate and have a discerning sense of taste that can detect abnormalities in the flavor and texture of food and beverages.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 209"
+  "Player Core 2 pg. 234"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 209 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 234 <sup>1.1</sup>",
  "speed": {},
- "summary": "Gain secret checks to detect poison by taste.",
- "summary_markdown": "Gain secret checks to detect poison by taste.",
- "text": "<title level=\"1\" right=\"Feat 7\" pfs=\"Standard\" > Supertaster Source Advanced Player's Guide pg. 209 2.0 Prerequisites master in Perception --- You have refined your palate and have a discerning sense of taste that can detect abnormalities in the flavor and texture of food and beverages. When eating food or drinking a beverage, you automatically attempt to identify the ingredients, which might alert you to the presence of alterations or additives, such as poisons. The GM rolls a secret Perception check using the poison's level to determine the DC; on a success, you learn that the food or drink was poisoned, but not the specific poison used. If you lick or taste something while Investigating or attempting to Recall Knowledge to identify something, if the taste would provide relevant additional information (at the GM's discretion), you gain a +2 circumstance bonus to your check.",
+ "summary": "You have refined your palate and have a discerning sense of taste that can detect abnormalities in the flavor and texture of food and beverages.",
+ "summary_markdown": "You have refined your palate and have a discerning sense of taste that can detect abnormalities in the flavor and texture of food and beverages.",
+ "text": "<title level=\"1\" right=\"Feat 7\" pfs=\"Standard\" > Supertaster Source Player Core 2 pg. 234 1.1 Prerequisites Master in Perception --- You have refined your palate and have a discerning sense of taste that can detect abnormalities in the flavor and texture of food and beverages. When eating food or drinking a beverage, you automatically attempt to identify the ingredients, which might alert you to the presence of alterations or additives, such as poisons. The GM rolls a secret Perception check against a DC determined by the poison's level; if the food or drink is poisoned, on a success, you learn that the food or drink was poisoned, but not the specific poison used. If you successfully detect that the food or drink was poisoned, you can spit out the food or drink in time to not be exposed to that instance of the poison (unless you resume eating or drinking the poisoned food or beverage). If you lick or taste something while Investigating or attempting to Recall Knowledge to identify something, and if the taste would provide relevant additional information (at the GM's discretion), you gain a +2 circumstance bonus to your check.",
  "trait": [
   "General"
  ],
- "trait_markdown": "[General](/Traits.aspx?ID=78)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[General](/Traits.aspx?ID=615)",
  "trait_raw": [
   "General"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2152",
+ "url": "/Feats.aspx?ID=6508",
  "weakness": {}
 }

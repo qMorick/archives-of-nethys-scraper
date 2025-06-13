@@ -1,60 +1,76 @@
 {
  "actions": "Single Action",
+ "actions_number": 2,
  "bloodline_markdown": "",
- "breadcrumbs_spa": [],
  "category": "spell",
- "component": [
-  "somatic"
- ],
- "deity_markdown": "",
  "domain_markdown": "",
  "duration_raw": "until you leave the stance",
  "exclude_from_search": false,
+ "heighten_group": [
+  "4th rank"
+ ],
  "heighten_level": [
   4
  ],
- "id": "spell-737",
+ "id": "spell-2061",
+ "legacy_id": [
+  "spell-737"
+ ],
  "level": 4,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Focus 4\" pfs=\"Standard\">[Clinging Shadows Stance](/Spells.aspx?ID=737)</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n<trait label=\"Shadow\" url=\"/Traits.aspx?ID=143\" />\r\n<trait label=\"Stance\" url=\"/Traits.aspx?ID=152\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 229 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Single Action\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** until you leave the stance\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou adopt the stance of clinging shadows. You can make shadow grasp Strikes. These deal 1d4 negative damage; are in the [brawling](/WeaponGroups.aspx?ID=4) group; and have the [agile](/Traits.aspx?ID=170), [grapple](/Traits.aspx?ID=184), [reach](/Traits.aspx?ID=192), and [unarmed](/Traits.aspx?ID=199) traits. \n\nWhile in _clinging shadows stance_, you gain a +2 circumstance bonus to [Athletics](/Skills.aspx?ID=3) checks to [Grapple](/Actions.aspx?ID=35), and to the DC for creatures to [Escape](/Actions.aspx?ID=79) from you.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Focus 4\" pfs=\"Standard\">\r\n[Clinging Shadows Stance](/Spells.aspx?ID=2061)\r\n<actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=645\" />\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n<trait label=\"Shadow\" url=\"/Traits.aspx?ID=693\" />\r\n<trait label=\"Stance\" url=\"/Traits.aspx?ID=701\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 257 <sup>1.1</sup>\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** until you leave the stance\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou adopt the stance of clinging shadows. You can make shadow grasp Strikes. These deal 1d4 void damage; are in the [brawling](/WeaponGroups.aspx?ID=4) group; and have the [agile](/Traits.aspx?ID=526), [grapple](/Traits.aspx?ID=619), [reach](/Traits.aspx?ID=684), and [unarmed](/Traits.aspx?ID=719) traits. While in clinging shadows stance, you gain a +2 circumstance bonus to [Athletics](/Skills.aspx?ID=36) checks to [Grapple](/Actions.aspx?ID=2376), and to the DC for creatures to [Escape](/Actions.aspx?ID=2296) from you.",
  "name": "Clinging Shadows Stance",
- "patron_theme_markdown": "",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 257",
+ "primary_source_category": "Rulebooks",
  "rarity": "uncommon",
- "release_date": "2020-07-30",
+ "rarity_id": 2,
+ "release_date": "2024-08-01",
  "resistance": {},
- "school": "evocation",
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n<trait label=\"Shadow\" url=\"/Traits.aspx?ID=143\" />\r\n<trait label=\"Stance\" url=\"/Traits.aspx?ID=152\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 229 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Single Action\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Duration** until you leave the stance\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou adopt the stance of clinging shadows.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=645\" />\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n<trait label=\"Shadow\" url=\"/Traits.aspx?ID=693\" />\r\n<trait label=\"Stance\" url=\"/Traits.aspx?ID=701\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 257 <sup>1.1</sup>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** until you leave the stance\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou adopt the stance of clinging shadows.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 229"
+  "Player Core 2 pg. 257"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 229 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 257 <sup>1.1</sup>",
  "speed": {},
+ "spell_type": "Focus",
  "summary": "You adopt the stance of clinging shadows.",
  "summary_markdown": "You adopt the stance of clinging shadows.",
- "text": " Clinging Shadows Stance Source Advanced Player's Guide pg. 229 2.0 Cast Single Action somatic Duration until you leave the stance --- You adopt the stance of clinging shadows. You can make shadow grasp Strikes. These deal 1d4 negative damage; are in the brawling group; and have the agile, grapple, reach, and unarmed traits. While in clinging shadows stance , you gain a +2 circumstance bonus to Athletics checks to Grapple, and to the DC for creatures to Escape from you.",
+ "text": "\nClinging Shadows Stance Single Action Source Player Core 2 pg. 257 1.1 Duration until you leave the stance --- You adopt the stance of clinging shadows. You can make shadow grasp Strikes. These deal 1d4 void damage; are in the brawling group; and have the agile, grapple, reach, and unarmed traits. While in clinging shadows stance, you gain a +2 circumstance bonus to Athletics checks to Grapple, and to the DC for creatures to Escape from you.",
  "tradition_markdown": "",
  "trait": [
-  "Evocation",
+  "Focus",
+  "Manipulate",
   "Monk",
   "Shadow",
   "Stance",
   "Uncommon"
  ],
- "trait_markdown": "[Evocation](/Traits.aspx?ID=65), [Monk](/Traits.aspx?ID=112), [Shadow](/Traits.aspx?ID=143), [Stance](/Traits.aspx?ID=152), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Mechanics",
+  "Class",
+  "Weapon",
+  "Planar",
+  "Class-Specific",
+  "Rarity"
+ ],
+ "trait_markdown": "[Focus](/Traits.aspx?ID=511), [Manipulate](/Traits.aspx?ID=645), [Monk](/Traits.aspx?ID=656), [Shadow](/Traits.aspx?ID=693), [Stance](/Traits.aspx?ID=701), [Uncommon](/Traits.aspx?ID=721)",
  "trait_raw": [
-  "Evocation",
+  "Focus",
+  "Manipulate",
   "Monk",
   "Shadow",
   "Stance",
   "Uncommon"
  ],
- "type": "Focus",
- "url": "/Spells.aspx?ID=737",
+ "type": "Spell",
+ "url": "/Spells.aspx?ID=2061",
  "weakness": {}
 }

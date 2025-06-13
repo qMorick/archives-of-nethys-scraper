@@ -2,50 +2,63 @@
  "archetype": [
   "Vigilante"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Frightening Appearance"
  ],
  "feat_markdown": "Frightening Appearance",
- "id": "feat-2092",
+ "id": "feat-6433",
+ "legacy_id": [
+  "feat-2092"
+ ],
  "level": 12,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Frightening Appearance](/Feats.aspx?ID=2092) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Vigilante\" url=\"/Traits.aspx?ID=326\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 197 <sup>2.0</sup></row>\n\n**Archetype** [Vigilante](/Archetypes.aspx?ID=80)\n\n**Prerequisites**\r\nExpert in [Intimidation](/Skills.aspx?ID=7); [Startling Appearance (Vigilante)](/Feats.aspx?ID=2088)\n\n</column>\r\n\r\n---\r\n\r\nYour dramatic appearances can frighten bystanders. When you make a [Startling Appearance](/Feats.aspx?ID=2088), you can also attempt to [Demoralize](/Actions.aspx?ID=53) each opponent within 10 feet to whom you were [unnoticed](/Conditions.aspx?ID=41) before your Strike.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Frightening Appearance](/Feats.aspx?ID=6433) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Vigilante\" url=\"/Traits.aspx?ID=803\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 219 <sup>1.1</sup>\n\n**Archetype** [Vigilante](/Archetypes.aspx?ID=267)\n\n**Prerequisites**\r\n[Startling Appearance](/Feats.aspx?ID=6429); Expert in [Intimidation](/Skills.aspx?ID=40)\n\n</column>\r\n\r\n---\r\n\r\nYour dramatic appearances can frighten bystanders. When you make a Startling Appearance, you can also attempt to [Demoralize](/Actions.aspx?ID=2395) each enemy in a 10-foot emanation you were [unnoticed](/Conditions.aspx?ID=98) by before your [Strike](/Actions.aspx?ID=2306).",
  "name": "Frightening Appearance",
  "pfs": "Standard",
- "prerequisite": "Expert in Intimidation; Startling Appearance (Vigilante)",
- "prerequisite_markdown": "Expert in [Intimidation](/Skills.aspx?ID=7); [Startling Appearance (Vigilante)](/Feats.aspx?ID=2088)",
+ "prerequisite": "Startling Appearance; Expert in Intimidation",
+ "prerequisite_markdown": "[Startling Appearance](/Feats.aspx?ID=6429); Expert in [Intimidation](/Skills.aspx?ID=40)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 219",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Vigilante\" url=\"/Traits.aspx?ID=326\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 197 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nExpert in [Intimidation](/Skills.aspx?ID=7); [Startling Appearance (Vigilante)](/Feats.aspx?ID=2088)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour dramatic appearances can frighten bystanders.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Vigilante\" url=\"/Traits.aspx?ID=803\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 219 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Startling Appearance](/Feats.aspx?ID=6429); Expert in [Intimidation](/Skills.aspx?ID=40)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour dramatic appearances can frighten bystanders.\r\n</summary>",
  "skill": [
   "Intimidation",
   "Intimidation"
  ],
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 197"
+  "Player Core 2 pg. 219"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 197 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 219 <sup>1.1</sup>",
  "speed": {},
  "summary": "Your dramatic appearances can frighten bystanders.",
  "summary_markdown": "Your dramatic appearances can frighten bystanders.",
- "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Frightening Appearance Source Advanced Player's Guide pg. 197 2.0 Archetype Vigilante Prerequisites Expert in Intimidation; Startling Appearance (Vigilante) --- Your dramatic appearances can frighten bystanders. When you make a Startling Appearance, you can also attempt to Demoralize each opponent within 10 feet to whom you were unnoticed before your Strike.",
+ "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Frightening Appearance Source Player Core 2 pg. 219 1.1 Archetype Vigilante Prerequisites Startling Appearance; Expert in Intimidation --- Your dramatic appearances can frighten bystanders. When you make a Startling Appearance, you can also attempt to Demoralize each enemy in a 10-foot emanation you were unnoticed by before your Strike.",
  "trait": [
   "Archetype",
   "Vigilante"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Vigilante](/Traits.aspx?ID=326)",
+ "trait_group": [
+  "Feat",
+  "Class-Specific"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535), [Vigilante](/Traits.aspx?ID=803)",
  "trait_raw": [
   "Archetype",
   "Vigilante"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2092",
+ "url": "/Feats.aspx?ID=6433",
  "weakness": {}
 }

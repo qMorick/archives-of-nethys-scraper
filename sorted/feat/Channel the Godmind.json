@@ -1,6 +1,6 @@
 {
  "actions": "Two Actions",
- "breadcrumbs_spa": [],
+ "actions_number": 4,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
@@ -8,35 +8,50 @@
  ],
  "feat_markdown": "Channel the Godmind",
  "frequency": "once per day",
- "id": "feat-2488",
+ "id": "feat-7217",
+ "legacy_id": [
+  "feat-2488"
+ ],
  "level": 17,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 17\"\r\n    pfs=\"Standard\"\r\n>\r\n[Channel the Godmind](/Feats.aspx?ID=2488) <actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Aphorite\" url=\"/Traits.aspx?ID=335\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 77 <sup>2.0</sup></row>\n\n**Frequency**\r\nonce per day\n\n</column>\r\n\r\n---\r\n\r\nYou tap into the Godmind's collective cognitive well, rapidly parsing near-infinite variables to read your surroundings. For 1 minute, you gain precise motion sense out to 60 feet, you can see [invisible](/Conditions.aspx?ID=26) creatures and objects, and you gain the effects of a 9th-level [_true seeing_](/Spells.aspx?ID=344).",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 17\"\r\n    pfs=\"Standard\"\r\n>\r\n[Channel the Godmind](/Feats.aspx?ID=7217) <actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Nephilim\" url=\"/Traits.aspx?ID=518\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [War of Immortals](/Sources.aspx?ID=232) pg. 55\n\n**Frequency**\r\nonce per day\r\n\r\n**Prerequisites**\r\n[Aeonbound](/Feats.aspx?ID=7195)\n\n</column>\r\n\r\n---\r\n\r\nYou tap into the collective consciousness of the Godmind, the governing entity of axiomite society, to rapidly parse near-infinite variables to read your surroundings. For 1 minute, you gain precise motion sense out to 60 feet, you can see invisible creatures and objects, and you gain the benefits of [_truesight_](/Spells.aspx?ID=1727) (with a counteract check modifier equal to your Perception modifier).",
  "name": "Channel the Godmind",
  "pfs": "Standard",
+ "prerequisite": "Aeonbound",
+ "prerequisite_markdown": "[Aeonbound](/Feats.aspx?ID=7195)",
+ "primary_source": "War of Immortals",
+ "primary_source_raw": "War of Immortals pg. 55",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2021-02-24",
+ "rarity_id": 1,
+ "release_date": "2024-10-30",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Aphorite\" url=\"/Traits.aspx?ID=335\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 77 <sup>2.0</sup></row>\r\n\r\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou tap into the Godmind's collective cognitive well, rapidly parsing near-infinite variables to read your surroundings.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Nephilim\" url=\"/Traits.aspx?ID=518\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [War of Immortals](/Sources.aspx?ID=232) pg. 55\n\n**Frequency**\r\nonce per day\r\n\r\n**Prerequisites**\r\n[Aeonbound](/Feats.aspx?ID=7195)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou tap into the collective consciousness of the Godmind, the governing entity of axiomite society, to rapidly parse near-infinite variables to read your surroundings.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Ancestry Guide"
+  "War of Immortals"
  ],
  "source_raw": [
-  "Ancestry Guide pg. 77"
+  "War of Immortals pg. 55"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Ancestry Guide](/Sources.aspx?ID=74) pg. 77 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[War of Immortals](/Sources.aspx?ID=232) pg. 55",
  "speed": {},
- "summary": "You tap into the Godmind's collective cognitive well, rapidly parsing near-infinite variables to read your surroundings.",
- "summary_markdown": "You tap into the Godmind's collective cognitive well, rapidly parsing near-infinite variables to read your surroundings.",
- "text": "<title level=\"1\" right=\"Feat 17\" pfs=\"Standard\" > Channel the Godmind Two Actions Source Ancestry Guide pg. 77 2.0 Frequency once per day --- You tap into the Godmind's collective cognitive well, rapidly parsing near-infinite variables to read your surroundings. For 1 minute, you gain precise motion sense out to 60 feet, you can see invisible creatures and objects, and you gain the effects of a 9th-level true seeing .",
+ "summary": "You tap into the collective consciousness of the Godmind, the governing entity of axiomite society, to rapidly parse near-infinite variables to read your surroundings.",
+ "summary_markdown": "You tap into the collective consciousness of the Godmind, the governing entity of axiomite society, to rapidly parse near-infinite variables to read your surroundings.",
+ "text": "<title level=\"1\" right=\"Feat 17\" pfs=\"Standard\" > Channel the Godmind Two Actions Source War of Immortals pg. 55 Frequency once per day Prerequisites Aeonbound --- You tap into the collective consciousness of the Godmind, the governing entity of axiomite society, to rapidly parse near-infinite variables to read your surroundings. For 1 minute, you gain precise motion sense out to 60 feet, you can see invisible creatures and objects, and you gain the benefits of truesight (with a counteract check modifier equal to your Perception modifier).",
  "trait": [
-  "Aphorite"
+  "Nephilim"
  ],
- "trait_markdown": "[Aphorite](/Traits.aspx?ID=335)",
+ "trait_group": [
+  "Ancestry"
+ ],
+ "trait_markdown": "[Nephilim](/Traits.aspx?ID=518)",
  "trait_raw": [
-  "Aphorite"
+  "Nephilim"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2488",
+ "url": "/Feats.aspx?ID=7217",
  "weakness": {}
 }

@@ -1,23 +1,33 @@
 {
  "actions": "Two Actions",
- "area": "20-foot-radius burst",
- "bloodline_markdown": "",
- "breadcrumbs_spa": [],
- "category": "spell",
- "component": [
-  "somatic",
-  "verbal"
+ "actions_number": 4,
+ "area": [
+  20
  ],
- "deity_markdown": "",
+ "area_raw": "20-foot <%RULES%2385%%>burst<%END>",
+ "area_type": [
+  "burst"
+ ],
+ "bloodline_markdown": "",
+ "category": "spell",
  "domain": [
   "Dust"
  ],
- "domain_markdown": "[Dust](/Domains.aspx?ID=44)",
+ "domain_markdown": "[Dust](/Domains.aspx?ID=107)",
  "duration": 60,
  "duration_raw": "1 minute",
+ "element": [
+  "Air"
+ ],
  "exclude_from_search": false,
  "heighten": [
   "+2"
+ ],
+ "heighten_group": [
+  "4th rank",
+  "Heightened 6th rank",
+  "Heightened 8th rank",
+  "Heightened 10th rank"
  ],
  "heighten_level": [
   4,
@@ -25,46 +35,70 @@
   8,
   10
  ],
- "id": "spell-603",
+ "id": "spell-2388",
+ "legacy_id": [
+  "spell-603"
+ ],
  "level": 4,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Focus 4\" pfs=\"Standard\">[Dust Storm](/Spells.aspx?ID=603)</title>\n\n<traits>\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Conjuration\" url=\"/Traits.aspx?ID=33\" />\r\n<trait label=\"Nonlethal\" url=\"/Traits.aspx?ID=188\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 114 <sup>2.0</sup></row>\n\n**Domain**\r\n[Dust](/Domains.aspx?ID=44)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 120 feet\r\n\r\n**Area** 20-foot-radius burst\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou call forth a swirling storm of dust. The _dust storm_ obscures vision, with the effect of [_obscuring mist_](/Spells.aspx?ID=210). The dust also makes the air unbreathable; creatures in the area must [hold their breath](/Rules.aspx?ID=468), though wearing a scarf or similar clothing over the mouth increases the time the creature can hold its breath to 5 rounds. Creatures entering or starting their turn in the _dust storm_ take 1d6 slashing damage. Creatures that have the [water](/Traits.aspx?ID=165) trait or that are made primarily of liquid take double damage.\n\n---\r\n**Heightened (+2)** The damage increases by 1d6.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Focus 4\" pfs=\"Standard\">\r\n[Dust Storm](/Spells.aspx?ID=2388)\r\n<actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n<trait label=\"Nonlethal\" url=\"/Traits.aspx?ID=188\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 265\n\n**Domain**\r\n[Dust](/Domains.aspx?ID=107)\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 120 feet\r\n\r\n**Area** 20-foot [burst](/Rules.aspx?ID=2385)\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou call forth a swirling storm of dust. The dust storm obscures vision, as the effects of mist. The dust also makes the air unbreathable; creatures in the area must [hold their breath](/Rules.aspx?ID=2439), though wearing a scarf or similar clothing over the mouth increases the time the creature can hold its breath by 5 rounds. Creatures entering or starting their turn in the dust storm take 1d6 slashing damage. Creatures that have the [water](/Traits.aspx?ID=732) trait or that are made primarily of liquid take double damage.\n\n---\r\n**Heightened (+2)** The damage increases by 1d6.",
  "name": "Dust Storm",
- "patron_theme_markdown": "",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 265",
+ "primary_source_category": "Lost Omens",
  "range": 120,
  "range_raw": "120 feet",
- "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity": "uncommon",
+ "rarity_id": 2,
+ "release_date": "2025-01-30",
  "resistance": {},
- "school": "conjuration",
- "search_markdown": "<traits>\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Conjuration\" url=\"/Traits.aspx?ID=33\" />\r\n<trait label=\"Nonlethal\" url=\"/Traits.aspx?ID=188\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 114 <sup>2.0</sup></row>\n\n**Domain**\r\n[Dust](/Domains.aspx?ID=44)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 120 feet\r\n\r\n**Area** 20-foot-radius burst\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Duration** 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou call forth a swirling storm of dust.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n<trait label=\"Nonlethal\" url=\"/Traits.aspx?ID=188\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 265\n\n**Domain**\r\n[Dust](/Domains.aspx?ID=107)\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 120 feet\r\n\r\n**Area** 20-foot [burst](/Rules.aspx?ID=2385)\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou call forth a swirling storm of dust.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 114"
+  "Divine Mysteries pg. 265"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 114 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 265",
  "speed": {},
+ "spell_type": "Focus",
  "summary": "You call forth a swirling storm of dust.",
  "summary_markdown": "You call forth a swirling storm of dust.",
- "text": " Dust Storm Source Gods &amp; Magic pg. 114 2.0 Domain Dust Cast Two Actions somatic, verbal Range 120 feet Area 20-foot-radius burst Duration 1 minute --- You call forth a swirling storm of dust. The dust storm obscures vision, with the effect of obscuring mist . The dust also makes the air unbreathable; creatures in the area must hold their breath, though wearing a scarf or similar clothing over the mouth increases the time the creature can hold its breath to 5 rounds. Creatures entering or starting their turn in the dust storm take 1d6 slashing damage. Creatures that have the water trait or that are made primarily of liquid take double damage. --- Heightened (+2) The damage increases by 1d6.",
+ "text": "\nDust Storm Two Actions Source Divine Mysteries pg. 265 Domain Dust Range 120 feet Area 20-foot burst Duration 1 minute --- You call forth a swirling storm of dust. The dust storm obscures vision, as the effects of mist. The dust also makes the air unbreathable; creatures in the area must hold their breath, though wearing a scarf or similar clothing over the mouth increases the time the creature can hold its breath by 5 rounds. Creatures entering or starting their turn in the dust storm take 1d6 slashing damage. Creatures that have the water trait or that are made primarily of liquid take double damage. --- Heightened (+2) The damage increases by 1d6.",
  "tradition_markdown": "",
  "trait": [
   "Air",
-  "Conjuration",
-  "Nonlethal"
+  "Cleric",
+  "Concentrate",
+  "Focus",
+  "Manipulate",
+  "Nonlethal",
+  "Uncommon"
  ],
- "trait_markdown": "[Air](/Traits.aspx?ID=5), [Conjuration](/Traits.aspx?ID=33), [Nonlethal](/Traits.aspx?ID=188)",
+ "trait_group": [
+  "Elemental",
+  "Planar",
+  "Monster",
+  "Class",
+  "Mechanics",
+  "Weapon",
+  "Rarity"
+ ],
+ "trait_markdown": "[Air](/Traits.aspx?ID=5), [Cleric](/Traits.aspx?ID=26), [Concentrate](/Traits.aspx?ID=32), [Focus](/Traits.aspx?ID=511), [Manipulate](/Traits.aspx?ID=104), [Nonlethal](/Traits.aspx?ID=188), [Uncommon](/Traits.aspx?ID=159)",
  "trait_raw": [
   "Air",
-  "Conjuration",
-  "Nonlethal"
+  "Cleric",
+  "Concentrate",
+  "Focus",
+  "Manipulate",
+  "Nonlethal",
+  "Uncommon"
  ],
- "type": "Focus",
- "url": "/Spells.aspx?ID=603",
+ "type": "Spell",
+ "url": "/Spells.aspx?ID=2388",
  "weakness": {}
 }

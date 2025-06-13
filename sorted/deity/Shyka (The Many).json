@@ -1,10 +1,15 @@
 {
- "ability": [
-  "Dexterity",
+ "attribute": [
+  "Constitution",
   "Intelligence"
  ],
- "alignment": "N",
- "breadcrumbs_spa": [],
+ "anathema": "Willingly tread where time does not pass",
+ "area_of_concern": [
+  "Entropy",
+  "reincarnation",
+  "time"
+ ],
+ "area_of_concern_raw": "Entropy, reincarnation, time",
  "category": "deity",
  "cleric_spell": [
   "Anticipate Peril",
@@ -14,7 +19,6 @@
  "deity": [
   "Shyka"
  ],
- "deity_markdown": "[Shyka](/Deities.aspx?ID=100)",
  "deity_category": "Eldest",
  "deity_category_markdown": "[Eldest\r\n](/DeityCategories.aspx?ID=7)",
  "deity_category_order": "2Eldest\r\n",
@@ -25,62 +29,72 @@
  "divine_font_markdown": "[Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)",
  "domain": [
   "Decay",
-  "Delirium",
+  "Disorientation",
   "Fate",
   "Time"
  ],
- "domain_markdown": "[Decay](/Domains.aspx?ID=42), [Delirium](/Domains.aspx?ID=43), [Fate](/Domains.aspx?ID=12), [Time](/Domains.aspx?ID=54)",
+ "domain_markdown": "[Decay](/Domains.aspx?ID=104), [Disorientation](/Domains.aspx?ID=105), [Fate](/Domains.aspx?ID=75), [Time](/Domains.aspx?ID=121)",
  "domain_alternate_markdown": "",
  "domain_primary": [
   "Decay",
-  "Delirium",
+  "Disorientation",
   "Fate",
   "Time"
  ],
- "domain_primary_markdown": "[Decay](/Domains.aspx?ID=42), [Delirium](/Domains.aspx?ID=43), [Fate](/Domains.aspx?ID=12), [Time](/Domains.aspx?ID=54)",
+ "domain_primary_markdown": "[Decay](/Domains.aspx?ID=104), [Disorientation](/Domains.aspx?ID=105), [Fate](/Domains.aspx?ID=75), [Time](/Domains.aspx?ID=121)",
+ "edict": "Learn from the past, leave hourglasses in unusual places, give random gifts, create ephemeral things",
  "exclude_from_search": false,
  "favored_weapon": [
   "Light Mace"
  ],
- "favored_weapon_markdown": "[Light Mace](/Weapons.aspx?ID=5)",
- "follower_alignment": [
-  "LN",
-  "NG",
-  "N",
-  "NE",
-  "CN"
+ "favored_weapon_markdown": "[Light Mace](/Weapons.aspx?ID=360)",
+ "id": "deity-460",
+ "legacy_id": [
+  "deity-100"
  ],
- "id": "deity-100",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Shyka (The Many)](/Deities.aspx?ID=100)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 126 <sup>2.0</sup></row>\n\nThe Eldest of entropy, reincarnation, and time, Shyka the Many is not a single entity but rather multiple beings who travel forward and backward through time. Each has sequentially held the title of Shyka, picking up the mantle and the knowledge that comes with it upon the passing (or disappearance) of a predecessor. Shyka visits so many overlapping temporal locations that other creatures encounter a random-seeming Shyka each time. This Eldest knows of the multiverse’s birth as well as its death, having experienced both. Although Shyka claims to merely watch over the continuum of time, it’s an open secret that the Eldest makes slight changes in line with their own goals—or requests that their worshippers do so, with abstruse promptings.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Eldest\r\n](/DeityCategories.aspx?ID=7)\r\n\r\n**Edicts** Learn from the past, leave hourglasses in unusual places, give random gifts, create ephemeral things\r\n\r\n**Anathema** Willingly tread where time does not pass\r\n\r\n**Area of Concern**\r\nentropy, reincarnation, and time\r\n\r\n**Follower Alignments**\r\nLN, NG, N, NE, CN\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nDexterity or Intelligence\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Occultism](/Skills.aspx?ID=11)\r\n\r\n**Favored Weapon** [Light Mace](/Weapons.aspx?ID=5)\r\n\r\n**Domains** [Decay](/Domains.aspx?ID=42), [Delirium](/Domains.aspx?ID=43), [Fate](/Domains.aspx?ID=12), [Time](/Domains.aspx?ID=54)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Anticipate Peril](/Spells.aspx?ID=568)\n\n- **3rd**\r\n[Haste](/Spells.aspx?ID=147)\n\n- **7th**\r\n[Time Beacon](/Spells.aspx?ID=592)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Shyka (The Many)](/Deities.aspx?ID=460)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 306\r\n\r\n_[**PFS Note**](/pathfinder-society) This deity grants [_true target_](/Spells.aspx?ID=1726) instead of time beacon_\r\n\r\nThe Eldest of entropy, reincarnation, and time, Shyka the Many is not a single entity but rather multiple beings who travel forward and backward through time. Each has sequentially held the title of Shyka, picking up the mantle and the knowledge that comes with it upon the passing (or disappearance) of a predecessor. Shyka visits so many overlapping temporal locations that other creatures encounter a random-seeming Shyka each time. This Eldest knows of the multiverse’s birth as well as its death, having experienced both. Although Shyka claims to merely watch over the continuum of time, it’s an open secret that the Eldest makes slight changes in line with their own goals—or requests that their worshippers do so, with abstruse promptings.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Eldest\r\n](/DeityCategories.aspx?ID=7)\r\n\r\n**Edicts** Learn from the past, leave hourglasses in unusual places, give random gifts, create ephemeral things\r\n\r\n**Anathema** Willingly tread where time does not pass\r\n\r\n**Area of Concern**\r\nEntropy, reincarnation, time\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nConstitution or Intelligence\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** none\r\n\r\n**Divine Skill** [Occultism](/Skills.aspx?ID=44)\r\n\r\n**Favored Weapon** [Light Mace](/Weapons.aspx?ID=360)\r\n\r\n**Domains** [Decay](/Domains.aspx?ID=104), [Disorientation](/Domains.aspx?ID=105), [Fate](/Domains.aspx?ID=75), [Time](/Domains.aspx?ID=121)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Anticipate Peril](/Spells.aspx?ID=2343)\n\n- **3rd**\r\n[Haste](/Spells.aspx?ID=1553)\n\n- **7th**\r\n[Time Beacon](/Spells.aspx?ID=2371)\n\n</column>",
  "name": "Shyka (The Many)",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 306",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "Broken hourglass",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 126 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Harm or Heal\r\n\r\n**Divine Skill** [Occultism](/Skills.aspx?ID=11)\r\n\r\n**Favored Weapon** [Light Mace](/Weapons.aspx?ID=5)\r\n\r\n**Domains** [Decay](/Domains.aspx?ID=42), [Delirium](/Domains.aspx?ID=43), [Fate](/Domains.aspx?ID=12), [Time](/Domains.aspx?ID=54)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe Eldest of entropy, reincarnation, and time, Shyka the Many is not a single entity but rather multiple beings who travel forward and backward …\r\n</summary>",
+ "sacred_animal": "Hive animals",
+ "sacred_color": [
+  "white"
+ ],
+ "sanctification_raw": "none",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 306\r\n\r\n**Divine Font** Harm or Heal\r\n\r\n**Divine Skill** [Occultism](/Skills.aspx?ID=44)\r\n\r\n**Favored Weapon** [Light Mace](/Weapons.aspx?ID=360)\r\n\r\n**Domains** [Decay](/Domains.aspx?ID=104), [Disorientation](/Domains.aspx?ID=105), [Fate](/Domains.aspx?ID=75), [Time](/Domains.aspx?ID=121)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe Eldest of entropy, reincarnation, and time, Shyka the Many is not a single entity but rather multiple beings who travel forward and backward …\r\n</summary>",
  "skill": [
   "Occultism"
  ],
- "skill_markdown": "[Occultism](/Skills.aspx?ID=11)",
+ "skill_markdown": "[Occultism](/Skills.aspx?ID=44)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 126"
+  "Divine Mysteries pg. 306"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 126 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 306",
  "speed": {},
+ "spell": [
+  "Anticipate Peril",
+  "Haste",
+  "Time Beacon"
+ ],
+ "spell_markdown": "[Anticipate Peril](/Spells.aspx?ID=2343), [Haste](/Spells.aspx?ID=1553), [Time Beacon](/Spells.aspx?ID=2371)",
  "summary": "The Eldest of entropy, reincarnation, and time, Shyka the Many is not a single entity but rather multiple beings who travel forward and backward …",
  "summary_markdown": "The Eldest of entropy, reincarnation, and time, Shyka the Many is not a single entity but rather multiple beings who travel forward and backward …",
- "text": " Shyka (The Many) Source Gods &amp; Magic pg. 126 2.0 The Eldest of entropy, reincarnation, and time, Shyka the Many is not a single entity but rather multiple beings who travel forward and backward through time. Each has sequentially held the title of Shyka, picking up the mantle and the knowledge that comes with it upon the passing (or disappearance) of a predecessor. Shyka visits so many overlapping temporal locations that other creatures encounter a random-seeming Shyka each time. This Eldest knows of the multiverse’s birth as well as its death, having experienced both. Although Shyka claims to merely watch over the continuum of time, it’s an open secret that the Eldest makes slight changes in line with their own goals—or requests that their worshippers do so, with abstruse promptings. Category [Eldest ](/DeityCategories.aspx?ID=7) Edicts Learn from the past, leave hourglasses in unusual places, give random gifts, create ephemeral things Anathema Willingly tread where time does not pass Area of Concern entropy, reincarnation, and time Follower Alignments LN, NG, N, NE, CN Devotee Benefits Divine Ability Dexterity or Intelligence Divine Font Harm or Heal Divine Skill Occultism Favored Weapon Light Mace Domains Decay, Delirium, Fate, Time Alternate Domains Cleric Spells - 1st Anticipate Peril - 3rd Haste - 7th Time Beacon\n",
- "trait": [
-  "N"
- ],
- "trait_raw": [
-  "N"
- ],
+ "text": " Shyka (The Many) Source Divine Mysteries pg. 306 PFS Note This deity grants true target instead of time beacon The Eldest of entropy, reincarnation, and time, Shyka the Many is not a single entity but rather multiple beings who travel forward and backward through time. Each has sequentially held the title of Shyka, picking up the mantle and the knowledge that comes with it upon the passing (or disappearance) of a predecessor. Shyka visits so many overlapping temporal locations that other creatures encounter a random-seeming Shyka each time. This Eldest knows of the multiverse’s birth as well as its death, having experienced both. Although Shyka claims to merely watch over the continuum of time, it’s an open secret that the Eldest makes slight changes in line with their own goals—or requests that their worshippers do so, with abstruse promptings. Category [Eldest ](/DeityCategories.aspx?ID=7) Edicts Learn from the past, leave hourglasses in unusual places, give random gifts, create ephemeral things Anathema Willingly tread where time does not pass Area of Concern Entropy, reincarnation, time Devotee Benefits Divine Attribute Constitution or Intelligence Divine Font Harm or Heal Divine Sanctification none Divine Skill Occultism Favored Weapon Light Mace Domains Decay, Disorientation, Fate, Time Alternate Domains Cleric Spells - 1st Anticipate Peril - 3rd Haste - 7th Time Beacon\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=100",
+ "url": "/Deities.aspx?ID=460",
  "weakness": {}
 }

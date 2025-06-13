@@ -1,6 +1,6 @@
 {
  "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions_number": 2,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
@@ -8,44 +8,60 @@
  ],
  "feat_markdown": "Glory and Valor!",
  "frequency": "once per day",
- "id": "feat-2540",
+ "id": "feat-7211",
+ "legacy_id": [
+  "feat-2540"
+ ],
  "level": 9,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 9\"\r\n    pfs=\"Standard\"\r\n>\r\n[Glory and Valor!](/Feats.aspx?ID=2540) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=16\" />\r\n<trait label=\"Ganzi\" url=\"/Traits.aspx?ID=339\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=89\" />\r\n<trait label=\"Necromancy\" url=\"/Traits.aspx?ID=117\" />\r\n<trait label=\"Primal\" url=\"/Traits.aspx?ID=134\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 97 <sup>2.0</sup></row>\n\n**Frequency**\r\nonce per day\n\n</column>\r\n\r\n---\r\n\r\nYou are descended from the einherji, the worthy warriors of chaos. You call upon your ascendant blood with a mighty cry that fills you with a revitalizing energy for 1 minute or until you critically fail a Strike, whichever comes first. For the duration, the first time each round you successfully Strike a creature of your level or higher, you regain Hit Points equal to half your level.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 9\"\r\n    pfs=\"Standard\"\r\n>\r\n[Glory and Valor!](/Feats.aspx?ID=7211) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=541\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=579\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=623\" />\r\n<trait label=\"Nephilim\" url=\"/Traits.aspx?ID=518\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [War of Immortals](/Sources.aspx?ID=232) pg. 54\n\n**Frequency**\r\nonce per day\r\n\r\n**Prerequisites**\r\n[Battleblooded](/Feats.aspx?ID=7196)\n\n</column>\r\n\r\n---\r\n\r\nYou call upon your ascendant blood with a mighty cry that fills you with a revitalizing energy for 1 minute or until you critically fail a Strike, whichever comes first. For the duration, the first time each round you successfully Strike a creature of your level or higher, you regain Hit Points equal to half your level.",
  "name": "Glory and Valor!",
  "pfs": "Standard",
+ "prerequisite": "Battleblooded",
+ "prerequisite_markdown": "[Battleblooded](/Feats.aspx?ID=7196)",
+ "primary_source": "War of Immortals",
+ "primary_source_raw": "War of Immortals pg. 54",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2021-02-24",
+ "rarity_id": 1,
+ "release_date": "2024-10-30",
  "resistance": {},
- "school": "necromancy",
- "search_markdown": "<traits>\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=16\" />\r\n<trait label=\"Ganzi\" url=\"/Traits.aspx?ID=339\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=89\" />\r\n<trait label=\"Necromancy\" url=\"/Traits.aspx?ID=117\" />\r\n<trait label=\"Primal\" url=\"/Traits.aspx?ID=134\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 97 <sup>2.0</sup></row>\r\n\r\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou are descended from the einherji, the worthy warriors of chaos.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=541\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=579\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=623\" />\r\n<trait label=\"Nephilim\" url=\"/Traits.aspx?ID=518\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [War of Immortals](/Sources.aspx?ID=232) pg. 54\n\n**Frequency**\r\nonce per day\r\n\r\n**Prerequisites**\r\n[Battleblooded](/Feats.aspx?ID=7196)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou call upon your ascendant blood with a mighty cry that fills you with a revitalizing energy for 1 minute or until you critically fail a Strike, whichever comes first.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Ancestry Guide"
+  "War of Immortals"
  ],
  "source_raw": [
-  "Ancestry Guide pg. 97"
+  "War of Immortals pg. 54"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Ancestry Guide](/Sources.aspx?ID=74) pg. 97 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[War of Immortals](/Sources.aspx?ID=232) pg. 54",
  "speed": {},
- "summary": "You are descended from the einherji, the worthy warriors of chaos.",
- "summary_markdown": "You are descended from the einherji, the worthy warriors of chaos.",
- "text": "<title level=\"1\" right=\"Feat 9\" pfs=\"Standard\" > Glory and Valor! Single Action Source Ancestry Guide pg. 97 2.0 Frequency once per day --- You are descended from the einherji, the worthy warriors of chaos. You call upon your ascendant blood with a mighty cry that fills you with a revitalizing energy for 1 minute or until you critically fail a Strike, whichever comes first. For the duration, the first time each round you successfully Strike a creature of your level or higher, you regain Hit Points equal to half your level.",
+ "summary": "You call upon your ascendant blood with a mighty cry that fills you with a revitalizing energy for 1 minute or until you critically fail a Strike, whichever comes first.",
+ "summary_markdown": "You call upon your ascendant blood with a mighty cry that fills you with a revitalizing energy for 1 minute or until you critically fail a Strike, whichever comes first.",
+ "text": "<title level=\"1\" right=\"Feat 9\" pfs=\"Standard\" > Glory and Valor! Single Action Source War of Immortals pg. 54 Frequency once per day Prerequisites Battleblooded --- You call upon your ascendant blood with a mighty cry that fills you with a revitalizing energy for 1 minute or until you critically fail a Strike, whichever comes first. For the duration, the first time each round you successfully Strike a creature of your level or higher, you regain Hit Points equal to half your level.",
  "trait": [
   "Auditory",
-  "Ganzi",
+  "Divine",
   "Healing",
-  "Necromancy",
-  "Primal"
+  "Nephilim"
  ],
- "trait_markdown": "[Auditory](/Traits.aspx?ID=16), [Ganzi](/Traits.aspx?ID=339), [Healing](/Traits.aspx?ID=89), [Necromancy](/Traits.aspx?ID=117), [Primal](/Traits.aspx?ID=134)",
+ "trait_group": [
+  "Sense",
+  "Tradition",
+  "Monster",
+  "Mechanics",
+  "Ancestry"
+ ],
+ "trait_markdown": "[Auditory](/Traits.aspx?ID=541), [Divine](/Traits.aspx?ID=579), [Healing](/Traits.aspx?ID=623), [Nephilim](/Traits.aspx?ID=518)",
  "trait_raw": [
   "Auditory",
-  "Ganzi",
+  "Divine",
   "Healing",
-  "Necromancy",
-  "Primal"
+  "Nephilim"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2540",
+ "url": "/Feats.aspx?ID=7211",
  "weakness": {}
 }

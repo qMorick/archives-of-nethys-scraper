@@ -2,44 +2,56 @@
  "archetype": [
   "Eldritch Archer"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Expert Eldritch Archer Spellcasting"
  ],
  "feat_markdown": "Expert Eldritch Archer Spellcasting",
- "id": "feat-1965",
+ "id": "feat-6323",
+ "legacy_id": [
+  "feat-1965"
+ ],
  "level": 12,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Expert Eldritch Archer Spellcasting](/Feats.aspx?ID=1965) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 173 <sup>2.0</sup></row>\n\n**Archetype** [Eldritch Archer](/Archetypes.aspx?ID=59)\n\n**Prerequisites**\r\n[Basic Eldritch Archer Spellcasting](/Feats.aspx?ID=1961)\n\n</column>\r\n\r\n---\r\n\r\nYou gain the [expert spellcasting benefits](/Rules.aspx?ID=170).\n\n<title level=\"2\">Expert Eldritch Archer Spellcasting leads to...</title>\r\n[Master Eldritch Archer Spellcasting](/Feats.aspx?ID=1969)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Expert Eldritch Archer Spellcasting](/Feats.aspx?ID=6323) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 199 <sup>1.1</sup>\n\n**Archetype** [Eldritch Archer](/Archetypes.aspx?ID=249)\n\n**Prerequisites**\r\n[Basic Eldritch Archer Spellcasting](/Feats.aspx?ID=6318)\n\n</column>\r\n\r\n---\r\n\r\nYou learn additional eldritch archer magic. You gain the [expert spellcasting benefits](/Rules.aspx?ID=2132).\n\n<title level=\"2\">Expert Eldritch Archer Spellcasting leads to...</title>\r\n[Master Eldritch Archer Spellcasting](/Feats.aspx?ID=6327)",
  "name": "Expert Eldritch Archer Spellcasting",
  "pfs": "Standard",
  "prerequisite": "Basic Eldritch Archer Spellcasting",
- "prerequisite_markdown": "[Basic Eldritch Archer Spellcasting](/Feats.aspx?ID=1961)",
+ "prerequisite_markdown": "[Basic Eldritch Archer Spellcasting](/Feats.aspx?ID=6318)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 199",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 173 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Basic Eldritch Archer Spellcasting](/Feats.aspx?ID=1961)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain the expert spellcasting benefits.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 199 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Basic Eldritch Archer Spellcasting](/Feats.aspx?ID=6318)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou learn additional eldritch archer magic.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 173"
+  "Player Core 2 pg. 199"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 173 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 199 <sup>1.1</sup>",
  "speed": {},
- "summary": "You gain the expert spellcasting benefits.",
- "summary_markdown": "You gain the expert spellcasting benefits.",
- "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Expert Eldritch Archer Spellcasting Source Advanced Player's Guide pg. 173 2.0 Archetype Eldritch Archer Prerequisites Basic Eldritch Archer Spellcasting --- You gain the expert spellcasting benefits. Expert Eldritch Archer Spellcasting leads to... Master Eldritch Archer Spellcasting",
+ "summary": "You learn additional eldritch archer magic.",
+ "summary_markdown": "You learn additional eldritch archer magic.",
+ "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Expert Eldritch Archer Spellcasting Source Player Core 2 pg. 199 1.1 Archetype Eldritch Archer Prerequisites Basic Eldritch Archer Spellcasting --- You learn additional eldritch archer magic. You gain the expert spellcasting benefits. Expert Eldritch Archer Spellcasting leads to... Master Eldritch Archer Spellcasting",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1965",
+ "url": "/Feats.aspx?ID=6323",
  "weakness": {}
 }

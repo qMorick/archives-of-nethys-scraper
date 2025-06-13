@@ -2,44 +2,56 @@
  "archetype": [
   "Scroll Trickster"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Expert Scroll Cache"
  ],
  "feat_markdown": "Expert Scroll Cache",
- "id": "feat-2056",
+ "id": "feat-6403",
+ "legacy_id": [
+  "feat-2056"
+ ],
  "level": 12,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Expert Scroll Cache](/Feats.aspx?ID=2056) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 189 <sup>2.0</sup></row>\n\n**Archetype** [Scroll Trickster](/Archetypes.aspx?ID=74)\n\n**Prerequisites**\r\n[Basic Scroll Cache](/Feats.aspx?ID=2054)\n\n</column>\r\n\r\n---\r\n\r\nYour scroll collection is more powerful. In addition to your daily scrolls from Basic Scroll Cache, add a scroll with a 3rd-level spell. At 14th level, add a scroll with a 4th-level spell. At 16th level, add a scroll with a 5th-level spell.\n\n<title level=\"2\">Expert Scroll Cache leads to...</title>\r\n[Master Scroll Cache](/Feats.aspx?ID=2057)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Expert Scroll Cache](/Feats.aspx?ID=6403) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 213 <sup>1.1</sup>\n\n**Archetype** [Scroll Trickster](/Archetypes.aspx?ID=262)\n\n**Prerequisites**\r\n[Basic Scroll Cache](/Feats.aspx?ID=6401)\n\n</column>\r\n\r\n---\r\n\r\nYour scroll collection has vastly grown, both in size and potency. In addition to your daily scrolls from Basic Scroll Cache, add a scroll with a 3rd-rank spell. At 14th level, add a scroll with a 4th-rank spell. At 16th level, add a scroll with a 5th-rank spell.\n\n<title level=\"2\">Expert Scroll Cache leads to...</title>\r\n[Master Scroll Cache](/Feats.aspx?ID=6404)",
  "name": "Expert Scroll Cache",
  "pfs": "Standard",
  "prerequisite": "Basic Scroll Cache",
- "prerequisite_markdown": "[Basic Scroll Cache](/Feats.aspx?ID=2054)",
+ "prerequisite_markdown": "[Basic Scroll Cache](/Feats.aspx?ID=6401)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 213",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 189 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Basic Scroll Cache](/Feats.aspx?ID=2054)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour scroll collection is more powerful.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 213 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Basic Scroll Cache](/Feats.aspx?ID=6401)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour scroll collection has vastly grown, both in size and potency.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 189"
+  "Player Core 2 pg. 213"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 189 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 213 <sup>1.1</sup>",
  "speed": {},
- "summary": "Your scroll collection is more powerful.",
- "summary_markdown": "Your scroll collection is more powerful.",
- "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Expert Scroll Cache Source Advanced Player's Guide pg. 189 2.0 Archetype Scroll Trickster Prerequisites Basic Scroll Cache --- Your scroll collection is more powerful. In addition to your daily scrolls from Basic Scroll Cache, add a scroll with a 3rd-level spell. At 14th level, add a scroll with a 4th-level spell. At 16th level, add a scroll with a 5th-level spell. Expert Scroll Cache leads to... Master Scroll Cache",
+ "summary": "Your scroll collection has vastly grown, both in size and potency.",
+ "summary_markdown": "Your scroll collection has vastly grown, both in size and potency.",
+ "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Expert Scroll Cache Source Player Core 2 pg. 213 1.1 Archetype Scroll Trickster Prerequisites Basic Scroll Cache --- Your scroll collection has vastly grown, both in size and potency. In addition to your daily scrolls from Basic Scroll Cache, add a scroll with a 3rd-rank spell. At 14th level, add a scroll with a 4th-rank spell. At 16th level, add a scroll with a 5th-rank spell. Expert Scroll Cache leads to... Master Scroll Cache",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2056",
+ "url": "/Feats.aspx?ID=6403",
  "weakness": {}
 }

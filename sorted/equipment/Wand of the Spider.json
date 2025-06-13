@@ -1,51 +1,66 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
  "bulk": 0.1,
  "bulk_raw": "L",
  "category": "equipment",
- "exclude_from_search": true,
- "id": "equipment-758",
+ "exclude_from_search": false,
+ "id": "equipment-3430",
  "item_category": "Wands",
- "item_subcategory": "Specialty Wands",
- "level": 0,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 7+\"\r\n    pfs=\"Standard\"\r\n>\r\n[Wand of the Spider](/Equipment.aspx?ID=758)\r\n</title>\n\n<traits>\r\n<trait label=\"Conjuration\" url=\"/Traits.aspx?ID=33\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Poison\" url=\"/Traits.aspx?ID=126\" />\r\n<trait label=\"Wand\" url=\"/Traits.aspx?ID=164\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 265 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThe handle of this wand is a 5-inch-long piece of rosewood, but most of its length is a pair of twisted spider legs covered in gossamer webbing.\n\n<document level=\"2\" id=\"action-599\" />\n\n**Craft Requirements** Supply a casting of _web_ of the appropriate level.\n\n<column gap=\"tiny\">\n\n</column>\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 7\"\r\npfs=\"Standard\"\r\n>\r\nWand of the Spider (2nd-Level Spell)\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 265 <sup>2.0</sup></row>\n\n**Price** 360 gp\r\n\r\n<row gap=\"medium\">\n\n**Bulk** L\r\n\r\n</row>\n\n</column>\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 11\"\r\npfs=\"Standard\"\r\n>\r\nWand of the Spider (4th-Level Spell)\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 265 <sup>2.0</sup></row>\n\n**Price** 1,400 gp\r\n\r\n<row gap=\"medium\">\n\n**Bulk** L\r\n\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\nThe strands deal 2d6 poison damage plus 1d6 [persistent poison damage](/Conditions.aspx?ID=29).",
+ "item_child_id": [
+  "equipment-3430-3297",
+  "equipment-3430-3298"
+ ],
+ "legacy_id": [
+  "equipment-758"
+ ],
+ "level": 7,
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 7+\"\r\n    pfs=\"Standard\"\r\n>\r\n[Wand of the Spider](/Equipment.aspx?ID=3430)\r\n</title>\n\n<traits>\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Poison\" url=\"/Traits.aspx?ID=669\" />\r\n<trait label=\"Wand\" url=\"/Traits.aspx?ID=731\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 309 <sup>1.1</sup>\n\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThe length of this wand is a pair of twisted giant spider legs.\n\n**Activate** <actions string=\"\" /> Cast a Spell;  **Frequency** once per day, plus overcharge;   **Effect** You cast [_web_](/Spells.aspx?ID=2045), but the strands of webbing are toxic. Any creature that fails its Athletics check or Reflex save to navigate the web takes 1d6 poison damage.\n\n**Craft Requirements** Supply a casting of [_web_](/Spells.aspx?ID=374) of the appropriate rank.\n\n<column gap=\"tiny\">\n\n</column>\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 7\"\r\npfs=\"Standard\"\r\n>\r\nWand of the Spider (2nd-Rank Spell)\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 309 <sup>1.1</sup>\n\n**Price** 360 gp\r\n\r\n<row gap=\"medium\">\n\n**Bulk** L\r\n\r\n</row>\n\n</column>\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 11\"\r\npfs=\"Standard\"\r\n>\r\nWand of the Spider (4th-Rank Spell)\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 309 <sup>1.1</sup>\n\n**Price** 1,400 gp\r\n\r\n<row gap=\"medium\">\n\n**Bulk** L\r\n\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\nThe strands deal 2d6 poison damage plus 1d6 persistent poison damage.",
  "name": "Wand of the Spider",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 309",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "school": "conjuration",
- "search_markdown": "<traits>\r\n<trait label=\"Conjuration\" url=\"/Traits.aspx?ID=33\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Poison\" url=\"/Traits.aspx?ID=126\" />\r\n<trait label=\"Wand\" url=\"/Traits.aspx?ID=164\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 265 <sup>2.0</sup></row>\r\n\r\n \r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe handle of this wand is a 5-inch-long piece of rosewood, but most of its length is a pair of twisted spider legs covered in gossamer webbing. \r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Poison\" url=\"/Traits.aspx?ID=669\" />\r\n<trait label=\"Wand\" url=\"/Traits.aspx?ID=731\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 309 <sup>1.1</sup>\r\n\r\n \r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe length of this wand is a pair of twisted giant spider legs. \r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 265"
+  "Player Core 2 pg. 309"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 265 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 309 <sup>1.1</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "The handle of this wand is a 5-inch-long piece of rosewood, but most of its length is a pair of twisted spider legs covered in gossamer webbing. ",
- "summary_markdown": "The handle of this wand is a 5-inch-long piece of rosewood, but most of its length is a pair of twisted spider legs covered in gossamer webbing. ",
- "text": "<title level=\"1\" right=\"Item 7+\" pfs=\"Standard\" > Wand of the Spider Source Advanced Player's Guide pg. 265 2.0 Usage held in 1 hand Bulk L --- The handle of this wand is a 5-inch-long piece of rosewood, but most of its length is a pair of twisted spider legs covered in gossamer webbing. Craft Requirements Supply a casting of web of the appropriate level. <title level=\"2\" right=\"Item 7\" pfs=\"Standard\" > Wand of the Spider (2nd-Level Spell) Source Advanced Player's Guide pg. 265 2.0 Price 360 gp Bulk L <title level=\"2\" right=\"Item 11\" pfs=\"Standard\" > Wand of the Spider (4th-Level Spell) Source Advanced Player's Guide pg. 265 2.0 Price 1,400 gp Bulk L --- The strands deal 2d6 poison damage plus 1d6 persistent poison damage.",
+ "summary": "The length of this wand is a pair of twisted giant spider legs. ",
+ "summary_markdown": "The length of this wand is a pair of twisted giant spider legs. ",
+ "text": "<title level=\"1\" right=\"Item 7+\" pfs=\"Standard\" > Wand of the Spider Source Player Core 2 pg. 309 1.1 Usage held in 1 hand Bulk L --- The length of this wand is a pair of twisted giant spider legs. Activate Cast a Spell; Frequency once per day, plus overcharge; Effect You cast web , but the strands of webbing are toxic. Any creature that fails its Athletics check or Reflex save to navigate the web takes 1d6 poison damage. Craft Requirements Supply a casting of web of the appropriate rank. <title level=\"2\" right=\"Item 7\" pfs=\"Standard\" > Wand of the Spider (2nd-Rank Spell) Source Player Core 2 pg. 309 1.1 Price 360 gp Bulk L <title level=\"2\" right=\"Item 11\" pfs=\"Standard\" > Wand of the Spider (4th-Rank Spell) Source Player Core 2 pg. 309 1.1 Price 1,400 gp Bulk L --- The strands deal 2d6 poison damage plus 1d6 persistent poison damage.",
  "trait": [
-  "Conjuration",
   "Magical",
   "Poison",
   "Wand"
  ],
- "trait_markdown": "[Conjuration](/Traits.aspx?ID=33), [Magical](/Traits.aspx?ID=103), [Poison](/Traits.aspx?ID=126), [Wand](/Traits.aspx?ID=164)",
+ "trait_group": [
+  "Mechanics",
+  "Poison",
+  "Affliction",
+  "Equipment"
+ ],
+ "trait_markdown": "[Magical](/Traits.aspx?ID=644), [Poison](/Traits.aspx?ID=669), [Wand](/Traits.aspx?ID=731)",
  "trait_raw": [
-  "Conjuration",
   "Magical",
   "Poison",
   "Wand"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=758",
+ "url": "/Equipment.aspx?ID=3430",
  "usage": "held in 1 hand",
  "usage_markdown": "held in 1 hand",
  "weakness": {}

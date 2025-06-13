@@ -1,40 +1,61 @@
 {
- "breadcrumbs_spa": [],
+ "actions": "Free Action",
+ "actions_number": 0,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Mystery Conduit"
  ],
  "feat_markdown": "Mystery Conduit",
- "id": "feat-1509",
+ "id": "feat-6086",
+ "legacy_id": [
+  "feat-1509"
+ ],
  "level": 20,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 20\"\r\n    pfs=\"Standard\"\r\n>\r\n[Mystery Conduit](/Feats.aspx?ID=1509) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 81 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nThe power of your mystery enables you to cast more than just revelation spells. When you cast a spell of 5th level or lower that has no duration, instead of spending a spell slot, you can advance the effects of your oracular curse in the same manner as when you cast a revelation spell. A spell cast in this way gains the [cursebound](/Traits.aspx?ID=320) trait.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 20\"\r\n    pfs=\"Standard\"\r\n>\r\n[Mystery Conduit](/Feats.aspx?ID=6086) <actions string=\"Free Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Cursebound\" url=\"/Traits.aspx?ID=800\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n<trait label=\"Spellshape\" url=\"/Traits.aspx?ID=513\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 143 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nThe power of your mystery enables you access to myriad magic. If your next action is to [Cast a Spell](/Actions.aspx?ID=2734) of 5th rank or lower that has no duration, you do not expend a spell slot.",
  "name": "Mystery Conduit",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 143",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 81 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe power of your mystery enables you to cast more than just revelation spells.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Cursebound\" url=\"/Traits.aspx?ID=800\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n<trait label=\"Spellshape\" url=\"/Traits.aspx?ID=513\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 143 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe power of your mystery enables you access to myriad magic.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 81"
+  "Player Core 2 pg. 143"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 81 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 143 <sup>1.1</sup>",
  "speed": {},
- "summary": "The power of your mystery enables you to cast more than just revelation spells.",
- "summary_markdown": "The power of your mystery enables you to cast more than just revelation spells.",
- "text": "<title level=\"1\" right=\"Feat 20\" pfs=\"Standard\" > Mystery Conduit Source Advanced Player's Guide pg. 81 2.0 --- The power of your mystery enables you to cast more than just revelation spells. When you cast a spell of 5th level or lower that has no duration, instead of spending a spell slot, you can advance the effects of your oracular curse in the same manner as when you cast a revelation spell. A spell cast in this way gains the cursebound trait.",
+ "summary": "The power of your mystery enables you access to myriad magic.",
+ "summary_markdown": "The power of your mystery enables you access to myriad magic.",
+ "text": "<title level=\"1\" right=\"Feat 20\" pfs=\"Standard\" > Mystery Conduit Free Action Source Player Core 2 pg. 143 1.1 --- The power of your mystery enables you access to myriad magic. If your next action is to Cast a Spell of 5th rank or lower that has no duration, you do not expend a spell slot.",
  "trait": [
-  "Oracle"
+  "Cursebound",
+  "Oracle",
+  "Spellshape",
+  "Metamagic"
  ],
- "trait_markdown": "[Oracle](/Traits.aspx?ID=319)",
+ "trait_group": [
+  "Class-Specific",
+  "Class",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Cursebound](/Traits.aspx?ID=800), [Oracle](/Traits.aspx?ID=817), [Spellshape](/Traits.aspx?ID=513)",
  "trait_raw": [
-  "Oracle"
+  "Cursebound",
+  "Oracle",
+  "Spellshape"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1509",
+ "url": "/Feats.aspx?ID=6086",
  "weakness": {}
 }

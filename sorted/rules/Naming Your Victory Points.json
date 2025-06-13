@@ -1,37 +1,48 @@
 {
  "breadcrumbs": [
-  "Chapter 3: Subsystems",
+  "Chapter 4: Subsystems",
   "Victory Points"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1190",
- "markdown": "<title level=\"1\" right=\"Rules\">[Naming Your Victory Points](/Rules.aspx?ID=1190)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 148</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nIt can be fun to rename your Victory Points, to better reflect the subsystem they track. The term “Victory Points” is unspecific, so you can create a name for your Victory Points that fits the theme of your adventure and helps the players feel more like they are taking part in the type of activity your subsystem represents. Examples of renamed VPs include Influence Points (page 151), Infiltration Points (page 160), Research Points (page 154), and Reputation Points (page 164). The name should be representative, and the PCs should understand what it refers to. You can leave off the word “Points” if you prefer, though this section often retains it while describing how Victory Points can be used.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-3029",
+ "legacy_id": [
+  "rules-1190"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Naming Your Victory Points](/Rules.aspx?ID=3029)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 184 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nIt can be fun to rename your Victory Points, to better reflect the subsystem they track. The term “Victory Points” is unspecific, so you can create a name for your Victory Points that fits the theme of your adventure and helps the players feel more like they are taking part in the type of activity your subsystem represents. Examples of renamed VPs include Influence Points (page 187), Infiltration Points (page 196), Research Points (page 190), and Reputation Points (page 200). The name should be representative, and the PCs should understand what it refers to. You can leave off the word “Points” if you prefer, though this section often retains it while describing how Victory Points can be used.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Naming Your Victory Points",
  "next_link": {
-  "label": "Victory Point Subsystem Structure",
-  "url": "/Rules.aspx?ID=1191"
+  "label": "Victory Point Subsystem Structures",
+  "url": "/Rules.aspx?ID=3030"
  },
  "previous_link": {
   "label": "Deciding to Use a Subsystem",
-  "url": "/Rules.aspx?ID=1188"
+  "url": "/Rules.aspx?ID=3027"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 184",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 148</row>\r\n\r\nChapter 3: Subsystems / Victory Points\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 184 <sup>2.0</sup>\r\n\r\nChapter 4: Subsystems / Victory Points\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIt can be fun to rename your Victory Points, to better reflect the subsystem they track. The term “Victory Points” is unspecific, so you can create a …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 148"
+  "GM Core pg. 184"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 148</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 184 <sup>2.0</sup>",
  "speed": {},
- "text": " Naming Your Victory Points Source Gamemastery Guide pg. 148 It can be fun to rename your Victory Points, to better reflect the subsystem they track. The term “Victory Points” is unspecific, so you can create a name for your Victory Points that fits the theme of your adventure and helps the players feel more like they are taking part in the type of activity your subsystem represents. Examples of renamed VPs include Influence Points (page 151), Infiltration Points (page 160), Research Points (page 154), and Reputation Points (page 164). The name should be representative, and the PCs should understand what it refers to. You can leave off the word “Points” if you prefer, though this section often retains it while describing how Victory Points can be used. ",
+ "summary": "It can be fun to rename your Victory Points, to better reflect the subsystem they track. The term “Victory Points” is unspecific, so you can create a …",
+ "summary_markdown": "It can be fun to rename your Victory Points, to better reflect the subsystem they track. The term “Victory Points” is unspecific, so you can create a …",
+ "text": " Naming Your Victory Points Source GM Core pg. 184 2.0 It can be fun to rename your Victory Points, to better reflect the subsystem they track. The term “Victory Points” is unspecific, so you can create a name for your Victory Points that fits the theme of your adventure and helps the players feel more like they are taking part in the type of activity your subsystem represents. Examples of renamed VPs include Influence Points (page 187), Infiltration Points (page 196), Research Points (page 190), and Reputation Points (page 200). The name should be representative, and the PCs should understand what it refers to. You can leave off the word “Points” if you prefer, though this section often retains it while describing how Victory Points can be used. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1190",
+ "url": "/Rules.aspx?ID=3029",
  "weakness": {}
 }

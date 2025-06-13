@@ -1,42 +1,55 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Wind Jump"
  ],
  "feat_markdown": "Wind Jump",
- "id": "feat-466",
+ "id": "feat-6022",
+ "legacy_id": [
+  "feat-466"
+ ],
  "level": 10,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Wind Jump](/Feats.aspx?ID=466) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 163 <sup>4.0</sup></row>\n\n**Prerequisites**\r\nki spells\n\n</column>\r\n\r\n---\r\n\r\nYou gather the wind beneath you, allowing you to soar as you jump. You gain the [_wind jump_](/Spells.aspx?ID=490) ki spell. Increase the number of Focus Points in your focus pool by 1.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Wind Jump](/Feats.aspx?ID=6022) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 124 <sup>1.1</sup>\n\n**Prerequisites**\r\nQi Spells\n\n</column>\r\n\r\n---\r\n\r\nYou gather the wind beneath you, allowing you to soar as you jump. You gain the [_wind jump_](/Spells.aspx?ID=2065) qi spell.",
  "name": "Wind Jump",
  "pfs": "Standard",
- "prerequisite": "ki spells",
- "prerequisite_markdown": "ki spells",
+ "prerequisite": "Qi Spells",
+ "prerequisite_markdown": "Qi Spells",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 124",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 163 <sup>4.0</sup></row>\n\n**Prerequisites**\r\nki spells\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gather the wind beneath you, allowing you to soar as you jump.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 124 <sup>1.1</sup>\n\n**Prerequisites**\r\nQi Spells\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gather the wind beneath you, allowing you to soar as you jump.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 163"
+  "Player Core 2 pg. 124"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 163 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 124 <sup>1.1</sup>",
  "speed": {},
  "summary": "You gather the wind beneath you, allowing you to soar as you jump.",
  "summary_markdown": "You gather the wind beneath you, allowing you to soar as you jump.",
- "text": "<title level=\"1\" right=\"Feat 10\" pfs=\"Standard\" > Wind Jump Source Core Rulebook pg. 163 4.0 Prerequisites ki spells --- You gather the wind beneath you, allowing you to soar as you jump. You gain the wind jump ki spell. Increase the number of Focus Points in your focus pool by 1.",
+ "text": "<title level=\"1\" right=\"Feat 10\" pfs=\"Standard\" > Wind Jump Source Player Core 2 pg. 124 1.1 Prerequisites Qi Spells --- You gather the wind beneath you, allowing you to soar as you jump. You gain the wind jump qi spell.",
  "trait": [
   "Monk"
  ],
- "trait_markdown": "[Monk](/Traits.aspx?ID=112)",
+ "trait_group": [
+  "Class",
+  "Weapon"
+ ],
+ "trait_markdown": "[Monk](/Traits.aspx?ID=656)",
  "trait_raw": [
   "Monk"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=466",
+ "url": "/Feats.aspx?ID=6022",
  "weakness": {}
 }

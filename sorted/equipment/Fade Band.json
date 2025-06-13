@@ -1,46 +1,63 @@
 {
  "actions": "Free Action",
+ "actions_number": 0,
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
+ "bulk": 0,
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-210",
+ "id": "equipment-2974",
  "item_category": "Consumables",
  "item_subcategory": "Talismans",
+ "legacy_id": [
+  "equipment-210"
+ ],
  "level": 12,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Fade Band](/Equipment.aspx?ID=210)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Illusion\" url=\"/Traits.aspx?ID=92\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=155\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 566 <sup>4.0</sup></row>\n\n**Price** 320 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** affixed to armor\n\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Free Action\" /><row>envision</row></row>\r\n\r\n \r\n\r\n**Trigger** An attack misses you\r\n\r\n**Requirement** You are a master in Stealth\r\n</row>\n\n</column>\r\n\r\n---\n\nThis thin, silvery wire wraps around your armor. When you activate the band, it casts a 2nd-level [_invisibility_](/Spells.aspx?ID=164) spell on you.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Fade Band](/Equipment.aspx?ID=2974)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Illusion\" url=\"/Traits.aspx?ID=629\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=709\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 264 <sup>2.0</sup>\n\n**Price** 320 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** affixed to armor\n\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Free Action\" /><row>([concentrate](/Traits.aspx?ID=32))</row></row>\r\n\r\n \r\n\r\n**Trigger** An attack misses you\r\n\r\n**Requirement** You are trained in Stealth\r\n</row>\n\n</column>\r\n\r\n---\n\nThis thin, silvery wire wraps around your armor. When you activate the band, it casts a 2nd-rank [_invisibility_](/Spells.aspx?ID=164) spell on you.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Fade Band",
  "pfs": "Standard",
  "price": 32000,
  "price_raw": "320 gp",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 264",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
- "requirement": "You are a master in Stealth",
- "requirement_markdown": "You are a master in Stealth",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
+ "requirement": "You are trained in Stealth",
+ "requirement_markdown": "You are trained in Stealth",
  "resistance": {},
  "school": "illusion",
- "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Illusion\" url=\"/Traits.aspx?ID=92\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=155\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 566 <sup>4.0</sup></row>\r\n\r\n**Price** 320 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** affixed to armor\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Free Action\" /><row>envision</row></row>\r\n\r\n \r\n\r\n**Trigger** An attack misses you\r\n\r\n**Requirement** You are a master in Stealth\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis thin, silvery wire wraps around your armor. When you activate the band, it casts a 2nd-level   invisibility   spell on you.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Illusion\" url=\"/Traits.aspx?ID=629\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=709\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 264 <sup>2.0</sup>\r\n\r\n**Price** 320 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** affixed to armor\r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Free Action\" /><row>([concentrate](/Traits.aspx?ID=32))</row></row>\r\n\r\n \r\n\r\n**Trigger** An attack misses you\r\n\r\n**Requirement** You are trained in Stealth\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis thin, silvery wire wraps around your armor. When you activate the band, it casts a 2nd-rank   invisibility   spell on you.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 566"
+  "GM Core pg. 264"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 566 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 264 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "This thin, silvery wire wraps around your armor. When you activate the band, it casts a 2nd-level   invisibility   spell on you.",
- "summary_markdown": "This thin, silvery wire wraps around your armor. When you activate the band, it casts a 2nd-level   invisibility   spell on you.",
- "text": "<title level=\"1\" right=\"Item 12\" pfs=\"Standard\" > Fade Band Source Core Rulebook pg. 566 4.0 Price 320 gp Usage affixed to armor Activate Free Action envision Trigger An attack misses you Requirement You are a master in Stealth --- This thin, silvery wire wraps around your armor. When you activate the band, it casts a 2nd-level invisibility spell on you.\n",
+ "summary": "This thin, silvery wire wraps around your armor. When you activate the band, it casts a 2nd-rank   invisibility   spell on you.",
+ "summary_markdown": "This thin, silvery wire wraps around your armor. When you activate the band, it casts a 2nd-rank   invisibility   spell on you.",
+ "text": "<title level=\"1\" right=\"Item 12\" pfs=\"Standard\" > Fade Band Source GM Core pg. 264 2.0 Price 320 gp Usage affixed to armor Activate Free Action (concentrate) Trigger An attack misses you Requirement You are trained in Stealth --- This thin, silvery wire wraps around your armor. When you activate the band, it casts a 2nd-rank invisibility spell on you.\n",
  "trait": [
   "Consumable",
   "Illusion",
   "Magical",
   "Talisman"
  ],
- "trait_markdown": "[Consumable](/Traits.aspx?ID=36), [Illusion](/Traits.aspx?ID=92), [Magical](/Traits.aspx?ID=103), [Talisman](/Traits.aspx?ID=155)",
+ "trait_group": [
+  "Equipment",
+  "School",
+  "Monster",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Consumable](/Traits.aspx?ID=564), [Illusion](/Traits.aspx?ID=629), [Magical](/Traits.aspx?ID=644), [Talisman](/Traits.aspx?ID=709)",
  "trait_raw": [
   "Consumable",
   "Illusion",
@@ -50,7 +67,7 @@
  "trigger": "An attack misses you",
  "trigger_markdown": "An attack misses you",
  "type": "Item",
- "url": "/Equipment.aspx?ID=210",
+ "url": "/Equipment.aspx?ID=2974",
  "usage": "affixed to armor",
  "usage_markdown": "affixed to armor",
  "weakness": {}

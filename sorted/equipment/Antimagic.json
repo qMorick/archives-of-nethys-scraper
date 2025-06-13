@@ -1,49 +1,60 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
+ "bulk": 0,
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-282",
+ "id": "equipment-2787",
  "item_category": "Runes",
  "item_subcategory": "Armor Property Runes",
+ "legacy_id": [
+  "equipment-282"
+ ],
  "level": 15,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 15\"\r\n    pfs=\"Standard\"\r\n>\r\n[Antimagic](/Equipment.aspx?ID=282)\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Abjuration\" url=\"/Traits.aspx?ID=2\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 582 <sup>4.0</sup></row>\n\n**Price** 6,500 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** etched onto armor\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis intricate rune displaces spell energy, granting you a +1 status bonus to saving throws against magical effects.\n\n<document level=\"2\" id=\"action-179\" />\n\n**Craft Requirements** Supply one casting of _dispel magic_.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 15\"\r\n    pfs=\"Standard\"\r\n>\r\n[Antimagic](/Equipment.aspx?ID=2787)\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 226 <sup>2.0</sup>\n\n**Price** 6,500 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** etched onto armor\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis intricate rune displaces spell energy, granting you a +1 status bonus to saving throws against magical effects. \n\n**Activate—Antimagic Armor** <actions string=\"Reaction\" /> ([concentrate](/Traits.aspx?ID=32)) **Frequency** once per day; **Trigger** A spell targets you or includes you in its area;  **Effect** The armor attempts to counteract the triggering spell with the effect of a 7th-rank [_dispel magic_](/Spells.aspx?ID=78) spell and a counteract modifier of +26.\n\n**Craft Requirements** Supply one casting of [_dispel magic_](/Spells.aspx?ID=78).\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Antimagic",
  "pfs": "Standard",
  "price": 650000,
  "price_raw": "6,500 gp",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 226",
+ "primary_source_category": "Rulebooks",
  "rarity": "uncommon",
- "release_date": "2019-08-01",
+ "rarity_id": 2,
+ "release_date": "2023-11-15",
  "resistance": {},
- "school": "abjuration",
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Abjuration\" url=\"/Traits.aspx?ID=2\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 582 <sup>4.0</sup></row>\r\n\r\n**Price** 6,500 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** etched onto armor\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis intricate rune displaces spell energy, granting you a +1 status bonus to saving throws against magical effects. \r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 226 <sup>2.0</sup>\r\n\r\n**Price** 6,500 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** etched onto armor\r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis intricate rune displaces spell energy, granting you a +1 status bonus to saving throws against magical effects.  \r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 582"
+  "GM Core pg. 226"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 582 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 226 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "This intricate rune displaces spell energy, granting you a +1 status bonus to saving throws against magical effects. ",
- "summary_markdown": "This intricate rune displaces spell energy, granting you a +1 status bonus to saving throws against magical effects. ",
- "text": "<title level=\"1\" right=\"Item 15\" pfs=\"Standard\" > Antimagic Source Core Rulebook pg. 582 4.0 Price 6,500 gp Usage etched onto armor --- This intricate rune displaces spell energy, granting you a +1 status bonus to saving throws against magical effects. Craft Requirements Supply one casting of dispel magic .\n",
+ "summary": "This intricate rune displaces spell energy, granting you a +1 status bonus to saving throws against magical effects.  ",
+ "summary_markdown": "This intricate rune displaces spell energy, granting you a +1 status bonus to saving throws against magical effects.  ",
+ "text": "<title level=\"1\" right=\"Item 15\" pfs=\"Standard\" > Antimagic Source GM Core pg. 226 2.0 Price 6,500 gp Usage etched onto armor --- This intricate rune displaces spell energy, granting you a +1 status bonus to saving throws against magical effects. Activate—Antimagic Armor Reaction (concentrate) Frequency once per day; Trigger A spell targets you or includes you in its area; Effect The armor attempts to counteract the triggering spell with the effect of a 7th-rank dispel magic spell and a counteract modifier of +26. Craft Requirements Supply one casting of dispel magic .\n",
  "trait": [
-  "Abjuration",
   "Magical",
   "Uncommon"
  ],
- "trait_markdown": "[Abjuration](/Traits.aspx?ID=2), [Magical](/Traits.aspx?ID=103), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Mechanics",
+  "Rarity"
+ ],
+ "trait_markdown": "[Magical](/Traits.aspx?ID=644), [Uncommon](/Traits.aspx?ID=721)",
  "trait_raw": [
-  "Abjuration",
   "Magical",
   "Uncommon"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=282",
+ "url": "/Equipment.aspx?ID=2787",
  "usage": "etched onto armor",
  "usage_markdown": "etched onto armor",
  "weakness": {}

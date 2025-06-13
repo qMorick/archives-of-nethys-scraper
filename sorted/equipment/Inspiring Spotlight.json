@@ -1,55 +1,69 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
- "bulk": 3,
- "bulk_raw": "3",
+ "bulk": 0,
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-585",
- "item_category": "Held Items",
+ "id": "equipment-3531",
+ "item_category": "Other",
+ "item_child_id": [
+  "equipment-3531-3401",
+  "equipment-3531-3402"
+ ],
  "level": 9,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 9\"\r\n    pfs=\"Limited\"\r\n>\r\n[Inspiring Spotlight](/Equipment.aspx?ID=585)\r\n</title>\r\n\r\n<spoilers>May contain spoilers from Extinction Curse</spoilers>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Enchantment\" url=\"/Traits.aspx?ID=61\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=100\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #152: Legacy of the Lost God](/Sources.aspx?ID=23) pg. 73</row>\n\n**Price** 650 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** held in 2 hands\n\n**Bulk** 3\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nAn _inspiring spotlight_ is a bulky contraption consisting of a drum-shaped metal housing around several reflective metal plates. Two handles on either side, each with a small button, allow you to aim the spotlight outward from your body.\n\n<document level=\"2\" id=\"action-366\" />\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 9+\"\r\n    pfs=\"Standard\"\r\n>\r\n[Inspiring Spotlight](/Equipment.aspx?ID=3531)\r\n</title>\r\n\r\n<spoilers>May contain spoilers from Convocation</spoilers>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=683\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=640\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Rival Academies](/Sources.aspx?ID=235) pg. 56, [Pathfinder #152: Legacy of the Lost God](/Sources.aspx?ID=23) pg. 73\n\n<row gap=\"medium\">\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nAn _inspiring spotlight_ consists of a drum-shaped metal housing around several reflective plates. It has the capacity to cast a powerful, narrow beam of light to illuminate important moments or characters on stage. The portable version consists of an 18-inch-diameter lamp on a tripod that can be set up or broken down over the course of 10 minutes. The mounted version is typically 3 feet in diameter and affixed to a bracket above and behind the audience for indoor performances.\n\n**Activate—Light It Up** <actions string=\"Single Action\" /> ([light](/Traits.aspx?ID=640), [manipulate](/Traits.aspx?ID=645)) **Frequency** once per hour;   **Effect** The _inspiring spotlight_ emits a 5-foot burst of bright magical light within 120 feet. If the burst intersects with an area of magical darkness, the _inspiring spotlight_ attempts to counteract the darkness with a +17 modifier. Creatures within the burst gain a +1 item bonus to saving throws and Charisma-based skill checks. The spotlight remains lit for 1 minute or until you Interact to turn it off. During this time any creature adjacent to the spotlight can move the burst up to 20 feet from the burst’s original position with an Interact action.\n\n<column gap=\"tiny\">\n\n</column>\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 9\"\r\npfs=\"Standard\"\r\n>\r\nPortable Inspiring Spotlight\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Rival Academies](/Sources.aspx?ID=235) pg. 55\n\n**Price** 650 gp\r\n\r\n<row gap=\"medium\">\n\n**Bulk** 3\r\n\r\n</row>\n\n</column>\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 15\"\r\npfs=\"Standard\"\r\n>\r\nMounted Inspiring Spotlight\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Rival Academies](/Sources.aspx?ID=235) pg. 55\n\n**Price** 6,500 gp\r\n\r\n<row gap=\"medium\">\n\n**Bulk** 8\r\n\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\nThe spotlight has a 240-foot range, the counteract modifier is +25, and the item bonus is +2.",
  "name": "Inspiring Spotlight",
- "pfs": "Limited",
- "price": 65000,
- "price_raw": "650 gp",
- "rarity": "uncommon",
- "release_date": "2020-02-26",
+ "pfs": "Standard",
+ "primary_source": "Rival Academies",
+ "primary_source_raw": "Rival Academies pg. 56",
+ "primary_source_category": "Lost Omens",
+ "primary_source_group": "Convocation",
+ "rarity": "rare",
+ "rarity_id": 3,
+ "release_date": "2025-02-26",
  "resistance": {},
- "school": "enchantment",
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Enchantment\" url=\"/Traits.aspx?ID=61\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=100\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #152: Legacy of the Lost God](/Sources.aspx?ID=23) pg. 73</row>\r\n\r\n**Price** 650 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 2 hands\n\n**Bulk** 3\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn  inspiring spotlight  is a bulky contraption consisting of a drum-shaped metal housing around several reflective metal plates. Two handles on …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=683\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=640\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Rival Academies](/Sources.aspx?ID=235) pg. 56, [Pathfinder #152: Legacy of the Lost God](/Sources.aspx?ID=23) pg. 73\r\n\r\n \r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn  inspiring spotlight  consists of a drum-shaped metal housing around several reflective plates. It has the capacity to cast a powerful, narrow …\r\n</summary>",
+ "skill_markdown": ", ",
+ "skill_mod": {},
  "source": [
+  "Rival Academies",
   "Pathfinder #152: Legacy of the Lost God"
  ],
  "source_raw": [
+  "Rival Academies pg. 56",
   "Pathfinder #152: Legacy of the Lost God pg. 73"
  ],
- "source_category": "Adventure Paths",
- "source_group": "Extinction Curse",
- "source_markdown": "<row gap=\"tiny\">[Pathfinder #152: Legacy of the Lost God](/Sources.aspx?ID=23) pg. 73</row>",
+ "source_category": [
+  "Lost Omens",
+  "Adventure Paths"
+ ],
+ "source_group": [
+  "Convocation",
+  "Extinction Curse"
+ ],
+ "source_markdown": "[Rival Academies](/Sources.aspx?ID=235) pg. 56, [Pathfinder #152: Legacy of the Lost God](/Sources.aspx?ID=23) pg. 73",
  "speed": {},
  "spell_markdown": "",
- "spoilers": "Extinction Curse",
+ "spoilers": "Convocation",
  "stage_markdown": "",
- "summary": "An  inspiring spotlight  is a bulky contraption consisting of a drum-shaped metal housing around several reflective metal plates. Two handles on …",
- "summary_markdown": "An  inspiring spotlight  is a bulky contraption consisting of a drum-shaped metal housing around several reflective metal plates. Two handles on …",
- "text": "<title level=\"1\" right=\"Item 9\" pfs=\"Limited\" > Inspiring Spotlight May contain spoilers from Extinction Curse Source Pathfinder #152: Legacy of the Lost God pg. 73 Price 650 gp Usage held in 2 hands Bulk 3 --- An inspiring spotlight is a bulky contraption consisting of a drum-shaped metal housing around several reflective metal plates. Two handles on either side, each with a small button, allow you to aim the spotlight outward from your body.\n",
+ "summary": "An  inspiring spotlight  consists of a drum-shaped metal housing around several reflective plates. It has the capacity to cast a powerful, narrow …",
+ "summary_markdown": "An  inspiring spotlight  consists of a drum-shaped metal housing around several reflective plates. It has the capacity to cast a powerful, narrow …",
+ "text": "<title level=\"1\" right=\"Item 9+\" pfs=\"Standard\" > Inspiring Spotlight May contain spoilers from Convocation Source Rival Academies pg. 56, Pathfinder #152: Legacy of the Lost God pg. 73 --- An inspiring spotlight consists of a drum-shaped metal housing around several reflective plates. It has the capacity to cast a powerful, narrow beam of light to illuminate important moments or characters on stage. The portable version consists of an 18-inch-diameter lamp on a tripod that can be set up or broken down over the course of 10 minutes. The mounted version is typically 3 feet in diameter and affixed to a bracket above and behind the audience for indoor performances. Activate—Light It Up Single Action (light, manipulate) Frequency once per hour; Effect The inspiring spotlight emits a 5-foot burst of bright magical light within 120 feet. If the burst intersects with an area of magical darkness, the inspiring spotlight attempts to counteract the darkness with a +17 modifier. Creatures within the burst gain a +1 item bonus to saving throws and Charisma-based skill checks. The spotlight remains lit for 1 minute or until you Interact to turn it off. During this time any creature adjacent to the spotlight can move the burst up to 20 feet from the burst’s original position with an Interact action. <title level=\"2\" right=\"Item 9\" pfs=\"Standard\" > Portable Inspiring Spotlight Source Rival Academies pg. 55 Price 650 gp Bulk 3 <title level=\"2\" right=\"Item 15\" pfs=\"Standard\" > Mounted Inspiring Spotlight Source Rival Academies pg. 55 Price 6,500 gp Bulk 8 --- The spotlight has a 240-foot range, the counteract modifier is +25, and the item bonus is +2.",
  "trait": [
-  "Enchantment",
   "Light",
   "Magical",
-  "Uncommon"
+  "Rare"
  ],
- "trait_markdown": "[Enchantment](/Traits.aspx?ID=61), [Light](/Traits.aspx?ID=100), [Magical](/Traits.aspx?ID=103), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Mechanics",
+  "Rarity"
+ ],
+ "trait_markdown": "[Light](/Traits.aspx?ID=640), [Magical](/Traits.aspx?ID=644), [Rare](/Traits.aspx?ID=683)",
  "trait_raw": [
-  "Enchantment",
   "Light",
   "Magical",
-  "Uncommon"
+  "Rare"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=585",
- "usage": "held in 2 hands\r\n",
- "usage_markdown": "held in 2 hands\r\n",
+ "url": "/Equipment.aspx?ID=3531",
  "weakness": {}
 }

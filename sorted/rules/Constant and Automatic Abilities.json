@@ -1,38 +1,49 @@
 {
  "breadcrumbs": [
-  "Chapter 2: Tools\r\n",
-  "Building Creatures\r\n",
+  "Chapter 2: Building Games",
+  "Building Creatures",
   "Design Abilities"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1035",
- "markdown": "<title level=\"1\" right=\"Rules\">[Constant and Automatic Abilities](/Rules.aspx?ID=1035)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 69</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nCertain abilities shouldn’t use any actions. Auras are a common constant ability, with frightful presence, an adult red dragon’s dragon heat, and a xulgath’s stench as notable examples. An aura needs a range, and if it needs a DC, you’ll usually set it to the moderate spell DC unless the aura is one of the creature’s defining concepts. For example, the xulgath’s stench DC is significantly higher because the aura is such an iconic part of the creature.\n\n Abilities the creature has no control over should be automatic. For example, the living wildfire fire elemental explodes into flame when it dies. It has no option not to, so this wouldn’t make sense as a reaction or free action. Conversely, the Ferocity ability is a reaction because it requires the creature to give itself a last push to stay at 1 HP.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-1036\" />",
+ "id": "rules-2914",
+ "legacy_id": [
+  "rules-1035"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Constant and Automatic Abilities](/Rules.aspx?ID=2914)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 125 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nCertain abilities shouldn't use any actions. [Auras](/MonsterAbilities.aspx?ID=5) are a common constant ability, with [frightful presence](/MonsterAbilities.aspx?ID=17), the [cinder rat](/Monsters.aspx?ID=187)'s fetid fumes, and the [xulgath](/MonsterFamilies.aspx?ID=102)'s stench as notable examples. An aura needs a range, and if it needs a DC, you'll usually set it to the moderate spell DC unless the aura is one of the creature's defining concepts. For example, the xulgath's stench DC is significantly higher because the aura is such an iconic part of the creature.\n\nAbilities the creature has no control over should be automatic. For example, the [living wildfire](/Monsters.aspx?ID=188) fire elemental explodes into flames when it dies. It has no option not to, so this wouldn't make sense as a reaction or free action. Conversely, the [Ferocity](/MonsterAbilities.aspx?ID=16) ability is a reaction because it requires the creature to give itself a last push to stay at 1 HP.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-2915\" />",
  "name": "Constant and Automatic Abilities",
  "next_link": {
   "label": "Skill Abilities",
-  "url": "/Rules.aspx?ID=1037"
+  "url": "/Rules.aspx?ID=2916"
  },
  "previous_link": {
   "label": "Reactive Abilities",
-  "url": "/Rules.aspx?ID=1033"
+  "url": "/Rules.aspx?ID=2912"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 125",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 69</row>\r\n\r\nChapter 2: Tools\r\n/ Building Creatures\r\n/ Design Abilities\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 125 <sup>2.0</sup>\r\n\r\nChapter 2: Building Games / Building Creatures / Design Abilities\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCertain abilities shouldn't use any actions.  Auras  are a common constant ability, with  frightful presence , the  cinder rat 's fetid fumes, and …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 69"
+  "GM Core pg. 125"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 69</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 125 <sup>2.0</sup>",
  "speed": {},
- "text": " Constant and Automatic Abilities Source Gamemastery Guide pg. 69 Certain abilities shouldn’t use any actions. Auras are a common constant ability, with frightful presence, an adult red dragon’s dragon heat, and a xulgath’s stench as notable examples. An aura needs a range, and if it needs a DC, you’ll usually set it to the moderate spell DC unless the aura is one of the creature’s defining concepts. For example, the xulgath’s stench DC is significantly higher because the aura is such an iconic part of the creature. Abilities the creature has no control over should be automatic. For example, the living wildfire fire elemental explodes into flame when it dies. It has no option not to, so this wouldn’t make sense as a reaction or free action. Conversely, the Ferocity ability is a reaction because it requires the creature to give itself a last push to stay at 1 HP. ",
+ "summary": "Certain abilities shouldn't use any actions.  Auras  are a common constant ability, with  frightful presence , the  cinder rat 's fetid fumes, and …",
+ "summary_markdown": "Certain abilities shouldn't use any actions.  Auras  are a common constant ability, with  frightful presence , the  cinder rat 's fetid fumes, and …",
+ "text": " Constant and Automatic Abilities Source GM Core pg. 125 2.0 Certain abilities shouldn't use any actions. Auras are a common constant ability, with frightful presence, the cinder rat's fetid fumes, and the xulgath's stench as notable examples. An aura needs a range, and if it needs a DC, you'll usually set it to the moderate spell DC unless the aura is one of the creature's defining concepts. For example, the xulgath's stench DC is significantly higher because the aura is such an iconic part of the creature. Abilities the creature has no control over should be automatic. For example, the living wildfire fire elemental explodes into flames when it dies. It has no option not to, so this wouldn't make sense as a reaction or free action. Conversely, the Ferocity ability is a reaction because it requires the creature to give itself a last push to stay at 1 HP. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1035",
+ "url": "/Rules.aspx?ID=2914",
  "weakness": {}
 }

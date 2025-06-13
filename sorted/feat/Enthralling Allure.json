@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Enthralling Allure"
  ],
  "feat_markdown": "Enthralling Allure",
- "id": "feat-1341",
+ "id": "feat-5719",
+ "legacy_id": [
+  "feat-1341"
+ ],
  "level": 5,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Enthralling Allure](/Feats.aspx?ID=1341) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Dhampir\" url=\"/Traits.aspx?ID=215\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 33 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nThe powers of domination employed by your progenitors have manifested in you as well. Once per day, you can cast [_charm_](/Spells.aspx?ID=34) as a 1st-level divine innate spell.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Enthralling Allure](/Feats.aspx?ID=5719) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Dhampir\" url=\"/Traits.aspx?ID=750\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 43 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nThe powers of domination employed by your progenitors have manifested in you as well. You can cast [_charm_](/Spells.aspx?ID=1463) as a divine innate spell once per day. Its spell rank is equal to half your level rounded up, but it doesn't increase its duration or number of targets at 4th and 8th rank.",
  "name": "Enthralling Allure",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 43",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Dhampir\" url=\"/Traits.aspx?ID=215\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 33 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe powers of domination employed by your progenitors have manifested in you as well.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Dhampir\" url=\"/Traits.aspx?ID=750\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 43 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe powers of domination employed by your progenitors have manifested in you as well.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 33"
+  "Player Core 2 pg. 43"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 33 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 43 <sup>1.1</sup>",
  "speed": {},
  "summary": "The powers of domination employed by your progenitors have manifested in you as well.",
  "summary_markdown": "The powers of domination employed by your progenitors have manifested in you as well.",
- "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Enthralling Allure Source Advanced Player's Guide pg. 33 2.0 --- The powers of domination employed by your progenitors have manifested in you as well. Once per day, you can cast charm as a 1st-level divine innate spell.",
+ "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Enthralling Allure Source Player Core 2 pg. 43 1.1 --- The powers of domination employed by your progenitors have manifested in you as well. You can cast charm as a divine innate spell once per day. Its spell rank is equal to half your level rounded up, but it doesn't increase its duration or number of targets at 4th and 8th rank.",
  "trait": [
   "Dhampir"
  ],
- "trait_markdown": "[Dhampir](/Traits.aspx?ID=215)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Dhampir](/Traits.aspx?ID=750)",
  "trait_raw": [
   "Dhampir"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1341",
+ "url": "/Feats.aspx?ID=5719",
  "weakness": {}
 }

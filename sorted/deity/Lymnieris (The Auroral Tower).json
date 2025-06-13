@@ -1,23 +1,29 @@
 {
- "ability": [
-  "Wisdom",
+ "attribute": [
+  "Intelligence",
   "Charisma"
  ],
- "alignment": "LG",
- "breadcrumbs_spa": [],
+ "anathema": "Persecute sex workers, force or support unwanted marriages",
+ "area_of_concern": [
+  "Rites of passage",
+  "sex workers",
+  "virginity"
+ ],
+ "area_of_concern_raw": "Rites of passage, sex workers, virginity",
  "category": "deity",
  "cleric_spell": [
-  "Mage Armor",
+  "Leaden Steps",
   "Threefold Aspect",
-  "Resilient Sphere"
+  "Containment"
  ],
  "deity": [
-  "Lymnieris"
+  "Lymnieris",
+  "Guardians Of The Sacred Self"
  ],
- "deity_markdown": "[Lymnieris](/Deities.aspx?ID=124)",
+ "deity_markdown": "[Guardians Of The Sacred Self](/Deities.aspx?ID=379)",
  "deity_category": "Empyreal Lords",
- "deity_category_markdown": "[Empyreal Lords\r\n](/DeityCategories.aspx?ID=10)",
- "deity_category_order": "2Empyreal Lords\r\n",
+ "deity_category_markdown": "[Empyreal Lords](/DeityCategories.aspx?ID=10)",
+ "deity_category_order": "2Empyreal Lords",
  "divine_font": [
   "Heal"
  ],
@@ -28,7 +34,7 @@
   "Protection",
   "Repose"
  ],
- "domain_markdown": "[Change](/Domains.aspx?ID=40), [Passion](/Domains.aspx?ID=25), [Protection](/Domains.aspx?ID=27), [Repose](/Domains.aspx?ID=49)",
+ "domain_markdown": "[Change](/Domains.aspx?ID=102), [Passion](/Domains.aspx?ID=88), [Protection](/Domains.aspx?ID=90), [Repose](/Domains.aspx?ID=116)",
  "domain_alternate_markdown": "",
  "domain_primary": [
   "Change",
@@ -36,48 +42,68 @@
   "Protection",
   "Repose"
  ],
- "domain_primary_markdown": "[Change](/Domains.aspx?ID=40), [Passion](/Domains.aspx?ID=25), [Protection](/Domains.aspx?ID=27), [Repose](/Domains.aspx?ID=49)",
+ "domain_primary_markdown": "[Change](/Domains.aspx?ID=102), [Passion](/Domains.aspx?ID=88), [Protection](/Domains.aspx?ID=90), [Repose](/Domains.aspx?ID=116)",
+ "edict": "Help others achieve their desires, aid and protect sex workers, help others through difficult transitions",
  "exclude_from_search": false,
  "favored_weapon": [
   "Longsword"
  ],
- "favored_weapon_markdown": "[Longsword](/Weapons.aspx?ID=31)",
- "follower_alignment": [
-  "LG",
-  "NG",
-  "CG"
+ "favored_weapon_markdown": "[Longsword](/Weapons.aspx?ID=386)",
+ "id": "deity-649",
+ "legacy_id": [
+  "deity-124"
  ],
- "id": "deity-124",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Lymnieris (The Auroral Tower)](/Deities.aspx?ID=124)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"LG\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 128 <sup>2.0</sup></row>\n\n_Nethys Note: no description has been provided of this deity_\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Empyreal Lords\r\n](/DeityCategories.aspx?ID=10)\r\n\r\n**Edicts** Help others achieve their desires, aid and protect sex workers, help others through difficult transitions\r\n\r\n**Anathema** Persecute sex workers, force or support unwanted marriages\n\n**Follower Alignments**\r\nLG, NG, CG\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nWisdom or Charisma\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=14)\r\n\r\n**Favored Weapon** [Longsword](/Weapons.aspx?ID=31)\r\n\r\n**Domains** [Change](/Domains.aspx?ID=40), [Passion](/Domains.aspx?ID=25), [Protection](/Domains.aspx?ID=27), [Repose](/Domains.aspx?ID=49)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Mage Armor](/Spells.aspx?ID=176)\n\n- **3rd**\r\n[Threefold Aspect](/Spells.aspx?ID=723)\n\n- **4th**\r\n[Resilient Sphere](/Spells.aspx?ID=255)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Lymnieris (The Auroral Tower)](/Deities.aspx?ID=649)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries Web Supplement](/Sources.aspx?ID=237) pg. 12\n\n_Nethys Note: no description has been provided of this deity_\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Empyreal Lords](/DeityCategories.aspx?ID=10)\r\n\r\n**Edicts** Help others achieve their desires, aid and protect sex workers, help others through difficult transitions\r\n\r\n**Anathema** Persecute sex workers, force or support unwanted marriages\r\n\r\n**Area of Concern**\r\nRites of passage, sex workers, virginity\n\n**Pantheons**\r\n[Guardians Of The Sacred Self](/Deities.aspx?ID=379)\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nIntelligence or Charisma\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** must choose holy\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=47)\r\n\r\n**Favored Weapon** [Longsword](/Weapons.aspx?ID=386)\r\n\r\n**Domains** [Change](/Domains.aspx?ID=102), [Passion](/Domains.aspx?ID=88), [Protection](/Domains.aspx?ID=90), [Repose](/Domains.aspx?ID=116)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Leaden Steps](/Spells.aspx?ID=2005)\n\n- **3rd**\r\n[Threefold Aspect](/Spells.aspx?ID=2038)\n\n- **4th**\r\n[Containment](/Spells.aspx?ID=1981)\n\n</column>",
  "name": "Lymnieris (The Auroral Tower)",
+ "pantheon": [
+  "Guardians Of The Sacred Self"
+ ],
+ "pantheon_markdown": "[Guardians Of The Sacred Self](/Deities.aspx?ID=379)",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries Web Supplement",
+ "primary_source_raw": "Divine Mysteries Web Supplement pg. 12",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "White-hooded profile",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 128 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=14)\r\n\r\n**Favored Weapon** [Longsword](/Weapons.aspx?ID=31)\r\n\r\n**Domains** [Change](/Domains.aspx?ID=40), [Passion](/Domains.aspx?ID=25), [Protection](/Domains.aspx?ID=27), [Repose](/Domains.aspx?ID=49)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Nethys Note: no description has been provided of this deity \r\n</summary>",
+ "sacred_animal": "Rabbit",
+ "sacred_color": [
+  "red",
+  "white"
+ ],
+ "sanctification": [
+  "holy"
+ ],
+ "sanctification_raw": "must choose holy",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries Web Supplement](/Sources.aspx?ID=237) pg. 12\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=47)\r\n\r\n**Favored Weapon** [Longsword](/Weapons.aspx?ID=386)\r\n\r\n**Domains** [Change](/Domains.aspx?ID=102), [Passion](/Domains.aspx?ID=88), [Protection](/Domains.aspx?ID=90), [Repose](/Domains.aspx?ID=116)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Nethys Note: no description has been provided of this deity \r\n</summary>",
  "skill": [
   "Society"
  ],
- "skill_markdown": "[Society](/Skills.aspx?ID=14)",
+ "skill_markdown": "[Society](/Skills.aspx?ID=47)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries Web Supplement"
  ],
  "source_raw": [
-  "Gods & Magic pg. 128"
+  "Divine Mysteries Web Supplement pg. 12"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 128 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries Web Supplement](/Sources.aspx?ID=237) pg. 12",
  "speed": {},
+ "spell": [
+  "Leaden Steps",
+  "Threefold Aspect",
+  "Containment"
+ ],
+ "spell_markdown": "[Containment](/Spells.aspx?ID=1981), [Leaden Steps](/Spells.aspx?ID=2005), [Threefold Aspect](/Spells.aspx?ID=2038)",
  "summary": " Nethys Note: no description has been provided of this deity ",
  "summary_markdown": " Nethys Note: no description has been provided of this deity ",
- "text": " Lymnieris (The Auroral Tower) Source Gods &amp; Magic pg. 128 2.0 Nethys Note: no description has been provided of this deity Category [Empyreal Lords ](/DeityCategories.aspx?ID=10) Edicts Help others achieve their desires, aid and protect sex workers, help others through difficult transitions Anathema Persecute sex workers, force or support unwanted marriages Follower Alignments LG, NG, CG Devotee Benefits Divine Ability Wisdom or Charisma Divine Font Heal Divine Skill Society Favored Weapon Longsword Domains Change, Passion, Protection, Repose Alternate Domains Cleric Spells - 1st Mage Armor - 3rd Threefold Aspect - 4th Resilient Sphere\n",
- "trait": [
-  "LG"
- ],
- "trait_raw": [
-  "LG"
- ],
+ "text": " Lymnieris (The Auroral Tower) Source Divine Mysteries Web Supplement pg. 12 Nethys Note: no description has been provided of this deity Category Empyreal Lords Edicts Help others achieve their desires, aid and protect sex workers, help others through difficult transitions Anathema Persecute sex workers, force or support unwanted marriages Area of Concern Rites of passage, sex workers, virginity Pantheons Guardians Of The Sacred Self Devotee Benefits Divine Attribute Intelligence or Charisma Divine Font Heal Divine Sanctification must choose holy Divine Skill Society Favored Weapon Longsword Domains Change, Passion, Protection, Repose Alternate Domains Cleric Spells - 1st Leaden Steps - 3rd Threefold Aspect - 4th Containment\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=124",
+ "url": "/Deities.aspx?ID=649",
  "weakness": {}
 }

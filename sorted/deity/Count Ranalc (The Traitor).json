@@ -1,20 +1,24 @@
 {
- "ability": [
+ "attribute": [
   "Dexterity",
   "Charisma"
  ],
- "alignment": "CN",
- "breadcrumbs_spa": [],
+ "anathema": "Ask for forgiveness, create permanent or long-lasting sources of light",
+ "area_of_concern": [
+  "Betrayal",
+  "exiles",
+  "shadows"
+ ],
+ "area_of_concern_raw": "Betrayal, exiles, shadows",
  "category": "deity",
  "cleric_spell": [
   "Penumbral Shroud",
-  "Private Sanctum",
-  "Shadow Walk"
+  "Peaceful Bubble",
+  "Umbral Journey"
  ],
  "deity": [
   "Count Ranalc"
  ],
- "deity_markdown": "[Count Ranalc](/Deities.aspx?ID=92)",
  "deity_category": "Eldest",
  "deity_category_markdown": "[Eldest\r\n](/DeityCategories.aspx?ID=7)",
  "deity_category_order": "2Eldest\r\n",
@@ -26,60 +30,76 @@
  "domain": [
   "Confidence",
   "Darkness",
+  "Secrecy",
   "Sorrow",
   "Travel"
  ],
- "domain_markdown": "[Confidence](/Domains.aspx?ID=4), [Darkness](/Domains.aspx?ID=6), [Sorrow](/Domains.aspx?ID=50), [Travel](/Domains.aspx?ID=30)",
- "domain_alternate_markdown": "",
+ "domain_markdown": "[Confidence](/Domains.aspx?ID=67), [Darkness](/Domains.aspx?ID=69), [Secrecy](/Domains.aspx?ID=91), [Sorrow](/Domains.aspx?ID=117), [Travel](/Domains.aspx?ID=93)",
+ "domain_alternate": [
+  "Secrecy"
+ ],
+ "domain_alternate_markdown": "[Secrecy](/Domains.aspx?ID=91)",
  "domain_primary": [
   "Confidence",
   "Darkness",
   "Sorrow",
   "Travel"
  ],
- "domain_primary_markdown": "[Confidence](/Domains.aspx?ID=4), [Darkness](/Domains.aspx?ID=6), [Sorrow](/Domains.aspx?ID=50), [Travel](/Domains.aspx?ID=30)",
+ "domain_primary_markdown": "[Confidence](/Domains.aspx?ID=67), [Darkness](/Domains.aspx?ID=69), [Sorrow](/Domains.aspx?ID=117), [Travel](/Domains.aspx?ID=93)",
+ "edict": "Work in shadows, hide your nature and motives, plot betrayals or revenge for betrayals",
  "exclude_from_search": false,
  "favored_weapon": [
   "Rapier"
  ],
- "favored_weapon_markdown": "[Rapier](/Weapons.aspx?ID=36)",
- "follower_alignment": [
-  "N",
-  "CG",
-  "CN",
-  "CE"
+ "favored_weapon_markdown": "[Rapier](/Weapons.aspx?ID=391)",
+ "id": "deity-452",
+ "legacy_id": [
+  "deity-92"
  ],
- "id": "deity-92",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Count Ranalc (The Traitor)](/Deities.aspx?ID=92)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 126 <sup>2.0</sup></row>\n\nOnce the lord of darkness and of the chaos of creation, Count Ranalc was cast out long ago by the other Eldest and titled “the Traitor,” though the Eldest are not forthcoming about what heinous treachery Ranalc committed, and many among his worshippers claim that he was the one who was betrayed. In his new home in a remote corner of the Shadow Plane, Ranalc embraced his banishment and became the patron of exiles, shadows, betrayal, and the betrayed. Ranalc had long held a fascination with the world of Golarion, and he was alternately both friend and foil to the powerful archwizard Nex. On the day Nex besieged the city of Absalom with shadowy beings—beings certainly drawn from Ranalc’s domain—the Eldest vanished from reality. Although he continues to grant spells to his devout worshippers, Ranalc has otherwise wholly disappeared. Theories about his disappearance abound, although they are as obscure and as self-contradictory as the enigmatic Eldest ever was.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Eldest\r\n](/DeityCategories.aspx?ID=7)\r\n\r\n**Edicts** Work in shadows, hide your nature and motives, plot betrayals or revenge for betrayals\r\n\r\n**Anathema** Ask for forgiveness, create permanent or long-lasting sources of light\r\n\r\n**Area of Concern**\r\nexiles, shadows, betrayal, and the betrayed\r\n\r\n**Follower Alignments**\r\nN, CG, CN, CE\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nDexterity or Charisma\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Stealth](/Skills.aspx?ID=15)\r\n\r\n**Favored Weapon** [Rapier](/Weapons.aspx?ID=36)\r\n\r\n**Domains** [Confidence](/Domains.aspx?ID=4), [Darkness](/Domains.aspx?ID=6), [Sorrow](/Domains.aspx?ID=50), [Travel](/Domains.aspx?ID=30)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Penumbral Shroud](/Spells.aspx?ID=582)\n\n- **4th**\r\n[Private Sanctum](/Spells.aspx?ID=235)\n\n- **5th**\r\n[Shadow Walk](/Spells.aspx?ID=275)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Count Ranalc (The Traitor)](/Deities.aspx?ID=452)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 306\r\n\r\n_[**PFS Note**](/pathfinder-society) This deity grants [_slither_](/Spells.aspx?ID=1676) instead of umbral journey_\r\n\r\nOnce the lord of darkness and of the chaos of creation, Count Ranalc was cast out long ago by the other Eldest and titled “the Traitor,” though the Eldest are not forthcoming about what heinous treachery Ranalc committed, and many among his worshippers claim that he was the one who was betrayed. In his new home in a remote corner of the Netherworld, Ranalc embraced his banishment and became the patron of exiles, shadows, betrayal, and the betrayed. Ranalc had long held a fascination with the world of [Golarion](/Rules.aspx?ID=3298), and he was alternately both friend and foil to the powerful archwizard Nex. On the day Nex besieged the city of Absalom with shadowy beings—beings certainly drawn from Ranalc’s domain—the Eldest vanished from reality. Although he continues to grant spells to his devout worshippers, Ranalc has otherwise wholly disappeared. Theories about his disappearance abound, although they are as obscure and as self-contradictory as the enigmatic Eldest ever was.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Eldest\r\n](/DeityCategories.aspx?ID=7)\r\n\r\n**Edicts** Work in shadows, hide your nature and motives, plot betrayals or revenge for betrayals\r\n\r\n**Anathema** Ask for forgiveness, create permanent or long-lasting sources of light\r\n\r\n**Area of Concern**\r\nBetrayal, exiles, shadows\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nDexterity or Charisma\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** none\r\n\r\n**Divine Skill** [Stealth](/Skills.aspx?ID=48)\r\n\r\n**Favored Weapon** [Rapier](/Weapons.aspx?ID=391)\r\n\r\n**Domains** [Confidence](/Domains.aspx?ID=67), [Darkness](/Domains.aspx?ID=69), [Sorrow](/Domains.aspx?ID=117), [Travel](/Domains.aspx?ID=93)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** [Secrecy](/Domains.aspx?ID=91)\r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Penumbral Shroud](/Spells.aspx?ID=2360)\n\n- **4th**\r\n[Peaceful Bubble](/Spells.aspx?ID=1624)\n\n- **5th**\r\n[Umbral Journey](/Spells.aspx?ID=1729)\n\n</column>",
  "name": "Count Ranalc (The Traitor)",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 306",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "Eye with crescent moon pupil",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 126 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Harm or Heal\r\n\r\n**Divine Skill** [Stealth](/Skills.aspx?ID=15)\r\n\r\n**Favored Weapon** [Rapier](/Weapons.aspx?ID=36)\r\n\r\n**Domains** [Confidence](/Domains.aspx?ID=4), [Darkness](/Domains.aspx?ID=6), [Sorrow](/Domains.aspx?ID=50), [Travel](/Domains.aspx?ID=30)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nOnce the lord of darkness and of the chaos of creation, Count Ranalc was cast out long ago by the other Eldest and titled “the Traitor,” though the …\r\n</summary>",
+ "sacred_animal": "Bat",
+ "sacred_color": [
+  "black",
+  "gray"
+ ],
+ "sanctification_raw": "none",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 306\r\n\r\n**Divine Font** Harm or Heal\r\n\r\n**Divine Skill** [Stealth](/Skills.aspx?ID=48)\r\n\r\n**Favored Weapon** [Rapier](/Weapons.aspx?ID=391)\r\n\r\n**Domains** [Confidence](/Domains.aspx?ID=67), [Darkness](/Domains.aspx?ID=69), [Secrecy](/Domains.aspx?ID=91), [Sorrow](/Domains.aspx?ID=117), [Travel](/Domains.aspx?ID=93)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nOnce the lord of darkness and of the chaos of creation, Count Ranalc was cast out long ago by the other Eldest and titled “the Traitor,” though the …\r\n</summary>",
  "skill": [
   "Stealth"
  ],
- "skill_markdown": "[Stealth](/Skills.aspx?ID=15)",
+ "skill_markdown": "[Stealth](/Skills.aspx?ID=48)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 126"
+  "Divine Mysteries pg. 306"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 126 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 306",
  "speed": {},
+ "spell": [
+  "Penumbral Shroud",
+  "Peaceful Bubble",
+  "Umbral Journey"
+ ],
+ "spell_markdown": "[Peaceful Bubble](/Spells.aspx?ID=1624), [Penumbral Shroud](/Spells.aspx?ID=2360), [Umbral Journey](/Spells.aspx?ID=1729)",
  "summary": "Once the lord of darkness and of the chaos of creation, Count Ranalc was cast out long ago by the other Eldest and titled “the Traitor,” though the …",
  "summary_markdown": "Once the lord of darkness and of the chaos of creation, Count Ranalc was cast out long ago by the other Eldest and titled “the Traitor,” though the …",
- "text": " Count Ranalc (The Traitor) Source Gods &amp; Magic pg. 126 2.0 Once the lord of darkness and of the chaos of creation, Count Ranalc was cast out long ago by the other Eldest and titled “the Traitor,” though the Eldest are not forthcoming about what heinous treachery Ranalc committed, and many among his worshippers claim that he was the one who was betrayed. In his new home in a remote corner of the Shadow Plane, Ranalc embraced his banishment and became the patron of exiles, shadows, betrayal, and the betrayed. Ranalc had long held a fascination with the world of Golarion, and he was alternately both friend and foil to the powerful archwizard Nex. On the day Nex besieged the city of Absalom with shadowy beings—beings certainly drawn from Ranalc’s domain—the Eldest vanished from reality. Although he continues to grant spells to his devout worshippers, Ranalc has otherwise wholly disappeared. Theories about his disappearance abound, although they are as obscure and as self-contradictory as the enigmatic Eldest ever was. Category [Eldest ](/DeityCategories.aspx?ID=7) Edicts Work in shadows, hide your nature and motives, plot betrayals or revenge for betrayals Anathema Ask for forgiveness, create permanent or long-lasting sources of light Area of Concern exiles, shadows, betrayal, and the betrayed Follower Alignments N, CG, CN, CE Devotee Benefits Divine Ability Dexterity or Charisma Divine Font Harm or Heal Divine Skill Stealth Favored Weapon Rapier Domains Confidence, Darkness, Sorrow, Travel Alternate Domains Cleric Spells - 1st Penumbral Shroud - 4th Private Sanctum - 5th Shadow Walk\n",
- "trait": [
-  "CN"
- ],
- "trait_raw": [
-  "CN"
- ],
+ "text": " Count Ranalc (The Traitor) Source Divine Mysteries pg. 306 PFS Note This deity grants slither instead of umbral journey Once the lord of darkness and of the chaos of creation, Count Ranalc was cast out long ago by the other Eldest and titled “the Traitor,” though the Eldest are not forthcoming about what heinous treachery Ranalc committed, and many among his worshippers claim that he was the one who was betrayed. In his new home in a remote corner of the Netherworld, Ranalc embraced his banishment and became the patron of exiles, shadows, betrayal, and the betrayed. Ranalc had long held a fascination with the world of Golarion, and he was alternately both friend and foil to the powerful archwizard Nex. On the day Nex besieged the city of Absalom with shadowy beings—beings certainly drawn from Ranalc’s domain—the Eldest vanished from reality. Although he continues to grant spells to his devout worshippers, Ranalc has otherwise wholly disappeared. Theories about his disappearance abound, although they are as obscure and as self-contradictory as the enigmatic Eldest ever was. Category [Eldest ](/DeityCategories.aspx?ID=7) Edicts Work in shadows, hide your nature and motives, plot betrayals or revenge for betrayals Anathema Ask for forgiveness, create permanent or long-lasting sources of light Area of Concern Betrayal, exiles, shadows Devotee Benefits Divine Attribute Dexterity or Charisma Divine Font Harm or Heal Divine Sanctification none Divine Skill Stealth Favored Weapon Rapier Domains Confidence, Darkness, Sorrow, Travel Alternate Domains Secrecy Cleric Spells - 1st Penumbral Shroud - 4th Peaceful Bubble - 5th Umbral Journey\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=92",
+ "url": "/Deities.aspx?ID=452",
  "weakness": {}
 }

@@ -1,54 +1,65 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
  "bulk": 0.1,
  "bulk_raw": "L",
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-439",
+ "id": "equipment-3085",
  "item_category": "Worn Items",
  "item_subcategory": "Other Worn Items",
+ "legacy_id": [
+  "equipment-439"
+ ],
  "level": 11,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 11\"\r\n    pfs=\"Standard\"\r\n>\r\n[Gorget of the Primal Roar](/Equipment.aspx?ID=439)\r\n</title>\n\n<traits>\r\n<trait label=\"Enchantment\" url=\"/Traits.aspx?ID=61\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 611 <sup>4.0</sup></row>\n\n**Price** 1,250 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** worn collar\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis engraved darkwood gorget seems to vibrate with ferocity, granting you a +2 item bonus to Intimidation checks.\n\n<document level=\"2\" id=\"action-256\" />\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 11\"\r\n    pfs=\"Standard\"\r\n>\r\n[Gorget of the Primal Roar](/Equipment.aspx?ID=3085)\r\n</title>\n\n<traits>\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=637\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 290 <sup>2.0</sup>\n\n**Price** 1,250 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** worn collar\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis engraved duskwood gorget seems to vibrate with ferocity, granting you a +2 item bonus to Intimidation checks. \n\n**Activate—Primal Roar** <actions string=\"Single Action\" /> ([auditory](/Traits.aspx?ID=16), [concentrate](/Traits.aspx?ID=32), [emotion](/Traits.aspx?ID=60), [_fear_](/Spells.aspx?ID=110), [mental](/Traits.aspx?ID=106)) **Frequency** once during the duration of each polymorph effect;  **Requirements** You're in a non-humanoid form via a polymorph effect; **Effect** You unleash a bestial roar, attempting a single Intimidation check compared to the Will DCs of all enemies within 30 feet to impose the effects below.\r\n\r\n**Critical Success** The creature is [frightened](/Conditions.aspx?ID=19) 2<br />\r\n**Success** The creature is frightened 1<br />\r\n**Failure** The creature is unaffected\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Gorget of the Primal Roar",
  "pfs": "Standard",
  "price": 125000,
  "price_raw": "1,250 gp",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 290",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "school": "enchantment",
- "search_markdown": "<traits>\r\n<trait label=\"Enchantment\" url=\"/Traits.aspx?ID=61\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 611 <sup>4.0</sup></row>\r\n\r\n**Price** 1,250 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** worn collar\r\n\r\n**Bulk** L\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis engraved darkwood gorget seems to vibrate with ferocity, granting you a +2 item bonus to Intimidation checks. \r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=637\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 290 <sup>2.0</sup>\r\n\r\n**Price** 1,250 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** worn collar\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis engraved duskwood gorget seems to vibrate with ferocity, granting you a +2 item bonus to Intimidation checks.  \r\n</summary>",
  "skill": [
   "Intimidation"
  ],
+ "skill_markdown": "[Intimidation](/Skills.aspx?ID=7)",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 611"
+  "GM Core pg. 290"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 611 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 290 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "This engraved darkwood gorget seems to vibrate with ferocity, granting you a +2 item bonus to Intimidation checks. ",
- "summary_markdown": "This engraved darkwood gorget seems to vibrate with ferocity, granting you a +2 item bonus to Intimidation checks. ",
- "text": "<title level=\"1\" right=\"Item 11\" pfs=\"Standard\" > Gorget of the Primal Roar Source Core Rulebook pg. 611 4.0 Price 1,250 gp Usage worn collar Bulk L --- This engraved darkwood gorget seems to vibrate with ferocity, granting you a +2 item bonus to Intimidation checks.\n",
+ "summary": "This engraved duskwood gorget seems to vibrate with ferocity, granting you a +2 item bonus to Intimidation checks.  ",
+ "summary_markdown": "This engraved duskwood gorget seems to vibrate with ferocity, granting you a +2 item bonus to Intimidation checks.  ",
+ "text": "<title level=\"1\" right=\"Item 11\" pfs=\"Standard\" > Gorget of the Primal Roar Source GM Core pg. 290 2.0 Price 1,250 gp Usage worn collar Bulk L --- This engraved duskwood gorget seems to vibrate with ferocity, granting you a +2 item bonus to Intimidation checks. Activate—Primal Roar Single Action (auditory, concentrate, emotion, fear , mental) Frequency once during the duration of each polymorph effect; Requirements You're in a non-humanoid form via a polymorph effect; Effect You unleash a bestial roar, attempting a single Intimidation check compared to the Will DCs of all enemies within 30 feet to impose the effects below. Critical Success The creature is frightened 2 Success The creature is frightened 1 Failure The creature is unaffected\n",
  "trait": [
-  "Enchantment",
   "Invested",
   "Magical"
  ],
- "trait_markdown": "[Enchantment](/Traits.aspx?ID=61), [Invested](/Traits.aspx?ID=98), [Magical](/Traits.aspx?ID=103)",
+ "trait_group": [
+  "Equipment",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Invested](/Traits.aspx?ID=637), [Magical](/Traits.aspx?ID=644)",
  "trait_raw": [
-  "Enchantment",
   "Invested",
   "Magical"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=439",
+ "url": "/Equipment.aspx?ID=3085",
  "usage": "worn collar",
  "usage_markdown": "worn collar",
  "weakness": {}

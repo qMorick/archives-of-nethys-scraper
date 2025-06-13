@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Stone Face"
  ],
  "feat_markdown": "Stone Face",
- "id": "feat-2369",
+ "id": "feat-5575",
+ "legacy_id": [
+  "feat-2369"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Stone Face](/Feats.aspx?ID=2369) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=268\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 34 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nThrough conditioning or experience, you've mastered the art of composure, even in the face of fear. You gain a +1 circumstance bonus to saves against effects with the [fear](/Traits.aspx?ID=68) trait, and a +2 circumstance bonus to your Will DC against [Intimidate](/Skills.aspx?ID=7) skill actions, such as [Demoralize](/Actions.aspx?ID=53).",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Stone Face](/Feats.aspx?ID=5575) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=757\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 14 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou've mastered the art of composure, even in the face of fear. You gain a +1 circumstance bonus to saves against effects with the [fear](/Traits.aspx?ID=598) trait and a +2 circumstance bonus to your Will DC against [Intimidation](/Skills.aspx?ID=40) skill actions, such as [Demoralize](/Actions.aspx?ID=2395).",
  "name": "Stone Face",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 14",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2021-02-24",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=268\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 34 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThrough conditioning or experience, you've mastered the art of composure, even in the face of fear.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=757\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 14 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou've mastered the art of composure, even in the face of fear.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Ancestry Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Ancestry Guide pg. 34"
+  "Player Core 2 pg. 14"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Ancestry Guide](/Sources.aspx?ID=74) pg. 34 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 14 <sup>1.1</sup>",
  "speed": {},
- "summary": "Through conditioning or experience, you've mastered the art of composure, even in the face of fear.",
- "summary_markdown": "Through conditioning or experience, you've mastered the art of composure, even in the face of fear.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Stone Face Source Ancestry Guide pg. 34 2.0 --- Through conditioning or experience, you've mastered the art of composure, even in the face of fear. You gain a +1 circumstance bonus to saves against effects with the fear trait, and a +2 circumstance bonus to your Will DC against Intimidate skill actions, such as Demoralize.",
+ "summary": "You've mastered the art of composure, even in the face of fear.",
+ "summary_markdown": "You've mastered the art of composure, even in the face of fear.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Stone Face Source Player Core 2 pg. 14 1.1 --- You've mastered the art of composure, even in the face of fear. You gain a +1 circumstance bonus to saves against effects with the fear trait and a +2 circumstance bonus to your Will DC against Intimidation skill actions, such as Demoralize.",
  "trait": [
   "Hobgoblin"
  ],
- "trait_markdown": "[Hobgoblin](/Traits.aspx?ID=268)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Hobgoblin](/Traits.aspx?ID=757)",
  "trait_raw": [
   "Hobgoblin"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2369",
+ "url": "/Feats.aspx?ID=5575",
  "weakness": {}
 }

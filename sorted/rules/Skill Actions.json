@@ -2,35 +2,46 @@
  "breadcrumbs": [
   "Chapter 4: Skills"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-173",
- "markdown": "<title level=\"1\" right=\"Rules\">[Skill Actions](/Rules.aspx?ID=173)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 233 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThe actions you can perform with a given skill are sorted into those you can use untrained and those that require you to be trained in the skill, as shown on Table 4–1: Skills, Key Abilities, and Actions (page 235). The untrained and trained actions of each skill appear in separate sections within the skill’s description.\n\n Anyone can use a skill’s untrained actions, but you can use trained actions only if you have a proficiency rank of trained or better in that skill. A circumstance, condition, or effect might bar you from a skill action regardless of your proficiency rank, and sometimes using a skill in a specific situation might require you to have a higher proficiency rank than what is listed on the table. For instance, even though a barbarian untrained in Arcana could identify a construct with a lucky roll using Arcana to Recall Knowledge, the GM might decide that Recalling Knowledge to determine the spells used to create such a construct is beyond the scope of the barbarian’s anecdotal knowledge. The GM decides whether a task requires a particular proficiency rank.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2136",
+ "legacy_id": [
+  "rules-173"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Skill Actions](/Rules.aspx?ID=2136)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 225 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThe actions you can perform with a given skill are sorted into those you can use untrained and those that require you to be trained in the skill, as shown on the Skills, Key Attributes, and Actions table (page 227). The untrained and trained actions of each skill appear in separate sections within the skill's description.\n\nAnyone can use a skill's untrained actions, but you can use trained actions only if you have a proficiency rank of trained or better in that skill. A circumstance, condition, or effect might bar you from a skill action regardless of your proficiency rank, and sometimes using a skill in a specific situation might require you to have a higher proficiency rank than what is listed on the table. For instance, even though a fighter untrained in Arcana could identify a construct with a lucky roll using Arcana to Recall Knowledge, the GM might decide that Recalling Knowledge to determine the spells used to create such a construct is beyond the scope of the fighter's anecdotal knowledge. The GM decides whether a task requires a particular proficiency rank.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Improving Skills</title>\r\n\r\nAs your character advances in level, there are two main ways their skills improve: skill increases and skill feats. Your class lists the levels at which you gain each of these improvements.\n\n<title level=\"2\" right=\"\">Skill Increases</title>Skill increases improve your proficiency in skills of your choice. You can use these increases to become trained in new skills or increase your proficiency rank in skills you're trained in (from trained to expert at any level, expert to master at 7th level or higher, and master to legendary at 15th level or higher). Unlike when you first become trained at a skill, if two different abilities would make you an expert, master, or legendary in a skill, you don't get to choose a second skill to become expert in—the redundant benefit simply has no effect.\n\n<title level=\"2\" right=\"\">Skill Feats</title>Skill feats are a type of general feat that often grant you a new way to use a skill or make you better at using a skill in a particular way. Skill feats always have the skill trait. These feats appear in Chapter 5.\r\n</aside>",
  "name": "Skill Actions",
  "next_link": {
-  "label": "Skill Checks and Skill DCs",
-  "url": "/Rules.aspx?ID=174"
+  "label": "Skill Checks and DCs",
+  "url": "/Rules.aspx?ID=2137"
  },
  "previous_link": {
-  "label": "Key Ability",
-  "url": "/Rules.aspx?ID=172"
+  "label": "Key Attribute",
+  "url": "/Rules.aspx?ID=2135"
  },
+ "primary_source": "Player Core",
+ "primary_source_raw": "Player Core pg. 225",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 233 <sup>4.0</sup></row>\r\n\r\nChapter 4: Skills\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 225 <sup>2.0</sup>\r\n\r\nChapter 4: Skills\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe actions you can perform with a given skill are sorted into those you can use untrained and those that require you to be trained in the skill, as …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 233"
+  "Player Core pg. 225"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 233 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 225 <sup>2.0</sup>",
  "speed": {},
- "text": " Skill Actions Source Core Rulebook pg. 233 4.0 The actions you can perform with a given skill are sorted into those you can use untrained and those that require you to be trained in the skill, as shown on Table 4–1: Skills, Key Abilities, and Actions (page 235). The untrained and trained actions of each skill appear in separate sections within the skill’s description. Anyone can use a skill’s untrained actions, but you can use trained actions only if you have a proficiency rank of trained or better in that skill. A circumstance, condition, or effect might bar you from a skill action regardless of your proficiency rank, and sometimes using a skill in a specific situation might require you to have a higher proficiency rank than what is listed on the table. For instance, even though a barbarian untrained in Arcana could identify a construct with a lucky roll using Arcana to Recall Knowledge, the GM might decide that Recalling Knowledge to determine the spells used to create such a construct is beyond the scope of the barbarian’s anecdotal knowledge. The GM decides whether a task requires a particular proficiency rank. ",
+ "summary": "The actions you can perform with a given skill are sorted into those you can use untrained and those that require you to be trained in the skill, as …",
+ "summary_markdown": "The actions you can perform with a given skill are sorted into those you can use untrained and those that require you to be trained in the skill, as …",
+ "text": " Skill Actions Source Player Core pg. 225 2.0 The actions you can perform with a given skill are sorted into those you can use untrained and those that require you to be trained in the skill, as shown on the Skills, Key Attributes, and Actions table (page 227). The untrained and trained actions of each skill appear in separate sections within the skill's description. Anyone can use a skill's untrained actions, but you can use trained actions only if you have a proficiency rank of trained or better in that skill. A circumstance, condition, or effect might bar you from a skill action regardless of your proficiency rank, and sometimes using a skill in a specific situation might require you to have a higher proficiency rank than what is listed on the table. For instance, even though a fighter untrained in Arcana could identify a construct with a lucky roll using Arcana to Recall Knowledge, the GM might decide that Recalling Knowledge to determine the spells used to create such a construct is beyond the scope of the fighter's anecdotal knowledge. The GM decides whether a task requires a particular proficiency rank. Improving Skills As your character advances in level, there are two main ways their skills improve: skill increases and skill feats. Your class lists the levels at which you gain each of these improvements. Skill Increases Skill increases improve your proficiency in skills of your choice. You can use these increases to become trained in new skills or increase your proficiency rank in skills you're trained in (from trained to expert at any level, expert to master at 7th level or higher, and master to legendary at 15th level or higher). Unlike when you first become trained at a skill, if two different abilities would make you an expert, master, or legendary in a skill, you don't get to choose a second skill to become expert in—the redundant benefit simply has no effect. Skill Feats Skill feats are a type of general feat that often grant you a new way to use a skill or make you better at using a skill in a particular way. Skill feats always have the skill trait. These feats appear in Chapter 5. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=173",
+ "url": "/Rules.aspx?ID=2136",
  "weakness": {}
 }

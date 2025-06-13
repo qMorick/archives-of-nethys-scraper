@@ -1,41 +1,57 @@
 {
- "ability": [
+ "attribute": [
   "Intelligence",
-  "Charisma"
+  "Wisdom"
  ],
- "breadcrumbs_spa": [],
  "category": "background",
  "exclude_from_search": false,
- "id": "background-184",
+ "id": "background-465",
  "is_general_background": true,
- "markdown": "<title level=\"1\" right=\"Background \" pfs=\"Standard\">[Cursed](/Backgrounds.aspx?ID=184)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 50 <sup>2.0</sup></row>\n\n</column>\r\n\r\nYou are the victim of a personal or hereditary curse. Through great effort and occult study, you have learned to fend off the curse's worst effects and, by extension, you can protect yourself against other harmful magic. However, the curse still hangs over you and sometimes manifests in dangerous ways.\n\n Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.\n\n You are trained in [Occultism](/Skills.aspx?ID=11) and [Curse Lore](/Skills.aspx?ID=8). You gain the Warding Sign reaction. You and the GM should determine the full effects of the curse, though you've staved most of them off for now. The GM determines the curse's lingering manifestations on you, which usually include at least a constant or very frequent thematic effect and occasional more dangerous effects.\n\n**Warding Sign** <actions string=\"Reaction\" /> ([Concentrate](/Traits.aspx?ID=32)); **Frequency** once per minute; **Trigger** You attempt a saving throw against a magical effect, but you haven't rolled yet; **Effect** You call on the power of a personal, eldritch sign of protection, which flares brightly before slowly fading. You gain a +2 circumstance bonus to the triggering saving throw, or a +3 circumstance bonus if the effect is a [curse](/Traits.aspx?ID=38).",
+ "legacy_id": [
+  "background-184"
+ ],
+ "markdown": "<title level=\"1\" right=\"Background \" pfs=\"Standard\">[Cursed](/Backgrounds.aspx?ID=465)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 52 <sup>1.1</sup>\r\n\r\n \n\n</column>\r\n\r\nYou are the victim of a personal or hereditary curse. Through great effort and occult study, you have learned to fend off the curse's worst effects and, by extension, you can protect yourself against other harmful magic. However, the curse still hangs over you and sometimes manifests in dangerous ways.\n\n Choose two attribute boosts. One must be to **Intelligence** or **Charisma**, and one is a free attribute boost.\n\n You are trained in [Occultism](/Skills.aspx?ID=44) and [Curse Lore](/Skills.aspx?ID=41). You gain the Warding Sign reaction. You and the GM should determine the full effects of the curse, though you've staved most of them off for now. The GM determines the curse's lingering manifestations on you, which usually include at least a constant or very frequent thematic effect and occasional more dangerous effects.\n\n **Warding Sign** <actions string=\"Reaction\" /> ([concentrate](/Traits.aspx?ID=561)) **Frequency** once per minute; **Trigger** You attempt a saving throw against a [magical](/Traits.aspx?ID=644) effect, but you haven't rolled yet; **Effect** You call on the power of a personal, eldritch sign of protection, which flares brightly before slowly fading. You gain a +2 circumstance bonus to the triggering saving throw, or a +3 circumstance bonus if the effect is a [curse](/Traits.aspx?ID=566).",
  "name": "Cursed",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 52",
+ "primary_source_category": "Rulebooks",
  "rarity": "rare",
- "release_date": "2020-07-30",
+ "rarity_id": 3,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 50 <sup>2.0</sup></row>\r\n\r\n**Abilities**\r\nIntelligence, Charisma\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou are the victim of a personal or hereditary curse. Through great effort and occult study, you have learned to fend off the curse's worst effects …\r\n</summary>",
- "skill_markdown": "",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 52 <sup>1.1</sup>\r\n\r\n**Attributes**\r\nIntelligence, Wisdom\r\n\r\n**Skills**\r\n[Occultism](/Skills.aspx?ID=11), Curse [Lore](/Skills.aspx?ID=8)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou are the victim of a personal or hereditary curse. Through great effort and occult study, you have learned to fend off the curse's worst effects …\r\n</summary>",
+ "skill": [
+  "Occultism",
+  "Curse Lore"
+ ],
+ "skill_markdown": "[Occultism](/Skills.aspx?ID=11), Curse [Lore](/Skills.aspx?ID=8)",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 50"
+  "Player Core 2 pg. 52"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 50 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 52 <sup>1.1</sup>",
  "speed": {},
  "summary": "You are the victim of a personal or hereditary curse. Through great effort and occult study, you have learned to fend off the curse's worst effects …",
  "summary_markdown": "You are the victim of a personal or hereditary curse. Through great effort and occult study, you have learned to fend off the curse's worst effects …",
- "text": " Cursed Source Advanced Player's Guide pg. 50 2.0 You are the victim of a personal or hereditary curse. Through great effort and occult study, you have learned to fend off the curse's worst effects and, by extension, you can protect yourself against other harmful magic. However, the curse still hangs over you and sometimes manifests in dangerous ways. Choose two ability boosts. One must be to Intelligence or Charisma , and one is a free ability boost. You are trained in Occultism and Curse Lore. You gain the Warding Sign reaction. You and the GM should determine the full effects of the curse, though you've staved most of them off for now. The GM determines the curse's lingering manifestations on you, which usually include at least a constant or very frequent thematic effect and occasional more dangerous effects. Warding Sign Reaction (Concentrate); Frequency once per minute; Trigger You attempt a saving throw against a magical effect, but you haven't rolled yet; Effect You call on the power of a personal, eldritch sign of protection, which flares brightly before slowly fading. You gain a +2 circumstance bonus to the triggering saving throw, or a +3 circumstance bonus if the effect is a curse.",
+ "text": " Cursed Source Player Core 2 pg. 52 1.1 You are the victim of a personal or hereditary curse. Through great effort and occult study, you have learned to fend off the curse's worst effects and, by extension, you can protect yourself against other harmful magic. However, the curse still hangs over you and sometimes manifests in dangerous ways. Choose two attribute boosts. One must be to Intelligence or Charisma , and one is a free attribute boost. You are trained in Occultism and Curse Lore. You gain the Warding Sign reaction. You and the GM should determine the full effects of the curse, though you've staved most of them off for now. The GM determines the curse's lingering manifestations on you, which usually include at least a constant or very frequent thematic effect and occasional more dangerous effects. Warding Sign Reaction (concentrate) Frequency once per minute; Trigger You attempt a saving throw against a magical effect, but you haven't rolled yet; Effect You call on the power of a personal, eldritch sign of protection, which flares brightly before slowly fading. You gain a +2 circumstance bonus to the triggering saving throw, or a +3 circumstance bonus if the effect is a curse.",
  "trait": [
   "Rare"
+ ],
+ "trait_group": [
+  "Rarity"
  ],
  "trait_markdown": "[Rare](/Traits.aspx?ID=137)",
  "trait_raw": [
   "Rare"
  ],
  "type": "Background",
- "url": "/Backgrounds.aspx?ID=184",
+ "url": "/Backgrounds.aspx?ID=465",
  "weakness": {}
 }

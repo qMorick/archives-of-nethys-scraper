@@ -1,58 +1,76 @@
 {
  "actions": "Two Actions",
+ "actions_number": 4,
  "bloodline_markdown": "",
- "breadcrumbs_spa": [],
  "category": "spell",
- "component": [
-  "somatic",
-  "verbal"
- ],
- "deity_markdown": "",
  "domain_markdown": "",
  "duration": 60,
  "duration_raw": "1 minute",
  "exclude_from_search": false,
+ "heighten_group": [
+  "4th rank"
+ ],
  "heighten_level": [
   4
  ],
- "id": "spell-541",
+ "id": "spell-2129",
+ "legacy_id": [
+  "spell-541"
+ ],
  "level": 4,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Focus 4\" pfs=\"Standard\">[Mantis Form](/Spells.aspx?ID=541)</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=127\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [World Guide](/Sources.aspx?ID=6) pg. 71 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou become a mantis. You gain the effects of [_insect form_](/Spells.aspx?ID=163), heightened to _mantis form’s_ level, and you can only transform into a mantis.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Focus 4\" pfs=\"Limited\">\r\n[Mantis Form](/Spells.aspx?ID=2129)\r\n<actions string=\"Two Actions\" />\r\n</title>\r\n\r\n<spoilers>May contain spoilers from Prey for Death</spoilers>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=645\" />\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=670\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Prey for Death](/Sources.aspx?ID=231) pg. 109\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou become a mantis. You gain the effects of [_insect form_](/Spells.aspx?ID=1575), heightened to mantis form's level, and you can only transform into a mantis.",
  "name": "Mantis Form",
- "patron_theme_markdown": "",
- "pfs": "Standard",
+ "pfs": "Limited",
+ "primary_source": "Prey for Death",
+ "primary_source_raw": "Prey for Death pg. 109",
+ "primary_source_category": "Adventures",
+ "primary_source_group": "Prey for Death",
  "rarity": "uncommon",
- "release_date": "2019-08-31",
+ "rarity_id": 2,
+ "release_date": "2024-07-31",
  "resistance": {},
- "school": "transmutation",
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=127\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [World Guide](/Sources.aspx?ID=6) pg. 71 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Duration** 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTransform into a mantis battle form.\r\n</summary>",
+ "search_markdown": "<spoilers>May contain spoilers from Prey for Death</spoilers>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=645\" />\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=670\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Prey for Death](/Sources.aspx?ID=231) pg. 109\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou become a mantis.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "World Guide"
+  "Prey for Death"
  ],
  "source_raw": [
-  "World Guide pg. 71"
+  "Prey for Death pg. 109"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[World Guide](/Sources.aspx?ID=6) pg. 71 <sup>2.0</sup></row>",
+ "source_category": [
+  "Adventures"
+ ],
+ "source_group": [
+  "Prey for Death"
+ ],
+ "source_markdown": "[Prey for Death](/Sources.aspx?ID=231) pg. 109",
  "speed": {},
- "summary": "Transform into a mantis battle form.",
- "summary_markdown": "Transform into a mantis battle form.",
- "text": " Mantis Form Source World Guide pg. 71 2.0 Cast Two Actions somatic, verbal Duration 1 minute --- You become a mantis. You gain the effects of insect form , heightened to mantis form’s level, and you can only transform into a mantis.",
+ "spell_type": "Focus",
+ "spoilers": "Prey for Death",
+ "summary": "You become a mantis.",
+ "summary_markdown": "You become a mantis.",
+ "text": "\nMantis Form Two Actions May contain spoilers from Prey for Death Source Prey for Death pg. 109 Duration 1 minute --- You become a mantis. You gain the effects of insect form , heightened to mantis form's level, and you can only transform into a mantis.",
  "tradition_markdown": "",
  "trait": [
+  "Concentrate",
+  "Focus",
+  "Manipulate",
   "Polymorph",
-  "Transmutation",
   "Uncommon"
  ],
- "trait_markdown": "[Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Mechanics",
+  "Rarity"
+ ],
+ "trait_markdown": "[Concentrate](/Traits.aspx?ID=561), [Focus](/Traits.aspx?ID=511), [Manipulate](/Traits.aspx?ID=645), [Polymorph](/Traits.aspx?ID=670), [Uncommon](/Traits.aspx?ID=721)",
  "trait_raw": [
+  "Concentrate",
+  "Focus",
+  "Manipulate",
   "Polymorph",
-  "Transmutation",
   "Uncommon"
  ],
- "type": "Focus",
- "url": "/Spells.aspx?ID=541",
+ "type": "Spell",
+ "url": "/Spells.aspx?ID=2129",
  "weakness": {}
 }

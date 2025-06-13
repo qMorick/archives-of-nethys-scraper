@@ -1,37 +1,48 @@
 {
  "breadcrumbs": [
-  "Chapter 2: Tools\r\n",
+  "Chapter 3: Age of Lost Omens",
   "Settlements"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1158",
- "markdown": "<title level=\"1\" right=\"Rules\">[Settlements in a Game](/Rules.aspx?ID=1158)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 132</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nGiven the variety of roles a settlement can play in an adventure, a Game Master should have a firm understanding of how they work in the game and how to best use them. Virtually every settlement uses the rules for urban environments presented starting on page 514 of the _Pathfinder Core Rulebook_. Those rules are primarily intended for encounter mode, however, and so the following guidance can help you best use a settlement in the broader narrative of your game.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-1159\" />\r\n\r\n<document level=\"2\" id=\"rules-1161\" />\r\n\r\n<document level=\"2\" id=\"rules-1162\" />",
+ "id": "rules-3000",
+ "legacy_id": [
+  "rules-1158"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Settlements in a Game](/Rules.aspx?ID=3000)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 168 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nGiven the variety of roles a settlement can play in an adventure, a Game Master should have a firm understanding of how they work in the game and how to best use them. Virtually every settlement uses the rules for urban environments presented starting on page 92. Those rules are primarily intended for encounter mode, however, and so the following guidance can help you best use a settlement in the broader narrative of your game.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-3001\" />\r\n\r\n<document level=\"2\" id=\"rules-3003\" />\r\n\r\n<document level=\"2\" id=\"rules-3004\" />",
  "name": "Settlements in a Game",
  "next_link": {
   "label": "Settlement Stat Block",
-  "url": "/Rules.aspx?ID=1168"
+  "url": "/Rules.aspx?ID=3010"
  },
  "previous_link": {
   "label": "Nations",
-  "url": "/Rules.aspx?ID=1154"
+  "url": "/Rules.aspx?ID=2996"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 168",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 132</row>\r\n\r\nChapter 2: Tools\r\n/ Settlements\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 168 <sup>2.0</sup>\r\n\r\nChapter 3: Age of Lost Omens / Settlements\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGiven the variety of roles a settlement can play in an adventure, a Game Master should have a firm understanding of how they work in the game and how …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 132"
+  "GM Core pg. 168"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 132</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 168 <sup>2.0</sup>",
  "speed": {},
- "text": " Settlements in a Game Source Gamemastery Guide pg. 132 Given the variety of roles a settlement can play in an adventure, a Game Master should have a firm understanding of how they work in the game and how to best use them. Virtually every settlement uses the rules for urban environments presented starting on page 514 of the Pathfinder Core Rulebook . Those rules are primarily intended for encounter mode, however, and so the following guidance can help you best use a settlement in the broader narrative of your game. ",
+ "summary": "Given the variety of roles a settlement can play in an adventure, a Game Master should have a firm understanding of how they work in the game and how …",
+ "summary_markdown": "Given the variety of roles a settlement can play in an adventure, a Game Master should have a firm understanding of how they work in the game and how …",
+ "text": " Settlements in a Game Source GM Core pg. 168 2.0 Given the variety of roles a settlement can play in an adventure, a Game Master should have a firm understanding of how they work in the game and how to best use them. Virtually every settlement uses the rules for urban environments presented starting on page 92. Those rules are primarily intended for encounter mode, however, and so the following guidance can help you best use a settlement in the broader narrative of your game. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1158",
+ "url": "/Rules.aspx?ID=3000",
  "weakness": {}
 }

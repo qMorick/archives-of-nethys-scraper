@@ -5,34 +5,46 @@
  "archetype_category": [
   "Multiclass"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-11",
+ "id": "archetype-234",
+ "image": [
+  "/Images/Archetypes/Archetype_Sorcerer.webp"
+ ],
+ "legacy_id": [
+  "archetype-11"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Sorcerer](/Archetypes.aspx?ID=11)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 230 <sup>4.0</sup></row>\n\nYou coax the magic power in your blood to manifest, accessing magic others don’t expect you to have.\r\n\r\n<title level=\"3\">Multiclass Sorcerer characters</title>\r\n\r\nThe sorcerer archetype is a method for anyone to pick up commonly useful spells, such as [_invisibility_](/Spells.aspx?ID=164) and [_haste_](/Spells.aspx?ID=147).\n\n<document level=\"2\" id=\"feat-734\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-736\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-737\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-735\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-738\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-739\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-740\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-741\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Sorcerer](/Archetypes.aspx?ID=234)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 181 <sup>1.1</sup>\n\nYou coax the magic power in your blood to manifest, accessing magic others don't expect you to have.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Sorcerer.webp\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"3\">Multiclass Sorcerer Characters</title>\r\n\r\nThe sorcerer archetype is a method for anyone to pick up commonly useful spells, such as _[_invisibility_](/Spells.aspx?ID=1577)_ and _[_haste_](/Spells.aspx?ID=1553)_. You might choose to become a sorcerer with a bloodline that matches other aspects of your character, such as the dragon bloodline if you have the dragonblood versatile heritage or the undead bloodline if you're a dhampir.\n\n<document level=\"2\" id=\"feat-6225\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6227\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6228\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6226\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6229\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6230\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6231\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6232\"\n\n/>",
  "name": "Sorcerer",
  "pfs": "Standard",
- "prerequisite": "Charisma 14",
- "prerequisite_markdown": "Charisma 14",
+ "prerequisite": "Charisma +2",
+ "prerequisite_markdown": "Charisma +2",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 181",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 230 <sup>4.0</sup></row>\r\n\r\n**Prerequisites**\r\nCharisma 14\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou coax the magic power in your blood to manifest, accessing magic others don’t expect you to have.\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 181 <sup>1.1</sup>\r\n\r\n**Prerequisites**\r\nCharisma +2\n\n**Archetype Category**\r\nMulticlass\r\n\r\n**Number of Feats** 8\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou coax the magic power in your blood to manifest, accessing magic others don't expect you to have.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 230"
+  "Player Core 2 pg. 181"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 230 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 181 <sup>1.1</sup>",
  "speed": {},
- "summary": "You coax the magic power in your blood to manifest, accessing magic others don’t expect you to have.",
- "summary_markdown": "You coax the magic power in your blood to manifest, accessing magic others don’t expect you to have.",
- "text": " Sorcerer Source Core Rulebook pg. 230 4.0 You coax the magic power in your blood to manifest, accessing magic others don’t expect you to have. Multiclass Sorcerer characters The sorcerer archetype is a method for anyone to pick up commonly useful spells, such as invisibility and haste . <document level=\"2\" id=\"feat-736\" /> <document level=\"2\" id=\"feat-737\" /> <document level=\"2\" id=\"feat-735\" /> <document level=\"2\" id=\"feat-738\" /> <document level=\"2\" id=\"feat-739\" /> <document level=\"2\" id=\"feat-740\" /> <document level=\"2\" id=\"feat-741\" />",
+ "summary": "You coax the magic power in your blood to manifest, accessing magic others don't expect you to have.",
+ "summary_markdown": "You coax the magic power in your blood to manifest, accessing magic others don't expect you to have.",
+ "text": " Sorcerer Source Player Core 2 pg. 181 1.1 You coax the magic power in your blood to manifest, accessing magic others don't expect you to have. Multiclass Sorcerer Characters The sorcerer archetype is a method for anyone to pick up commonly useful spells, such as invisibility and haste . You might choose to become a sorcerer with a bloodline that matches other aspects of your character, such as the dragon bloodline if you have the dragonblood versatile heritage or the undead bloodline if you're a dhampir. <document level=\"2\" id=\"feat-6227\" /> <document level=\"2\" id=\"feat-6228\" /> <document level=\"2\" id=\"feat-6226\" /> <document level=\"2\" id=\"feat-6229\" /> <document level=\"2\" id=\"feat-6230\" /> <document level=\"2\" id=\"feat-6231\" /> <document level=\"2\" id=\"feat-6232\" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=11",
+ "url": "/Archetypes.aspx?ID=234",
  "weakness": {}
 }

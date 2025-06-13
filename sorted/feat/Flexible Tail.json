@@ -1,40 +1,53 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Flexible Tail"
  ],
  "feat_markdown": "Flexible Tail",
- "id": "feat-2405",
+ "id": "feat-5639",
+ "legacy_id": [
+  "feat-2405"
+ ],
  "level": 5,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Flexible Tail](/Feats.aspx?ID=2405) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 46 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou can perform simple Interact actions with your tail, such as opening an unlocked door. Your tail can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and you can't use it to hold items.\n\n<title level=\"2\">Flexible Tail leads to...</title>\r\n[Dangle](/Feats.aspx?ID=2410)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Flexible Tail](/Feats.aspx?ID=5639) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=760\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 26 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou can perform simple Interact actions with your tail, such as opening an unlocked door. Your tail can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and you can't use it to hold items.",
  "name": "Flexible Tail",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 26",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2021-02-24",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 46 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can perform simple Interact actions with your tail, such as opening an unlocked door.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=760\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 26 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can perform simple Interact actions with your tail, such as opening an unlocked door.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Ancestry Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Ancestry Guide pg. 46"
+  "Player Core 2 pg. 26"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Ancestry Guide](/Sources.aspx?ID=74) pg. 46 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 26 <sup>1.1</sup>",
  "speed": {},
  "summary": "You can perform simple Interact actions with your tail, such as opening an unlocked door.",
  "summary_markdown": "You can perform simple Interact actions with your tail, such as opening an unlocked door.",
- "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Flexible Tail Source Ancestry Guide pg. 46 2.0 --- You can perform simple Interact actions with your tail, such as opening an unlocked door. Your tail can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and you can't use it to hold items. Flexible Tail leads to... Dangle",
+ "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Flexible Tail Source Player Core 2 pg. 26 1.1 --- You can perform simple Interact actions with your tail, such as opening an unlocked door. Your tail can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and you can't use it to hold items.",
  "trait": [
   "Lizardfolk"
  ],
- "trait_markdown": "[Lizardfolk](/Traits.aspx?ID=226)",
+ "trait_group": [
+  "Monster",
+  "Ancestry"
+ ],
+ "trait_markdown": "[Lizardfolk](/Traits.aspx?ID=760)",
  "trait_raw": [
   "Lizardfolk"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2405",
+ "url": "/Feats.aspx?ID=5639",
  "weakness": {}
 }

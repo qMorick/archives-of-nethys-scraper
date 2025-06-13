@@ -1,56 +1,68 @@
 {
  "actions": "Free Action",
+ "actions_number": 0,
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
+ "bulk": 0,
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-707",
+ "id": "equipment-3406-3258",
  "item_category": "Consumables",
+ "item_parent_id": "equipment-3406",
  "item_subcategory": "Talismans",
+ "legacy_id": [
+  "equipment-707"
+ ],
  "level": 12,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Balisse Feather](/Equipment.aspx?ID=707)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=48\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=155\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 256 <sup>2.0</sup></row>\n\n**Price** 400 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** affixed to a weapon\n\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Free Action\" /><row>envision</row></row>\r\n\r\n \r\n\r\n**Trigger** You deal damage using the affixed weapon to a creature you have seen commit an evil act.\r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis long, fire-red feather seems to catch flame every time the weapon it adorns strikes a purveyor of evil. When you activate the feather, the creature you damaged burns with holy light. The creature must succeed at a DC 29 Will save or take a –2 status penalty to AC and saving throws and reduce its resistances by 5. These effects last until the end of your next turn.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 12+\"\r\n    pfs=\"Standard\"\r\n>\r\n[Balisse Feather](/Equipment.aspx?ID=3406)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Holy\" url=\"/Traits.aspx?ID=517\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=709\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 305 <sup>1.1</sup>\n\n<row gap=\"medium\">\n\n**Usage** affixed to a weapon\n\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Free Action\" /><row>([concentrate](/Traits.aspx?ID=561))</row></row>\r\n\r\n \r\n\r\n**Trigger** You deal damage using the affixed weapon to a creature that has the [unholy trait](/Traits.aspx?ID=521) or that you witnessed harm an ally, an innocent, or noncombatant within the last minute.\r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis long, fire-red feather smolders from the weapon it adorns. When you activate the feather, the creature you damaged burns with sacred light. The creature must succeed at a DC 29 Will save or take a –2 status penalty to AC and saving throws and reduce its resistances by 5. These effects last until the end of your next turn. This item has no effect on a creature with the [holy](/Traits.aspx?ID=517) trait.\n\n<column gap=\"tiny\">\n\n</column>\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 12\"\r\npfs=\"Standard\"\r\n>\r\nBalisse Feather\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 305 <sup>1.1</sup>\n\n**Price** 400 gp\r\n\r\n<row gap=\"medium\">\n\n</row>\n\n</column>\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 16\"\r\npfs=\"Standard\"\r\n>\r\nBalisse Feather (Greater)\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 305 <sup>1.1</sup>\n\n**Price** 2,000 gp\r\n\r\n<row gap=\"medium\">\n\n</row>\n\n</column>\r\n\r\n---\r\n\r\nThe DC is 35, and the creature’s resistances are reduced by 10.",
  "name": "Balisse Feather",
  "pfs": "Standard",
  "price": 40000,
  "price_raw": "400 gp",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 305",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "school": "evocation",
- "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=48\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=155\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 256 <sup>2.0</sup></row>\r\n\r\n**Price** 400 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** affixed to a weapon\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Free Action\" /><row>envision</row></row>\r\n\r\n \r\n\r\n**Trigger** You deal damage using the affixed weapon to a creature you have seen commit an evil act.\r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis long, fire-red feather seems to catch flame every time the weapon it adorns strikes a purveyor of evil. When you activate the feather, the …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Holy\" url=\"/Traits.aspx?ID=517\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=709\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 305 <sup>1.1</sup>\r\n\r\n**Price** 400 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** affixed to a weapon\r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Free Action\" /><row>([concentrate](/Traits.aspx?ID=561))</row></row>\r\n\r\n \r\n\r\n**Trigger** You deal damage using the affixed weapon to a creature that has the [unholy trait](/Traits.aspx?ID=521) or that you witnessed harm an ally, an innocent, or noncombatant within the last minute.\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis long, fire-red feather smolders from the weapon it adorns. When you activate the feather, the creature you damaged burns with sacred light. The …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 256"
+  "Player Core 2 pg. 305"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 256 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 305 <sup>1.1</sup>",
  "speed": {},
  "spell_markdown": "",
- "stage_markdown": "",
- "summary": "This long, fire-red feather seems to catch flame every time the weapon it adorns strikes a purveyor of evil. When you activate the feather, the …",
- "summary_markdown": "This long, fire-red feather seems to catch flame every time the weapon it adorns strikes a purveyor of evil. When you activate the feather, the …",
- "text": "<title level=\"1\" right=\"Item 12\" pfs=\"Standard\" > Balisse Feather Source Advanced Player's Guide pg. 256 2.0 Price 400 gp Usage affixed to a weapon Activate Free Action envision Trigger You deal damage using the affixed weapon to a creature you have seen commit an evil act. --- This long, fire-red feather seems to catch flame every time the weapon it adorns strikes a purveyor of evil. When you activate the feather, the creature you damaged burns with holy light. The creature must succeed at a DC 29 Will save or take a –2 status penalty to AC and saving throws and reduce its resistances by 5. These effects last until the end of your next turn.\n",
+ "summary": "This long, fire-red feather smolders from the weapon it adorns. When you activate the feather, the creature you damaged burns with sacred light. The …",
+ "summary_markdown": "This long, fire-red feather smolders from the weapon it adorns. When you activate the feather, the creature you damaged burns with sacred light. The …",
+ "text": "<title level=\"1\" right=\"Item 12+\" pfs=\"Standard\" > Balisse Feather Source Player Core 2 pg. 305 1.1 Usage affixed to a weapon Activate Free Action (concentrate) Trigger You deal damage using the affixed weapon to a creature that has the unholy trait or that you witnessed harm an ally, an innocent, or noncombatant within the last minute. --- This long, fire-red feather smolders from the weapon it adorns. When you activate the feather, the creature you damaged burns with sacred light. The creature must succeed at a DC 29 Will save or take a –2 status penalty to AC and saving throws and reduce its resistances by 5. These effects last until the end of your next turn. This item has no effect on a creature with the holy trait. <title level=\"2\" right=\"Item 12\" pfs=\"Standard\" > Balisse Feather Source Player Core 2 pg. 305 1.1 Price 400 gp <title level=\"2\" right=\"Item 16\" pfs=\"Standard\" > Balisse Feather (Greater) Source Player Core 2 pg. 305 1.1 Price 2,000 gp --- The DC is 35, and the creature’s resistances are reduced by 10.",
  "trait": [
   "Consumable",
-  "Divine",
-  "Evocation",
+  "Holy",
   "Magical",
   "Talisman"
  ],
- "trait_markdown": "[Consumable](/Traits.aspx?ID=36), [Divine](/Traits.aspx?ID=48), [Evocation](/Traits.aspx?ID=65), [Magical](/Traits.aspx?ID=103), [Talisman](/Traits.aspx?ID=155)",
+ "trait_group": [
+  "Equipment",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Consumable](/Traits.aspx?ID=564), [Holy](/Traits.aspx?ID=517), [Magical](/Traits.aspx?ID=644), [Talisman](/Traits.aspx?ID=709)",
  "trait_raw": [
   "Consumable",
-  "Divine",
-  "Evocation",
+  "Holy",
   "Magical",
   "Talisman"
  ],
- "trigger": "You deal damage using the affixed weapon to a creature you have seen commit an evil act.",
- "trigger_markdown": "You deal damage using the affixed weapon to a creature you have seen commit an evil act.",
+ "trigger": "You deal damage using the affixed weapon to a creature that has the  unholy trait  or that you witnessed harm an ally, an innocent, or noncombatant within the last minute.",
+ "trigger_markdown": "You deal damage using the affixed weapon to a creature that has the [unholy trait](/Traits.aspx?ID=521) or that you witnessed harm an ally, an innocent, or noncombatant within the last minute.",
  "type": "Item",
- "url": "/Equipment.aspx?ID=707",
+ "url": "/Equipment.aspx?ID=3406",
  "usage": "affixed to a weapon",
  "usage_markdown": "affixed to a weapon",
  "weakness": {}

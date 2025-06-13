@@ -1,23 +1,29 @@
 {
- "ability": [
+ "attribute": [
   "Wisdom",
   "Charisma"
  ],
- "alignment": "NG",
- "breadcrumbs_spa": [],
+ "anathema": "Destroy historical texts or records, alter or obfuscate oral histories, harm the elderly",
+ "area_of_concern": [
+  "Elders",
+  "family",
+  "genealogy",
+  "memories",
+  "tradition"
+ ],
+ "area_of_concern_raw": "Elders, family, genealogy, memories, tradition",
  "category": "deity",
  "cleric_spell": [
   "Déjà Vu",
   "Hypercognition",
-  "Modify Memory"
+  "Rewrite Memory"
  ],
  "deity": [
   "Bergelmir"
  ],
- "deity_markdown": "[Bergelmir](/Deities.aspx?ID=237)",
- "deity_category": "Mammoth Lord Gods",
- "deity_category_markdown": "[Mammoth Lord Gods](/DeityCategories.aspx?ID=22)",
- "deity_category_order": "2Mammoth Lord Gods",
+ "deity_category": "Giant Gods",
+ "deity_category_markdown": "[Giant Gods](/DeityCategories.aspx?ID=26)",
+ "deity_category_order": "2Giant Gods",
  "divine_font": [
   "Heal"
  ],
@@ -28,7 +34,7 @@
   "Repose",
   "Vigil"
  ],
- "domain_markdown": "[Family](/Domains.aspx?ID=11), [Knowledge](/Domains.aspx?ID=17), [Repose](/Domains.aspx?ID=49), [Vigil](/Domains.aspx?ID=55)",
+ "domain_markdown": "[Family](/Domains.aspx?ID=74), [Knowledge](/Domains.aspx?ID=80), [Repose](/Domains.aspx?ID=116), [Vigil](/Domains.aspx?ID=123)",
  "domain_alternate_markdown": "",
  "domain_primary": [
   "Family",
@@ -36,50 +42,64 @@
   "Repose",
   "Vigil"
  ],
- "domain_primary_markdown": "[Family](/Domains.aspx?ID=11), [Knowledge](/Domains.aspx?ID=17), [Repose](/Domains.aspx?ID=49), [Vigil](/Domains.aspx?ID=55)",
+ "domain_primary_markdown": "[Family](/Domains.aspx?ID=74), [Knowledge](/Domains.aspx?ID=80), [Repose](/Domains.aspx?ID=116), [Vigil](/Domains.aspx?ID=123)",
+ "edict": "Learn the traditions and history of your people, care for the elderly, share your wisdom and knowledge",
  "exclude_from_search": false,
  "favored_weapon": [
   "Staff"
  ],
- "favored_weapon_markdown": "[Staff](/Weapons.aspx?ID=12)",
- "follower_alignment": [
-  "LG",
-  "NG",
-  "CG",
-  "LN"
+ "favored_weapon_markdown": "[Staff](/Weapons.aspx?ID=367)",
+ "id": "deity-491",
+ "legacy_id": [
+  "deity-237"
  ],
- "id": "deity-237",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Limited\">[Bergelmir (Mother of Memories)](/Deities.aspx?ID=237)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"NG\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 63</row>\n\nWhile some consider [Fandarra](/Deities.aspx?ID=236) to be the literal mother of all life, Bergelmir is the Mother of Memories. She's the tender of traditions and history, the keeper of wisdom, and the chronicler of lives and lineages. As the needle and thread that stitches a following together, she unites individuals with shared dreams, traditions, and values. Some view Bergelmir as the Founder of the Following and the creator of the primary way of life in the Realm. \n\nLike Fandarra, Bergelmir is known in most parts of Golarion as a giant goddess, though humans in the Realm of the Mammoth Lords widely worship and respect her too. Within the Realm, Bergelmir is depicted as a bent and wrinkled elderly Kellid woman, grinning and often leaning on her walking staff. Among most followings, she's a storyteller and chronicler of oral histories, songs, rituals, and lineages. Bergelmir's religious symbol is three bolts of lightning, said by many to represent the three wisdoms she imparts: history, ritual, and genealogy.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Mammoth Lord Gods](/DeityCategories.aspx?ID=22)\r\n\r\n**Edicts** learn the traditions and history of your people, care for the elderly\r\n\r\n**Anathema** destroy historical texts or records, alter or obfuscate oral histories, harm the elderly\r\n\r\n**Area of Concern**\r\nelders, family, genealogy, memories, tradition\r\n\r\n**Follower Alignments**\r\nLG, NG, CG, LN\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nWisdom or Charisma\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=14)\r\n\r\n**Favored Weapon** [Staff](/Weapons.aspx?ID=12)\r\n\r\n**Domains** [Family](/Domains.aspx?ID=11), [Knowledge](/Domains.aspx?ID=17), [Repose](/Domains.aspx?ID=49), [Vigil](/Domains.aspx?ID=55)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Déjà Vu](/Spells.aspx?ID=684)\n\n- **3rd**\r\n[Hypercognition](/Spells.aspx?ID=156)\n\n- **4th**\r\n[Modify Memory](/Spells.aspx?ID=200)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Bergelmir (Mother of Memories)](/Deities.aspx?ID=491)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 310\n\nBergelmir is primarily worshipped by [cloud](/Monsters.aspx?ID=3015) and [stone giants](/Monsters.aspx?ID=3012), though many humans in the Realm of the Mammoth Lords have devoted themselves to her as well. She is related to [Skrymir](/Deities.aspx?ID=496), but the manner in which they are family constantly differs depending on the tale being told and its storyteller. Some say they are siblings, others say they are cousins, and just as many interpret them as mother and son. Regardless, as the goddess of family, elders, and genealogy, Bergelmir chronicles the lives and lineages of giant families and records their births and deaths in a colossal tome. Any histories, songs, stories, or rituals passed on by mouth or written word is remembered and immortalized by her, save for very few exceptions.\n\nSharing these records has always been vital to building community and camaraderie among giants while imparting vital wisdom to the people. Depending on the worshipper, the Mother of Memories appears as either a cloud or  stone giant, but always as an elderly woman with long hair kept in a tight braid, wearing a flowing dress, and carrying her family tome. Her followers tend to support, work at, or run libraries and other places of learning, marking their entrances or important records with her religious symbol: three lightning bolts representing history, ritual, and genealogy.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Giant Gods](/DeityCategories.aspx?ID=26)\r\n\r\n**Edicts** Learn the traditions and history of your people, care for the elderly, share your wisdom and knowledge\r\n\r\n**Anathema** Destroy historical texts or records, alter or obfuscate oral histories, harm the elderly\r\n\r\n**Area of Concern**\r\nElders, family, genealogy, memories, tradition\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nWisdom or Charisma\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** can choose holy\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=47)\r\n\r\n**Favored Weapon** [Staff](/Weapons.aspx?ID=367)\r\n\r\n**Domains** [Family](/Domains.aspx?ID=74), [Knowledge](/Domains.aspx?ID=80), [Repose](/Domains.aspx?ID=116), [Vigil](/Domains.aspx?ID=123)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Déjà Vu](/Spells.aspx?ID=1986)\n\n- **3rd**\r\n[Hypercognition](/Spells.aspx?ID=1563)\n\n- **4th**\r\n[Rewrite Memory](/Spells.aspx?ID=1655)\n\n</column>",
  "name": "Bergelmir (Mother of Memories)",
- "pfs": "Limited",
+ "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 310",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2022-02-23",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "Three bolts of lightning",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 63</row>\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=14)\r\n\r\n**Favored Weapon** [Staff](/Weapons.aspx?ID=12)\r\n\r\n**Domains** [Family](/Domains.aspx?ID=11), [Knowledge](/Domains.aspx?ID=17), [Repose](/Domains.aspx?ID=49), [Vigil](/Domains.aspx?ID=55)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile some consider  Fandarra  to be the literal mother of all life, Bergelmir is the Mother of Memories. She's the tender of traditions and history, …\r\n</summary>",
+ "sacred_animal": "Sea turtle",
+ "sacred_color": [
+  "gray",
+  "white"
+ ],
+ "sanctification": [
+  "holy"
+ ],
+ "sanctification_raw": "can choose holy",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 310\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=47)\r\n\r\n**Favored Weapon** [Staff](/Weapons.aspx?ID=367)\r\n\r\n**Domains** [Family](/Domains.aspx?ID=74), [Knowledge](/Domains.aspx?ID=80), [Repose](/Domains.aspx?ID=116), [Vigil](/Domains.aspx?ID=123)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBergelmir is primarily worshipped by  cloud  and  stone giants , though many humans in the Realm of the Mammoth Lords have devoted themselves to her …\r\n</summary>",
  "skill": [
   "Society"
  ],
- "skill_markdown": "[Society](/Skills.aspx?ID=14)",
+ "skill_markdown": "[Society](/Skills.aspx?ID=47)",
+ "skill_mod": {},
  "source": [
-  "Pathfinder #176: Lost Mammoth Valley"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Pathfinder #176: Lost Mammoth Valley pg. 63"
+  "Divine Mysteries pg. 310"
  ],
- "source_category": "Adventure Paths",
- "source_group": "Quest for the Frozen Flame",
- "source_markdown": "<row gap=\"tiny\">[Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 63</row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 310",
  "speed": {},
- "summary": "While some consider  Fandarra  to be the literal mother of all life, Bergelmir is the Mother of Memories. She's the tender of traditions and history, …",
- "summary_markdown": "While some consider  Fandarra  to be the literal mother of all life, Bergelmir is the Mother of Memories. She's the tender of traditions and history, …",
- "text": " Bergelmir (Mother of Memories) Source Pathfinder #176: Lost Mammoth Valley pg. 63 While some consider Fandarra to be the literal mother of all life, Bergelmir is the Mother of Memories. She's the tender of traditions and history, the keeper of wisdom, and the chronicler of lives and lineages. As the needle and thread that stitches a following together, she unites individuals with shared dreams, traditions, and values. Some view Bergelmir as the Founder of the Following and the creator of the primary way of life in the Realm. Like Fandarra, Bergelmir is known in most parts of Golarion as a giant goddess, though humans in the Realm of the Mammoth Lords widely worship and respect her too. Within the Realm, Bergelmir is depicted as a bent and wrinkled elderly Kellid woman, grinning and often leaning on her walking staff. Among most followings, she's a storyteller and chronicler of oral histories, songs, rituals, and lineages. Bergelmir's religious symbol is three bolts of lightning, said by many to represent the three wisdoms she imparts: history, ritual, and genealogy. Category Mammoth Lord Gods Edicts learn the traditions and history of your people, care for the elderly Anathema destroy historical texts or records, alter or obfuscate oral histories, harm the elderly Area of Concern elders, family, genealogy, memories, tradition Follower Alignments LG, NG, CG, LN Devotee Benefits Divine Ability Wisdom or Charisma Divine Font Heal Divine Skill Society Favored Weapon Staff Domains Family, Knowledge, Repose, Vigil Alternate Domains Cleric Spells - 1st Déjà Vu - 3rd Hypercognition - 4th Modify Memory\n",
- "trait": [
-  "NG"
+ "spell": [
+  "Déjà Vu",
+  "Hypercognition",
+  "Rewrite Memory"
  ],
- "trait_raw": [
-  "NG"
- ],
+ "spell_markdown": "[Déjà Vu](/Spells.aspx?ID=1986), [Hypercognition](/Spells.aspx?ID=1563), [Rewrite Memory](/Spells.aspx?ID=1655)",
+ "summary": "Bergelmir is primarily worshipped by  cloud  and  stone giants , though many humans in the Realm of the Mammoth Lords have devoted themselves to her …",
+ "summary_markdown": "Bergelmir is primarily worshipped by  cloud  and  stone giants , though many humans in the Realm of the Mammoth Lords have devoted themselves to her …",
+ "text": " Bergelmir (Mother of Memories) Source Divine Mysteries pg. 310 Bergelmir is primarily worshipped by cloud and stone giants, though many humans in the Realm of the Mammoth Lords have devoted themselves to her as well. She is related to Skrymir, but the manner in which they are family constantly differs depending on the tale being told and its storyteller. Some say they are siblings, others say they are cousins, and just as many interpret them as mother and son. Regardless, as the goddess of family, elders, and genealogy, Bergelmir chronicles the lives and lineages of giant families and records their births and deaths in a colossal tome. Any histories, songs, stories, or rituals passed on by mouth or written word is remembered and immortalized by her, save for very few exceptions. Sharing these records has always been vital to building community and camaraderie among giants while imparting vital wisdom to the people. Depending on the worshipper, the Mother of Memories appears as either a cloud or stone giant, but always as an elderly woman with long hair kept in a tight braid, wearing a flowing dress, and carrying her family tome. Her followers tend to support, work at, or run libraries and other places of learning, marking their entrances or important records with her religious symbol: three lightning bolts representing history, ritual, and genealogy. Category Giant Gods Edicts Learn the traditions and history of your people, care for the elderly, share your wisdom and knowledge Anathema Destroy historical texts or records, alter or obfuscate oral histories, harm the elderly Area of Concern Elders, family, genealogy, memories, tradition Devotee Benefits Divine Attribute Wisdom or Charisma Divine Font Heal Divine Sanctification can choose holy Divine Skill Society Favored Weapon Staff Domains Family, Knowledge, Repose, Vigil Alternate Domains Cleric Spells - 1st Déjà Vu - 3rd Hypercognition - 4th Rewrite Memory\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=237",
+ "url": "/Deities.aspx?ID=491",
  "weakness": {}
 }

@@ -1,6 +1,6 @@
 {
  "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions_number": 2,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
@@ -8,37 +8,52 @@
  ],
  "feat_markdown": "Bloodline Conduit",
  "frequency": "once per minute",
- "id": "feat-630",
+ "id": "feat-6123",
+ "legacy_id": [
+  "feat-630"
+ ],
  "level": 20,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 20\"\r\n    pfs=\"Standard\"\r\n>\r\n[Bloodline Conduit](/Feats.aspx?ID=630) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Metamagic\" url=\"/Traits.aspx?ID=107\" />\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=148\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 201 <sup>4.0</sup></row>\n\n**Frequency**\r\nonce per minute\n\n</column>\r\n\r\n---\r\n\r\nYour inborn magical nature lets you redirect ambient energies to fuel your spells. If your next action is to Cast a Spell of 5th level or lower that has no duration, you don’t expend the spell’s slot when you cast it.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 20\"\r\n    pfs=\"Standard\"\r\n>\r\n[Bloodline Conduit](/Feats.aspx?ID=6123) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=824\" />\r\n<trait label=\"Spellshape\" url=\"/Traits.aspx?ID=513\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 157 <sup>1.1</sup>\n\n**Frequency**\r\nonce per minute\n\n</column>\r\n\r\n---\r\n\r\nYour inborn magical nature lets you redirect ambient energies to fuel your spells. If your next action is to [Cast a Spell](/Actions.aspx?ID=2734) of 5th rank or lower that has no duration, you don't expend the spell's slot when you cast it.",
  "name": "Bloodline Conduit",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 157",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Metamagic\" url=\"/Traits.aspx?ID=107\" />\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=148\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 201 <sup>4.0</sup></row>\r\n\r\n**Frequency**\r\nonce per minute\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour inborn magical nature lets you redirect ambient energies to fuel your spells.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=824\" />\r\n<trait label=\"Spellshape\" url=\"/Traits.aspx?ID=513\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 157 <sup>1.1</sup>\n\n**Frequency**\r\nonce per minute\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour inborn magical nature lets you redirect ambient energies to fuel your spells.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 201"
+  "Player Core 2 pg. 157"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 201 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 157 <sup>1.1</sup>",
  "speed": {},
  "summary": "Your inborn magical nature lets you redirect ambient energies to fuel your spells.",
  "summary_markdown": "Your inborn magical nature lets you redirect ambient energies to fuel your spells.",
- "text": "<title level=\"1\" right=\"Feat 20\" pfs=\"Standard\" > Bloodline Conduit Single Action Source Core Rulebook pg. 201 4.0 Frequency once per minute --- Your inborn magical nature lets you redirect ambient energies to fuel your spells. If your next action is to Cast a Spell of 5th level or lower that has no duration, you don’t expend the spell’s slot when you cast it.",
+ "text": "<title level=\"1\" right=\"Feat 20\" pfs=\"Standard\" > Bloodline Conduit Single Action Source Player Core 2 pg. 157 1.1 Frequency once per minute --- Your inborn magical nature lets you redirect ambient energies to fuel your spells. If your next action is to Cast a Spell of 5th rank or lower that has no duration, you don't expend the spell's slot when you cast it.",
  "trait": [
-  "Metamagic",
-  "Sorcerer"
+  "Sorcerer",
+  "Spellshape",
+  "Metamagic"
  ],
- "trait_markdown": "[Metamagic](/Traits.aspx?ID=107), [Sorcerer](/Traits.aspx?ID=148)",
+ "trait_group": [
+  "Class",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Sorcerer](/Traits.aspx?ID=824), [Spellshape](/Traits.aspx?ID=513)",
  "trait_raw": [
-  "Metamagic",
-  "Sorcerer"
+  "Sorcerer",
+  "Spellshape"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=630",
+ "url": "/Feats.aspx?ID=6123",
  "weakness": {}
 }

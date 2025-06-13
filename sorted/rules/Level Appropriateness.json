@@ -1,39 +1,50 @@
 {
  "breadcrumbs": [
-  "Chapter 2: Tools\r\n",
-  "Building Creatures\r\n",
+  "Chapter 2: Building Games",
+  "Building Creatures",
   "Design Abilities",
   "Basics of Ability Design"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1027",
- "markdown": "<title level=\"1\" right=\"Rules\">[Level Appropriateness](/Rules.aspx?ID=1027)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 67</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThe effects of an ability should be appropriate to the creature’s level. For damaging abilities, that means they follow the damage guidelines on page 68. For others, take a look at spells and feats with a similar effect to see if they’re level appropriate. For instance, say you’re considering giving a 6th-level creature the ability to teleport a short distance. [_Dimension door_](/Spells.aspx?ID=69) is comparable—that’s a 4th-level spell, normally cast by a 7th-level or higher creature. That means 6th level probably isn’t too low, but the creature shouldn’t be able to use the ability more than once. You can also compare your creature to those in a _Bestiary_ volume to see if the special abilities seem similar in power to those of other creatures of the same level.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2906",
+ "legacy_id": [
+  "rules-1027"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Level Appropriateness](/Rules.aspx?ID=2906)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 123 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThe effects of an ability should be appropriate to the creature’s level. For damaging abilities, that means they follow the [damage guidelines](/Rules.aspx?ID=2910). For others, take a look at spells and feats with a similar effect to see if they’re level appropriate. For instance, say you’re considering giving a 6th-level creature the ability to teleport a short distance. [_Translocate_](/Spells.aspx?ID=1724) is comparable—that’s a 4th-rank spell, normally cast by a 7th-level or higher creature. That means 6th level probably isn’t too low, but the creature shouldn’t be able to use the ability more than once. You can also compare your creature to those in a Monster Core volume to see if the special abilities seem similar in power to those of other creatures of the same level.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Level Appropriateness",
  "next_link": {
   "label": "Invisible Abilities",
-  "url": "/Rules.aspx?ID=1028"
+  "url": "/Rules.aspx?ID=2907"
  },
  "previous_link": {
   "label": "Action Economy",
-  "url": "/Rules.aspx?ID=1026"
+  "url": "/Rules.aspx?ID=2905"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 123",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 67</row>\r\n\r\nChapter 2: Tools\r\n/ Building Creatures\r\n/ Design Abilities / Basics of Ability Design\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 123 <sup>2.0</sup>\r\n\r\nChapter 2: Building Games / Building Creatures / Design Abilities / Basics of Ability Design\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe effects of an ability should be appropriate to the creature’s level. For damaging abilities, that means they follow the  damage guidelines . For …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 67"
+  "GM Core pg. 123"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 67</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 123 <sup>2.0</sup>",
  "speed": {},
- "text": " Level Appropriateness Source Gamemastery Guide pg. 67 The effects of an ability should be appropriate to the creature’s level. For damaging abilities, that means they follow the damage guidelines on page 68. For others, take a look at spells and feats with a similar effect to see if they’re level appropriate. For instance, say you’re considering giving a 6th-level creature the ability to teleport a short distance. Dimension door is comparable—that’s a 4th-level spell, normally cast by a 7th-level or higher creature. That means 6th level probably isn’t too low, but the creature shouldn’t be able to use the ability more than once. You can also compare your creature to those in a Bestiary volume to see if the special abilities seem similar in power to those of other creatures of the same level. ",
+ "summary": "The effects of an ability should be appropriate to the creature’s level. For damaging abilities, that means they follow the  damage guidelines . For …",
+ "summary_markdown": "The effects of an ability should be appropriate to the creature’s level. For damaging abilities, that means they follow the  damage guidelines . For …",
+ "text": " Level Appropriateness Source GM Core pg. 123 2.0 The effects of an ability should be appropriate to the creature’s level. For damaging abilities, that means they follow the damage guidelines. For others, take a look at spells and feats with a similar effect to see if they’re level appropriate. For instance, say you’re considering giving a 6th-level creature the ability to teleport a short distance. Translocate is comparable—that’s a 4th-rank spell, normally cast by a 7th-level or higher creature. That means 6th level probably isn’t too low, but the creature shouldn’t be able to use the ability more than once. You can also compare your creature to those in a Monster Core volume to see if the special abilities seem similar in power to those of other creatures of the same level. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1027",
+ "url": "/Rules.aspx?ID=2906",
  "weakness": {}
 }

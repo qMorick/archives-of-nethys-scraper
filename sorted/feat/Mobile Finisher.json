@@ -1,43 +1,57 @@
 {
  "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions_number": 2,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Mobile Finisher"
  ],
  "feat_markdown": "Mobile Finisher",
- "id": "feat-1549",
+ "id": "feat-6170",
+ "legacy_id": [
+  "feat-1549"
+ ],
  "level": 12,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Mobile Finisher](/Feats.aspx?ID=1549) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Finisher\" url=\"/Traits.aspx?ID=322\" />\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=321\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 92 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou attack in motion. Stride and then Strike. You can use Mobile Finisher while [Burrowing](/Actions.aspx?ID=93), [Climbing](/Actions.aspx?ID=33), [Flying](/Actions.aspx?ID=94), or [Swimming](/Actions.aspx?ID=39) instead of Striding if you have the corresponding movement type.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Mobile Finisher](/Feats.aspx?ID=6170) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Finisher\" url=\"/Traits.aspx?ID=802\" />\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=825\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 168 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou attack in motion. Stride and then Strike. You can use Mobile Finisher while [Burrowing](/Actions.aspx?ID=2310), [Climbing](/Actions.aspx?ID=2374), [Flying](/Actions.aspx?ID=2312), or [Swimming](/Actions.aspx?ID=2381) instead of Striding if you have the corresponding movement type.",
  "name": "Mobile Finisher",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 168",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Finisher\" url=\"/Traits.aspx?ID=322\" />\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=321\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 92 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou attack in motion.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Finisher\" url=\"/Traits.aspx?ID=802\" />\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=825\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 168 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou attack in motion.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 92"
+  "Player Core 2 pg. 168"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 92 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 168 <sup>1.1</sup>",
  "speed": {},
  "summary": "You attack in motion.",
  "summary_markdown": "You attack in motion.",
- "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Mobile Finisher Single Action Source Advanced Player's Guide pg. 92 2.0 --- You attack in motion. Stride and then Strike. You can use Mobile Finisher while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.",
+ "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Mobile Finisher Single Action Source Player Core 2 pg. 168 1.1 --- You attack in motion. Stride and then Strike. You can use Mobile Finisher while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.",
  "trait": [
   "Finisher",
   "Swashbuckler"
  ],
- "trait_markdown": "[Finisher](/Traits.aspx?ID=322), [Swashbuckler](/Traits.aspx?ID=321)",
+ "trait_group": [
+  "Class-Specific",
+  "Class"
+ ],
+ "trait_markdown": "[Finisher](/Traits.aspx?ID=802), [Swashbuckler](/Traits.aspx?ID=825)",
  "trait_raw": [
   "Finisher",
   "Swashbuckler"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1549",
+ "url": "/Feats.aspx?ID=6170",
  "weakness": {}
 }

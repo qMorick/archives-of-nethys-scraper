@@ -1,10 +1,15 @@
 {
- "ability": [
+ "attribute": [
   "Dexterity",
   "Charisma"
  ],
- "alignment": "LE",
- "breadcrumbs_spa": [],
+ "anathema": "Provoke Baalzebul’s envy, show humility",
+ "area_of_concern": [
+  "Arrogance",
+  "flies",
+  "lies"
+ ],
+ "area_of_concern_raw": "Arrogance, flies, lies",
  "category": "deity",
  "cleric_spell": [
   "Fleet Step",
@@ -14,10 +19,9 @@
  "deity": [
   "Baalzebul"
  ],
- "deity_markdown": "[Baalzebul](/Deities.aspx?ID=63)",
  "deity_category": "Archdevils",
- "deity_category_markdown": "[Archdevils\r\n](/DeityCategories.aspx?ID=4)",
- "deity_category_order": "2Archdevils\r\n",
+ "deity_category_markdown": "[Archdevils](/DeityCategories.aspx?ID=4)",
+ "deity_category_order": "2Archdevils",
  "divine_font": [
   "Harm"
  ],
@@ -26,56 +30,82 @@
   "Air",
   "Ambition",
   "Magic",
+  "Secrecy",
+  "Swarm",
+  "Toil",
   "Trickery"
  ],
- "domain_markdown": "[Air](/Domains.aspx?ID=2), [Ambition](/Domains.aspx?ID=1), [Magic](/Domains.aspx?ID=19), [Trickery](/Domains.aspx?ID=31)",
- "domain_alternate_markdown": "",
+ "domain_markdown": "[Air](/Domains.aspx?ID=65), [Ambition](/Domains.aspx?ID=64), [Magic](/Domains.aspx?ID=82), [Secrecy](/Domains.aspx?ID=91), [Swarm](/Domains.aspx?ID=120), [Toil](/Domains.aspx?ID=122), [Trickery](/Domains.aspx?ID=94)",
+ "domain_alternate": [
+  "Secrecy",
+  "Swarm",
+  "Toil"
+ ],
+ "domain_alternate_markdown": "[Secrecy](/Domains.aspx?ID=91), [Swarm](/Domains.aspx?ID=120), [Toil](/Domains.aspx?ID=122)",
  "domain_primary": [
   "Air",
   "Ambition",
   "Magic",
   "Trickery"
  ],
- "domain_primary_markdown": "[Air](/Domains.aspx?ID=2), [Ambition](/Domains.aspx?ID=1), [Magic](/Domains.aspx?ID=19), [Trickery](/Domains.aspx?ID=31)",
+ "domain_primary_markdown": "[Air](/Domains.aspx?ID=65), [Ambition](/Domains.aspx?ID=64), [Magic](/Domains.aspx?ID=82), [Trickery](/Domains.aspx?ID=94)",
+ "edict": "Convey yourself with regal dignity, claim what you desire and deserve, seek vengeance on those who wrong you",
  "exclude_from_search": false,
  "favored_weapon": [
   "Spear"
  ],
- "favored_weapon_markdown": "[Spear](/Weapons.aspx?ID=10)",
- "follower_alignment": [
-  "LE"
+ "favored_weapon_markdown": "[Spear](/Weapons.aspx?ID=365)",
+ "id": "deity-394",
+ "legacy_id": [
+  "deity-63"
  ],
- "id": "deity-63",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Restricted\">[Baalzebul (Lord of Flies)](/Deities.aspx?ID=63)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 124 <sup>2.0</sup></row>\n\nBaalzebul was one of the first angels of Heaven, a glorious lieutenant who followed Asmodeus in his exodus to Hell. In this new realm, he led the infernal armies and trained several other archdevils as generals. When Asmodeus divided the nine realms of Hell between himself and the eight archdevils, Baalzebul protested, thinking he had earned a place at his god’s side. Asmodeus responded by stripping away the archdevil’s radiant form, reducing him to a figure composed of swarming flies. Now known as the Lord of Flies, he rules over Cocytus, the frozen seventh layer of Hell, and attracts followers possessed of deep ambition and a powerful drive to triumph.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Archdevils\r\n](/DeityCategories.aspx?ID=4)\r\n\r\n**Edicts** Convey yourself with regal dignity, claim what you desire and deserve, seek vengeance from those who wrong you\r\n\r\n**Anathema** Provoke Baalzebul’s envy, show humility\n\n**Follower Alignments**\r\nLE\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nDexterity or Charisma\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146)\r\n\r\n**Divine Skill** [Deception](/Skills.aspx?ID=5)\r\n\r\n**Favored Weapon** [Spear](/Weapons.aspx?ID=10)\r\n\r\n**Domains** [Air](/Domains.aspx?ID=2), [Ambition](/Domains.aspx?ID=1), [Magic](/Domains.aspx?ID=19), [Trickery](/Domains.aspx?ID=31)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Fleet Step](/Spells.aspx?ID=122)\n\n- **2nd**\r\n[Vomit Swarm](/Spells.aspx?ID=726)\n\n- **6th**\r\n[Mislead](/Spells.aspx?ID=199)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Restricted\">[Baalzebul (Lord of Flies)](/Deities.aspx?ID=394)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 300\n\nBaalzebul was one of the first angels of [Heaven](/Planes.aspx?ID=41), a glorious lieutenant who followed [Asmodeus](/Deities.aspx?ID=278) in his exodus to [Hell](/Planes.aspx?ID=42). In this new realm, he led the infernal armies and trained several other archdevils as generals. When Asmodeus divided the nine realms of Hell between himself and the eight archdevils, Baalzebul protested, thinking he had earned a place at his god’s side. Asmodeus responded by stripping away the archdevil’s radiant form, reducing him to a figure composed of swarming flies. Now known as the Lord of Flies, he rules over Cocytus, the frozen seventh layer of Hell, and attracts followers possessed of deep ambition and a powerful drive to triumph.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Archdevils](/DeityCategories.aspx?ID=4)\r\n\r\n**Edicts** Convey yourself with regal dignity, claim what you desire and deserve, seek vengeance on those who wrong you\r\n\r\n**Anathema** Provoke Baalzebul’s envy, show humility\r\n\r\n**Area of Concern**\r\nArrogance, flies, lies\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nDexterity or Charisma\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146)\r\n\r\n**Divine Sanctification** must choose unholy\r\n\r\n**Divine Skill** [Deception](/Skills.aspx?ID=38)\r\n\r\n**Favored Weapon** [Spear](/Weapons.aspx?ID=365)\r\n\r\n**Domains** [Air](/Domains.aspx?ID=65), [Ambition](/Domains.aspx?ID=64), [Magic](/Domains.aspx?ID=82), [Trickery](/Domains.aspx?ID=94)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** [Secrecy](/Domains.aspx?ID=91), [Swarm](/Domains.aspx?ID=120), [Toil](/Domains.aspx?ID=122)\r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Fleet Step](/Spells.aspx?ID=1531)\n\n- **2nd**\r\n[Vomit Swarm](/Spells.aspx?ID=2041)\n\n- **6th**\r\n[Mislead](/Spells.aspx?ID=1605)\n\n</column>",
  "name": "Baalzebul (Lord of Flies)",
  "pfs": "Restricted",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 300",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "Iron crown and diamond",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 124 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Harm\r\n\r\n**Divine Skill** [Deception](/Skills.aspx?ID=5)\r\n\r\n**Favored Weapon** [Spear](/Weapons.aspx?ID=10)\r\n\r\n**Domains** [Air](/Domains.aspx?ID=2), [Ambition](/Domains.aspx?ID=1), [Magic](/Domains.aspx?ID=19), [Trickery](/Domains.aspx?ID=31)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBaalzebul was one of the first angels of Heaven, a glorious lieutenant who followed Asmodeus in his exodus to Hell. In this new realm, he led the …\r\n</summary>",
+ "sacred_animal": "Fly",
+ "sacred_color": [
+  "black",
+  "white"
+ ],
+ "sanctification": [
+  "unholy"
+ ],
+ "sanctification_raw": "must choose unholy",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 300\r\n\r\n**Divine Font** Harm\r\n\r\n**Divine Skill** [Deception](/Skills.aspx?ID=38)\r\n\r\n**Favored Weapon** [Spear](/Weapons.aspx?ID=365)\r\n\r\n**Domains** [Air](/Domains.aspx?ID=65), [Ambition](/Domains.aspx?ID=64), [Magic](/Domains.aspx?ID=82), [Secrecy](/Domains.aspx?ID=91), [Swarm](/Domains.aspx?ID=120), [Toil](/Domains.aspx?ID=122), [Trickery](/Domains.aspx?ID=94)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBaalzebul was one of the first angels of  Heaven , a glorious lieutenant who followed  Asmodeus  in his exodus to  Hell . In this new realm, he led …\r\n</summary>",
  "skill": [
   "Deception"
  ],
- "skill_markdown": "[Deception](/Skills.aspx?ID=5)",
+ "skill_markdown": "[Deception](/Skills.aspx?ID=38)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 124"
+  "Divine Mysteries pg. 300"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 124 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 300",
  "speed": {},
- "summary": "Baalzebul was one of the first angels of Heaven, a glorious lieutenant who followed Asmodeus in his exodus to Hell. In this new realm, he led the …",
- "summary_markdown": "Baalzebul was one of the first angels of Heaven, a glorious lieutenant who followed Asmodeus in his exodus to Hell. In this new realm, he led the …",
- "text": " Baalzebul (Lord of Flies) Source Gods &amp; Magic pg. 124 2.0 Baalzebul was one of the first angels of Heaven, a glorious lieutenant who followed Asmodeus in his exodus to Hell. In this new realm, he led the infernal armies and trained several other archdevils as generals. When Asmodeus divided the nine realms of Hell between himself and the eight archdevils, Baalzebul protested, thinking he had earned a place at his god’s side. Asmodeus responded by stripping away the archdevil’s radiant form, reducing him to a figure composed of swarming flies. Now known as the Lord of Flies, he rules over Cocytus, the frozen seventh layer of Hell, and attracts followers possessed of deep ambition and a powerful drive to triumph. Category [Archdevils ](/DeityCategories.aspx?ID=4) Edicts Convey yourself with regal dignity, claim what you desire and deserve, seek vengeance from those who wrong you Anathema Provoke Baalzebul’s envy, show humility Follower Alignments LE Devotee Benefits Divine Ability Dexterity or Charisma Divine Font Harm Divine Skill Deception Favored Weapon Spear Domains Air, Ambition, Magic, Trickery Alternate Domains Cleric Spells - 1st Fleet Step - 2nd Vomit Swarm - 6th Mislead\n",
- "trait": [
-  "LE"
+ "spell": [
+  "Fleet Step",
+  "Vomit Swarm",
+  "Mislead"
  ],
- "trait_raw": [
-  "LE"
- ],
+ "spell_markdown": "[Fleet Step](/Spells.aspx?ID=1531), [Mislead](/Spells.aspx?ID=1605), [Vomit Swarm](/Spells.aspx?ID=2041)",
+ "summary": "Baalzebul was one of the first angels of  Heaven , a glorious lieutenant who followed  Asmodeus  in his exodus to  Hell . In this new realm, he led …",
+ "summary_markdown": "Baalzebul was one of the first angels of  Heaven , a glorious lieutenant who followed  Asmodeus  in his exodus to  Hell . In this new realm, he led …",
+ "text": " Baalzebul (Lord of Flies) Source Divine Mysteries pg. 300 Baalzebul was one of the first angels of Heaven, a glorious lieutenant who followed Asmodeus in his exodus to Hell. In this new realm, he led the infernal armies and trained several other archdevils as generals. When Asmodeus divided the nine realms of Hell between himself and the eight archdevils, Baalzebul protested, thinking he had earned a place at his god’s side. Asmodeus responded by stripping away the archdevil’s radiant form, reducing him to a figure composed of swarming flies. Now known as the Lord of Flies, he rules over Cocytus, the frozen seventh layer of Hell, and attracts followers possessed of deep ambition and a powerful drive to triumph. Category Archdevils Edicts Convey yourself with regal dignity, claim what you desire and deserve, seek vengeance on those who wrong you Anathema Provoke Baalzebul’s envy, show humility Area of Concern Arrogance, flies, lies Devotee Benefits Divine Attribute Dexterity or Charisma Divine Font Harm Divine Sanctification must choose unholy Divine Skill Deception Favored Weapon Spear Domains Air, Ambition, Magic, Trickery Alternate Domains Secrecy, Swarm, Toil Cleric Spells - 1st Fleet Step - 2nd Vomit Swarm - 6th Mislead\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=63",
+ "url": "/Deities.aspx?ID=394",
  "weakness": {}
 }

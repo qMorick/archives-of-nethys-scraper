@@ -1,42 +1,54 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Greater Vital Evolution"
  ],
  "feat_markdown": "Greater Vital Evolution",
- "id": "feat-627",
+ "id": "feat-6120",
+ "legacy_id": [
+  "feat-627"
+ ],
  "level": 16,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 16\"\r\n    pfs=\"Standard\"\r\n>\r\n[Greater Vital Evolution](/Feats.aspx?ID=627) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=148\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 201 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Divine Evolution](/Feats.aspx?ID=611) or [Primal Evolution](/Feats.aspx?ID=613)\n\n</column>\r\n\r\n---\r\n\r\nVital power surges through you like a font of energy. Twice per day, you can cast a spell after you’ve run out of spell slots of the appropriate spell level; the two spells you cast with this feat must be of different spell levels.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 16\"\r\n    pfs=\"Standard\"\r\n>\r\n[Greater Vital Evolution](/Feats.aspx?ID=6120) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=824\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 157 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Primal Evolution](/Feats.aspx?ID=6097) or [Divine Evolution](/Feats.aspx?ID=6095)\n\n</column>\r\n\r\n---\r\n\r\nVital power surges through you like a font of energy. Twice per day, you can [cast a spell](/Actions.aspx?ID=2734) after you've run out of spell slots of the appropriate spell rank; the two spells you cast with this feat must be of different spell ranks.",
  "name": "Greater Vital Evolution",
  "pfs": "Standard",
- "prerequisite": "Divine Evolution or Primal Evolution",
- "prerequisite_markdown": "[Divine Evolution](/Feats.aspx?ID=611) or [Primal Evolution](/Feats.aspx?ID=613)",
+ "prerequisite": "Primal Evolution or Divine Evolution",
+ "prerequisite_markdown": "[Primal Evolution](/Feats.aspx?ID=6097) or [Divine Evolution](/Feats.aspx?ID=6095)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 157",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=148\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 201 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Divine Evolution](/Feats.aspx?ID=611) or [Primal Evolution](/Feats.aspx?ID=613)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nVital power surges through you like a font of energy.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=824\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 157 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Primal Evolution](/Feats.aspx?ID=6097) or [Divine Evolution](/Feats.aspx?ID=6095)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nVital power surges through you like a font of energy.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 201"
+  "Player Core 2 pg. 157"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 201 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 157 <sup>1.1</sup>",
  "speed": {},
  "summary": "Vital power surges through you like a font of energy.",
  "summary_markdown": "Vital power surges through you like a font of energy.",
- "text": "<title level=\"1\" right=\"Feat 16\" pfs=\"Standard\" > Greater Vital Evolution Source Core Rulebook pg. 201 4.0 Prerequisites Divine Evolution or Primal Evolution --- Vital power surges through you like a font of energy. Twice per day, you can cast a spell after you’ve run out of spell slots of the appropriate spell level; the two spells you cast with this feat must be of different spell levels.",
+ "text": "<title level=\"1\" right=\"Feat 16\" pfs=\"Standard\" > Greater Vital Evolution Source Player Core 2 pg. 157 1.1 Prerequisites Primal Evolution or Divine Evolution --- Vital power surges through you like a font of energy. Twice per day, you can cast a spell after you've run out of spell slots of the appropriate spell rank; the two spells you cast with this feat must be of different spell ranks.",
  "trait": [
   "Sorcerer"
  ],
- "trait_markdown": "[Sorcerer](/Traits.aspx?ID=148)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Sorcerer](/Traits.aspx?ID=824)",
  "trait_raw": [
   "Sorcerer"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=627",
+ "url": "/Feats.aspx?ID=6120",
  "weakness": {}
 }

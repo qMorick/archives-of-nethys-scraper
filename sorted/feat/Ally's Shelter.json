@@ -1,6 +1,6 @@
 {
  "actions": "Reaction",
- "breadcrumbs_spa": [],
+ "actions_number": 1,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
@@ -8,32 +8,46 @@
  ],
  "feat_markdown": "Ally's Shelter",
  "frequency": "once per day",
- "id": "feat-1276",
+ "id": "feat-5618",
+ "legacy_id": [
+  "feat-1276"
+ ],
  "level": 5,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Ally's Shelter](/Feats.aspx?ID=1276) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Fortune\" url=\"/Traits.aspx?ID=76\" />\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=224\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 14 <sup>2.0</sup></row>\n\n**Frequency**\r\nonce per day\n\n**Trigger**\r\nYou attempt a saving throw while adjacent to one or more allies, but you haven't rolled yet.\n\n</column>\r\n\r\n---\r\n\r\nIn stressful circumstances, you find strength in your allies' example. Roll the save using an adjacent ally's modifier for that type of saving throw instead of your own.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Ally's Shelter](/Feats.aspx?ID=5618) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Fortune\" url=\"/Traits.aspx?ID=612\" />\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=759\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 22 <sup>1.1</sup>\n\n**Frequency**\r\nonce per day\n\n**Trigger**\r\nYou attempt a saving throw while adjacent to one or more allies, but you haven't rolled yet.\n\n</column>\r\n\r\n---\r\n\r\nYou follow your allies' example. Roll the save using an adjacent ally's modifier for that type of saving throw instead of your own.",
  "name": "Ally's Shelter",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 22",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Fortune\" url=\"/Traits.aspx?ID=76\" />\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=224\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 14 <sup>2.0</sup></row>\r\n\r\n**Frequency**\r\nonce per day\n\n**Trigger**\r\nYou attempt a saving throw while adjacent to one or more allies, but you haven't rolled yet.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIn stressful circumstances, you find strength in your allies' example.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Fortune\" url=\"/Traits.aspx?ID=612\" />\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=759\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 22 <sup>1.1</sup>\n\n**Frequency**\r\nonce per day\n\n**Trigger**\r\nYou attempt a saving throw while adjacent to one or more allies, but you haven't rolled yet.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou follow your allies' example.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 14"
+  "Player Core 2 pg. 22"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 14 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 22 <sup>1.1</sup>",
  "speed": {},
- "summary": "In stressful circumstances, you find strength in your allies' example.",
- "summary_markdown": "In stressful circumstances, you find strength in your allies' example.",
- "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Ally's Shelter Reaction Source Advanced Player's Guide pg. 14 2.0 Frequency once per day Trigger You attempt a saving throw while adjacent to one or more allies, but you haven't rolled yet. --- In stressful circumstances, you find strength in your allies' example. Roll the save using an adjacent ally's modifier for that type of saving throw instead of your own.",
+ "summary": "You follow your allies' example.",
+ "summary_markdown": "You follow your allies' example.",
+ "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Ally's Shelter Reaction Source Player Core 2 pg. 22 1.1 Frequency once per day Trigger You attempt a saving throw while adjacent to one or more allies, but you haven't rolled yet. --- You follow your allies' example. Roll the save using an adjacent ally's modifier for that type of saving throw instead of your own.",
  "trait": [
   "Fortune",
   "Kobold"
  ],
- "trait_markdown": "[Fortune](/Traits.aspx?ID=76), [Kobold](/Traits.aspx?ID=224)",
+ "trait_group": [
+  "Mechanics",
+  "Monster"
+ ],
+ "trait_markdown": "[Fortune](/Traits.aspx?ID=612), [Kobold](/Traits.aspx?ID=759)",
  "trait_raw": [
   "Fortune",
   "Kobold"
@@ -41,6 +55,6 @@
  "trigger": "You attempt a saving throw while adjacent to one or more allies, but you haven't rolled yet.",
  "trigger_markdown": "You attempt a saving throw while adjacent to one or more allies, but you haven't rolled yet.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=1276",
+ "url": "/Feats.aspx?ID=5618",
  "weakness": {}
 }

@@ -1,60 +1,78 @@
 {
  "actions": "Single Action",
+ "actions_number": 2,
  "bloodline_markdown": "",
- "breadcrumbs_spa": [],
  "category": "spell",
- "component": [
-  "verbal"
- ],
- "deity_markdown": "",
  "domain": [
-  "Void"
+  "Nothingness"
  ],
- "domain_markdown": "[Void](/Domains.aspx?ID=56)",
+ "domain_markdown": "[Nothingness](/Domains.aspx?ID=114)",
  "exclude_from_search": false,
  "heighten": [
   "5th"
+ ],
+ "heighten_group": [
+  "1st rank",
+  "Heightened 5th rank"
  ],
  "heighten_level": [
   1,
   5
  ],
- "id": "spell-626",
+ "id": "spell-2401",
+ "legacy_id": [
+  "spell-626"
+ ],
  "level": 1,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Focus 1\" pfs=\"Standard\">[Empty Inside](/Spells.aspx?ID=626)</title>\n\n<traits>\r\n<trait label=\"Abjuration\" url=\"/Traits.aspx?ID=2\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 119 <sup>2.0</sup></row>\n\n**Domain**\r\n[Void](/Domains.aspx?ID=56)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Single Action\" /></row>\r\n<row>[verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou inject a sliver of the void into your mind, momentarily remaking it into a bleak and empty place. Attempt a counteract check against one [emotion](/Traits.aspx?ID=60) effect affecting you.\n\n---\r\n**Heightened (5th)** You can attempt counteract checks against any number of emotion effects affecting you.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Focus 1\" pfs=\"Standard\">\r\n[Empty Inside](/Spells.aspx?ID=2401)\r\n<actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 268\n\n**Domain**\r\n[Nothingness](/Domains.aspx?ID=114)\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou inject a sliver of the void into your mind, momentarily remaking it into a bleak and empty place. Attempt a [counteract](/Rules.aspx?ID=3280) check against one [emotion](/Traits.aspx?ID=590) effect affecting you.\n\n---\r\n**Heightened (5th)** You can attempt counteract checks against any number of emotion effects affecting you.",
  "name": "Empty Inside",
- "patron_theme_markdown": "",
  "pfs": "Standard",
- "rarity": "common",
- "release_date": "2020-01-29",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 268",
+ "primary_source_category": "Lost Omens",
+ "rarity": "uncommon",
+ "rarity_id": 2,
+ "release_date": "2025-01-30",
  "resistance": {},
- "school": "abjuration",
- "search_markdown": "<traits>\r\n<trait label=\"Abjuration\" url=\"/Traits.aspx?ID=2\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 119 <sup>2.0</sup></row>\n\n**Domain**\r\n[Void](/Domains.aspx?ID=56)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Single Action\" /></row>\r\n<row>[verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou inject a sliver of the void into your mind, momentarily remaking it into a bleak and empty place.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 268\n\n**Domain**\r\n[Nothingness](/Domains.aspx?ID=114)\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou inject a sliver of the void into your mind, momentarily remaking it into a bleak and empty place.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 119"
+  "Divine Mysteries pg. 268"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 119 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 268",
  "speed": {},
+ "spell_type": "Focus",
  "summary": "You inject a sliver of the void into your mind, momentarily remaking it into a bleak and empty place.",
  "summary_markdown": "You inject a sliver of the void into your mind, momentarily remaking it into a bleak and empty place.",
- "text": " Empty Inside Source Gods &amp; Magic pg. 119 2.0 Domain Void Cast Single Action verbal --- You inject a sliver of the void into your mind, momentarily remaking it into a bleak and empty place. Attempt a counteract check against one emotion effect affecting you. --- Heightened (5th) You can attempt counteract checks against any number of emotion effects affecting you.",
+ "text": "\nEmpty Inside Single Action Source Divine Mysteries pg. 268 Domain Nothingness --- You inject a sliver of the void into your mind, momentarily remaking it into a bleak and empty place. Attempt a counteract check against one emotion effect affecting you. --- Heightened (5th) You can attempt counteract checks against any number of emotion effects affecting you.",
  "tradition_markdown": "",
  "trait": [
-  "Abjuration",
-  "Mental"
+  "Cleric",
+  "Concentrate",
+  "Focus",
+  "Mental",
+  "Uncommon"
  ],
- "trait_markdown": "[Abjuration](/Traits.aspx?ID=2), [Mental](/Traits.aspx?ID=106)",
+ "trait_group": [
+  "Class",
+  "Mechanics",
+  "Rarity"
+ ],
+ "trait_markdown": "[Cleric](/Traits.aspx?ID=26), [Concentrate](/Traits.aspx?ID=32), [Focus](/Traits.aspx?ID=511), [Mental](/Traits.aspx?ID=106), [Uncommon](/Traits.aspx?ID=159)",
  "trait_raw": [
-  "Abjuration",
-  "Mental"
+  "Cleric",
+  "Concentrate",
+  "Focus",
+  "Mental",
+  "Uncommon"
  ],
- "type": "Focus",
- "url": "/Spells.aspx?ID=626",
+ "type": "Spell",
+ "url": "/Spells.aspx?ID=2401",
  "weakness": {}
 }

@@ -1,6 +1,6 @@
 {
  "actions": "Reaction",
- "breadcrumbs_spa": [],
+ "actions_number": 1,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
@@ -8,44 +8,56 @@
  ],
  "feat_markdown": "Black Cat Curse",
  "frequency": "once per day",
- "id": "feat-1266",
+ "id": "feat-5563",
+ "legacy_id": [
+  "feat-1266"
+ ],
  "level": 13,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 13\"\r\n    pfs=\"Standard\"\r\n>\r\n[Black Cat Curse](/Feats.aspx?ID=1266) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Catfolk\" url=\"/Traits.aspx?ID=211\" />\r\n<trait label=\"Divination\" url=\"/Traits.aspx?ID=47\" />\r\n<trait label=\"Misfortune\" url=\"/Traits.aspx?ID=110\" />\r\n<trait label=\"Occult\" url=\"/Traits.aspx?ID=120\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 11 <sup>2.0</sup></row>\n\n**Frequency**\r\nonce per day\n\n**Trigger**\r\nA creature within 30 feet you can see would succeed at a save.\n\n</column>\r\n\r\n---\r\n\r\nYou hiss a spiteful curse at the creature. The target must reroll the triggering saving throw and use the worse result.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 13\"\r\n    pfs=\"Standard\"\r\n>\r\n[Black Cat Curse](/Feats.aspx?ID=5563) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Catfolk\" url=\"/Traits.aspx?ID=746\" />\r\n<trait label=\"Misfortune\" url=\"/Traits.aspx?ID=654\" />\r\n<trait label=\"Occult\" url=\"/Traits.aspx?ID=662\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 11 <sup>1.1</sup>\n\n**Frequency**\r\nonce per day\n\n**Trigger**\r\nA creature within 30 feet you can see would succeed at a save.\n\n</column>\r\n\r\n---\r\n\r\nYou hiss a spiteful curse. The target rerolls the triggering saving throw and use the worse result.",
  "name": "Black Cat Curse",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 11",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "school": "divination",
- "search_markdown": "<traits>\r\n<trait label=\"Catfolk\" url=\"/Traits.aspx?ID=211\" />\r\n<trait label=\"Divination\" url=\"/Traits.aspx?ID=47\" />\r\n<trait label=\"Misfortune\" url=\"/Traits.aspx?ID=110\" />\r\n<trait label=\"Occult\" url=\"/Traits.aspx?ID=120\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 11 <sup>2.0</sup></row>\r\n\r\n**Frequency**\r\nonce per day\n\n**Trigger**\r\nA creature within 30 feet you can see would succeed at a save.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou hiss a spiteful curse at the creature.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Catfolk\" url=\"/Traits.aspx?ID=746\" />\r\n<trait label=\"Misfortune\" url=\"/Traits.aspx?ID=654\" />\r\n<trait label=\"Occult\" url=\"/Traits.aspx?ID=662\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 11 <sup>1.1</sup>\n\n**Frequency**\r\nonce per day\n\n**Trigger**\r\nA creature within 30 feet you can see would succeed at a save.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou hiss a spiteful curse.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 11"
+  "Player Core 2 pg. 11"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 11 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 11 <sup>1.1</sup>",
  "speed": {},
- "summary": "You hiss a spiteful curse at the creature.",
- "summary_markdown": "You hiss a spiteful curse at the creature.",
- "text": "<title level=\"1\" right=\"Feat 13\" pfs=\"Standard\" > Black Cat Curse Reaction Source Advanced Player's Guide pg. 11 2.0 Frequency once per day Trigger A creature within 30 feet you can see would succeed at a save. --- You hiss a spiteful curse at the creature. The target must reroll the triggering saving throw and use the worse result.",
+ "summary": "You hiss a spiteful curse.",
+ "summary_markdown": "You hiss a spiteful curse.",
+ "text": "<title level=\"1\" right=\"Feat 13\" pfs=\"Standard\" > Black Cat Curse Reaction Source Player Core 2 pg. 11 1.1 Frequency once per day Trigger A creature within 30 feet you can see would succeed at a save. --- You hiss a spiteful curse. The target rerolls the triggering saving throw and use the worse result.",
  "trait": [
   "Catfolk",
-  "Divination",
   "Misfortune",
   "Occult"
  ],
- "trait_markdown": "[Catfolk](/Traits.aspx?ID=211), [Divination](/Traits.aspx?ID=47), [Misfortune](/Traits.aspx?ID=110), [Occult](/Traits.aspx?ID=120)",
+ "trait_group": [
+  "Monster",
+  "Mechanics",
+  "Tradition"
+ ],
+ "trait_markdown": "[Catfolk](/Traits.aspx?ID=746), [Misfortune](/Traits.aspx?ID=654), [Occult](/Traits.aspx?ID=662)",
  "trait_raw": [
   "Catfolk",
-  "Divination",
   "Misfortune",
   "Occult"
  ],
  "trigger": "A creature within 30 feet you can see would succeed at a save.",
  "trigger_markdown": "A creature within 30 feet you can see would succeed at a save.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=1266",
+ "url": "/Feats.aspx?ID=5563",
  "weakness": {}
 }

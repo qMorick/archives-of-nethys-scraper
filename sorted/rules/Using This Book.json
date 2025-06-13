@@ -2,35 +2,49 @@
  "breadcrumbs": [
   "Chapter 1: Introduction"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-46",
- "markdown": "<title level=\"1\" right=\"Rules\">[Using This Book](/Rules.aspx?ID=46)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 16 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nWhile this chapter is here to teach you the basics of Pathfinder, the rest of this rulebook serves as a reference manual during play, and it is organized to make finding the rule you need as easy as possible. Rules are grouped together in chapters, with the early chapters focusing on character creation. The last two chapters contain rules for GMs, with advice on how to run a game of Pathfinder and a rich array of treasure. The following is a summary of what you can expect to find in each chapter.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-47\" />\r\n\r\n<document level=\"2\" id=\"rules-48\" />\r\n\r\n<document level=\"2\" id=\"rules-49\" />\r\n\r\n<document level=\"2\" id=\"rules-50\" />\r\n\r\n<document level=\"2\" id=\"rules-51\" />\r\n\r\n<document level=\"2\" id=\"rules-52\" />\r\n\r\n<document level=\"2\" id=\"rules-53\" />\r\n\r\n<document level=\"2\" id=\"rules-54\" />\r\n\r\n<document level=\"2\" id=\"rules-55\" />\r\n\r\n<document level=\"2\" id=\"rules-56\" />\r\n\r\n<document level=\"2\" id=\"rules-57\" />\r\n\r\n<document level=\"2\" id=\"rules-58\" />",
- "name": "Using This Book",
+ "id": "rules-2010",
+ "legacy_id": [
+  "rules-46"
+ ],
+ "legacy_name": [
+  "Using This Book"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Using this book](/Rules.aspx?ID=2010)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 14 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nWhile this chapter is here to teach you the basics of Pathfinder, the rest of this rulebook serves as a reference manual during play, and it is organized to make finding the rule you need as easy as possible. Rules are grouped together in chapters, with the early chapters focusing on character creation. The following is a summary of what you can expect to find in each chapter.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-2011\" />\r\n\r\n<document level=\"2\" id=\"rules-2012\" />\r\n\r\n<document level=\"2\" id=\"rules-2013\" />\r\n\r\n<document level=\"2\" id=\"rules-2014\" />\r\n\r\n<document level=\"2\" id=\"rules-2015\" />\r\n\r\n<document level=\"2\" id=\"rules-2016\" />\r\n\r\n<document level=\"2\" id=\"rules-2017\" />\r\n\r\n<document level=\"2\" id=\"rules-2018\" />\r\n\r\n<document level=\"2\" id=\"rules-2019\" />",
+ "name": "Using this book",
  "next_link": {
-  "label": "Format of Rules Elements",
-  "url": "/Rules.aspx?ID=59"
+  "label": "Format of Rules",
+  "url": "/Rules.aspx?ID=2020"
  },
  "previous_link": {
   "label": "Example of Play",
-  "url": "/Rules.aspx?ID=45"
+  "url": "/Rules.aspx?ID=2009"
  },
+ "primary_source": "Player Core",
+ "primary_source_raw": "Player Core pg. 14",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 16 <sup>4.0</sup></row>\r\n\r\nChapter 1: Introduction\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 14 <sup>2.0</sup>\r\n\r\nChapter 1: Introduction\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile this chapter is here to teach you the basics of Pathfinder, the rest of this rulebook serves as a reference manual during play, and it is …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 16"
+  "Player Core pg. 14"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 16 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 14 <sup>2.0</sup>",
  "speed": {},
- "text": " Using This Book Source Core Rulebook pg. 16 4.0 While this chapter is here to teach you the basics of Pathfinder, the rest of this rulebook serves as a reference manual during play, and it is organized to make finding the rule you need as easy as possible. Rules are grouped together in chapters, with the early chapters focusing on character creation. The last two chapters contain rules for GMs, with advice on how to run a game of Pathfinder and a rich array of treasure. The following is a summary of what you can expect to find in each chapter. ",
+ "summary": "While this chapter is here to teach you the basics of Pathfinder, the rest of this rulebook serves as a reference manual during play, and it is …",
+ "summary_markdown": "While this chapter is here to teach you the basics of Pathfinder, the rest of this rulebook serves as a reference manual during play, and it is …",
+ "text": " Using this book Source Player Core pg. 14 2.0 While this chapter is here to teach you the basics of Pathfinder, the rest of this rulebook serves as a reference manual during play, and it is organized to make finding the rule you need as easy as possible. Rules are grouped together in chapters, with the early chapters focusing on character creation. The following is a summary of what you can expect to find in each chapter. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=46",
+ "url": "/Rules.aspx?ID=2010",
  "weakness": {}
 }

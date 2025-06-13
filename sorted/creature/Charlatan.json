@@ -1,64 +1,116 @@
 {
  "ac": 18,
- "alignment": "NE",
- "breadcrumbs_spa": [],
+ "ac_scale": "Moderate",
+ "ac_scale_number": 3,
+ "attack_bonus": [
+  10,
+  10,
+  10
+ ],
+ "attack_bonus_scale": [
+  "Moderate"
+ ],
+ "attack_bonus_scale_number": [
+  3
+ ],
  "category": "creature",
  "charisma": 4,
+ "charisma_scale": "High",
+ "charisma_scale_number": 4,
  "constitution": 0,
+ "constitution_scale": "Low",
+ "constitution_scale_number": 2,
  "creature_ability": [
   "Versatile Performance",
   "Sneak Attack"
  ],
- "creature_family": "Criminals",
- "creature_family_markdown": "[Criminals](/MonsterFamilies.aspx?ID=182)",
+ "creature_family": "Criminal",
+ "creature_family_markdown": "[Criminal](/MonsterFamilies.aspx?ID=533)",
  "dexterity": 3,
+ "dexterity_scale": "Moderate",
+ "dexterity_scale_number": 3,
  "exclude_from_search": false,
  "fortitude_save": 5,
+ "fortitude_save_scale": "Terrible",
+ "fortitude_save_scale_number": 1,
  "hp": 40,
  "hp_raw": "40",
- "id": "creature-889",
- "image": [
-  "/Images/NPCs/Criminal_Charlatan.png"
- ],
+ "hp_scale": "Low",
+ "hp_scale_number": 2,
+ "id": "creature-3428",
  "intelligence": 2,
+ "intelligence_scale": "Low",
+ "intelligence_scale_number": 2,
+ "item": [
+  "Disguise Kit",
+  "lute",
+  "Shortsword",
+  "Thieves' Toolkit",
+  "Whip"
+ ],
  "language": [
   "Common"
  ],
  "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "legacy_id": [
+  "creature-889"
+ ],
  "level": 3,
- "markdown": "<title level=\"1\" pfs=\"Limited\">[Charlatan](/NPCs.aspx?ID=889)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nCharlatans use pretense and misdirection to swindle money and other valuables from the credulous and confused. Selling snake oil (literally or figuratively), distracting marks to pick their pockets, or faking mediumship are classic grifts.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/NPCs/Criminal_Charlatan.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Charlatan](/NPCs.aspx?ID=889)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 209</row>\n\n**Perception** +6\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +8, [Deception](/Skills.aspx?ID=5) +11, [Diplomacy](/Skills.aspx?ID=6) +9, [Occultism](/Skills.aspx?ID=11) +7, [Performance](/Skills.aspx?ID=12) +11, [Society](/Skills.aspx?ID=14) +7, [Stealth](/Skills.aspx?ID=15) +8, [Thievery](/Skills.aspx?ID=17) +8, [Underworld Lore](/Skills.aspx?ID=8) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +3\r\n\r\n**Con** +0\r\n\r\n**Int** +2\r\n\r\n**Wis** +1\r\n\r\n**Cha** +4\r\n</row>\r\n\r\n**Versatile Performance** The charlatan can use [Performance](/Skills.aspx?ID=12) instead of [Diplomacy](/Skills.aspx?ID=6) to [Make an Impression](/Actions.aspx?ID=50) and instead of [Intimidation](/Skills.aspx?ID=7) to [Demoralize](/Actions.aspx?ID=53). They can also use an acting Performance instead of [Deception](/Skills.aspx?ID=5) to [Impersonate](/Actions.aspx?ID=46).\r\n\r\n**Items**\r\n[Disguise Kit](/Equipment.aspx?ID=19), [lute](/Equipment.aspx?ID=37), [Sap](/Weapons.aspx?ID=37), [Shortsword](/Weapons.aspx?ID=43), [Thieves' Tools](/Equipment.aspx?ID=58)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +5 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 40\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshortsword +10 ([Agile](/Traits.aspx?ID=170), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d6+2 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nsap +7 ([Agile](/Traits.aspx?ID=170), [Nonlethal](/Traits.aspx?ID=188)),\r\n**Damage** 1d6+2 bludgeoning\r\n\r\n**Occult Spontaneous Spells** DC 20, attack +10\r\n- **Cantrips (2nd)**\r\n[Daze](/Spells.aspx?ID=61), [Ghost Sound](/Spells.aspx?ID=132), [Mage Hand](/Spells.aspx?ID=177), [Message](/Spells.aspx?ID=190), [Prestidigitation](/Spells.aspx?ID=229)\r\n- **1st**\r\n[Illusory Disguise](/Spells.aspx?ID=159), [Magic Aura](/Spells.aspx?ID=178), [Unseen Servant](/Spells.aspx?ID=352), [Ventriloquism](/Spells.aspx?ID=356) (3 slots)\r\n- **2nd**\r\n[Charm](/Spells.aspx?ID=34), [Illusory Disguise](/Spells.aspx?ID=159), [Invisibility](/Spells.aspx?ID=164) (2 slots)\r\n\r\n**Bard Composition Spells** DC 19, 1 Focus Point\r\n- **Cantrips (1st)**\r\n[Inspire Courage](/Spells.aspx?ID=386)\r\n- **1st**\r\n[Counter Performance](/Spells.aspx?ID=381)\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The charlatan deals an extra 1d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-182\" />",
+ "markdown": "<title level=\"1\" pfs=\"\">[Charlatan](/NPCs.aspx?ID=3428)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nCharlatans use pretense and misdirection to swindle money and other valuables from the credulous and confused.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=47)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Charlatan](/NPCs.aspx?ID=3428)</title>\r\n\r\n<traits>\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=627\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=628\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [NPC Core](/Sources.aspx?ID=236) pg. 20\n\n**Perception** +6\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=34) +8, [Deception](/Skills.aspx?ID=38) +11, [Diplomacy](/Skills.aspx?ID=39) +9, [Occultism](/Skills.aspx?ID=44) +7, [Performance](/Skills.aspx?ID=45) +11, [Society](/Skills.aspx?ID=47) +7, [Stealth](/Skills.aspx?ID=48) +8, [Thievery](/Skills.aspx?ID=50) +8, [Underworld Lore](/Skills.aspx?ID=41) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +3\r\n\r\n**Con** +0\r\n\r\n**Int** +2\r\n\r\n**Wis** +1\r\n\r\n**Cha** +4\r\n</row>\r\n\r\n**Versatile Performance** The charlatan can use their [Performance](/Skills.aspx?ID=45) skill to [Make an Impression](/Actions.aspx?ID=2392), to [Demoralize](/Actions.aspx?ID=2395), and they can use an acting Performance to [Impersonate](/Actions.aspx?ID=2388).\r\n\r\n**Items**\r\n[Disguise Kit](/Equipment.aspx?ID=19), lute, [Shortsword](/Weapons.aspx?ID=43), [Thieves' Toolkit](/Equipment.aspx?ID=2758), [Whip](/Weapons.aspx?ID=48)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +5 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**HP** 40\n\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshortsword +10 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d6+2 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nwhip +10 ([Disarm](/Traits.aspx?ID=175), [Finesse](/Traits.aspx?ID=179), [Nonlethal](/Traits.aspx?ID=188), [Reach](/Traits.aspx?ID=192), [Trip](/Traits.aspx?ID=196)),\r\n**Damage** 1d4+2 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +10 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Nonlethal](/Traits.aspx?ID=188), [Unarmed](/Traits.aspx?ID=199)),\r\n**Damage** 1d4+2 bludgeoning\r\n\r\n**Occult Spontaneous Spells** DC 20, attack +12\r\n- **Cantrips (2nd)**\r\n[Daze](/Spells.aspx?ID=61), [Figment](/Spells.aspx?ID=1528), [Message](/Spells.aspx?ID=190), [Prestidigitation](/Spells.aspx?ID=229), [Telekinetic Hand](/Spells.aspx?ID=1715)\r\n- **1st**\r\n[Disguise Magic](/Spells.aspx?ID=1491), [Illusory Disguise](/Spells.aspx?ID=159), [Ventriloquism](/Spells.aspx?ID=356) (3 slots)\r\n- **2nd**\r\n[Charm](/Spells.aspx?ID=34), [Illusory Disguise](/Spells.aspx?ID=159), [Invisibility](/Spells.aspx?ID=164) (2 slots)\r\n\r\n**Bard Composition Spells 1 Focus Point,** DC 19\r\n- **Cantrips (1st)**\r\n[Courageous Anthem](/Spells.aspx?ID=1763)\r\n- **1st**\r\n[Counter Performance](/Spells.aspx?ID=381)\r\n\r\n**Sneak Attack**   The charlatan deals an extra 1d6 precision damage to [off-guard](/Conditions.aspx?ID=58) creatures.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-533\" />",
  "name": "Charlatan",
  "npc": true,
  "perception": 6,
- "pfs": "Limited",
+ "perception_scale": "Low",
+ "perception_scale_number": 2,
+ "primary_source": "NPC Core",
+ "primary_source_raw": "NPC Core pg. 20",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
+ "rarity_id": 1,
  "reflex_save": 8,
- "release_date": "2020-02-26",
+ "reflex_save_scale": "Low",
+ "reflex_save_scale_number": 2,
+ "release_date": "2025-02-26",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 209</row>\r\n\r\n**Creature Family** [Criminals](/MonsterFamilies.aspx?ID=182)\r\n\r\n<row gap=\"medium\">\r\n**HP** 40\r\n\r\n**AC** 18\r\n\r\n**Fort** +5\r\n\r\n**Ref** +8\r\n\r\n**Will** +10\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCharlatans use pretense and misdirection to swindle money and other valuables from the credulous and confused. Selling snake oil (literally or …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=627\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=628\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [NPC Core](/Sources.aspx?ID=236) pg. 20\r\n\r\n**Creature Family** [Criminal](/MonsterFamilies.aspx?ID=533)\r\n\r\n<row gap=\"medium\">\r\n**HP** 40\r\n\r\n**AC** 18\r\n\r\n**Fort** +5\r\n\r\n**Ref** +8\r\n\r\n**Will** +10\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCharlatans use pretense and misdirection to swindle money and other valuables from the credulous and confused.\r\n</summary>",
  "size": [
   "Medium"
  ],
- "skill": [
-  "Acrobatics +8",
-  "Deception +11",
-  "Diplomacy +9",
-  "Occultism +7",
-  "Performance +11",
-  "Society +7",
-  "Stealth +8",
-  "Thievery +8",
-  "Underworld Lore +9"
+ "size_id": [
+  3
  ],
- "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +8, [Deception](/Skills.aspx?ID=5) +11, [Diplomacy](/Skills.aspx?ID=6) +9, [Occultism](/Skills.aspx?ID=11) +7, [Performance](/Skills.aspx?ID=12) +11, [Society](/Skills.aspx?ID=14) +7, [Stealth](/Skills.aspx?ID=15) +8, [Thievery](/Skills.aspx?ID=17) +8, [Underworld Lore](/Skills.aspx?ID=8) +9",
+ "skill": [
+  "Acrobatics",
+  "Deception",
+  "Diplomacy",
+  "Occultism",
+  "Performance",
+  "Society",
+  "Stealth",
+  "Thievery",
+  "Underworld Lore"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=34) +8, [Deception](/Skills.aspx?ID=38) +11, [Diplomacy](/Skills.aspx?ID=39) +9, [Occultism](/Skills.aspx?ID=44) +7, [Performance](/Skills.aspx?ID=45) +11, [Society](/Skills.aspx?ID=47) +7, [Stealth](/Skills.aspx?ID=48) +8, [Thievery](/Skills.aspx?ID=50) +8, [Underworld Lore](/Skills.aspx?ID=41) +9",
+ "skill_mod": {
+  "acrobatics": 8,
+  "deception": 11,
+  "diplomacy": 9,
+  "occultism": 7,
+  "performance": 11,
+  "society": 7,
+  "stealth": 8,
+  "thievery": 8
+ },
  "source": [
-  "Gamemastery Guide"
+  "NPC Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 209"
+  "NPC Core pg. 20"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 209</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[NPC Core](/Sources.aspx?ID=236) pg. 20",
  "speed": {
   "land": 25,
   "max": 25
@@ -69,44 +121,89 @@
   "Charm",
   "Illusory Disguise",
   "Invisibility",
-  "Magic Aura",
-  "Unseen Servant",
+  "Disguise Magic",
   "Ventriloquism",
   "Daze",
-  "Ghost Sound",
-  "Mage Hand",
+  "Figment",
   "Message",
   "Prestidigitation",
+  "Telekinetic Hand",
   "Counter Performance",
-  "Inspire Courage"
+  "Courageous Anthem"
  ],
- "spell_markdown": "[Charm](/Spells.aspx?ID=34), [Counter Performance](/Spells.aspx?ID=381), [Daze](/Spells.aspx?ID=61), [Ghost Sound](/Spells.aspx?ID=132), [Illusory Disguise](/Spells.aspx?ID=159), [Inspire Courage](/Spells.aspx?ID=386), [Invisibility](/Spells.aspx?ID=164), [Mage Hand](/Spells.aspx?ID=177), [Magic Aura](/Spells.aspx?ID=178), [Message](/Spells.aspx?ID=190), [Prestidigitation](/Spells.aspx?ID=229), [Unseen Servant](/Spells.aspx?ID=352), [Ventriloquism](/Spells.aspx?ID=356)",
- "stealth": "8",
+ "spell_markdown": "[Charm](/Spells.aspx?ID=34), [Counter Performance](/Spells.aspx?ID=381), [Courageous Anthem](/Spells.aspx?ID=1763), [Daze](/Spells.aspx?ID=61), [Disguise Magic](/Spells.aspx?ID=1491), [Figment](/Spells.aspx?ID=1528), [Illusory Disguise](/Spells.aspx?ID=159), [Invisibility](/Spells.aspx?ID=164), [Message](/Spells.aspx?ID=190), [Prestidigitation](/Spells.aspx?ID=229), [Telekinetic Hand](/Spells.aspx?ID=1715), [Ventriloquism](/Spells.aspx?ID=356)",
+ "spell_attack_bonus": [
+  12
+ ],
+ "spell_attack_bonus_scale": [
+  "High"
+ ],
+ "spell_attack_bonus_scale_number": [
+  4
+ ],
+ "spell_dc": [
+  19,
+  20
+ ],
+ "spell_dc_scale": [
+  "Moderate",
+  "High"
+ ],
+ "spell_dc_scale_number": [
+  3,
+  4
+ ],
+ "strike_damage_average": [
+  4,
+  4,
+  5
+ ],
+ "strike_damage_scale": [
+  "Low"
+ ],
+ "strike_damage_scale_number": [
+  2
+ ],
  "strength": 0,
+ "strength_scale": "Low",
+ "strength_scale_number": 2,
  "strongest_save": [
   "will"
  ],
- "summary": "Charlatans use pretense and misdirection to swindle money and other valuables from the credulous and confused. Selling snake oil (literally or …",
- "summary_markdown": "Charlatans use pretense and misdirection to swindle money and other valuables from the credulous and confused. Selling snake oil (literally or …",
- "text": " Charlatan Charlatans use pretense and misdirection to swindle money and other valuables from the credulous and confused. Selling snake oil (literally or figuratively), distracting marks to pick their pockets, or faking mediumship are classic grifts. Recall Knowledge - Humanoid (Society): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Charlatan Source Gamemastery Guide pg. 209 Perception +6 Languages Common Skills Acrobatics +8, Deception +11, Diplomacy +9, Occultism +7, Performance +11, Society +7, Stealth +8, Thievery +8, Underworld Lore +9 Str +0 Dex +3 Con +0 Int +2 Wis +1 Cha +4 Versatile Performance The charlatan can use Performance instead of Diplomacy to Make an Impression and instead of Intimidation to Demoralize. They can also use an acting Performance instead of Deception to Impersonate. Items Disguise Kit, lute, Sap, Shortsword, Thieves' Tools --- AC 18 Fort +5 Ref +8 Will +10 HP 40 --- Speed 25 feet Melee Single Action shortsword +10 (Agile, versatile S), Damage 1d6+2 piercing Melee Single Action sap +7 (Agile, Nonlethal), Damage 1d6+2 bludgeoning Occult Spontaneous Spells DC 20, attack +10 - Cantrips (2nd) Daze, Ghost Sound, Mage Hand, Message, Prestidigitation - 1st Illusory Disguise, Magic Aura, Unseen Servant, Ventriloquism (3 slots) - 2nd Charm, Illusory Disguise, Invisibility (2 slots) Bard Composition Spells DC 19, 1 Focus Point - Cantrips (1st) Inspire Courage - 1st Counter Performance Sneak Attack The charlatan deals an extra 1d6 precision damage to flat-footed creatures. ",
+ "summary": "Charlatans use pretense and misdirection to swindle money and other valuables from the credulous and confused.",
+ "summary_markdown": "Charlatans use pretense and misdirection to swindle money and other valuables from the credulous and confused.",
+ "text": " Charlatan Charlatans use pretense and misdirection to swindle money and other valuables from the credulous and confused. Recall Knowledge - Humanoid (Society): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Charlatan Source NPC Core pg. 20 Perception +6 Languages Common Skills Acrobatics +8, Deception +11, Diplomacy +9, Occultism +7, Performance +11, Society +7, Stealth +8, Thievery +8, Underworld Lore +9 Str +0 Dex +3 Con +0 Int +2 Wis +1 Cha +4 Versatile Performance The charlatan can use their Performance skill to Make an Impression, to Demoralize, and they can use an acting Performance to Impersonate. Items Disguise Kit, lute, Shortsword, Thieves' Toolkit, Whip --- AC 18 Fort +5 Ref +8 Will +10 HP 40 --- Speed 25 feet Melee Single Action shortsword +10 (Agile, Finesse, versatile S), Damage 1d6+2 piercing Melee Single Action whip +10 (Disarm, Finesse, Nonlethal, Reach, Trip), Damage 1d4+2 slashing Melee Single Action fist +10 (Agile, Finesse, Nonlethal, Unarmed), Damage 1d4+2 bludgeoning Occult Spontaneous Spells DC 20, attack +12 - Cantrips (2nd) Daze, Figment, Message, Prestidigitation, Telekinetic Hand - 1st Disguise Magic, Illusory Disguise, Ventriloquism (3 slots) - 2nd Charm, Illusory Disguise, Invisibility (2 slots) Bard Composition Spells 1 Focus Point, DC 19 - Cantrips (1st) Courageous Anthem - 1st Counter Performance Sneak Attack The charlatan deals an extra 1d6 precision damage to off-guard creatures. ",
+ "tradition": [
+  "Occult"
+ ],
+ "tradition_markdown": "[Occult](/SpellLists.aspx?Tradition=3)",
  "trait": [
   "Human",
   "Humanoid",
-  "NE",
   "Medium"
  ],
- "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_group": [
+  "Ancestry",
+  "Half-Elf",
+  "Half-Orc",
+  "Creature Type"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=627), [Humanoid](/Traits.aspx?ID=628)",
  "trait_raw": [
   "Human",
   "Humanoid"
  ],
  "type": "Creature",
- "url": "/NPCs.aspx?ID=889",
+ "url": "/NPCs.aspx?ID=3428",
  "weakest_save": [
   "fort",
   "fortitude"
  ],
  "weakness": {},
  "will_save": 10,
- "wisdom": 1
+ "will_save_scale": "Moderate",
+ "will_save_scale_number": 3,
+ "wisdom": 1,
+ "wisdom_scale": "Low",
+ "wisdom_scale_number": 2
 }

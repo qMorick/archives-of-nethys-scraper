@@ -1,37 +1,48 @@
 {
  "breadcrumbs": [
-  "Chapter 10: Game Mastering",
+  "Chapter 1: Running the Game",
   "Difficulty Classes"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-558",
- "markdown": "<title level=\"1\" right=\"Rules\">[Specific Actions](/Rules.aspx?ID=558)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 504 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nSeveral parts of this book, most notably Chapter 4: Skills, state that you as the GM set the DCs for certain checks or determine other parameters. Here are guidelines for the most common tasks. Remember that all of these are guidelines, and you can adjust them as necessary to suit the situation.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-559\" />\r\n\r\n<document level=\"2\" id=\"rules-560\" />\r\n\r\n<document level=\"2\" id=\"rules-561\" />\r\n\r\n<document level=\"2\" id=\"rules-562\" />\r\n\r\n<document level=\"2\" id=\"rules-563\" />\r\n\r\n<document level=\"2\" id=\"rules-567\" />\r\n\r\n<document level=\"2\" id=\"rules-568\" />\r\n\r\n<document level=\"2\" id=\"rules-569\" />\r\n\r\n<document level=\"2\" id=\"rules-570\" />\r\n\r\n<document level=\"2\" id=\"rules-571\" />",
+ "id": "rules-2633",
+ "legacy_id": [
+  "rules-558"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Specific Actions](/Rules.aspx?ID=2633)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 53 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nYou as the GM set the DCs for certain checks or determine other parameters. Here are guidelines for the most common tasks. Remember that all of these are guidelines, and you can adjust them as necessary to suit the situation.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-2634\" />\r\n\r\n<document level=\"2\" id=\"rules-2635\" />\r\n\r\n<document level=\"2\" id=\"rules-2636\" />\r\n\r\n<document level=\"2\" id=\"rules-2637\" />\r\n\r\n<document level=\"2\" id=\"rules-2638\" />\r\n\r\n<document level=\"2\" id=\"rules-2642\" />\r\n\r\n<document level=\"2\" id=\"rules-2643\" />\r\n\r\n<document level=\"2\" id=\"rules-2644\" />\r\n\r\n<document level=\"2\" id=\"rules-2645\" />\r\n\r\n<document level=\"2\" id=\"rules-2646\" />",
  "name": "Specific Actions",
  "next_link": {
   "label": "Rewards",
-  "url": "/Rules.aspx?ID=572"
+  "url": "/Rules.aspx?ID=2647"
  },
  "previous_link": {
   "label": "Minimum Proficiency",
-  "url": "/Rules.aspx?ID=557"
+  "url": "/Rules.aspx?ID=2632"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 53",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 504 <sup>4.0</sup></row>\r\n\r\nChapter 10: Game Mastering / Difficulty Classes\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 53 <sup>2.0</sup>\r\n\r\nChapter 1: Running the Game / Difficulty Classes\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou as the GM set the DCs for certain checks or determine other parameters. Here are guidelines for the most common tasks. Remember that all of these …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 504"
+  "GM Core pg. 53"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 504 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 53 <sup>2.0</sup>",
  "speed": {},
- "text": " Specific Actions Source Core Rulebook pg. 504 4.0 Several parts of this book, most notably Chapter 4: Skills, state that you as the GM set the DCs for certain checks or determine other parameters. Here are guidelines for the most common tasks. Remember that all of these are guidelines, and you can adjust them as necessary to suit the situation. ",
+ "summary": "You as the GM set the DCs for certain checks or determine other parameters. Here are guidelines for the most common tasks. Remember that all of these …",
+ "summary_markdown": "You as the GM set the DCs for certain checks or determine other parameters. Here are guidelines for the most common tasks. Remember that all of these …",
+ "text": " Specific Actions Source GM Core pg. 53 2.0 You as the GM set the DCs for certain checks or determine other parameters. Here are guidelines for the most common tasks. Remember that all of these are guidelines, and you can adjust them as necessary to suit the situation. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=558",
+ "url": "/Rules.aspx?ID=2633",
  "weakness": {}
 }

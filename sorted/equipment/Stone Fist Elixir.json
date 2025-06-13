@@ -1,45 +1,63 @@
 {
  "actions": "Single Action",
+ "actions_number": 2,
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
  "bulk": 0.1,
  "bulk_raw": "L",
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-102",
+ "id": "equipment-3312",
  "item_category": "Alchemical Items",
  "item_subcategory": "Alchemical Elixirs",
+ "legacy_id": [
+  "equipment-102"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Stone Fist Elixir](/Equipment.aspx?ID=102)\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=6\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Elixir\" url=\"/Traits.aspx?ID=59\" />\r\n<trait label=\"Morph\" url=\"/Traits.aspx?ID=113\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 550 <sup>4.0</sup></row>\n\n**Price** 13 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>Interact</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nYour fists become hard as stone. For 1 hour, your fists deal 1d6 bludgeoning damage and lose the nonlethal trait.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Stone Fist Elixir](/Equipment.aspx?ID=3312)\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=528\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Elixir\" url=\"/Traits.aspx?ID=589\" />\r\n<trait label=\"Morph\" url=\"/Traits.aspx?ID=657\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 288 <sup>1.1</sup>, [GM Core](/Sources.aspx?ID=218) pg. 247 <sup>2.0</sup>\n\n**Price** 13 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([manipulate](/Traits.aspx?ID=104))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nYour fists become hard as stone. For 1 hour, your fists deal 1d6 bludgeoning damage and lose the [nonlethal](/Traits.aspx?ID=661) trait.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Stone Fist Elixir",
  "pfs": "Standard",
  "price": 1300,
  "price_raw": "13 gp",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 288",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=6\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Elixir\" url=\"/Traits.aspx?ID=59\" />\r\n<trait label=\"Morph\" url=\"/Traits.aspx?ID=113\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 550 <sup>4.0</sup></row>\r\n\r\n**Price** 13 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>Interact</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour fists become hard as stone. For 1 hour, your fists deal 1d6 bludgeoning damage and lose the nonlethal trait.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=528\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Elixir\" url=\"/Traits.aspx?ID=589\" />\r\n<trait label=\"Morph\" url=\"/Traits.aspx?ID=657\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 288 <sup>1.1</sup>, [GM Core](/Sources.aspx?ID=218) pg. 247 <sup>2.0</sup>\r\n\r\n**Price** 13 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([manipulate](/Traits.aspx?ID=104))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour fists become hard as stone. For 1 hour, your fists deal 1d6 bludgeoning damage and lose the  nonlethal  trait.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2",
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 550"
+  "Player Core 2 pg. 288",
+  "GM Core pg. 247"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 550 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 288 <sup>1.1</sup>, [GM Core](/Sources.aspx?ID=218) pg. 247 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "Your fists become hard as stone. For 1 hour, your fists deal 1d6 bludgeoning damage and lose the nonlethal trait.",
- "summary_markdown": "Your fists become hard as stone. For 1 hour, your fists deal 1d6 bludgeoning damage and lose the nonlethal trait.",
- "text": "<title level=\"1\" right=\"Item 4\" pfs=\"Standard\" > Stone Fist Elixir Source Core Rulebook pg. 550 4.0 Price 13 gp Usage held in 1 hand Bulk L Activate Single Action Interact --- Your fists become hard as stone. For 1 hour, your fists deal 1d6 bludgeoning damage and lose the nonlethal trait.\n",
+ "summary": "Your fists become hard as stone. For 1 hour, your fists deal 1d6 bludgeoning damage and lose the  nonlethal  trait.",
+ "summary_markdown": "Your fists become hard as stone. For 1 hour, your fists deal 1d6 bludgeoning damage and lose the  nonlethal  trait.",
+ "text": "<title level=\"1\" right=\"Item 4\" pfs=\"Standard\" > Stone Fist Elixir Source Player Core 2 pg. 288 1.1 , GM Core pg. 247 2.0 Price 13 gp Usage held in 1 hand Bulk L Activate Single Action (manipulate) --- Your fists become hard as stone. For 1 hour, your fists deal 1d6 bludgeoning damage and lose the nonlethal trait.\n",
  "trait": [
   "Alchemical",
   "Consumable",
   "Elixir",
   "Morph"
  ],
- "trait_markdown": "[Alchemical](/Traits.aspx?ID=6), [Consumable](/Traits.aspx?ID=36), [Elixir](/Traits.aspx?ID=59), [Morph](/Traits.aspx?ID=113)",
+ "trait_group": [
+  "Monster",
+  "Equipment",
+  "Weapon",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Alchemical](/Traits.aspx?ID=528), [Consumable](/Traits.aspx?ID=564), [Elixir](/Traits.aspx?ID=589), [Morph](/Traits.aspx?ID=657)",
  "trait_raw": [
   "Alchemical",
   "Consumable",
@@ -47,7 +65,7 @@
   "Morph"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=102",
+ "url": "/Equipment.aspx?ID=3312",
  "usage": "held in 1 hand",
  "usage_markdown": "held in 1 hand",
  "weakness": {}

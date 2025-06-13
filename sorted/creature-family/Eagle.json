@@ -1,29 +1,38 @@
 {
- "breadcrumbs_spa": [],
  "category": "creature-family",
  "creature_family": "Eagle",
  "creature_family_markdown": "Eagle",
  "exclude_from_search": false,
- "id": "creature-family-39",
- "markdown": "<title level=\"1\" right=\"Creature Family\">[Eagle](/MonsterFamilies.aspx?ID=39)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 141</row>\n\nThese large birds of prey swoop down from incredible heights to snatch fish and small mammals in their powerful talons. Eagles nest atop high trees or steep cliffs that provide a commanding view of the surrounding area. They avoid nesting too near civilization, but some remote cultures train eagles as hunting companions.\r\n\r\n<title level=\"2\">Members</title>\r\n[Eagle](/Monsters.aspx?ID=172) (Creature -1), [Giant Eagle](/Monsters.aspx?ID=173) (Creature 3)",
+ "id": "creature-family-406",
+ "legacy_id": [
+  "creature-family-39"
+ ],
+ "markdown": "<title level=\"1\" right=\"Creature Family\">[Eagle](/MonsterFamilies.aspx?ID=406)</title>\r\n\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 137 <sup>1.1</sup>\n\nFew avian creatures can match the beauty and grace of the eagle.\r\n\r\n<title level=\"2\">Members</title>\r\n[Eagle](/Monsters.aspx?ID=2968) (Creature -1), [Giant Eagle](/Monsters.aspx?ID=2969) (Creature 3)",
  "name": "Eagle",
+ "primary_source": "Monster Core",
+ "primary_source_raw": "Monster Core pg. 137",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-03-27",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 141</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese large birds of prey swoop down from incredible heights to snatch fish and small mammals in their powerful talons. Eagles nest atop high trees …\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 137 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFew avian creatures can match the beauty and grace of the eagle.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Bestiary"
+  "Monster Core"
  ],
  "source_raw": [
-  "Bestiary pg. 141"
+  "Monster Core pg. 137"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 141</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Monster Core](/Sources.aspx?ID=221) pg. 137 <sup>1.1</sup>",
  "speed": {},
- "summary": "These large birds of prey swoop down from incredible heights to snatch fish and small mammals in their powerful talons. Eagles nest atop high trees …",
- "summary_markdown": "These large birds of prey swoop down from incredible heights to snatch fish and small mammals in their powerful talons. Eagles nest atop high trees …",
- "text": " Eagle Source Bestiary pg. 141 These large birds of prey swoop down from incredible heights to snatch fish and small mammals in their powerful talons. Eagles nest atop high trees or steep cliffs that provide a commanding view of the surrounding area. They avoid nesting too near civilization, but some remote cultures train eagles as hunting companions. Members Eagle (Creature -1), Giant Eagle (Creature 3)",
+ "summary": "Few avian creatures can match the beauty and grace of the eagle.",
+ "summary_markdown": "Few avian creatures can match the beauty and grace of the eagle.",
+ "text": " Eagle Source Monster Core pg. 137 1.1 Few avian creatures can match the beauty and grace of the eagle. Members Eagle (Creature -1), Giant Eagle (Creature 3)",
  "type": "Creature Family",
- "url": "/MonsterFamilies.aspx?ID=39",
+ "url": "/MonsterFamilies.aspx?ID=406",
  "weakness": {}
 }

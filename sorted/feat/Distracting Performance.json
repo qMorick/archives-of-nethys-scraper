@@ -1,48 +1,62 @@
 {
- "breadcrumbs_spa": [],
+ "actions": "Single Action",
+ "actions_number": 2,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Distracting Performance"
  ],
  "feat_markdown": "Distracting Performance",
- "id": "feat-2122",
+ "id": "feat-6474",
+ "legacy_id": [
+  "feat-2122"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Distracting Performance](/Feats.aspx?ID=2122) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=78\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=144\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 205 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nExpert in [Performance](/Skills.aspx?ID=12)\n\n</column>\r\n\r\n---\r\n\r\nYour performances are especially distracting, allowing your allies to [Sneak](/Actions.aspx?ID=63) away with ease. When you [Aid](/Actions.aspx?ID=75) an ally who is trying to [Create a Diversion](/Actions.aspx?ID=45), instead of the usual effects of Aid, you can roll a [Performance](/Skills.aspx?ID=12) check and use that result to determine the outcome of the diversion, instead of the ally rolling a [Deception](/Skills.aspx?ID=5) check.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Distracting Performance](/Feats.aspx?ID=6474) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=615\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=695\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 229 <sup>1.1</sup>\n\n**Prerequisites**\r\nExpert in [Performance](/Skills.aspx?ID=45)\n\n</column>\r\n\r\n---\r\n\r\nYour performances are especially distracting, allowing your allies to [Sneak](/Actions.aspx?ID=2405) away with ease. You [Create a Diversion](/Actions.aspx?ID=2387), except you roll a Performance check instead of [Deception](/Skills.aspx?ID=38), and the benefits of successful checks apply to an ally of your choice instead of you. The effects of a success last until the end of that ally's turn, and can end early based on the ally's actions. You don't need to be observing your ally or know where they are, but you need to know they're present to choose them.",
  "name": "Distracting Performance",
  "pfs": "Standard",
  "prerequisite": "Expert in Performance",
- "prerequisite_markdown": "Expert in [Performance](/Skills.aspx?ID=12)",
+ "prerequisite_markdown": "Expert in [Performance](/Skills.aspx?ID=45)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 229",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=78\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=144\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 205 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nExpert in [Performance](/Skills.aspx?ID=12)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCreate a Diversion for an ally.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=615\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=695\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 229 <sup>1.1</sup>\n\n**Prerequisites**\r\nExpert in [Performance](/Skills.aspx?ID=45)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour performances are especially distracting, allowing your allies to [Sneak](/Actions.aspx?ID=2405) away with ease.\r\n</summary>",
  "skill": [
   "Performance",
   "Performance"
  ],
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 205"
+  "Player Core 2 pg. 229"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 205 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 229 <sup>1.1</sup>",
  "speed": {},
- "summary": "Create a Diversion for an ally.",
- "summary_markdown": "Create a Diversion for an ally.",
- "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Distracting Performance Source Advanced Player's Guide pg. 205 2.0 Prerequisites Expert in Performance --- Your performances are especially distracting, allowing your allies to Sneak away with ease. When you Aid an ally who is trying to Create a Diversion, instead of the usual effects of Aid, you can roll a Performance check and use that result to determine the outcome of the diversion, instead of the ally rolling a Deception check.",
+ "summary": "Your performances are especially distracting, allowing your allies to  Sneak  away with ease.",
+ "summary_markdown": "Your performances are especially distracting, allowing your allies to [Sneak](/Actions.aspx?ID=2405) away with ease.",
+ "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Distracting Performance Single Action Source Player Core 2 pg. 229 1.1 Prerequisites Expert in Performance --- Your performances are especially distracting, allowing your allies to Sneak away with ease. You Create a Diversion, except you roll a Performance check instead of Deception, and the benefits of successful checks apply to an ally of your choice instead of you. The effects of a success last until the end of that ally's turn, and can end early based on the ally's actions. You don't need to be observing your ally or know where they are, but you need to know they're present to choose them.",
  "trait": [
   "General",
   "Skill"
  ],
- "trait_markdown": "[General](/Traits.aspx?ID=78), [Skill](/Traits.aspx?ID=144)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[General](/Traits.aspx?ID=615), [Skill](/Traits.aspx?ID=695)",
  "trait_raw": [
   "General",
   "Skill"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2122",
+ "url": "/Feats.aspx?ID=6474",
  "weakness": {}
 }

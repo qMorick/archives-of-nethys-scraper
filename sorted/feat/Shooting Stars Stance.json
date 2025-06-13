@@ -1,45 +1,60 @@
 {
  "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions_number": 2,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Shooting Stars Stance"
  ],
  "feat_markdown": "Shooting Stars Stance",
- "id": "feat-1737",
+ "id": "feat-5988",
+ "legacy_id": [
+  "feat-1737"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Shooting Stars Stance](/Feats.aspx?ID=1737) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n<trait label=\"Stance\" url=\"/Traits.aspx?ID=152\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 128 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Monastic Weaponry](/Feats.aspx?ID=434)\n\n</column>\r\n\r\n---\r\n\r\nYou enter a stance that lets you throw [shuriken](/Weapons.aspx?ID=79) with lightning speed. While in this stance, you can use your monk feats or monk abilities that normally require unarmed attacks with shuriken instead.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Shooting Stars Stance](/Feats.aspx?ID=5988) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n<trait label=\"Stance\" url=\"/Traits.aspx?ID=701\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 120 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Monastic Weaponry](/Feats.aspx?ID=5979)\n\n</column>\r\n\r\n---\r\n\r\nYou enter a stance that lets you throw [shuriken](/Weapons.aspx?ID=439) with lightning speed. While in this stance, you can use your monk feats or monk abilities that normally require [unarmed](/Traits.aspx?ID=719) attacks with shuriken instead.",
  "name": "Shooting Stars Stance",
  "pfs": "Standard",
  "prerequisite": "Monastic Weaponry",
- "prerequisite_markdown": "[Monastic Weaponry](/Feats.aspx?ID=434)",
+ "prerequisite_markdown": "[Monastic Weaponry](/Feats.aspx?ID=5979)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 120",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n<trait label=\"Stance\" url=\"/Traits.aspx?ID=152\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 128 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Monastic Weaponry](/Feats.aspx?ID=434)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou enter a stance that lets you throw shuriken with lightning speed.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n<trait label=\"Stance\" url=\"/Traits.aspx?ID=701\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 120 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Monastic Weaponry](/Feats.aspx?ID=5979)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou enter a stance that lets you throw [shuriken](/Weapons.aspx?ID=439) with lightning speed.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 128"
+  "Player Core 2 pg. 120"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 128 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 120 <sup>1.1</sup>",
  "speed": {},
- "summary": "You enter a stance that lets you throw shuriken with lightning speed.",
- "summary_markdown": "You enter a stance that lets you throw shuriken with lightning speed.",
- "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Shooting Stars Stance Single Action Source Advanced Player's Guide pg. 128 2.0 Prerequisites Monastic Weaponry --- You enter a stance that lets you throw shuriken with lightning speed. While in this stance, you can use your monk feats or monk abilities that normally require unarmed attacks with shuriken instead.",
+ "summary": "You enter a stance that lets you throw  shuriken  with lightning speed.",
+ "summary_markdown": "You enter a stance that lets you throw [shuriken](/Weapons.aspx?ID=439) with lightning speed.",
+ "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Shooting Stars Stance Single Action Source Player Core 2 pg. 120 1.1 Prerequisites Monastic Weaponry --- You enter a stance that lets you throw shuriken with lightning speed. While in this stance, you can use your monk feats or monk abilities that normally require unarmed attacks with shuriken instead.",
  "trait": [
   "Monk",
   "Stance"
  ],
- "trait_markdown": "[Monk](/Traits.aspx?ID=112), [Stance](/Traits.aspx?ID=152)",
+ "trait_group": [
+  "Class",
+  "Weapon",
+  "Class-Specific"
+ ],
+ "trait_markdown": "[Monk](/Traits.aspx?ID=656), [Stance](/Traits.aspx?ID=701)",
  "trait_raw": [
   "Monk",
   "Stance"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1737",
+ "url": "/Feats.aspx?ID=5988",
  "weakness": {}
 }

@@ -1,64 +1,74 @@
 {
  "actions": "Reaction",
+ "actions_number": 1,
  "bloodline_markdown": "",
- "breadcrumbs_spa": [],
  "category": "spell",
- "component": [
-  "verbal"
- ],
- "deity_markdown": "",
  "domain_markdown": "",
  "exclude_from_search": false,
+ "heighten_group": [
+  "3rd rank"
+ ],
  "heighten_level": [
   3
  ],
- "id": "spell-746",
+ "id": "spell-2070",
+ "legacy_id": [
+  "spell-746"
+ ],
  "level": 3,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Focus 3\" pfs=\"Standard\">[Battlefield Persistence](/Spells.aspx?ID=746)</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cursebound\" url=\"/Traits.aspx?ID=320\" />\r\n<trait label=\"Divination\" url=\"/Traits.aspx?ID=47\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=48\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 230 <sup>2.0</sup></row>\n\n**Mystery**\r\n[Battle](/Mysteries.aspx?ID=2)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Reaction\" /></row>\r\n<row>[verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n**Trigger** You are about to attempt a saving throw, but haven't rolled yet.\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou're difficult to remove from battle. You gain a +2 status bonus to the triggering save, and if the triggering save is against an [incapacitation](/Traits.aspx?ID=93) effect, it treats you as if you were 2 levels higher.",
+ "markdown": "<title level=\"1\" right=\"Focus 3\" pfs=\"Standard\">\r\n[Battlefield Persistence](/Spells.aspx?ID=2070)\r\n<actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 258 <sup>1.1</sup>\n\n**Mystery**\r\n[Battle](/Mysteries.aspx?ID=13)\n\n<row gap=\"medium\">\n\n \r\n\r\n**Trigger** You are about to attempt a saving throw, but you haven’t rolled yet.\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou're difficult to deter in battle. You gain a +2 status bonus to the triggering save, and if the triggering save is against an [incapacitation](/Traits.aspx?ID=631) effect, it treats you as if you were 2 levels higher.",
  "mystery": [
   "Battle"
  ],
- "mystery_markdown": "[Battle](/Mysteries.aspx?ID=2)",
+ "mystery_markdown": "[Battle](/Mysteries.aspx?ID=13)",
  "name": "Battlefield Persistence",
- "patron_theme_markdown": "",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 258",
+ "primary_source_category": "Rulebooks",
  "rarity": "uncommon",
- "release_date": "2020-07-30",
+ "rarity_id": 2,
+ "release_date": "2024-08-01",
  "resistance": {},
- "school": "divination",
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cursebound\" url=\"/Traits.aspx?ID=320\" />\r\n<trait label=\"Divination\" url=\"/Traits.aspx?ID=47\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=48\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 230 <sup>2.0</sup></row>\n\n**Mystery**\r\n[Battle](/Mysteries.aspx?ID=2)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Reaction\" /></row>\r\n<row>[verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n**Trigger** You are about to attempt a saving throw, but haven't rolled yet.\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou're difficult to remove from battle.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 258 <sup>1.1</sup>\n\n**Mystery**\r\n[Battle](/Mysteries.aspx?ID=13)\n\n<row gap=\"medium\">\n\n \r\n\r\n**Trigger** You are about to attempt a saving throw, but you haven’t rolled yet.\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou're difficult to deter in battle.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 230"
+  "Player Core 2 pg. 258"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 230 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 258 <sup>1.1</sup>",
  "speed": {},
- "summary": "You're difficult to remove from battle.",
- "summary_markdown": "You're difficult to remove from battle.",
- "text": " Battlefield Persistence Source Advanced Player's Guide pg. 230 2.0 Mystery Battle Cast Reaction verbal Trigger You are about to attempt a saving throw, but haven't rolled yet. --- You're difficult to remove from battle. You gain a +2 status bonus to the triggering save, and if the triggering save is against an incapacitation effect, it treats you as if you were 2 levels higher.",
+ "spell_type": "Focus",
+ "summary": "You're difficult to deter in battle.",
+ "summary_markdown": "You're difficult to deter in battle.",
+ "text": "\nBattlefield Persistence Reaction Source Player Core 2 pg. 258 1.1 Mystery Battle Trigger You are about to attempt a saving throw, but you haven’t rolled yet. --- You're difficult to deter in battle. You gain a +2 status bonus to the triggering save, and if the triggering save is against an incapacitation effect, it treats you as if you were 2 levels higher.",
  "tradition_markdown": "",
  "trait": [
-  "Cursebound",
-  "Divination",
-  "Divine",
+  "Concentrate",
+  "Focus",
   "Oracle",
   "Uncommon"
  ],
- "trait_markdown": "[Cursebound](/Traits.aspx?ID=320), [Divination](/Traits.aspx?ID=47), [Divine](/Traits.aspx?ID=48), [Oracle](/Traits.aspx?ID=319), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Mechanics",
+  "Class",
+  "Rarity"
+ ],
+ "trait_markdown": "[Concentrate](/Traits.aspx?ID=561), [Focus](/Traits.aspx?ID=511), [Oracle](/Traits.aspx?ID=319), [Uncommon](/Traits.aspx?ID=721)",
  "trait_raw": [
-  "Cursebound",
-  "Divination",
-  "Divine",
+  "Concentrate",
+  "Focus",
   "Oracle",
   "Uncommon"
  ],
- "trigger": "You are about to attempt a saving throw, but haven't rolled yet.",
- "trigger_markdown": "You are about to attempt a saving throw, but haven't rolled yet.",
- "type": "Focus",
- "url": "/Spells.aspx?ID=746",
+ "trigger": "You are about to attempt a saving throw, but you haven’t rolled yet.",
+ "trigger_markdown": "You are about to attempt a saving throw, but you haven’t rolled yet.",
+ "type": "Spell",
+ "url": "/Spells.aspx?ID=2070",
  "weakness": {}
 }

@@ -1,26 +1,35 @@
 {
- "breadcrumbs_spa": [],
  "category": "trait",
  "exclude_from_search": false,
- "id": "trait-413",
- "markdown": "<title level=\"1\" right=\"Trait\">[Scatter](/Traits.aspx?ID=413)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 235</row>\n\nThis weapon fires a cluster of pellets in a wide spray. Scatter always has an area listed with it, indicating the radius of the spray. On a hit, the primary target of attacks with a scatter weapon take the listed damage, and the target and all other creatures within the listed radius around it take 1 point of [splash](/Traits.aspx?ID=150) damage per weapon damage die.",
+ "id": "trait-848",
+ "legacy_id": [
+  "trait-413"
+ ],
+ "markdown": "<title level=\"1\" right=\"Trait\">[Scatter](/Traits.aspx?ID=848)</title>\r\n\r\n**Source** [NPC Core](/Sources.aspx?ID=236) pg. 50\n\nThis weapon fires a cluster of pellets in a wide spray. Scatter always has an area listed with it, indicating the radius of the spray. On a hit, the primary target of attacks with a scatter weapon take the listed damage, and the target and all other creatures within the listed radius around it take 1 point of splash damage per weapon damage die, of the same type as the initial attack. ",
  "name": "Scatter",
+ "primary_source": "NPC Core",
+ "primary_source_raw": "NPC Core pg. 50",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2021-10-13",
+ "rarity_id": 1,
+ "release_date": "2025-02-26",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 235</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis weapon fires a cluster of pellets in a wide spray. Scatter always has an area listed with it, indicating the radius of the spray. On a hit, the …\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [NPC Core](/Sources.aspx?ID=236) pg. 50\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis weapon fires a cluster of pellets in a wide spray. Scatter always has an area listed with it, indicating the radius of the spray. On a hit, the …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Guns & Gears"
+  "NPC Core"
  ],
  "source_raw": [
-  "Guns & Gears pg. 235"
+  "NPC Core pg. 50"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Guns &amp; Gears](/Sources.aspx?ID=98) pg. 235</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[NPC Core](/Sources.aspx?ID=236) pg. 50",
  "speed": {},
  "summary": "This weapon fires a cluster of pellets in a wide spray. Scatter always has an area listed with it, indicating the radius of the spray. On a hit, the …",
  "summary_markdown": "This weapon fires a cluster of pellets in a wide spray. Scatter always has an area listed with it, indicating the radius of the spray. On a hit, the …",
- "text": " Scatter Source Guns &amp; Gears pg. 235 This weapon fires a cluster of pellets in a wide spray. Scatter always has an area listed with it, indicating the radius of the spray. On a hit, the primary target of attacks with a scatter weapon take the listed damage, and the target and all other creatures within the listed radius around it take 1 point of splash damage per weapon damage die.",
+ "text": " Scatter Source NPC Core pg. 50 This weapon fires a cluster of pellets in a wide spray. Scatter always has an area listed with it, indicating the radius of the spray. On a hit, the primary target of attacks with a scatter weapon take the listed damage, and the target and all other creatures within the listed radius around it take 1 point of splash damage per weapon damage die, of the same type as the initial attack. ",
  "trait": [
   "Scatter"
  ],
@@ -32,6 +41,6 @@
   "Scatter"
  ],
  "type": "Trait",
- "url": "/Traits.aspx?ID=413",
+ "url": "/Traits.aspx?ID=848",
  "weakness": {}
 }

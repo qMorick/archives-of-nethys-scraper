@@ -1,29 +1,38 @@
 {
- "breadcrumbs_spa": [],
  "category": "creature-family",
  "creature_family": "Flytrap",
  "creature_family_markdown": "Flytrap",
  "exclude_from_search": false,
- "id": "creature-family-48",
- "markdown": "<title level=\"1\" right=\"Creature Family\">[Flytrap](/MonsterFamilies.aspx?ID=48)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 160</row>\n\nFlytraps are dangerous creatures as eager to feed on humanoids and larger prey as they are monstrous insects.\r\n\r\n<title level=\"2\">Members</title>\r\n[Giant Flytrap](/Monsters.aspx?ID=209) (Creature 10), [Snapping Flytrap](/Monsters.aspx?ID=208) (Creature 3)",
+ "id": "creature-family-416",
+ "legacy_id": [
+  "creature-family-48"
+ ],
+ "markdown": "<title level=\"1\" right=\"Creature Family\">[Flytrap](/MonsterFamilies.aspx?ID=416)</title>\r\n\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 154 <sup>1.1</sup>\n\nFlytraps eagerly feed on humanoids, monstrous insects, and larger prey.\r\n\r\n<title level=\"2\">Members</title>\r\n[Giant Flytrap](/Monsters.aspx?ID=3000) (Creature 10), [Snapping Flytrap](/Monsters.aspx?ID=2999) (Creature 3)\n\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Flytrap Treasure</title>\r\n\r\nGiant flytraps have enough instinctual intellect to effectively ambush prey or to move about to seek out better hunting grounds, but they don't value treasure. Still, a flytrap tends to accumulate a small wealth of discarded loot from those it has eaten, leaving these shiny baubles in the periphery of its root system once it has finished digesting its meal.\r\n</aside>",
  "name": "Flytrap",
+ "primary_source": "Monster Core",
+ "primary_source_raw": "Monster Core pg. 154",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-03-27",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 160</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFlytraps are dangerous creatures as eager to feed on humanoids and larger prey as they are monstrous insects.\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 154 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFlytraps eagerly feed on humanoids, monstrous insects, and larger prey.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Bestiary"
+  "Monster Core"
  ],
  "source_raw": [
-  "Bestiary pg. 160"
+  "Monster Core pg. 154"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 160</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Monster Core](/Sources.aspx?ID=221) pg. 154 <sup>1.1</sup>",
  "speed": {},
- "summary": "Flytraps are dangerous creatures as eager to feed on humanoids and larger prey as they are monstrous insects.",
- "summary_markdown": "Flytraps are dangerous creatures as eager to feed on humanoids and larger prey as they are monstrous insects.",
- "text": " Flytrap Source Bestiary pg. 160 Flytraps are dangerous creatures as eager to feed on humanoids and larger prey as they are monstrous insects. Members Giant Flytrap (Creature 10), Snapping Flytrap (Creature 3)",
+ "summary": "Flytraps eagerly feed on humanoids, monstrous insects, and larger prey.",
+ "summary_markdown": "Flytraps eagerly feed on humanoids, monstrous insects, and larger prey.",
+ "text": " Flytrap Source Monster Core pg. 154 1.1 Flytraps eagerly feed on humanoids, monstrous insects, and larger prey. Members Giant Flytrap (Creature 10), Snapping Flytrap (Creature 3) Flytrap Treasure Giant flytraps have enough instinctual intellect to effectively ambush prey or to move about to seek out better hunting grounds, but they don't value treasure. Still, a flytrap tends to accumulate a small wealth of discarded loot from those it has eaten, leaving these shiny baubles in the periphery of its root system once it has finished digesting its meal. ",
  "type": "Creature Family",
- "url": "/MonsterFamilies.aspx?ID=48",
+ "url": "/MonsterFamilies.aspx?ID=416",
  "weakness": {}
 }

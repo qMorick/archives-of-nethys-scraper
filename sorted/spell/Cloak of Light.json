@@ -1,19 +1,20 @@
 {
  "actions": "Two Actions",
+ "actions_number": 4,
  "bloodline_markdown": "",
- "breadcrumbs_spa": [],
  "category": "spell",
- "component": [
-  "somatic",
-  "verbal"
- ],
- "deity_markdown": "",
  "domain_markdown": "",
- "duration": 30,
- "duration_raw": "sustained for up to 5 rounds",
+ "duration": 60,
+ "duration_raw": "<%ACTIONS%2317%%>sustained<%END> for up to 1 minute",
  "exclude_from_search": false,
  "heighten": [
   "+2"
+ ],
+ "heighten_group": [
+  "4th rank",
+  "Heightened 6th rank",
+  "Heightened 8th rank",
+  "Heightened 10th rank"
  ],
  "heighten_level": [
   4,
@@ -21,54 +22,66 @@
   8,
   10
  ],
- "id": "spell-1079",
+ "id": "spell-2346",
+ "legacy_id": [
+  "spell-1079"
+ ],
  "level": 4,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Spell 4\" pfs=\"Limited\">[Cloak of Light](/Spells.aspx?ID=1079)</title>\r\n\r\n<spoilers>May contain spoilers from Strength of Thousands</spoilers>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=89\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=100\" />\r\n<trait label=\"Necromancy\" url=\"/Traits.aspx?ID=117\" />\r\n<trait label=\"Positive\" url=\"/Traits.aspx?ID=128\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 77</row>\n\n**Traditions**\r\n[Divine](/SpellLists.aspx?Tradition=2), [Primal](/SpellLists.aspx?Tradition=4)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** sustained for up to 5 rounds\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou surround yourself in holy light that restores the living and rebuffs undead. You glow with bright light in a 30-foot radius and dim light to the next 30 feet. Living creatures that begin their turn adjacent to you recover 2d4 Hit Points. [Undead](/Traits.aspx?ID=160) creatures that begin their turn adjacent to you take 4d4 positive damage.\n\n---\r\n**Heightened (+2)** The healing increases by 1d4, and the damage to undead increases by 2d4.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Spell 4\" pfs=\"Standard\">\r\n[Cloak of Light](/Spells.aspx?ID=2346)\r\n<actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=89\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=100\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n<trait label=\"Vitality\" url=\"/Traits.aspx?ID=509\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 256\n\n**Traditions**\r\n[Divine](/SpellLists.aspx?Tradition=2), [Primal](/SpellLists.aspx?Tradition=4)\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** [sustained](/Actions.aspx?ID=2317) for up to 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou surround yourself in holy light that restores the living and rebuffs undead. You glow with [bright light](/Rules.aspx?ID=2402) in a 30-foot radius and [dim light](/Rules.aspx?ID=2403) to the next 30 feet. Living creatures that begin their turn adjacent to you recover 4d6 Hit Points. [Undead](/Traits.aspx?ID=722) creatures that begin their turn adjacent to you take 4d6 [vitality](/Traits.aspx?ID=509) damage (basic Fortitude save).\n\n---\r\n**Heightened (+2)** The healing increases by 2d6, and the damage to undead increases by 2d6.",
  "name": "Cloak of Light",
- "patron_theme_markdown": "",
- "pfs": "Limited",
- "rarity": "uncommon",
- "release_date": "2021-10-13",
+ "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 256",
+ "primary_source_category": "Lost Omens",
+ "rarity": "common",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
  "resistance": {},
- "school": "necromancy",
- "search_markdown": "<spoilers>May contain spoilers from Strength of Thousands</spoilers>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=89\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=100\" />\r\n<trait label=\"Necromancy\" url=\"/Traits.aspx?ID=117\" />\r\n<trait label=\"Positive\" url=\"/Traits.aspx?ID=128\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 77</row>\r\n\r\n**Traditions**\r\n[Divine](/SpellLists.aspx?Tradition=2), [Primal](/SpellLists.aspx?Tradition=4)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Duration** sustained for up to 5 rounds\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou surround yourself in holy light that restores the living and rebuffs undead.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=89\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=100\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n<trait label=\"Vitality\" url=\"/Traits.aspx?ID=509\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 256\r\n\r\n**Traditions**\r\n[Divine](/SpellLists.aspx?Tradition=2), [Primal](/SpellLists.aspx?Tradition=4)\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** [sustained](/Actions.aspx?ID=2317) for up to 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou surround yourself in holy light that restores the living and rebuffs undead.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Pathfinder #172: Secrets of the Temple City"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Pathfinder #172: Secrets of the Temple City pg. 77"
+  "Divine Mysteries pg. 256"
  ],
- "source_category": "Adventure Paths",
- "source_group": "Strength of Thousands",
- "source_markdown": "<row gap=\"tiny\">[Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 77</row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 256",
  "speed": {},
- "spoilers": "Strength of Thousands",
+ "spell_type": "Spell",
  "summary": "You surround yourself in holy light that restores the living and rebuffs undead.",
  "summary_markdown": "You surround yourself in holy light that restores the living and rebuffs undead.",
- "text": " Cloak of Light May contain spoilers from Strength of Thousands Source Pathfinder #172: Secrets of the Temple City pg. 77 Traditions Divine, Primal Cast Two Actions somatic, verbal Duration sustained for up to 5 rounds --- You surround yourself in holy light that restores the living and rebuffs undead. You glow with bright light in a 30-foot radius and dim light to the next 30 feet. Living creatures that begin their turn adjacent to you recover 2d4 Hit Points. Undead creatures that begin their turn adjacent to you take 4d4 positive damage. --- Heightened (+2) The healing increases by 1d4, and the damage to undead increases by 2d4.",
+ "text": "\nCloak of Light Two Actions Source Divine Mysteries pg. 256 Traditions Divine, Primal Duration sustained for up to 1 minute --- You surround yourself in holy light that restores the living and rebuffs undead. You glow with bright light in a 30-foot radius and dim light to the next 30 feet. Living creatures that begin their turn adjacent to you recover 4d6 Hit Points. Undead creatures that begin their turn adjacent to you take 4d6 vitality damage (basic Fortitude save). --- Heightened (+2) The healing increases by 2d6, and the damage to undead increases by 2d6.",
  "tradition": [
   "Divine",
   "Primal"
  ],
  "tradition_markdown": "[Divine](/SpellLists.aspx?Tradition=2), [Primal](/SpellLists.aspx?Tradition=4)",
  "trait": [
+  "Concentrate",
   "Healing",
   "Light",
-  "Necromancy",
-  "Positive",
-  "Uncommon"
+  "Manipulate",
+  "Vitality",
+  "Positive"
  ],
- "trait_markdown": "[Healing](/Traits.aspx?ID=89), [Light](/Traits.aspx?ID=100), [Necromancy](/Traits.aspx?ID=117), [Positive](/Traits.aspx?ID=128), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Mechanics",
+  "Energy",
+  "Planar",
+  "Creature Type"
+ ],
+ "trait_markdown": "[Concentrate](/Traits.aspx?ID=32), [Healing](/Traits.aspx?ID=89), [Light](/Traits.aspx?ID=100), [Manipulate](/Traits.aspx?ID=104), [Vitality](/Traits.aspx?ID=509)",
  "trait_raw": [
+  "Concentrate",
   "Healing",
   "Light",
-  "Necromancy",
-  "Positive",
-  "Uncommon"
+  "Manipulate",
+  "Vitality"
  ],
  "type": "Spell",
- "url": "/Spells.aspx?ID=1079",
+ "url": "/Spells.aspx?ID=2346",
  "weakness": {}
 }

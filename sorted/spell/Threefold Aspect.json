@@ -1,66 +1,81 @@
 {
  "actions": "1 minute",
+ "actions_number": 60,
  "bloodline_markdown": "",
- "breadcrumbs_spa": [],
  "category": "spell",
  "component": [
-  "material",
-  "somatic",
-  "verbal"
+  "1 minute"
  ],
  "deity": [
-  "Followers of Fate",
+  "Guardians Of The Sacred Self",
   "Lymnieris",
   "Magdh",
+  "Mestama",
+  "Phlegyas",
   "Ra"
  ],
- "deity_markdown": "[Followers of Fate](/Deities.aspx?ID=210), [Lymnieris](/Deities.aspx?ID=124), [Magdh](/Deities.aspx?ID=97), [Ra](/Deities.aspx?ID=57)",
+ "deity_markdown": "[Guardians Of The Sacred Self](/Deities.aspx?ID=379), [Lymnieris](/Deities.aspx?ID=649), [Magdh](/Deities.aspx?ID=457), [Mestama](/Deities.aspx?ID=519), [Phlegyas](/Deities.aspx?ID=546), [Ra](/Deities.aspx?ID=521)",
  "domain_markdown": "",
  "duration_raw": "until the next time you make your daily preparations",
  "exclude_from_search": false,
+ "heighten_group": [
+  "3rd rank"
+ ],
  "heighten_level": [
   3
  ],
- "id": "spell-723",
+ "id": "spell-2038",
+ "legacy_id": [
+  "spell-723"
+ ],
  "level": 3,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Spell 3\" pfs=\"Standard\">[Threefold Aspect](/Spells.aspx?ID=723)</title>\n\n<traits>\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=127\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 226 <sup>2.0</sup></row>\n\n**Traditions**\r\n[Occult](/SpellLists.aspx?Tradition=3), [Primal](/SpellLists.aspx?Tradition=4)\n\n**Deities**\r\n[Followers of Fate](/Deities.aspx?ID=210), [Lymnieris](/Deities.aspx?ID=124), [Magdh](/Deities.aspx?ID=97), [Ra](/Deities.aspx?ID=57)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n\r\n<row>1 minute ([material](/Rules.aspx?ID=282), [somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284))</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** until the next time you make your daily preparations\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nThis spell allows you to change between three versions of yourself of different ages: a maiden (young adult), a mother (adult), or a matriarch (elderly). Choose one when you Cast the Spell. While the spell lasts, you can change the age to any of the three or to your natural age with a single action, which has the [concentrate](/Traits.aspx?ID=32) trait. Your form always looks like you regardless of the age, and creatures who know you still recognize you and can tell your age is different. \n\n_Threefold aspect_ alters your physical appearance and personality to present an authentic version of yourself at various ages. This grants you a +4 status bonus to [Deception](/Skills.aspx?ID=5) checks to pass as the chosen age, and you can add your level as a proficiency bonus to these checks even if you're untrained. Furthermore, unless a creature specifically uses a [Seek](/Actions.aspx?ID=84) action or otherwise carefully examines you, it doesn't get a chance to notice that you aren't at your true age. You can Dismiss this spell.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Spell 3\" pfs=\"Standard\">\r\n[Threefold Aspect](/Spells.aspx?ID=2038)\r\n<actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=645\" />\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=670\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 254 <sup>1.1</sup>\n\n**Traditions**\r\n[Occult](/SpellLists.aspx?Tradition=3), [Primal](/SpellLists.aspx?Tradition=4)\n\n**Deities**\r\n[Guardians Of The Sacred Self](/Deities.aspx?ID=379), [Lymnieris](/Deities.aspx?ID=649), [Magdh](/Deities.aspx?ID=457), [Mestama](/Deities.aspx?ID=519), [Phlegyas](/Deities.aspx?ID=546), [Ra](/Deities.aspx?ID=521)\n\n<row gap=\"medium\">\r\n\r\n**Cast** 1 minute\r\n\r\n \n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** until the next time you make your daily preparations\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nThis spell allows you to change between three versions of yourself of different ages: a maiden (young adult), a mother (adult), or a matriarch (elderly). Choose one when you Cast the Spell. While the spell lasts, you can change the age to any of the three or to your natural age by Sustaining the spell. Your form always looks like you regardless of the age, and creatures who know you still recognize you and can tell your age is different.\n\n _Threefold aspect_ alters your physical appearance and personality to present an authentic version of yourself at various ages. This grants you a +4 status bonus to [Deception](/Skills.aspx?ID=38) checks to pass as the chosen age, and you can add your level as a proficiency bonus to these checks even if you're untrained. Furthermore, unless a creature specifically uses a [Seek](/Actions.aspx?ID=2301) action or otherwise carefully examines you, it doesn't get a chance to notice that you aren't at your true age. You can Dismiss this spell.",
  "name": "Threefold Aspect",
- "patron_theme_markdown": "",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 254",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "school": "transmutation",
- "search_markdown": "<traits>\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=127\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 226 <sup>2.0</sup></row>\r\n\r\n**Traditions**\r\n[Occult](/SpellLists.aspx?Tradition=3), [Primal](/SpellLists.aspx?Tradition=4)\n\n**Deities**\r\n[Followers of Fate](/Deities.aspx?ID=210), [Lymnieris](/Deities.aspx?ID=124), [Magdh](/Deities.aspx?ID=97), [Ra](/Deities.aspx?ID=57)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n\r\n<row>1 minute ([material](/Rules.aspx?ID=282), [somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284))</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Duration** until the next time you make your daily preparations\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSwitch between versions of yourself at different ages.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=645\" />\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=670\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 254 <sup>1.1</sup>\r\n\r\n**Traditions**\r\n[Occult](/SpellLists.aspx?Tradition=3), [Primal](/SpellLists.aspx?Tradition=4)\n\n**Deities**\r\n[Guardians Of The Sacred Self](/Deities.aspx?ID=379), [Lymnieris](/Deities.aspx?ID=649), [Magdh](/Deities.aspx?ID=457), [Mestama](/Deities.aspx?ID=519), [Phlegyas](/Deities.aspx?ID=546), [Ra](/Deities.aspx?ID=521)\n\n<row gap=\"medium\">\r\n\r\n**Cast** 1 minute\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** until the next time you make your daily preparations\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nShift yourself between three ages.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 226"
+  "Player Core 2 pg. 254"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 226 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 254 <sup>1.1</sup>",
  "speed": {},
- "summary": "Switch between versions of yourself at different ages.",
- "summary_markdown": "Switch between versions of yourself at different ages.",
- "text": " Threefold Aspect Source Advanced Player's Guide pg. 226 2.0 Traditions Occult, Primal Deities Followers of Fate, Lymnieris, Magdh, Ra Cast 1 minute (material, somatic, verbal) Duration until the next time you make your daily preparations --- This spell allows you to change between three versions of yourself of different ages: a maiden (young adult), a mother (adult), or a matriarch (elderly). Choose one when you Cast the Spell. While the spell lasts, you can change the age to any of the three or to your natural age with a single action, which has the concentrate trait. Your form always looks like you regardless of the age, and creatures who know you still recognize you and can tell your age is different. Threefold aspect alters your physical appearance and personality to present an authentic version of yourself at various ages. This grants you a +4 status bonus to Deception checks to pass as the chosen age, and you can add your level as a proficiency bonus to these checks even if you're untrained. Furthermore, unless a creature specifically uses a Seek action or otherwise carefully examines you, it doesn't get a chance to notice that you aren't at your true age. You can Dismiss this spell.",
+ "spell_type": "Spell",
+ "summary": "Shift yourself between three ages.",
+ "summary_markdown": "Shift yourself between three ages.",
+ "text": "\nThreefold Aspect Source Player Core 2 pg. 254 1.1 Traditions Occult, Primal Deities Guardians Of The Sacred Self, Lymnieris, Magdh, Mestama, Phlegyas, Ra Cast 1 minute Duration until the next time you make your daily preparations --- This spell allows you to change between three versions of yourself of different ages: a maiden (young adult), a mother (adult), or a matriarch (elderly). Choose one when you Cast the Spell. While the spell lasts, you can change the age to any of the three or to your natural age by Sustaining the spell. Your form always looks like you regardless of the age, and creatures who know you still recognize you and can tell your age is different. Threefold aspect alters your physical appearance and personality to present an authentic version of yourself at various ages. This grants you a +4 status bonus to Deception checks to pass as the chosen age, and you can add your level as a proficiency bonus to these checks even if you're untrained. Furthermore, unless a creature specifically uses a Seek action or otherwise carefully examines you, it doesn't get a chance to notice that you aren't at your true age. You can Dismiss this spell.",
  "tradition": [
   "Occult",
   "Primal"
  ],
  "tradition_markdown": "[Occult](/SpellLists.aspx?Tradition=3), [Primal](/SpellLists.aspx?Tradition=4)",
  "trait": [
-  "Polymorph",
-  "Transmutation"
+  "Concentrate",
+  "Manipulate",
+  "Polymorph"
  ],
- "trait_markdown": "[Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)",
+ "trait_group": [
+  "Mechanics"
+ ],
+ "trait_markdown": "[Concentrate](/Traits.aspx?ID=561), [Manipulate](/Traits.aspx?ID=645), [Polymorph](/Traits.aspx?ID=670)",
  "trait_raw": [
-  "Polymorph",
-  "Transmutation"
+  "Concentrate",
+  "Manipulate",
+  "Polymorph"
  ],
  "type": "Spell",
- "url": "/Spells.aspx?ID=723",
+ "url": "/Spells.aspx?ID=2038",
  "weakness": {}
 }

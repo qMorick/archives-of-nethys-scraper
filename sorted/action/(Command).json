@@ -1,28 +1,35 @@
 {
  "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions_number": 2,
  "category": "action",
  "exclude_from_search": true,
  "frequency": "once per day",
  "id": "action-298",
- "markdown": "**Activate** <actions string=\"Single Action\" />(Command);  **Frequency** once per day;   **Effect** Issue an order as part of the command. You and each ally within 60 feet who follows that order gain a +1 status bonus to attack rolls, damage rolls, and saving throws against fear until the beginning of your next turn.",
+ "markdown": "**Activate** <actions string=\"Single Action\" /> (Command);  **Frequency** once per day;   **Effect** Issue an order as part of the command. You and each ally within 60 feet who follows that order gain a +1 status bonus to attack rolls, damage rolls, and saving throws against fear until the beginning of your next turn.",
  "name": "(Command)",
+ "primary_source": "World Guide",
+ "primary_source_raw": "World Guide pg. 124",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
+ "rarity_id": 1,
  "release_date": "2019-08-31",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [World Guide](/Sources.aspx?ID=6) pg. 124 <sup>2.0</sup></row>\r\n\r\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIssue an order as part of the command. You and each ally within 60 feet who follows that order gain a +1 status bonus to attack rolls, damage rolls, …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [World Guide](/Sources.aspx?ID=6) pg. 124 <sup>2.0</sup>\r\n\r\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIssue an order as part of the command. You and each ally within 60 feet who follows that order gain a +1 status bonus to attack rolls, damage rolls, …\r\n</summary>",
+ "skill_mod": {},
  "source": [
   "World Guide"
  ],
  "source_raw": [
   "World Guide pg. 124"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[World Guide](/Sources.aspx?ID=6) pg. 124 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[World Guide](/Sources.aspx?ID=6) pg. 124 <sup>2.0</sup>",
  "speed": {},
  "summary": "Issue an order as part of the command. You and each ally within 60 feet who follows that order gain a +1 status bonus to attack rolls, damage rolls, …",
  "summary_markdown": "Issue an order as part of the command. You and each ally within 60 feet who follows that order gain a +1 status bonus to attack rolls, damage rolls, …",
- "text": " Activate Single Action(Command); Frequency once per day; Effect Issue an order as part of the command. You and each ally within 60 feet who follows that order gain a +1 status bonus to attack rolls, damage rolls, and saving throws against fear until the beginning of your next turn.",
+ "text": " Activate Single Action (Command); Frequency once per day; Effect Issue an order as part of the command. You and each ally within 60 feet who follows that order gain a +1 status bonus to attack rolls, damage rolls, and saving throws against fear until the beginning of your next turn.",
  "trait_markdown": "",
  "type": "Action",
  "url": "/Actions.aspx?ID=298",

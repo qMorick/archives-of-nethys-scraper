@@ -1,29 +1,38 @@
 {
- "breadcrumbs_spa": [],
  "category": "creature-family",
  "creature_family": "Naga",
  "creature_family_markdown": "Naga",
  "exclude_from_search": false,
- "id": "creature-family-75",
- "markdown": "<title level=\"1\" right=\"Creature Family\">[Naga](/MonsterFamilies.aspx?ID=75)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 242</row>\n\nNagas are serpentine beings with magical powers and keen, nearly inscrutable intellects. Physically, they resemble massive snakes with eerie visages that resemble those of humans. Nagas use their innate magic and poisonous fangs to keep all but the most stalwart foes at bay. Beyond the natural weapons they use to ward away foes, little is understood of the naga’s unsettling physiology.\n\n Nagas are intelligent creatures with powerful needs to pursue, be they the accumulation of knowledge, the collection of rare art, or the rule of an entire nation. On Golarion, the nation of Nagajor is one such society—an entire empire ruled by nagas and populated by reptilian humanoids who serve their naga rulers with a patriotic pride that borders on worship.\n\n Still, most adventurers interact with nagas on a much smaller scale, encountering them as dangerous guardians in remote locations or not-so-abandoned ruins. In many cases, these nagas have heard of distant Nagajor, but they are usually unwilling to abandon their own pursuits to seek out a land where they might be worshipped as gods.\r\n\r\n<title level=\"2\">Members</title>\r\n[Dark Naga](/Monsters.aspx?ID=306) (Creature 7), [Guardian Naga](/Monsters.aspx?ID=307) (Creature 10), [Lunar Naga](/Monsters.aspx?ID=736) (Creature 6), [Spirit Naga](/Monsters.aspx?ID=737) (Creature 9)\n\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Nagas and Others</title>\r\n\r\nDark nagas might rule over goblins, orcs, xulgaths, or decadent folk, especially corrupt aristocrats. Guardian nagas might be found with other goodly creatures of any sort, from fey in natural sites to constructs in ancient vaults.\r\n</aside>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Other Nagas</title>\r\n\r\nBeyond the sinister dark naga and the benevolent guardian naga, many other types of nagas exist, including the mesmerizing spirit naga, the multiheaded royal naga, and the introspective and mysterious lunar naga.\r\n</aside>",
+ "id": "creature-family-446",
+ "legacy_id": [
+  "creature-family-75"
+ ],
+ "markdown": "<title level=\"1\" right=\"Creature Family\">[Naga](/MonsterFamilies.aspx?ID=446)</title>\r\n\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 236 <sup>1.1</sup>\n\nNagas are serpentine beings with magical powers and keen intellects. Physically, they resemble massive snakes, though they often wear jewelry and other ornaments that clearly separate them from their animal kin. Nagas use their innate magic and poisonous fangs to keep all but the most stalwart foes at bay. They keep their own counsel, viewing their cosmic role to be sacrosanct and beyond the understanding of outside scholars. Their unwillingness to explain themselves or entertain the suggestion of alliances has led to a long history of conflict with their neighbors, who read them as aloof, arrogant, or duplicitous. Nagas often have a powerful sense of duty to their perceived role within the universe, even if this role leads them to violent or tragic ends. Many see them as harsh and stern due to their devotion, terrifying in their majesty yet possessed of an aura of transcendence. \r\n\r\n<title level=\"2\">Members</title>\r\n[Smaranava](/Monsters.aspx?ID=3103) (Creature 7), [Vicharamuni](/Monsters.aspx?ID=3104) (Creature 10)\n\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_3_Locations.png\">Nagajor</title>\r\n\r\nOn Golarion, naga rule the nation of Nagajor—though most of the administration is performed by [nagaji](/MonsterFamilies.aspx?ID=251), humanoid kin to these powerful serpents. Though Nagajor has been at peace with its neighbors for centuries, it avoids having much to do with human societies if it can help it, to avoid any chance of renewed hostilities in the future.\r\n</aside>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Ravithra</title>\r\n\r\n[Ravithra](/Deities.aspx?ID=218), the Pillar of Karma, ruled over Vudra in ages long past, alongside the aeons. After the first in a series of betrayals, her severed head regrew a serpentine body as she became the Mother of Nagas. Those descendants that still follow her deal out pitiless justice, while also seeking to restore her power.\r\n</aside>",
  "name": "Naga",
+ "primary_source": "Monster Core",
+ "primary_source_raw": "Monster Core pg. 236",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-03-27",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 242</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nNagas are serpentine beings with magical powers and keen, nearly inscrutable intellects. Physically, they resemble massive snakes with eerie visages …\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 236 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nNagas are serpentine beings with magical powers and keen intellects. Physically, they resemble massive snakes, though they often wear jewelry and …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Bestiary"
+  "Monster Core"
  ],
  "source_raw": [
-  "Bestiary pg. 242"
+  "Monster Core pg. 236"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 242</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Monster Core](/Sources.aspx?ID=221) pg. 236 <sup>1.1</sup>",
  "speed": {},
- "summary": "Nagas are serpentine beings with magical powers and keen, nearly inscrutable intellects. Physically, they resemble massive snakes with eerie visages …",
- "summary_markdown": "Nagas are serpentine beings with magical powers and keen, nearly inscrutable intellects. Physically, they resemble massive snakes with eerie visages …",
- "text": " Naga Source Bestiary pg. 242 Nagas are serpentine beings with magical powers and keen, nearly inscrutable intellects. Physically, they resemble massive snakes with eerie visages that resemble those of humans. Nagas use their innate magic and poisonous fangs to keep all but the most stalwart foes at bay. Beyond the natural weapons they use to ward away foes, little is understood of the naga’s unsettling physiology. Nagas are intelligent creatures with powerful needs to pursue, be they the accumulation of knowledge, the collection of rare art, or the rule of an entire nation. On Golarion, the nation of Nagajor is one such society—an entire empire ruled by nagas and populated by reptilian humanoids who serve their naga rulers with a patriotic pride that borders on worship. Still, most adventurers interact with nagas on a much smaller scale, encountering them as dangerous guardians in remote locations or not-so-abandoned ruins. In many cases, these nagas have heard of distant Nagajor, but they are usually unwilling to abandon their own pursuits to seek out a land where they might be worshipped as gods. Members Dark Naga (Creature 7), Guardian Naga (Creature 10), Lunar Naga (Creature 6), Spirit Naga (Creature 9) Nagas and Others Dark nagas might rule over goblins, orcs, xulgaths, or decadent folk, especially corrupt aristocrats. Guardian nagas might be found with other goodly creatures of any sort, from fey in natural sites to constructs in ancient vaults. Other Nagas Beyond the sinister dark naga and the benevolent guardian naga, many other types of nagas exist, including the mesmerizing spirit naga, the multiheaded royal naga, and the introspective and mysterious lunar naga. ",
+ "summary": "Nagas are serpentine beings with magical powers and keen intellects. Physically, they resemble massive snakes, though they often wear jewelry and …",
+ "summary_markdown": "Nagas are serpentine beings with magical powers and keen intellects. Physically, they resemble massive snakes, though they often wear jewelry and …",
+ "text": " Naga Source Monster Core pg. 236 1.1 Nagas are serpentine beings with magical powers and keen intellects. Physically, they resemble massive snakes, though they often wear jewelry and other ornaments that clearly separate them from their animal kin. Nagas use their innate magic and poisonous fangs to keep all but the most stalwart foes at bay. They keep their own counsel, viewing their cosmic role to be sacrosanct and beyond the understanding of outside scholars. Their unwillingness to explain themselves or entertain the suggestion of alliances has led to a long history of conflict with their neighbors, who read them as aloof, arrogant, or duplicitous. Nagas often have a powerful sense of duty to their perceived role within the universe, even if this role leads them to violent or tragic ends. Many see them as harsh and stern due to their devotion, terrifying in their majesty yet possessed of an aura of transcendence. Members Smaranava (Creature 7), Vicharamuni (Creature 10) Nagajor On Golarion, naga rule the nation of Nagajor—though most of the administration is performed by nagaji, humanoid kin to these powerful serpents. Though Nagajor has been at peace with its neighbors for centuries, it avoids having much to do with human societies if it can help it, to avoid any chance of renewed hostilities in the future. Ravithra Ravithra, the Pillar of Karma, ruled over Vudra in ages long past, alongside the aeons. After the first in a series of betrayals, her severed head regrew a serpentine body as she became the Mother of Nagas. Those descendants that still follow her deal out pitiless justice, while also seeking to restore her power. ",
  "type": "Creature Family",
- "url": "/MonsterFamilies.aspx?ID=75",
+ "url": "/MonsterFamilies.aspx?ID=446",
  "weakness": {}
 }

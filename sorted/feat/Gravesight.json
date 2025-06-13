@@ -1,42 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Gravesight"
  ],
  "feat_markdown": "Gravesight",
- "id": "feat-1369",
+ "id": "feat-5752",
+ "legacy_id": [
+  "feat-1369"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Gravesight](/Feats.aspx?ID=1369) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Duskwalker\" url=\"/Traits.aspx?ID=257\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 38 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[low-light vision](/Rules.aspx?ID=416)\n\n</column>\r\n\r\n---\r\n\r\nYou can see in the darkness as easily as a [psychopomp](/MonsterFamilies.aspx?ID=83). You gain [darkvision](/Rules.aspx?ID=415).\n\n**Special** You can select this feat only at 1st level, and you can't retrain into or out of this feat.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Gravesight](/Feats.aspx?ID=5752) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Duskwalker\" url=\"/Traits.aspx?ID=751\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 49 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou can see in the darkness as easily as a psychopomp. You gain [darkvision](/Rules.aspx?ID=415).\n\n**Special** You can select this feat only at 1st level, and you can't retrain into or out of this feat.",
  "name": "Gravesight",
  "pfs": "Standard",
- "prerequisite": "low-light vision",
- "prerequisite_markdown": "[low-light vision](/Rules.aspx?ID=416)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 49",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Duskwalker\" url=\"/Traits.aspx?ID=257\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 38 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[low-light vision](/Rules.aspx?ID=416)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can see in the darkness as easily as a psychopomp.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Duskwalker\" url=\"/Traits.aspx?ID=751\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 49 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can see in the darkness as easily as a psychopomp.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 38"
+  "Player Core 2 pg. 49"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 38 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 49 <sup>1.1</sup>",
  "speed": {},
  "summary": "You can see in the darkness as easily as a psychopomp.",
  "summary_markdown": "You can see in the darkness as easily as a psychopomp.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Gravesight Source Advanced Player's Guide pg. 38 2.0 Prerequisites low-light vision --- You can see in the darkness as easily as a psychopomp. You gain darkvision. Special You can select this feat only at 1st level, and you can't retrain into or out of this feat.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Gravesight Source Player Core 2 pg. 49 1.1 --- You can see in the darkness as easily as a psychopomp. You gain darkvision. Special You can select this feat only at 1st level, and you can't retrain into or out of this feat.",
  "trait": [
   "Duskwalker"
  ],
- "trait_markdown": "[Duskwalker](/Traits.aspx?ID=257)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Duskwalker](/Traits.aspx?ID=751)",
  "trait_raw": [
   "Duskwalker"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1369",
+ "url": "/Feats.aspx?ID=5752",
  "weakness": {}
 }

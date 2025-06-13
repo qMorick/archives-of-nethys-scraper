@@ -2,44 +2,56 @@
  "archetype": [
   "Oracle"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Basic Oracle Spellcasting"
  ],
  "feat_markdown": "Basic Oracle Spellcasting",
- "id": "feat-1853",
+ "id": "feat-6219",
+ "legacy_id": [
+  "feat-1853"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Basic Oracle Spellcasting](/Feats.aspx?ID=1853) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 152 <sup>2.0</sup></row>\n\n**Archetype** [Oracle](/Archetypes.aspx?ID=42)\n\n**Prerequisites**\r\n[Oracle Dedication](/Feats.aspx?ID=1851)\n\n</column>\r\n\r\n---\r\n\r\nYou gain the [basic spellcasting benefits](/Rules.aspx?ID=170). When you gain a spell slot of a new level from the oracle archetype, add a common divine spell or another divine spell you have learned or discovered to your repertoire, of that spell level.\n\n<title level=\"2\">Basic Oracle Spellcasting leads to...</title>\r\n[Expert Oracle Spellcasting](/Feats.aspx?ID=1857), [Mysterious Breadth](/Feats.aspx?ID=1856)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Basic Oracle Spellcasting](/Feats.aspx?ID=6219) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 180 <sup>1.1</sup>\n\n**Archetype** [Oracle](/Archetypes.aspx?ID=233)\n\n**Prerequisites**\r\n[Oracle Dedication](/Feats.aspx?ID=6217)\n\n</column>\r\n\r\n---\r\n\r\nYou gain the basic spellcasting benefits. When you gain a spell slot of a new rank from the oracle archetype, add a common divine spell or another divine spell you have learned or discovered (including the granted spells associated with your mystery) to your repertoire, of that spell rank.\n\n<title level=\"2\">Basic Oracle Spellcasting leads to...</title>\r\n[Expert Oracle Spellcasting](/Feats.aspx?ID=6223), [Mysterious Breadth](/Feats.aspx?ID=6222)",
  "name": "Basic Oracle Spellcasting",
  "pfs": "Standard",
  "prerequisite": "Oracle Dedication",
- "prerequisite_markdown": "[Oracle Dedication](/Feats.aspx?ID=1851)",
+ "prerequisite_markdown": "[Oracle Dedication](/Feats.aspx?ID=6217)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 180",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 152 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Oracle Dedication](/Feats.aspx?ID=1851)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain the basic spellcasting benefits.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 180 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Oracle Dedication](/Feats.aspx?ID=6217)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain the basic spellcasting benefits.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 152"
+  "Player Core 2 pg. 180"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 152 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 180 <sup>1.1</sup>",
  "speed": {},
  "summary": "You gain the basic spellcasting benefits.",
  "summary_markdown": "You gain the basic spellcasting benefits.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Basic Oracle Spellcasting Source Advanced Player's Guide pg. 152 2.0 Archetype Oracle Prerequisites Oracle Dedication --- You gain the basic spellcasting benefits. When you gain a spell slot of a new level from the oracle archetype, add a common divine spell or another divine spell you have learned or discovered to your repertoire, of that spell level. Basic Oracle Spellcasting leads to... Expert Oracle Spellcasting, Mysterious Breadth",
+ "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Basic Oracle Spellcasting Source Player Core 2 pg. 180 1.1 Archetype Oracle Prerequisites Oracle Dedication --- You gain the basic spellcasting benefits. When you gain a spell slot of a new rank from the oracle archetype, add a common divine spell or another divine spell you have learned or discovered (including the granted spells associated with your mystery) to your repertoire, of that spell rank. Basic Oracle Spellcasting leads to... Expert Oracle Spellcasting, Mysterious Breadth",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1853",
+ "url": "/Feats.aspx?ID=6219",
  "weakness": {}
 }

@@ -1,62 +1,71 @@
 {
  "actions": "Two Actions",
+ "actions_number": 4,
  "bloodline_markdown": "",
- "breadcrumbs_spa": [],
  "category": "spell",
  "component": [
   "somatic",
   "verbal"
  ],
- "deity_markdown": "",
  "domain_markdown": "",
  "duration": 60,
  "duration_raw": "1 minute",
  "exclude_from_search": false,
+ "heighten_group": [
+  "6th rank"
+ ],
  "heighten_level": [
   6
  ],
  "id": "spell-893",
  "level": 6,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Spell 6\" pfs=\"Standard\">[Demon Form](/Spells.aspx?ID=893)</title>\n\n<traits>\r\n<trait label=\"Chaotic\" url=\"/Traits.aspx?ID=25\" />\r\n<trait label=\"Evil\" url=\"/Traits.aspx?ID=64\" />\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=127\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 99 <sup>1.1</sup></row>\n\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Divine](/SpellLists.aspx?Tradition=2)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou corrupt yourself with the sin of the [Abyss](/Planes.aspx?ID=13), transforming into a Medium demon battle form. When you cast this spell, choose babau, hezrou, nabasu, or vrock. If you choose hezrou, the battle form is Large and you must have enough space to expand into or the spell is lost. While in this form, you gain the [demon](/Traits.aspx?ID=42) and [fiend](/Traits.aspx?ID=70) traits. You have hands in this battle form and can use [manipulate](/Traits.aspx?ID=104) actions. You can Dismiss the spell.\n\n You gain the following statistics and abilities regardless of the form that you choose: \n<ul><li>AC = 20 + your level. Ignore your armor check's penalty and Speed reduction.</li><li>30 temporary Hit Points, weakness 5 to [cold iron](/Equipment.aspx?ID=375), and weakness 5 to good.</li><li>[Darkvision](/Rules.aspx?ID=415).</li><li>One or more attacks specific to the battle form you use. You're trained with them. Your attack modifier is +22, and you use the listed damage. These attacks are Strength based (for the purpose of the [enfeebled](/Conditions.aspx?ID=13) condition, for example). If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead.</li><li>[Athletics](/Skills.aspx?ID=3) modifier of +23, unless your own modifier is higher.</li></ul> You also gain specific abilities based on the type of demon you choose:\n\n- **[Babau](/Monsters.aspx?ID=598)** Speed 25 feet; **Melee** <actions string=\"Single Action\" /> longspear ([reach 10 feet](/Traits.aspx?ID=192)), **Damage** 2d8+10 piercing plus 1d6 evil; **Melee** <actions string=\"Single Action\" /> jaws, **Damage** 2d10 piercing plus 1d6 evil; **Melee** <actions string=\"Single Action\" /> claw ([agile](/Traits.aspx?ID=170)), **Damage** 2d4 slashing plus 1d6 evil; all Strikes deal 2d6 additional precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n- **[Hezrou](/Monsters.aspx?ID=601)** Speed 30 feet, swim 30 feet; **Melee** <actions string=\"Single Action\" /> jaws ([reach 10 feet](/Traits.aspx?ID=192)), **Damage** 2d12+10 piercing plus 1d6 evil, and you can spend an action after a hit to [Grab](/MonsterAbilities.aspx?ID=18) the target; **Melee** <actions string=\"Single Action\" /> claw ([agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)), **Damage** 2d8 slashing plus 1d6 evil.\r\n- **[Nabasu](/Monsters.aspx?ID=600)** Speed 25 feet, fly 40 feet; **Melee** <actions string=\"Single Action\" /> jaws, **Damage** 2d10+10 piercing plus 1d6 evil; **Melee** <actions string=\"Single Action\" /> claw ([agile](/Traits.aspx?ID=170)), **Damage** 2d6 slashing plus 1d6 evil.\r\n- **[Vrock](/Monsters.aspx?ID=100)** Speed 25 feet, fly 35 feet; resistance 10 to [electricity](/Traits.aspx?ID=56); **Melee** <actions string=\"Single Action\" /> beak, **Damage** 2d8+10 piercing plus 1d6 evil; **Melee** <actions string=\"Single Action\" /> claw ([agile](/Traits.aspx?ID=170)), **Damage** 2d6 slashing plus 1d6 evil; **Melee** <actions string=\"Single Action\" /> talon ([agile](/Traits.aspx?ID=170)), **Damage** 2d6 slashing plus 1d6 evil.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Spell 6\" pfs=\"Standard\">\r\n[Demon Form](/Spells.aspx?ID=893)\r\n<actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=127\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n<trait label=\"Unholy\" url=\"/Traits.aspx?ID=521\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 99 <sup>2.0</sup>\n\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Divine](/SpellLists.aspx?Tradition=2)\n\n<row gap=\"medium\">\r\n\r\n**Cast** [somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)\r\n\r\n \n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou corrupt yourself with the sin of the [Outer Rifts](/Planes.aspx?ID=45), transforming into a Medium demon battle form. When you cast this spell, choose [abrikandilu](/Monsters.aspx?ID=1110), [brimorak](/Monsters.aspx?ID=2896), [kithangian](/Monsters.aspx?ID=2457), or [vloriak](/Monsters.aspx?ID=2727). If you choose kithangian, the battle form is Large and you must have enough space to expand into or the spell is lost. While in this form, you gain the [demon](/Traits.aspx?ID=42) and [fiend](/Traits.aspx?ID=70) traits. You have hands in this battle form and can use [manipulate](/Traits.aspx?ID=104) actions. You can [Dismiss](/Actions.aspx?ID=2311) the spell.\n\n You gain the following statistics and abilities regardless of the form that you choose: \n<ul><li>AC = 20 + your level. Ignore your armor check's penalty and Speed reduction.</li><li>30 [temporary Hit Points](/Rules.aspx?ID=2321), [weakness](/Rules.aspx?ID=2317) 5 to [cold iron](/Equipment.aspx?ID=375), and weakness 5 to [holy](/Traits.aspx?ID=517).</li><li>[Darkvision](/Rules.aspx?ID=415).</li><li>One or more attacks specific to the battle form you use. You're trained with them. Your attack modifier is +22, and you use the listed damage. These attacks are Strength based (for the purpose of the [enfeebled](/Conditions.aspx?ID=13) condition, for example). If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead.</li><li>[Athletics](/Skills.aspx?ID=3) modifier of +23, unless your own modifier is higher.</li></ul> You also gain specific abilities based on the type of demon you choose:\n\n- **[Abrikandilu](/Monsters.aspx?ID=1110)** Speed 25 feet; **Melee** <actions string=\"Single Action\" /> jaws ([magical](/Traits.aspx?ID=644), [unholy](/Traits.aspx?ID=521)), **Damage** 2d6+12 piercing, and [clumsy](/Conditions.aspx?ID=61) 1 for 1 minute on a critical hit; **Melee** <actions string=\"Single Action\" /> claw ([agile](/Traits.aspx?ID=526), [magical](/Traits.aspx?ID=644), [unholy](/Traits.aspx?ID=521)), **Damage** 2d6+12 slashing; **Ranged** <actions string=\"Single Action\" /> hurled debris ([range increment 20 feet](/Rules.aspx?ID=2195), [unholy](/Traits.aspx?ID=521)), **Damage** 2d6+6 bludgeoning.\r\n- **[Brimorak](/Monsters.aspx?ID=2896)** Speed 30 feet; **Melee** <actions string=\"Single Action\" /> flaming sword ([magical](/Traits.aspx?ID=644), [unholy](/Traits.aspx?ID=521)), **Damage** 2d8+10 slashing plus 1d6 fire; **Melee** <actions string=\"Single Action\" /> hoof ([agile](/Traits.aspx?ID=526), [unholy](/Traits.aspx?ID=521)), **Damage** 2d4+10 bludgeoning plus 1d6 fire.\r\n- **[Kithangian](/Monsters.aspx?ID=2457)** Speed 30 feet; **Melee** <actions string=\"Single Action\" /> pincer ([magical](/Traits.aspx?ID=644), [reach 10 feet](/Traits.aspx?ID=684), [unholy](/Traits.aspx?ID=521)), **Damage** 1d12+12 slashing, and you can spend an action after a hit to attempt to [Grab](/MonsterAbilities.aspx?ID=45) the target; **Melee** <actions string=\"Single Action\" /> stinger ([agile](/Traits.aspx?ID=526), [magical](/Traits.aspx?ID=644), [reach 10 feet](/Traits.aspx?ID=684), [unholy](/Traits.aspx?ID=521)), **Damage** 1d8+12 piercing; all melee Strikes deal 2d6 additional precision damage to [animals](/Traits.aspx?ID=531).\r\n- **[Vloriak](/Monsters.aspx?ID=2727)** Speed 25 feet; [resistance](/Rules.aspx?ID=2318) 10 to [acid](/Traits.aspx?ID=524); **Melee** <actions string=\"Single Action\" /> claw ([unholy](/Traits.aspx?ID=521)), **Damage** 2d6+12 piercing plus 1d6 spirit; **Melee** <actions string=\"Single Action\" /> tongue ([agile](/Traits.aspx?ID=526), [reach 10 feet](/Traits.aspx?ID=684), [unholy](/Traits.aspx?ID=521)), **Damage** 1d6+12 acid plus 1d6 spirit.",
  "name": "Demon Form",
- "patron_theme_markdown": "",
  "pfs": "Standard",
+ "primary_source": "Secrets of Magic",
+ "primary_source_raw": "Secrets of Magic pg. 99",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
+ "rarity_id": 1,
  "release_date": "2021-09-01",
  "resistance": {},
  "school": "transmutation",
- "search_markdown": "<traits>\r\n<trait label=\"Chaotic\" url=\"/Traits.aspx?ID=25\" />\r\n<trait label=\"Evil\" url=\"/Traits.aspx?ID=64\" />\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=127\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 99 <sup>1.1</sup></row>\r\n\r\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Divine](/SpellLists.aspx?Tradition=2)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Duration** 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTurn into a demon battle form.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=127\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n<trait label=\"Unholy\" url=\"/Traits.aspx?ID=521\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 99 <sup>2.0</sup>\r\n\r\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Divine](/SpellLists.aspx?Tradition=2)\n\n<row gap=\"medium\">\r\n\r\n**Cast** [somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTurn into a demon battle form.\r\n</summary>",
+ "skill_mod": {},
  "source": [
   "Secrets of Magic"
  ],
  "source_raw": [
   "Secrets of Magic pg. 99"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Secrets of Magic](/Sources.aspx?ID=96) pg. 99 <sup>1.1</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Secrets of Magic](/Sources.aspx?ID=96) pg. 99 <sup>2.0</sup>",
  "speed": {},
+ "spell_type": "Spell",
  "summary": "Turn into a demon battle form.",
  "summary_markdown": "Turn into a demon battle form.",
- "text": " Demon Form Source Secrets of Magic pg. 99 1.1 Traditions Arcane, Divine Cast Two Actions somatic, verbal Duration 1 minute --- You corrupt yourself with the sin of the Abyss, transforming into a Medium demon battle form. When you cast this spell, choose babau, hezrou, nabasu, or vrock. If you choose hezrou, the battle form is Large and you must have enough space to expand into or the spell is lost. While in this form, you gain the demon and fiend traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell. You gain the following statistics and abilities regardless of the form that you choose: AC = 20 + your level. Ignore your armor check's penalty and Speed reduction. 30 temporary Hit Points, weakness 5 to cold iron, and weakness 5 to good. Darkvision. One or more attacks specific to the battle form you use. You're trained with them. Your attack modifier is +22, and you use the listed damage. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead. Athletics modifier of +23, unless your own modifier is higher. You also gain specific abilities based on the type of demon you choose: - Babau Speed 25 feet; Melee Single Action longspear (reach 10 feet), Damage 2d8+10 piercing plus 1d6 evil; Melee Single Action jaws, Damage 2d10 piercing plus 1d6 evil; Melee Single Action claw (agile), Damage 2d4 slashing plus 1d6 evil; all Strikes deal 2d6 additional precision damage to flat-footed creatures. - Hezrou Speed 30 feet, swim 30 feet; Melee Single Action jaws (reach 10 feet), Damage 2d12+10 piercing plus 1d6 evil, and you can spend an action after a hit to Grab the target; Melee Single Action claw (agile, reach 10 feet), Damage 2d8 slashing plus 1d6 evil. - Nabasu Speed 25 feet, fly 40 feet; Melee Single Action jaws, Damage 2d10+10 piercing plus 1d6 evil; Melee Single Action claw (agile), Damage 2d6 slashing plus 1d6 evil. - Vrock Speed 25 feet, fly 35 feet; resistance 10 to electricity; Melee Single Action beak, Damage 2d8+10 piercing plus 1d6 evil; Melee Single Action claw (agile), Damage 2d6 slashing plus 1d6 evil; Melee Single Action talon (agile), Damage 2d6 slashing plus 1d6 evil.",
+ "text": "\nDemon Form Two Actions Source Secrets of Magic pg. 99 2.0 Traditions Arcane, Divine Cast somatic, verbal Duration 1 minute --- You corrupt yourself with the sin of the Outer Rifts, transforming into a Medium demon battle form. When you cast this spell, choose abrikandilu, brimorak, kithangian, or vloriak. If you choose kithangian, the battle form is Large and you must have enough space to expand into or the spell is lost. While in this form, you gain the demon and fiend traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell. You gain the following statistics and abilities regardless of the form that you choose: AC = 20 + your level. Ignore your armor check's penalty and Speed reduction. 30 temporary Hit Points, weakness 5 to cold iron, and weakness 5 to holy. Darkvision. One or more attacks specific to the battle form you use. You're trained with them. Your attack modifier is +22, and you use the listed damage. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead. Athletics modifier of +23, unless your own modifier is higher. You also gain specific abilities based on the type of demon you choose: - Abrikandilu Speed 25 feet; Melee Single Action jaws (magical, unholy), Damage 2d6+12 piercing, and clumsy 1 for 1 minute on a critical hit; Melee Single Action claw (agile, magical, unholy), Damage 2d6+12 slashing; Ranged Single Action hurled debris (range increment 20 feet, unholy), Damage 2d6+6 bludgeoning. - Brimorak Speed 30 feet; Melee Single Action flaming sword (magical, unholy), Damage 2d8+10 slashing plus 1d6 fire; Melee Single Action hoof (agile, unholy), Damage 2d4+10 bludgeoning plus 1d6 fire. - Kithangian Speed 30 feet; Melee Single Action pincer (magical, reach 10 feet, unholy), Damage 1d12+12 slashing, and you can spend an action after a hit to attempt to Grab the target; Melee Single Action stinger (agile, magical, reach 10 feet, unholy), Damage 1d8+12 piercing; all melee Strikes deal 2d6 additional precision damage to animals. - Vloriak Speed 25 feet; resistance 10 to acid; Melee Single Action claw (unholy), Damage 2d6+12 piercing plus 1d6 spirit; Melee Single Action tongue (agile, reach 10 feet, unholy), Damage 1d6+12 acid plus 1d6 spirit.",
  "tradition": [
   "Arcane",
   "Divine"
  ],
  "tradition_markdown": "[Arcane](/SpellLists.aspx?Tradition=1), [Divine](/SpellLists.aspx?Tradition=2)",
  "trait": [
-  "Chaotic",
-  "Evil",
   "Polymorph",
-  "Transmutation"
+  "Transmutation",
+  "Unholy"
  ],
- "trait_markdown": "[Chaotic](/Traits.aspx?ID=25), [Evil](/Traits.aspx?ID=64), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)",
+ "trait_group": [
+  "Mechanics",
+  "School"
+ ],
+ "trait_markdown": "[Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157), [Unholy](/Traits.aspx?ID=521)",
  "trait_raw": [
-  "Chaotic",
-  "Evil",
   "Polymorph",
-  "Transmutation"
+  "Transmutation",
+  "Unholy"
  ],
  "type": "Spell",
  "url": "/Spells.aspx?ID=893",

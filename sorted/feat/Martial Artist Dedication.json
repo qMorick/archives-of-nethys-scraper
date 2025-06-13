@@ -2,44 +2,56 @@
  "archetype": [
   "Martial Artist"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Martial Artist Dedication"
  ],
  "feat_markdown": "Martial Artist Dedication",
- "id": "feat-2018",
+ "id": "feat-6364",
+ "legacy_id": [
+  "feat-2018"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Martial Artist Dedication](/Feats.aspx?ID=2018) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=41\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 182 <sup>2.0</sup></row>\n\n**Archetype** [Martial Artist](/Archetypes.aspx?ID=67)\n\n</column>\r\n\r\n---\r\n\r\nYou have trained to use your fists as deadly weapons. The damage die for your fist unarmed attacks becomes 1d6 instead of 1d4. You don't take the –2 circumstance penalty for making a lethal attack with your [nonlethal](/Traits.aspx?ID=188) unarmed attacks. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank in all unarmed attacks.\n\n**Special** You can't select another dedication feat until you have gained two other feats from the martial artist archetype.\n\n<title level=\"2\">Martial Artist Dedication leads to...</title>\r\n[Follow-Up Strike](/Feats.aspx?ID=2019), [Grievous Blow](/Feats.aspx?ID=2020), [Path of Iron](/Feats.aspx?ID=2021), [Powder Punch Stance](/Feats.aspx?ID=3575)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Martial Artist Dedication](/Feats.aspx?ID=6364) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=572\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 206 <sup>1.1</sup>\n\n**Archetype** [Martial Artist](/Archetypes.aspx?ID=255)\n\n</column>\r\n\r\n---\r\n\r\nYou have trained to use your fists as deadly weapons and can deliver devastatingly powerful blows with them. The damage die for your [fist](/Weapons.aspx?ID=356) unarmed attacks becomes 1d6 instead of 1d4. You don’t take the –2 circumstance penalty for making a lethal attack with your [nonlethal](/Traits.aspx?ID=661) unarmed attacks.\n\n<title level=\"2\">Martial Artist Dedication leads to...</title>\r\n[Adamantine Body](/Feats.aspx?ID=7116), [Echoing Violence](/Feats.aspx?ID=7117), [Follow-up Strike](/Feats.aspx?ID=6365), [Grievous Blow](/Feats.aspx?ID=6366), [Path of Iron](/Feats.aspx?ID=6367)",
  "name": "Martial Artist Dedication",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 206",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=41\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 182 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have trained to use your fists as deadly weapons.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=572\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 206 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have trained to use your fists as deadly weapons and can deliver devastatingly powerful blows with them.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 182"
+  "Player Core 2 pg. 206"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 182 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 206 <sup>1.1</sup>",
  "speed": {},
- "summary": "You have trained to use your fists as deadly weapons.",
- "summary_markdown": "You have trained to use your fists as deadly weapons.",
- "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Martial Artist Dedication Source Advanced Player's Guide pg. 182 2.0 Archetype Martial Artist --- You have trained to use your fists as deadly weapons. The damage die for your fist unarmed attacks becomes 1d6 instead of 1d4. You don't take the –2 circumstance penalty for making a lethal attack with your nonlethal unarmed attacks. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank in all unarmed attacks. Special You can't select another dedication feat until you have gained two other feats from the martial artist archetype. Martial Artist Dedication leads to... Follow-Up Strike, Grievous Blow, Path of Iron, Powder Punch Stance",
+ "summary": "You have trained to use your fists as deadly weapons and can deliver devastatingly powerful blows with them.",
+ "summary_markdown": "You have trained to use your fists as deadly weapons and can deliver devastatingly powerful blows with them.",
+ "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Martial Artist Dedication Source Player Core 2 pg. 206 1.1 Archetype Martial Artist --- You have trained to use your fists as deadly weapons and can deliver devastatingly powerful blows with them. The damage die for your fist unarmed attacks becomes 1d6 instead of 1d4. You don’t take the –2 circumstance penalty for making a lethal attack with your nonlethal unarmed attacks. Martial Artist Dedication leads to... Adamantine Body, Echoing Violence, Follow-up Strike, Grievous Blow, Path of Iron",
  "trait": [
   "Archetype",
   "Dedication"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Dedication](/Traits.aspx?ID=41)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535), [Dedication](/Traits.aspx?ID=572)",
  "trait_raw": [
   "Archetype",
   "Dedication"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2018",
+ "url": "/Feats.aspx?ID=6364",
  "weakness": {}
 }

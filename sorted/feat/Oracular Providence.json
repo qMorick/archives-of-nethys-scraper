@@ -1,42 +1,54 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Oracular Providence"
  ],
  "feat_markdown": "Oracular Providence",
- "id": "feat-1510",
+ "id": "feat-6087",
+ "legacy_id": [
+  "feat-1510"
+ ],
  "level": 20,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 20\"\r\n    pfs=\"Standard\"\r\n>\r\n[Oracular Providence](/Feats.aspx?ID=1510) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 81 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[oracular clarity](/Classes.aspx?ID=14)\n\n</column>\r\n\r\n---\r\n\r\nYour mystery grants you access to deep reserves of truly miraculous divine power. You gain an additional 10th-level spell slot.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 20\"\r\n    pfs=\"Standard\"\r\n>\r\n[Oracular Providence](/Feats.aspx?ID=6087) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 143 <sup>1.1</sup>\n\n**Prerequisites**\r\noracular clarity\n\n</column>\r\n\r\n---\r\n\r\nYour mystery grants you access to deep reserves of truly miraculous [divine](/Traits.aspx?ID=579) power. You gain an additional 10th-rank spell slot.",
  "name": "Oracular Providence",
  "pfs": "Standard",
  "prerequisite": "oracular clarity",
- "prerequisite_markdown": "[oracular clarity](/Classes.aspx?ID=14)",
+ "prerequisite_markdown": "oracular clarity",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 143",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 81 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[oracular clarity](/Classes.aspx?ID=14)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour mystery grants you access to deep reserves of truly miraculous divine power.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 143 <sup>1.1</sup>\n\n**Prerequisites**\r\noracular clarity\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour mystery grants you access to deep reserves of truly miraculous [divine](/Traits.aspx?ID=579) power.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 81"
+  "Player Core 2 pg. 143"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 81 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 143 <sup>1.1</sup>",
  "speed": {},
- "summary": "Your mystery grants you access to deep reserves of truly miraculous divine power.",
- "summary_markdown": "Your mystery grants you access to deep reserves of truly miraculous divine power.",
- "text": "<title level=\"1\" right=\"Feat 20\" pfs=\"Standard\" > Oracular Providence Source Advanced Player's Guide pg. 81 2.0 Prerequisites oracular clarity --- Your mystery grants you access to deep reserves of truly miraculous divine power. You gain an additional 10th-level spell slot.",
+ "summary": "Your mystery grants you access to deep reserves of truly miraculous  divine  power.",
+ "summary_markdown": "Your mystery grants you access to deep reserves of truly miraculous [divine](/Traits.aspx?ID=579) power.",
+ "text": "<title level=\"1\" right=\"Feat 20\" pfs=\"Standard\" > Oracular Providence Source Player Core 2 pg. 143 1.1 Prerequisites oracular clarity --- Your mystery grants you access to deep reserves of truly miraculous divine power. You gain an additional 10th-rank spell slot.",
  "trait": [
   "Oracle"
  ],
- "trait_markdown": "[Oracle](/Traits.aspx?ID=319)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Oracle](/Traits.aspx?ID=817)",
  "trait_raw": [
   "Oracle"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1510",
+ "url": "/Feats.aspx?ID=6087",
  "weakness": {}
 }

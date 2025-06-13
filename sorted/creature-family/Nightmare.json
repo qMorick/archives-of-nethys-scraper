@@ -1,29 +1,38 @@
 {
- "breadcrumbs_spa": [],
  "category": "creature-family",
  "creature_family": "Nightmare",
  "creature_family_markdown": "Nightmare",
  "exclude_from_search": false,
- "id": "creature-family-76",
- "markdown": "<title level=\"1\" right=\"Creature Family\">[Nightmare](/MonsterFamilies.aspx?ID=76)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 244</row>\n\n_This entry did not have a separate description for the family._\r\n\r\n<title level=\"2\">Members</title>\r\n[Greater Nightmare](/Monsters.aspx?ID=309) (Creature 11), [Nightmare](/Monsters.aspx?ID=308) (Creature 6)\n\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Nightmare Steeds</title>\r\n\r\nNightmares allow only the evilest of creatures to ride them and are willing partners in destruction those creatures inflict. Night hags are particularly well known to associate with nightmares.\r\n</aside>",
+ "id": "creature-family-447",
+ "legacy_id": [
+  "creature-family-76"
+ ],
+ "markdown": "<title level=\"1\" right=\"Creature Family\">[Nightmare](/MonsterFamilies.aspx?ID=447)</title>\r\n\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 238 <sup>1.1</sup>\n\nNightmares are flaming equine harbingers of death.\r\n\r\n<title level=\"2\">Members</title>\r\n[Greater Nightmare](/Monsters.aspx?ID=3106) (Creature 11), [Nightmare](/Monsters.aspx?ID=3105) (Creature 6)\n\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Nightmare Steeds</title>\r\n\r\nNightmares allow only the evilest of creatures to ride them and are willing partners in the destruction those creatures inflict. Powerful [dullahans](/Monsters.aspx?ID=2964) are particularly well known to associate with nightmares.\r\n</aside>",
  "name": "Nightmare",
+ "primary_source": "Monster Core",
+ "primary_source_raw": "Monster Core pg. 238",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-03-27",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 244</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n This entry did not have a separate description for the family  .\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 238 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nNightmares are flaming equine harbingers of death.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Bestiary"
+  "Monster Core"
  ],
  "source_raw": [
-  "Bestiary pg. 244"
+  "Monster Core pg. 238"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 244</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Monster Core](/Sources.aspx?ID=221) pg. 238 <sup>1.1</sup>",
  "speed": {},
- "summary": " This entry did not have a separate description for the family  .",
- "summary_markdown": " This entry did not have a separate description for the family  .",
- "text": " Nightmare Source Bestiary pg. 244 This entry did not have a separate description for the family. Members Greater Nightmare (Creature 11), Nightmare (Creature 6) Nightmare Steeds Nightmares allow only the evilest of creatures to ride them and are willing partners in destruction those creatures inflict. Night hags are particularly well known to associate with nightmares. ",
+ "summary": "Nightmares are flaming equine harbingers of death.",
+ "summary_markdown": "Nightmares are flaming equine harbingers of death.",
+ "text": " Nightmare Source Monster Core pg. 238 1.1 Nightmares are flaming equine harbingers of death. Members Greater Nightmare (Creature 11), Nightmare (Creature 6) Nightmare Steeds Nightmares allow only the evilest of creatures to ride them and are willing partners in the destruction those creatures inflict. Powerful dullahans are particularly well known to associate with nightmares. ",
  "type": "Creature Family",
- "url": "/MonsterFamilies.aspx?ID=76",
+ "url": "/MonsterFamilies.aspx?ID=447",
  "weakness": {}
 }

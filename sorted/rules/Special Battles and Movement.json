@@ -1,37 +1,49 @@
 {
  "breadcrumbs": [
-  "Chapter 1: Gamemastery Basics",
-  "Running Encounters"
+  "Chapter 1: Running the Game",
+  "Running Encounters",
+  "Running the Encounter"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-851",
- "markdown": "<title level=\"1\" right=\"Rules\">[Special Battles and Movement](/Rules.aspx?ID=851)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 14</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThe _Core Rulebook_ covers the [essential rules for mounted, aerial, and aquatic combat on page 478](/Rules.aspx?ID=462), but more complex battles can require specialized rules.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-852\" />\r\n\r\n<document level=\"2\" id=\"rules-854\" />\r\n\r\n<document level=\"2\" id=\"rules-855\" />",
+ "id": "rules-2561",
+ "legacy_id": [
+  "rules-851"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Special Battles and Movement](/Rules.aspx?ID=2561)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 29 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nMore complex battles can require specialized rules.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-2562\" />\r\n\r\n<document level=\"2\" id=\"rules-2563\" />\r\n\r\n<document level=\"2\" id=\"rules-2564\" />",
  "name": "Special Battles and Movement",
  "next_link": {
-  "label": "Unexpected Difficulty",
-  "url": "/Rules.aspx?ID=856"
+  "label": "Social Encounters",
+  "url": "/Rules.aspx?ID=2565"
  },
  "previous_link": {
   "label": "Maps and Miniatures",
-  "url": "/Rules.aspx?ID=847"
+  "url": "/Rules.aspx?ID=2558"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 29",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 14</row>\r\n\r\nChapter 1: Gamemastery Basics / Running Encounters\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 29 <sup>2.0</sup>\r\n\r\nChapter 1: Running the Game / Running Encounters / Running the Encounter\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMore complex battles can require specialized rules.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 14"
+  "GM Core pg. 29"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 14</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 29 <sup>2.0</sup>",
  "speed": {},
- "text": " Special Battles and Movement Source Gamemastery Guide pg. 14 The Core Rulebook covers the essential rules for mounted, aerial, and aquatic combat on page 478, but more complex battles can require specialized rules. ",
+ "summary": "More complex battles can require specialized rules.",
+ "summary_markdown": "More complex battles can require specialized rules.",
+ "text": " Special Battles and Movement Source GM Core pg. 29 2.0 More complex battles can require specialized rules. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=851",
+ "url": "/Rules.aspx?ID=2561",
  "weakness": {}
 }

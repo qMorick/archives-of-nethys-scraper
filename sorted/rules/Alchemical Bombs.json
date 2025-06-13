@@ -1,37 +1,48 @@
 {
  "breadcrumbs": [
-  "Chapter 11: Crafting & Treasure",
-  "Alchemical Items"
+  "Chapter 5: Treasure Trove",
+  "Alchemy"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-703",
- "markdown": "<title level=\"1\" right=\"Rules\">[Alchemical Bombs](/Rules.aspx?ID=703)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 544 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nAn alchemical bomb combines volatile alchemical components that explode when the bomb hits a creature or object. Most alchemical bombs deal damage, though some produce other effects. Bombs have the [bomb](/Traits.aspx?ID=21) trait. \n\n Bombs are martial thrown weapons with a range increment of 20 feet. When you throw a bomb, you make a weapon attack roll against the target’s AC, as you would for any other weapon. It takes one hand to draw, prepare, and throw a bomb. Due to the complexity involved in preparing bombs, Strikes to throw alchemical bombs gain the [manipulate](/Traits.aspx?ID=104) trait. The bomb is activated when thrown as a Strike—you don’t have to activate it separately.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-704\" />",
+ "id": "rules-3181",
+ "legacy_id": [
+  "rules-703"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Alchemical Bombs](/Rules.aspx?ID=3181)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 244 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nAn [alchemical bomb](/Weapons.aspx?ID=431) combines volatile components that explode when the bomb hits a creature or object. Most alchemical bombs deal damage, though some produce other effects. Bombs have the [bomb](/Traits.aspx?ID=548) trait.\n\nBombs are martial [thrown](/Traits.aspx?ID=711) weapons with a [range increment](/Rules.aspx?ID=2195) of 20 feet. When you throw a bomb, you make a weapon attack roll against the target's AC, as you would for any other weapon. It takes one hand to draw, prepare, and throw a bomb. The bomb is activated when thrown as a [Strike](/Actions.aspx?ID=2306)—you don't have to activate it separately. As consumables, bombs can't have runes etched onto them, have talismans attached to them, or benefit from runes granted in other ways (such as from spells or from items that replicate runes from other items). Spells and magic items that give you a bonus to all your attacks (or to all thrown weapons, for example) can still apply to them.\n\n[Click here for the Alchemical Bombs category page](/Equipment.aspx?Category=6&amp;Subcategory=7).\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-3182\" />",
  "name": "Alchemical Bombs",
  "next_link": {
   "label": "Alchemical Elixirs",
-  "url": "/Rules.aspx?ID=705"
+  "url": "/Rules.aspx?ID=3183"
  },
  "previous_link": {
-  "label": "Reading Items",
-  "url": "/Rules.aspx?ID=694"
+  "label": "Armor & Armaments",
+  "url": "/Rules.aspx?ID=3161"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 244",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 544 <sup>4.0</sup></row>\r\n\r\nChapter 11: Crafting &amp; Treasure / Alchemical Items\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 244 <sup>2.0</sup>\r\n\r\nChapter 5: Treasure Trove / Alchemy\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn  alchemical bomb  combines volatile components that explode when the bomb hits a creature or object. Most alchemical bombs deal damage, though …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 544"
+  "GM Core pg. 244"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 544 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 244 <sup>2.0</sup>",
  "speed": {},
- "text": " Alchemical Bombs Source Core Rulebook pg. 544 4.0 An alchemical bomb combines volatile alchemical components that explode when the bomb hits a creature or object. Most alchemical bombs deal damage, though some produce other effects. Bombs have the bomb trait. Bombs are martial thrown weapons with a range increment of 20 feet. When you throw a bomb, you make a weapon attack roll against the target’s AC, as you would for any other weapon. It takes one hand to draw, prepare, and throw a bomb. Due to the complexity involved in preparing bombs, Strikes to throw alchemical bombs gain the manipulate trait. The bomb is activated when thrown as a Strike—you don’t have to activate it separately. ",
+ "summary": "An  alchemical bomb  combines volatile components that explode when the bomb hits a creature or object. Most alchemical bombs deal damage, though …",
+ "summary_markdown": "An  alchemical bomb  combines volatile components that explode when the bomb hits a creature or object. Most alchemical bombs deal damage, though …",
+ "text": " Alchemical Bombs Source GM Core pg. 244 2.0 An alchemical bomb combines volatile components that explode when the bomb hits a creature or object. Most alchemical bombs deal damage, though some produce other effects. Bombs have the bomb trait. Bombs are martial thrown weapons with a range increment of 20 feet. When you throw a bomb, you make a weapon attack roll against the target's AC, as you would for any other weapon. It takes one hand to draw, prepare, and throw a bomb. The bomb is activated when thrown as a Strike—you don't have to activate it separately. As consumables, bombs can't have runes etched onto them, have talismans attached to them, or benefit from runes granted in other ways (such as from spells or from items that replicate runes from other items). Spells and magic items that give you a bonus to all your attacks (or to all thrown weapons, for example) can still apply to them. Click here for the Alchemical Bombs category page. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=703",
+ "url": "/Rules.aspx?ID=3181",
  "weakness": {}
 }

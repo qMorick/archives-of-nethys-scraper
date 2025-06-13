@@ -1,45 +1,62 @@
 {
  "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions_number": 2,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
+  "Follow-up Assault"
+ ],
+ "feat_markdown": "Follow-up Assault",
+ "id": "feat-5837",
+ "legacy_id": [
+  "feat-1614"
+ ],
+ "legacy_name": [
   "Follow-Up Assault"
  ],
- "feat_markdown": "Follow-Up Assault",
- "id": "feat-1614",
  "level": 8,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Follow-Up Assault](/Feats.aspx?ID=1614) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 110 <sup>2.0</sup></row>\n\n**Requirements**\r\nYou used your previous action to make a melee Strike that missed.\r\n\r\n</column>\r\n\r\n---\r\n\r\nEven in the face of failure you press the attack, determined to succeed. Make a Strike with the same weapon, adding the effects of the [backswing](/Traits.aspx?ID=173) and [forceful](/Traits.aspx?ID=180) weapon traits.",
- "name": "Follow-Up Assault",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Follow-up Assault](/Feats.aspx?ID=5837) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 81 <sup>1.1</sup>\n\n**Requirements**\r\nYou used your previous action to make a melee [strike](/Actions.aspx?ID=2306) that missed.\n\n</column>\r\n\r\n---\r\n\r\nEven in the face of failure you press the attack, determined to succeed. Make a Strike with the same weapon, adding the [backswing](/Traits.aspx?ID=545) and [forceful](/Traits.aspx?ID=611) weapon traits to that Strike.",
+ "name": "Follow-up Assault",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 81",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
- "requirement": "You used your previous action to make a melee Strike that missed.",
- "requirement_markdown": "You used your previous action to make a melee Strike that missed.",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
+ "requirement": "You used your previous action to make a melee  strike  that missed.",
+ "requirement_markdown": "You used your previous action to make a melee [strike](/Actions.aspx?ID=2306) that missed.",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 110 <sup>2.0</sup></row>\n\n**Requirements**\r\nYou used your previous action to make a melee Strike that missed.\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nEven in the face of failure you press the attack, determined to succeed.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 81 <sup>1.1</sup>\n\n**Requirements**\r\nYou used your previous action to make a melee [strike](/Actions.aspx?ID=2306) that missed.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nEven in the face of failure you press the attack, determined to succeed.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 110"
+  "Player Core 2 pg. 81"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 110 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 81 <sup>1.1</sup>",
  "speed": {},
  "summary": "Even in the face of failure you press the attack, determined to succeed.",
  "summary_markdown": "Even in the face of failure you press the attack, determined to succeed.",
- "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Follow-Up Assault Single Action Source Advanced Player's Guide pg. 110 2.0 Requirements You used your previous action to make a melee Strike that missed. --- Even in the face of failure you press the attack, determined to succeed. Make a Strike with the same weapon, adding the effects of the backswing and forceful weapon traits.",
+ "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Follow-up Assault Single Action Source Player Core 2 pg. 81 1.1 Requirements You used your previous action to make a melee strike that missed. --- Even in the face of failure you press the attack, determined to succeed. Make a Strike with the same weapon, adding the backswing and forceful weapon traits to that Strike.",
  "trait": [
   "Barbarian",
   "Rage"
  ],
- "trait_markdown": "[Barbarian](/Traits.aspx?ID=18), [Rage](/Traits.aspx?ID=135)",
+ "trait_group": [
+  "Class",
+  "Class-Specific"
+ ],
+ "trait_markdown": "[Barbarian](/Traits.aspx?ID=813), [Rage](/Traits.aspx?ID=680)",
  "trait_raw": [
   "Barbarian",
   "Rage"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1614",
+ "url": "/Feats.aspx?ID=5837",
  "weakness": {}
 }

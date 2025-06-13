@@ -1,48 +1,61 @@
 {
  "actions": "Reaction",
+ "actions_number": 1,
  "archetype": [
   "Wrestler"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Clinch Strike"
  ],
  "feat_markdown": "Clinch Strike",
- "id": "feat-3398",
+ "id": "feat-6450",
+ "legacy_id": [
+  "feat-3398"
+ ],
  "level": 6,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Clinch Strike](/Feats.aspx?ID=3398) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Grand Bazaar](/Sources.aspx?ID=100) pg. 127</row>\n\n**Archetype** [Wrestler](/Archetypes.aspx?ID=127)\n\n**Prerequisites**\r\n[Wrestler Dedication](/Feats.aspx?ID=3394)\n\n**Trigger**\r\nA creature you had [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33) successfully [Escapes](/Actions.aspx?ID=79).\n\n</column>\r\n\r\n---\r\n\r\nYour opponents can't slip your grasp without receiving further punishment. Make an [unarmed](/Traits.aspx?ID=199) melee Strike against the triggering creature.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Clinch Strike](/Feats.aspx?ID=6450) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 223 <sup>1.1</sup>\n\n**Archetype** [Wrestler](/Archetypes.aspx?ID=270)\n\n**Prerequisites**\r\n[Wrestler Dedication](/Feats.aspx?ID=6446)\n\n**Trigger**\r\nA creature you had [grabbed](/Conditions.aspx?ID=77) or [restrained](/Conditions.aspx?ID=90) successfully [Escapes](/Actions.aspx?ID=2296).\n\n</column>\r\n\r\n---\r\n\r\nYour opponents can’t slip your grasp without punishment. Make an unarmed melee Strike against the triggering creature.",
  "name": "Clinch Strike",
  "pfs": "Standard",
  "prerequisite": "Wrestler Dedication",
- "prerequisite_markdown": "[Wrestler Dedication](/Feats.aspx?ID=3394)",
+ "prerequisite_markdown": "[Wrestler Dedication](/Feats.aspx?ID=6446)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 223",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2021-10-13",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Grand Bazaar](/Sources.aspx?ID=100) pg. 127</row>\n\n**Prerequisites**\r\n[Wrestler Dedication](/Feats.aspx?ID=3394)\n\n**Trigger**\r\nA creature you had [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33) successfully [Escapes](/Actions.aspx?ID=79).\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour opponents can't slip your grasp without receiving further punishment.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 223 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Wrestler Dedication](/Feats.aspx?ID=6446)\n\n**Trigger**\r\nA creature you had [grabbed](/Conditions.aspx?ID=77) or [restrained](/Conditions.aspx?ID=90) successfully [Escapes](/Actions.aspx?ID=2296).\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour opponents can’t slip your grasp without punishment.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Grand Bazaar"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Grand Bazaar pg. 127"
+  "Player Core 2 pg. 223"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Grand Bazaar](/Sources.aspx?ID=100) pg. 127</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 223 <sup>1.1</sup>",
  "speed": {},
- "summary": "Your opponents can't slip your grasp without receiving further punishment.",
- "summary_markdown": "Your opponents can't slip your grasp without receiving further punishment.",
- "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Clinch Strike Reaction Source Grand Bazaar pg. 127 Archetype Wrestler Prerequisites Wrestler Dedication Trigger A creature you had grabbed or restrained successfully Escapes. --- Your opponents can't slip your grasp without receiving further punishment. Make an unarmed melee Strike against the triggering creature.",
+ "summary": "Your opponents can’t slip your grasp without punishment.",
+ "summary_markdown": "Your opponents can’t slip your grasp without punishment.",
+ "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Clinch Strike Reaction Source Player Core 2 pg. 223 1.1 Archetype Wrestler Prerequisites Wrestler Dedication Trigger A creature you had grabbed or restrained successfully Escapes. --- Your opponents can’t slip your grasp without punishment. Make an unarmed melee Strike against the triggering creature.",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "trigger": "A creature you had  grabbed  or  restrained  successfully  Escapes .",
- "trigger_markdown": "A creature you had [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33) successfully [Escapes](/Actions.aspx?ID=79).",
+ "trigger_markdown": "A creature you had [grabbed](/Conditions.aspx?ID=77) or [restrained](/Conditions.aspx?ID=90) successfully [Escapes](/Actions.aspx?ID=2296).",
  "type": "Feat",
- "url": "/Feats.aspx?ID=3398",
+ "url": "/Feats.aspx?ID=6450",
  "weakness": {}
 }

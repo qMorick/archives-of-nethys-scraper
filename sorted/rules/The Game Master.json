@@ -1,37 +1,50 @@
 {
  "breadcrumbs": [
-  "Chapter 1: Introduction",
-  "What is a Roleplaying Game?"
+  "Introduction"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-5",
- "markdown": "<title level=\"1\" right=\"Rules\">[The Game Master](/Rules.aspx?ID=5)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 8 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nWhile the other players create and control their characters, the Game Master (or GM) is in charge of the story and world. The GM describes all the situations player characters experience in an adventure, considers how the actions of player characters affect the story, and interprets the rules along the way.\n\n The GM can create a new adventure—crafting a narrative, selecting monsters, and assigning treasure on their own— or they can instead rely on a published adventure, using it as a basis for the session and modifying it as needed to accommodate their individual players and the group’s style of play. Some even run games that combine original and published content, mixed together to form a new narrative.\n\n Being the GM is a challenge, requiring you to adjudicate the rules, narrate the story, and juggle other responsibilities. But it can also be very rewarding and worth all the work required to run a good game. If it is your first time running a game, remember that the only thing that matters is that everyone has a good time, and that includes you. Everything else will come naturally with practice and patience.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2461",
+ "legacy_id": [
+  "rules-809"
+ ],
+ "legacy_name": [
+  "The Gamemaster"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[The Game Master](/Rules.aspx?ID=2461)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 4 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nIn Pathfinder, the Game Master (often abbreviated as GM) is the player in charge of the story and the world the other players are exploring. When you're the GM, you take on the rewarding role of crafting fun experiences for a group of your friends. Your responsibilities include...<br />\n<ul><li>Telling the story of the group's adventures in a compelling and consistent way.</li><li>Fleshing out the world in which the game takes place, emphasizing the fantastical while grounding it enough in the real world to feel believable.</li><li>Entertaining the players and yourself with novel concepts and rewarding creative ideas with interesting outcomes.</li><li>Preparing for game sessions by building or studying adventures and creating characters and plots.</li><li>Improvising the reactions of nonplayer characters (NPCs) and other forces in the world as the players do unexpected things.</li><li>Making rules decisions to ensure fairness and keep the game moving forward.</li></ul><br />Though the word “master” is in the GM's title, it's not a role that requires—or even benefits from—absolutism. Pathfinder is a collaborative experience, and while your role as the Game Master is one of adjudicator or moderator, it doesn't mean you control everything at the table, especially not the players and their characters. Nor does the role require mastery, either of the rules or the setting. You'll need to understand the game, but you don't need to have every rule memorized. When everyone shares the goal of having fun and telling a story together, the details will fall into place.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "The Game Master",
  "next_link": {
-  "label": "Gaming is for All",
-  "url": "/Rules.aspx?ID=6"
+  "label": "How to Use This Book",
+  "url": "/Rules.aspx?ID=2462"
  },
  "previous_link": {
-  "label": "The Players",
-  "url": "/Rules.aspx?ID=4"
+  "label": "Conditions Appendix",
+  "url": "/Rules.aspx?ID=2455"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 4",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 8 <sup>4.0</sup></row>\r\n\r\nChapter 1: Introduction / What is a Roleplaying Game?\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 4 <sup>2.0</sup>\r\n\r\nIntroduction\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIn Pathfinder, the Game Master (often abbreviated as GM) is the player in charge of the story and the world the other players are exploring. When …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 8"
+  "GM Core pg. 4"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 8 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 4 <sup>2.0</sup>",
  "speed": {},
- "text": " The Game Master Source Core Rulebook pg. 8 4.0 While the other players create and control their characters, the Game Master (or GM) is in charge of the story and world. The GM describes all the situations player characters experience in an adventure, considers how the actions of player characters affect the story, and interprets the rules along the way. The GM can create a new adventure—crafting a narrative, selecting monsters, and assigning treasure on their own— or they can instead rely on a published adventure, using it as a basis for the session and modifying it as needed to accommodate their individual players and the group’s style of play. Some even run games that combine original and published content, mixed together to form a new narrative. Being the GM is a challenge, requiring you to adjudicate the rules, narrate the story, and juggle other responsibilities. But it can also be very rewarding and worth all the work required to run a good game. If it is your first time running a game, remember that the only thing that matters is that everyone has a good time, and that includes you. Everything else will come naturally with practice and patience. ",
+ "summary": "In Pathfinder, the Game Master (often abbreviated as GM) is the player in charge of the story and the world the other players are exploring. When …",
+ "summary_markdown": "In Pathfinder, the Game Master (often abbreviated as GM) is the player in charge of the story and the world the other players are exploring. When …",
+ "text": " The Game Master Source GM Core pg. 4 2.0 In Pathfinder, the Game Master (often abbreviated as GM) is the player in charge of the story and the world the other players are exploring. When you're the GM, you take on the rewarding role of crafting fun experiences for a group of your friends. Your responsibilities include... Telling the story of the group's adventures in a compelling and consistent way. Fleshing out the world in which the game takes place, emphasizing the fantastical while grounding it enough in the real world to feel believable. Entertaining the players and yourself with novel concepts and rewarding creative ideas with interesting outcomes. Preparing for game sessions by building or studying adventures and creating characters and plots. Improvising the reactions of nonplayer characters (NPCs) and other forces in the world as the players do unexpected things. Making rules decisions to ensure fairness and keep the game moving forward. Though the word “master” is in the GM's title, it's not a role that requires—or even benefits from—absolutism. Pathfinder is a collaborative experience, and while your role as the Game Master is one of adjudicator or moderator, it doesn't mean you control everything at the table, especially not the players and their characters. Nor does the role require mastery, either of the rules or the setting. You'll need to understand the game, but you don't need to have every rule memorized. When everyone shares the goal of having fun and telling a story together, the details will fall into place. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=5",
+ "url": "/Rules.aspx?ID=2461",
  "weakness": {}
 }

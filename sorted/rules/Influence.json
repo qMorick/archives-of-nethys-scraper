@@ -1,39 +1,47 @@
 {
  "breadcrumbs": [
-  "Appendix 2: Kingdoms",
-  "Settlements",
-  "Settlement Types"
+  "Chapter 4: Subsystems"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1830",
- "markdown": "<title level=\"1\" right=\"Rules\">[Influence](/Rules.aspx?ID=1830)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 542</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nA settlement's influence area is the area around a settlement where meaningful economic and productive activity can occur, as well as where the settlement's beneficial effects extend. The numeric value indicates the number of hexes that the settlement's influence extends. Thus, a village only influences the hex it's located in, while a town influences all adjacent hexes. If a settlement has only Water Borders and no Bridges, that settlement's influence is 0 regardless of its settlement type.\n\n Certain activities and the impact of some kingdom events are limited to a settlement's influence. Structures in a settlement that provide a specific item bonus do so to all of the claimed hexes influenced by their settlement. (Structures in your capital city provide that bonus to all of the kingdom's claimed hexes, regardless of the capital's influence.)\n\n Hexes not claimed by your kingdom are never part of your settlements' influence areas, even if they are within the distance noted above. A hex can be influenced by multiple settlements.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-3040",
+ "legacy_id": [
+  "rules-1201"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Influence](/Rules.aspx?ID=3040)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 187 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nWhen the PCs need to gain favor with or sway over an NPC to achieve their goals, sometimes a Deception, Diplomacy, or Intimidation check isn't enough to get the job done. In these cases, you can implement the influence subsystem in a social encounter.\n\nInfluence is a short-term subsystem wherein the PCs accumulate Influence Points during a social encounter with an NPC to represent their increasing influence. These encounters are a race against the clock to reach Influence Point thresholds in order to sway the NPC. It's perfect for a single social gathering—whether it's a party, a treaty negotiation, or even an attempt to persuade various members of a panel of judges.\n\nBecause of the variety of Influence skill options and the ability to use Perception to uncover more information, every character has something important to contribute in the influence subsystem, as opposed to situations where only one character has Diplomacy.\n\nThe influence subsystem divides a social encounter into rounds, with the number of rounds representing the length of the social event. Rounds last any amount of time that you determine, depending on the needs of the narrative, though somewhere between 15 minutes and an hour is typical.\n\nDuring each round of an influence encounter, each PC can act once to either Influence or Discover. \n\n<document level=\"2\" id=\"action-2725\" />\n\n<document level=\"2\" id=\"action-2726\" />\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-3041\" />\r\n\r\n<document level=\"2\" id=\"rules-3043\" />\r\n\r\n<document level=\"2\" id=\"rules-3044\" />",
  "name": "Influence",
  "next_link": {
-  "label": "Founding a Village",
-  "url": "/Rules.aspx?ID=1831"
+  "label": "Research",
+  "url": "/Rules.aspx?ID=3045"
  },
  "previous_link": {
-  "label": "Maximum Item Bonus",
-  "url": "/Rules.aspx?ID=1829"
+  "label": "Victory Points",
+  "url": "/Rules.aspx?ID=3028"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 187",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2022-10-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 542</row>\r\n\r\nAppendix 2: Kingdoms / Settlements / Settlement Types\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 187 <sup>2.0</sup>\r\n\r\nChapter 4: Subsystems\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen the PCs need to gain favor with or sway over an NPC to achieve their goals, sometimes a Deception, Diplomacy, or Intimidation check isn't enough …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Kingmaker Adventure Path"
+  "GM Core"
  ],
  "source_raw": [
-  "Kingmaker Adventure Path pg. 542"
+  "GM Core pg. 187"
  ],
- "source_category": "Adventure Paths",
- "source_group": "Kingmaker",
- "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 542</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 187 <sup>2.0</sup>",
  "speed": {},
- "text": " Influence Source Kingmaker Adventure Path pg. 542 A settlement's influence area is the area around a settlement where meaningful economic and productive activity can occur, as well as where the settlement's beneficial effects extend. The numeric value indicates the number of hexes that the settlement's influence extends. Thus, a village only influences the hex it's located in, while a town influences all adjacent hexes. If a settlement has only Water Borders and no Bridges, that settlement's influence is 0 regardless of its settlement type. Certain activities and the impact of some kingdom events are limited to a settlement's influence. Structures in a settlement that provide a specific item bonus do so to all of the claimed hexes influenced by their settlement. (Structures in your capital city provide that bonus to all of the kingdom's claimed hexes, regardless of the capital's influence.) Hexes not claimed by your kingdom are never part of your settlements' influence areas, even if they are within the distance noted above. A hex can be influenced by multiple settlements. ",
+ "summary": "When the PCs need to gain favor with or sway over an NPC to achieve their goals, sometimes a Deception, Diplomacy, or Intimidation check isn't enough …",
+ "summary_markdown": "When the PCs need to gain favor with or sway over an NPC to achieve their goals, sometimes a Deception, Diplomacy, or Intimidation check isn't enough …",
+ "text": " Influence Source GM Core pg. 187 2.0 When the PCs need to gain favor with or sway over an NPC to achieve their goals, sometimes a Deception, Diplomacy, or Intimidation check isn't enough to get the job done. In these cases, you can implement the influence subsystem in a social encounter. Influence is a short-term subsystem wherein the PCs accumulate Influence Points during a social encounter with an NPC to represent their increasing influence. These encounters are a race against the clock to reach Influence Point thresholds in order to sway the NPC. It's perfect for a single social gathering—whether it's a party, a treaty negotiation, or even an attempt to persuade various members of a panel of judges. Because of the variety of Influence skill options and the ability to use Perception to uncover more information, every character has something important to contribute in the influence subsystem, as opposed to situations where only one character has Diplomacy. The influence subsystem divides a social encounter into rounds, with the number of rounds representing the length of the social event. Rounds last any amount of time that you determine, depending on the needs of the narrative, though somewhere between 15 minutes and an hour is typical. During each round of an influence encounter, each PC can act once to either Influence or Discover. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1830",
+ "url": "/Rules.aspx?ID=3040",
  "weakness": {}
 }

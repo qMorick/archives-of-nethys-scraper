@@ -1,38 +1,47 @@
 {
  "breadcrumbs": [
-  "Chapter 2: Tools\r\n",
-  "Building Items",
-  "Designing by Type"
+  "Chapter 5: Treasure Trove"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1069",
- "markdown": "<title level=\"1\" right=\"Rules\">[Potions](/Rules.aspx?ID=1069)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 84</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nPotions are consumables in the truest sense; you literally consume them. Since the action of drinking isn’t easy to split up, they take only a single action to activate. This advantage makes potions that replicate spell effects incredibly powerful, and it’s the reason potions are nearly always higher level than scrolls with similar effects.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-3196",
+ "legacy_id": [
+  "rules-1069"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Potions](/Rules.aspx?ID=3196)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 259 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nA potion is a magical liquid that is activated when you drink it, which uses it up. Potions have the [potion](/Traits.aspx?ID=672) trait. You can activate a potion with an [Interact](/Actions.aspx?ID=2297) action as you drink it or feed it to another creature. You can feed a potion only to a creature that is within reach and willing or otherwise so helpless that it can’t resist. You usually need only one hand to consume a potion or feed it to another creature.\n\n[Click here for the Potions category page](/Equipment.aspx?Category=15&amp;Subcategory=18).\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Potions",
  "next_link": {
-  "label": "Runes",
-  "url": "/Rules.aspx?ID=1070"
+  "label": "Scrolls",
+  "url": "/Rules.aspx?ID=3197"
  },
  "previous_link": {
   "label": "Oils",
-  "url": "/Rules.aspx?ID=1068"
+  "url": "/Rules.aspx?ID=3195"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 259",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 84</row>\r\n\r\nChapter 2: Tools\r\n/ Building Items / Designing by Type\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 259 <sup>2.0</sup>\r\n\r\nChapter 5: Treasure Trove\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA potion is a magical liquid that is activated when you drink it, which uses it up. Potions have the  potion  trait. You can activate a potion with …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 84"
+  "GM Core pg. 259"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 84</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 259 <sup>2.0</sup>",
  "speed": {},
- "text": " Potions Source Gamemastery Guide pg. 84 Potions are consumables in the truest sense; you literally consume them. Since the action of drinking isn’t easy to split up, they take only a single action to activate. This advantage makes potions that replicate spell effects incredibly powerful, and it’s the reason potions are nearly always higher level than scrolls with similar effects. ",
+ "summary": "A potion is a magical liquid that is activated when you drink it, which uses it up. Potions have the  potion  trait. You can activate a potion with …",
+ "summary_markdown": "A potion is a magical liquid that is activated when you drink it, which uses it up. Potions have the  potion  trait. You can activate a potion with …",
+ "text": " Potions Source GM Core pg. 259 2.0 A potion is a magical liquid that is activated when you drink it, which uses it up. Potions have the potion trait. You can activate a potion with an Interact action as you drink it or feed it to another creature. You can feed a potion only to a creature that is within reach and willing or otherwise so helpless that it can’t resist. You usually need only one hand to consume a potion or feed it to another creature. Click here for the Potions category page. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1069",
+ "url": "/Rules.aspx?ID=3196",
  "weakness": {}
 }

@@ -1,40 +1,57 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
+  "Right-hand Blood"
+ ],
+ "feat_markdown": "Right-hand Blood",
+ "id": "feat-5602",
+ "legacy_id": [
+  "feat-2799"
+ ],
+ "legacy_name": [
   "Right-Hand Blood"
  ],
- "feat_markdown": "Right-Hand Blood",
- "id": "feat-2799",
  "level": 5,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Right-Hand Blood](/Feats.aspx?ID=2799) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Gnoll\" url=\"/Traits.aspx?ID=219\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 113 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nIt's said that the flesh of the right side of a hyena can heal diseases, but that of the left side is poisonous. You can take 1 damage to feed someone blood from your right side and [Administer First Aid](/Actions.aspx?ID=54) or take 2d8 damage to [Treat Disease](/Actions.aspx?ID=55) or [Treat Wounds](/Actions.aspx?ID=57); in either case, you don't need [healer's tools](/Equipment.aspx?ID=25), and gain a +1 item bonus. Blood from your left side causes the check to critically fail automatically.",
- "name": "Right-Hand Blood",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Right-hand Blood](/Feats.aspx?ID=5602) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Kholo\" url=\"/Traits.aspx?ID=758\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 19 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nIt's said that the flesh of the right side of a hyena can heal diseases, but that the flesh of the left side is deadly and poisonous. You can deal 1 slashing damage to yourself to feed someone blood from your right side and [Administer First Aid](/Actions.aspx?ID=2396) or take 2d8 damage to [Treat Disease](/Actions.aspx?ID=2397) or [Treat Wounds](/Actions.aspx?ID=2399); in either case, you don't need a [healer's toolkit](/Equipment.aspx?ID=2727), and you gain a +1 item bonus to your check. Blood from your left side causes the check to critically fail automatically.",
+ "name": "Right-hand Blood",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 19",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2021-07-07",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Gnoll\" url=\"/Traits.aspx?ID=219\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 113 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIt's said that the flesh of the right side of a hyena can heal diseases, but that of the left side is poisonous.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Kholo\" url=\"/Traits.aspx?ID=758\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 19 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIt's said that the flesh of the right side of a hyena can heal diseases, but that the flesh of the left side is deadly and poisonous.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "The Mwangi Expanse"
+  "Player Core 2"
  ],
  "source_raw": [
-  "The Mwangi Expanse pg. 113"
+  "Player Core 2 pg. 19"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[The Mwangi Expanse](/Sources.aspx?ID=89) pg. 113 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 19 <sup>1.1</sup>",
  "speed": {},
- "summary": "It's said that the flesh of the right side of a hyena can heal diseases, but that of the left side is poisonous.",
- "summary_markdown": "It's said that the flesh of the right side of a hyena can heal diseases, but that of the left side is poisonous.",
- "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Right-Hand Blood Source The Mwangi Expanse pg. 113 2.0 --- It's said that the flesh of the right side of a hyena can heal diseases, but that of the left side is poisonous. You can take 1 damage to feed someone blood from your right side and Administer First Aid or take 2d8 damage to Treat Disease or Treat Wounds; in either case, you don't need healer's tools, and gain a +1 item bonus. Blood from your left side causes the check to critically fail automatically.",
+ "summary": "It's said that the flesh of the right side of a hyena can heal diseases, but that the flesh of the left side is deadly and poisonous.",
+ "summary_markdown": "It's said that the flesh of the right side of a hyena can heal diseases, but that the flesh of the left side is deadly and poisonous.",
+ "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Right-hand Blood Source Player Core 2 pg. 19 1.1 --- It's said that the flesh of the right side of a hyena can heal diseases, but that the flesh of the left side is deadly and poisonous. You can deal 1 slashing damage to yourself to feed someone blood from your right side and Administer First Aid or take 2d8 damage to Treat Disease or Treat Wounds; in either case, you don't need a healer's toolkit, and you gain a +1 item bonus to your check. Blood from your left side causes the check to critically fail automatically.",
  "trait": [
+  "Kholo",
   "Gnoll"
  ],
- "trait_markdown": "[Gnoll](/Traits.aspx?ID=219)",
+ "trait_group": [
+  "Monster",
+  "Ancestry"
+ ],
+ "trait_markdown": "[Kholo](/Traits.aspx?ID=758)",
  "trait_raw": [
-  "Gnoll"
+  "Kholo"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2799",
+ "url": "/Feats.aspx?ID=5602",
  "weakness": {}
 }

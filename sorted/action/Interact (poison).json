@@ -1,33 +1,43 @@
 {
- "actions": "Two Actions",
- "breadcrumbs_spa": [],
+ "actions": "Reaction",
+ "actions_number": 1,
  "category": "action",
  "exclude_from_search": true,
- "frequency": "once per day",
- "id": "action-1205",
- "markdown": "**Activate** <actions string=\"Two Actions\" />Interact ([poison](/Traits.aspx?ID=126)) **Frequency** once per day;  **Requirements** The  smogger's  above activation is in effect; **Effect** The smog created by the _smogger_ thickens into a toxic element that burns the eyes, blisters flesh, and causes fits of coughing. All creatures in the smog cloud, including you, must attempt a DC 32 Fortitude save—creatures that must breathe and aren't holding their breath take a –2 circumstance penalty to this save.\r\n\r\n**Critical Success** The creature is unaffected.<br />\r\n**Success** The creature is sickened 1.<br />\r\n**Failure** The creature is sickened 1 (or increases their sickened condition value to 2 if it isn't holding its breath). The creature also takes 4d6 poison damage.<br />\r\n**Critical Failure** As failure, but the creature takes 8d6 poison damage.",
+ "frequency": "three times per day",
+ "id": "action-498",
+ "markdown": "**Activate** <actions string=\"Reaction\" /> Interact ([poison](/Traits.aspx?ID=126)) **Frequency** three times per day; **Trigger** You successfully Strike a creature with the _spore sap_;  **Effect** The _spore sap_ releases a puff of stupefying fungal spores. The target must succeed at a DC 28 Fortitude save or become [stupefied 1](/Conditions.aspx?ID=37) for 1 minute (stupefied 2 on a critical failure).",
  "name": "Interact (poison)",
+ "primary_source": "Pathfinder #154: Siege of the Dinosaurs",
+ "primary_source_raw": "Pathfinder #154: Siege of the Dinosaurs pg. 76",
+ "primary_source_category": "Adventure Paths",
+ "primary_source_group": "Extinction Curse",
  "rarity": "common",
- "release_date": "2022-05-25",
- "requirement": "The  smogger's  above activation is in effect",
- "requirement_markdown": "The _smogger's_ above activation is in effect",
+ "rarity_id": 1,
+ "release_date": "2020-04-29",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 78</row>\r\n\r\n**Frequency**\r\nonce per day\n\n**Requirement**\r\nThe _smogger's_ above activation is in effect\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe smog created by the  smogger  thickens into a toxic element that burns the eyes, blisters flesh, and causes fits of coughing. All creatures in …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 76\r\n\r\n**Frequency**\r\nthree times per day\r\n\r\n**Trigger**\r\nYou successfully Strike a creature with the _spore sap_\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe  spore sap  releases a puff of stupefying fungal spores. The target must succeed at a DC 28 Fortitude save or become  stupefied 1  for 1 minute …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Pathfinder #179: Cradle of Quartz"
+  "Pathfinder #154: Siege of the Dinosaurs"
  ],
  "source_raw": [
-  "Pathfinder #179: Cradle of Quartz pg. 78"
+  "Pathfinder #154: Siege of the Dinosaurs pg. 76"
  ],
- "source_category": "Adventure Paths",
- "source_group": "Outlaws of Alkenstar",
- "source_markdown": "<row gap=\"tiny\">[Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 78</row>",
+ "source_category": [
+  "Adventure Paths"
+ ],
+ "source_group": [
+  "Extinction Curse"
+ ],
+ "source_markdown": "[Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 76",
  "speed": {},
- "summary": "The smog created by the  smogger  thickens into a toxic element that burns the eyes, blisters flesh, and causes fits of coughing. All creatures in …",
- "summary_markdown": "The smog created by the  smogger  thickens into a toxic element that burns the eyes, blisters flesh, and causes fits of coughing. All creatures in …",
- "text": " Activate Two ActionsInteract (poison) Frequency once per day; Requirements The smogger's above activation is in effect; Effect The smog created by the smogger thickens into a toxic element that burns the eyes, blisters flesh, and causes fits of coughing. All creatures in the smog cloud, including you, must attempt a DC 32 Fortitude save—creatures that must breathe and aren't holding their breath take a –2 circumstance penalty to this save. Critical Success The creature is unaffected. Success The creature is sickened 1. Failure The creature is sickened 1 (or increases their sickened condition value to 2 if it isn't holding its breath). The creature also takes 4d6 poison damage. Critical Failure As failure, but the creature takes 8d6 poison damage.",
+ "summary": "The  spore sap  releases a puff of stupefying fungal spores. The target must succeed at a DC 28 Fortitude save or become  stupefied 1  for 1 minute …",
+ "summary_markdown": "The  spore sap  releases a puff of stupefying fungal spores. The target must succeed at a DC 28 Fortitude save or become  stupefied 1  for 1 minute …",
+ "text": " Activate Reaction Interact (poison) Frequency three times per day; Trigger You successfully Strike a creature with the spore sap ; Effect The spore sap releases a puff of stupefying fungal spores. The target must succeed at a DC 28 Fortitude save or become stupefied 1 for 1 minute (stupefied 2 on a critical failure).",
  "trait_markdown": "",
+ "trigger": "You successfully Strike a creature with the  spore sap ",
+ "trigger_markdown": "You successfully Strike a creature with the _spore sap_",
  "type": "Action",
- "url": "/Actions.aspx?ID=1205",
+ "url": "/Actions.aspx?ID=498",
  "weakness": {}
 }

@@ -1,41 +1,57 @@
 {
  "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions_number": 2,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Vexing Tumble"
  ],
  "feat_markdown": "Vexing Tumble",
- "id": "feat-1537",
+ "id": "feat-6155",
+ "legacy_id": [
+  "feat-1537"
+ ],
  "level": 6,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Vexing Tumble](/Feats.aspx?ID=1537) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=321\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 91 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou tumble around your foes, expertly avoiding their reactions. Stride up to half your Speed and roll an [Acrobatics](/Skills.aspx?ID=1) check. Compare the result to the Reflex DC of each foe whose reach you began in or enter during the movement, in sequence.\n\n**Critical Success** This movement doesn't trigger reactions from the foe, the foe is [flat-footed](/Conditions.aspx?ID=16) to you until the end of your turn, and you gain panache.<br />\r\n**Success** This movement doesn't trigger reactions from the foe, and you gain panache.<br />\r\n**Critical Failure** Your movement immediately stops when you enter the creature's reach; if you began in the creature's reach, you don't move.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Vexing Tumble](/Feats.aspx?ID=6155) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Bravado\" url=\"/Traits.aspx?ID=801\" />\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=825\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 166 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou tumble around your foes, expertly avoiding their reactions. Stride up to half your Speed and roll an [Acrobatics](/Skills.aspx?ID=34) check. Compare the result to the Reflex DC of each enemy whose reach you began in or enter during the movement, in sequence.\n\n**Critical Success** This movement doesn't trigger reactions from the enemy, and the enemy is [off-guard](/Conditions.aspx?ID=58) to you until the end of your turn<br />\r\n**Success** This movement doesn't trigger reactions from the enemy.<br />\r\n**Critical Failure** Your movement immediately stops when you enter the creature's reach; if you began in the creature's reach, you don't move.",
  "name": "Vexing Tumble",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 166",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=321\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 91 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou tumble around your foes, expertly avoiding their reactions.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Bravado\" url=\"/Traits.aspx?ID=801\" />\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=825\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 166 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou tumble around your foes, expertly avoiding their reactions.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 91"
+  "Player Core 2 pg. 166"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 91 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 166 <sup>1.1</sup>",
  "speed": {},
  "summary": "You tumble around your foes, expertly avoiding their reactions.",
  "summary_markdown": "You tumble around your foes, expertly avoiding their reactions.",
- "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Vexing Tumble Single Action Source Advanced Player's Guide pg. 91 2.0 --- You tumble around your foes, expertly avoiding their reactions. Stride up to half your Speed and roll an Acrobatics check. Compare the result to the Reflex DC of each foe whose reach you began in or enter during the movement, in sequence. Critical Success This movement doesn't trigger reactions from the foe, the foe is flat-footed to you until the end of your turn, and you gain panache. Success This movement doesn't trigger reactions from the foe, and you gain panache. Critical Failure Your movement immediately stops when you enter the creature's reach; if you began in the creature's reach, you don't move.",
+ "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Vexing Tumble Single Action Source Player Core 2 pg. 166 1.1 --- You tumble around your foes, expertly avoiding their reactions. Stride up to half your Speed and roll an Acrobatics check. Compare the result to the Reflex DC of each enemy whose reach you began in or enter during the movement, in sequence. Critical Success This movement doesn't trigger reactions from the enemy, and the enemy is off-guard to you until the end of your turn Success This movement doesn't trigger reactions from the enemy. Critical Failure Your movement immediately stops when you enter the creature's reach; if you began in the creature's reach, you don't move.",
  "trait": [
+  "Bravado",
   "Swashbuckler"
  ],
- "trait_markdown": "[Swashbuckler](/Traits.aspx?ID=321)",
+ "trait_group": [
+  "Class-Specific",
+  "Class"
+ ],
+ "trait_markdown": "[Bravado](/Traits.aspx?ID=801), [Swashbuckler](/Traits.aspx?ID=825)",
  "trait_raw": [
+  "Bravado",
   "Swashbuckler"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1537",
+ "url": "/Feats.aspx?ID=6155",
  "weakness": {}
 }

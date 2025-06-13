@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Kobold Weapon Familiarity"
  ],
  "feat_markdown": "Kobold Weapon Familiarity",
- "id": "feat-2381",
+ "id": "feat-5615",
+ "legacy_id": [
+  "feat-2381"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Kobold Weapon Familiarity](/Feats.aspx?ID=2381) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=224\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 38 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou've trained with weapons ideal for subterranean efficiency. You are trained with the [crossbow](/Weapons.aspx?ID=67), [greatpick](/Weapons.aspx?ID=23), [light pick](/Weapons.aspx?ID=30), [pick](/Weapons.aspx?ID=34), and [spear](/Weapons.aspx?ID=10). You also gain access to all uncommon [kobold](/Traits.aspx?ID=224) weapons. For the purpose of determining your proficiency, martial kobold weapons are simple weapons, and advanced kobold weapons are martial weapons.\n\n<title level=\"2\">Kobold Weapon Familiarity leads to...</title>\r\n[Kobold Weapon Expertise](/Feats.aspx?ID=2390), [Kobold Weapon Innovator](/Feats.aspx?ID=2383)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Kobold Weapon Familiarity](/Feats.aspx?ID=5615) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=759\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 22 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou gain access to all [uncommon](/Traits.aspx?ID=721) weapons with the [kobold](/Traits.aspx?ID=759) trait. You have familiarity with weapons with the kobold trait plus the [greatpick](/Weapons.aspx?ID=378), [light pick](/Weapons.aspx?ID=385), and [pick](/Weapons.aspx?ID=389)—for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.\n\n At 5th level, whenever you get a critical hit with one of these weapons, you get its [critical specialization effect](/Rules.aspx?ID=235).",
  "name": "Kobold Weapon Familiarity",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 22",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2021-02-24",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=224\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 38 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou've trained with weapons ideal for subterranean efficiency.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=759\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 22 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain access to all [uncommon](/Traits.aspx?ID=721) weapons with the [kobold](/MonsterFamilies.aspx?ID=435) trait.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Ancestry Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Ancestry Guide pg. 38"
+  "Player Core 2 pg. 22"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Ancestry Guide](/Sources.aspx?ID=74) pg. 38 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 22 <sup>1.1</sup>",
  "speed": {},
- "summary": "You've trained with weapons ideal for subterranean efficiency.",
- "summary_markdown": "You've trained with weapons ideal for subterranean efficiency.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Kobold Weapon Familiarity Source Ancestry Guide pg. 38 2.0 --- You've trained with weapons ideal for subterranean efficiency. You are trained with the crossbow, greatpick, light pick, pick, and spear. You also gain access to all uncommon kobold weapons. For the purpose of determining your proficiency, martial kobold weapons are simple weapons, and advanced kobold weapons are martial weapons. Kobold Weapon Familiarity leads to... Kobold Weapon Expertise, Kobold Weapon Innovator",
+ "summary": "You gain access to all  uncommon  weapons with the  kobold  trait.",
+ "summary_markdown": "You gain access to all [uncommon](/Traits.aspx?ID=721) weapons with the [kobold](/MonsterFamilies.aspx?ID=435) trait.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Kobold Weapon Familiarity Source Player Core 2 pg. 22 1.1 --- You gain access to all uncommon weapons with the kobold trait. You have familiarity with weapons with the kobold trait plus the greatpick, light pick, and pick—for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons. At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.",
  "trait": [
   "Kobold"
  ],
- "trait_markdown": "[Kobold](/Traits.aspx?ID=224)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Kobold](/Traits.aspx?ID=759)",
  "trait_raw": [
   "Kobold"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2381",
+ "url": "/Feats.aspx?ID=5615",
  "weakness": {}
 }

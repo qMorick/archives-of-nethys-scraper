@@ -2,48 +2,60 @@
  "archetype": [
   "Snarecrafter"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Lightning Snares"
  ],
  "feat_markdown": "Lightning Snares",
- "id": "feat-527",
+ "id": "feat-6418",
+ "legacy_id": [
+  "feat-527"
+ ],
  "level": 12,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Lightning Snares](/Feats.aspx?ID=527) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Ranger\" url=\"/Traits.aspx?ID=136\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 175 <sup>4.0</sup></row>\n\n**Archetype** [Snarecrafter](/Archetypes.aspx?ID=78) (Level 14)\n\n**Prerequisites**\r\nMaster in [Crafting](/Skills.aspx?ID=4); [Quick Snares](/Feats.aspx?ID=509); [Snare Specialist](/Feats.aspx?ID=506)\n\n</column>\r\n\r\n---\r\n\r\nYou can rig a trap with incredible speed. When you create a snare that normally takes 1 minute to Craft, you can Craft it using a single Interact action instead.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Lightning Snares](/Feats.aspx?ID=6418) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 216 <sup>1.1</sup>\n\n**Archetypes** [Snarecrafter](/Archetypes.aspx?ID=265), [Snarecrafter](/Archetypes.aspx?ID=78) (Level 14)\n\n**Prerequisites**\r\n[Snarecrafter Dedication](/Feats.aspx?ID=6414); Master in [Crafting](/Skills.aspx?ID=37)\n\n</column>\r\n\r\n---\r\n\r\nYou can rig a trap with incredible speed. When you create a [snare](/Traits.aspx?ID=809) that normally takes 1 minute to [Craft](/Actions.aspx?ID=2385), you can Craft it using a single Interact action instead.",
  "name": "Lightning Snares",
  "pfs": "Standard",
- "prerequisite": "Master in Crafting; Quick Snares; Snare Specialist",
- "prerequisite_markdown": "Master in [Crafting](/Skills.aspx?ID=4); [Quick Snares](/Feats.aspx?ID=509); [Snare Specialist](/Feats.aspx?ID=506)",
+ "prerequisite": "Snarecrafter Dedication; Master in Crafting",
+ "prerequisite_markdown": "[Snarecrafter Dedication](/Feats.aspx?ID=6414); Master in [Crafting](/Skills.aspx?ID=37)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 216",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Ranger\" url=\"/Traits.aspx?ID=136\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 175 <sup>4.0</sup></row>\n\n**Prerequisites**\r\nMaster in [Crafting](/Skills.aspx?ID=4); [Quick Snares](/Feats.aspx?ID=509); [Snare Specialist](/Feats.aspx?ID=506)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can rig a trap with incredible speed.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 216 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Snarecrafter Dedication](/Feats.aspx?ID=6414); Master in [Crafting](/Skills.aspx?ID=37)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can rig a trap with incredible speed.\r\n</summary>",
  "skill": [
   "Crafting",
   "Crafting"
  ],
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 175"
+  "Player Core 2 pg. 216"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 175 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 216 <sup>1.1</sup>",
  "speed": {},
  "summary": "You can rig a trap with incredible speed.",
  "summary_markdown": "You can rig a trap with incredible speed.",
- "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Lightning Snares Source Core Rulebook pg. 175 4.0 Archetype Snarecrafter (Level 14) Prerequisites Master in Crafting; Quick Snares; Snare Specialist --- You can rig a trap with incredible speed. When you create a snare that normally takes 1 minute to Craft, you can Craft it using a single Interact action instead.",
+ "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Lightning Snares Source Player Core 2 pg. 216 1.1 Archetypes Snarecrafter, Snarecrafter (Level 14) Prerequisites Snarecrafter Dedication; Master in Crafting --- You can rig a trap with incredible speed. When you create a snare that normally takes 1 minute to Craft, you can Craft it using a single Interact action instead.",
  "trait": [
-  "Ranger"
+  "Archetype"
  ],
- "trait_markdown": "[Ranger](/Traits.aspx?ID=136)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
-  "Ranger"
+  "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=527",
+ "url": "/Feats.aspx?ID=6418",
  "weakness": {}
 }

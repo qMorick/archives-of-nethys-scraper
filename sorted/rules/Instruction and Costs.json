@@ -1,39 +1,49 @@
 {
  "breadcrumbs": [
-  "Chapter 10: Game Mastering",
-  "Running Modes of Play",
-  "Downtime",
+  "Chapter 1: Running the Game",
+  "Running Downtime",
   "Retraining"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-550",
- "markdown": "<title level=\"1\" right=\"Rules\">[Instruction and Costs](/Rules.aspx?ID=550)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 502 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThe rules abstract the process of learning new things as you level up—you’re learning on the job—but retraining suggests that the character works with a teacher or undergoes specific practice to retrain. If you want, you can entirely ignore this aspect of retraining, but it does give an opportunity to introduce (or reintroduce) NPCs and further the game’s story. You can even have one player character mentor another, particularly when it comes to retraining skills.\n\n Any costs to retraining should be pretty minor—about as much as a PC could gain by Earning Income over the same period of time. The costs are mostly there to make the training feel appropriate within the context of the story, not to consume significant amounts of the character’s earnings. A teacher might volunteer to work without pay as a reward for something the character has already done, or simply ask for a favor in return.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2625",
+ "legacy_id": [
+  "rules-550"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Instruction and Costs](/Rules.aspx?ID=2625)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 50 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThe rules abstract the process of learning new things as you level up—you're learning on the job—but retraining suggests that the character works with a teacher or undergoes specific practice to retrain. If you want, you can entirely ignore this aspect of retraining, but it does give an opportunity to introduce (or reintroduce) NPCs and further the game's story. You can even have one player character mentor another, particularly when it comes to retraining skills.\n\nYou don't have to use teachers, but it gives you a great way to introduce a new NPC or bring back an existing one in a new role. The role of a teacher could also be filled by communing with nature for a druid, poring through a massive grimoire for a wizard, and so on. The important part is the guidance gained from that source. The following list includes sample teachers.<br />\n<ul><li>Archwizard Koda Mohanz, wizard academy proctor</li><li>Bagra Redforge, aged artisan</li><li>Baroness Ivestia II, tutor in etiquette and social maneuvering</li><li>Byren Effestos, Esquire, advisor in matters of law, politics, and finance</li><li>Dr. Phinella Albor, professor of medicine and surgery</li><li>Dr. Revis Enzerrad, mystic versed in the occult</li><li>Grita the Swamp Sage, purveyor of strange draughts and cryptic riddles</li><li>Jeballewn Leastfire, expert and tutor in alchemical experimentation</li><li>Kpunde Neverlost, retired veteran adventurer</li><li>Lyra, teller of legends and master of handicrafts</li><li>Major Venaeus, instructor of military tactics</li><li>Mother Elizia, high priest and religious scholar</li><li>Professor Kurid Yamarrupan, senior university lector</li><li>Quintari Solvar, coach for fitness and healthy living</li><li>Ragged Sanden, hermit and speaker for nature</li><li>Silent Flame, Master of the Seventeen Forms</li><li>Tembly the Daring, veteran acrobat and circus performer</li><li>Twelve Fingers, experienced thief and spy</li><li>Wen Hardfoot, well-traveled scout and naturalist</li><li>Zuleri Gan, conductor, playwright, and music scholar</li></ul>Any costs to retraining should be pretty minor—about as much as a PC could gain by Earning Income over the same period of time. The costs are mostly there to make the training feel appropriate within the context of the story, not to consume significant amounts of the character's earnings. A teacher might volunteer to work without pay as a reward for something the character has already done or simply ask for a favor in return.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Instruction and Costs",
  "next_link": {
-  "label": "Disallowed Options",
-  "url": "/Rules.aspx?ID=551"
+  "label": "Extreme Retraining",
+  "url": "/Rules.aspx?ID=2626"
  },
  "previous_link": {
   "label": "Time",
-  "url": "/Rules.aspx?ID=549"
+  "url": "/Rules.aspx?ID=2624"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 50",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 502 <sup>4.0</sup></row>\r\n\r\nChapter 10: Game Mastering / Running Modes of Play / Downtime / Retraining\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 50 <sup>2.0</sup>\r\n\r\nChapter 1: Running the Game / Running Downtime / Retraining\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe rules abstract the process of learning new things as you level up—you're learning on the job—but retraining suggests that the character works …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 502"
+  "GM Core pg. 50"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 502 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 50 <sup>2.0</sup>",
  "speed": {},
- "text": " Instruction and Costs Source Core Rulebook pg. 502 4.0 The rules abstract the process of learning new things as you level up—you’re learning on the job—but retraining suggests that the character works with a teacher or undergoes specific practice to retrain. If you want, you can entirely ignore this aspect of retraining, but it does give an opportunity to introduce (or reintroduce) NPCs and further the game’s story. You can even have one player character mentor another, particularly when it comes to retraining skills. Any costs to retraining should be pretty minor—about as much as a PC could gain by Earning Income over the same period of time. The costs are mostly there to make the training feel appropriate within the context of the story, not to consume significant amounts of the character’s earnings. A teacher might volunteer to work without pay as a reward for something the character has already done, or simply ask for a favor in return. ",
+ "summary": "The rules abstract the process of learning new things as you level up—you're learning on the job—but retraining suggests that the character works …",
+ "summary_markdown": "The rules abstract the process of learning new things as you level up—you're learning on the job—but retraining suggests that the character works …",
+ "text": " Instruction and Costs Source GM Core pg. 50 2.0 The rules abstract the process of learning new things as you level up—you're learning on the job—but retraining suggests that the character works with a teacher or undergoes specific practice to retrain. If you want, you can entirely ignore this aspect of retraining, but it does give an opportunity to introduce (or reintroduce) NPCs and further the game's story. You can even have one player character mentor another, particularly when it comes to retraining skills. You don't have to use teachers, but it gives you a great way to introduce a new NPC or bring back an existing one in a new role. The role of a teacher could also be filled by communing with nature for a druid, poring through a massive grimoire for a wizard, and so on. The important part is the guidance gained from that source. The following list includes sample teachers. Archwizard Koda Mohanz, wizard academy proctor Bagra Redforge, aged artisan Baroness Ivestia II, tutor in etiquette and social maneuvering Byren Effestos, Esquire, advisor in matters of law, politics, and finance Dr. Phinella Albor, professor of medicine and surgery Dr. Revis Enzerrad, mystic versed in the occult Grita the Swamp Sage, purveyor of strange draughts and cryptic riddles Jeballewn Leastfire, expert and tutor in alchemical experimentation Kpunde Neverlost, retired veteran adventurer Lyra, teller of legends and master of handicrafts Major Venaeus, instructor of military tactics Mother Elizia, high priest and religious scholar Professor Kurid Yamarrupan, senior university lector Quintari Solvar, coach for fitness and healthy living Ragged Sanden, hermit and speaker for nature Silent Flame, Master of the Seventeen Forms Tembly the Daring, veteran acrobat and circus performer Twelve Fingers, experienced thief and spy Wen Hardfoot, well-traveled scout and naturalist Zuleri Gan, conductor, playwright, and music scholar Any costs to retraining should be pretty minor—about as much as a PC could gain by Earning Income over the same period of time. The costs are mostly there to make the training feel appropriate within the context of the story, not to consume significant amounts of the character's earnings. A teacher might volunteer to work without pay as a reward for something the character has already done or simply ask for a favor in return. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=550",
+ "url": "/Rules.aspx?ID=2625",
  "weakness": {}
 }

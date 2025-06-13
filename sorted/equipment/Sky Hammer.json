@@ -2,53 +2,63 @@
  "base_item": [
   "Warhammer"
  ],
- "base_item_markdown": "[Warhammer](/Weapons.aspx?ID=47)",
- "breadcrumbs_spa": [],
+ "base_item_markdown": "[Warhammer](/Weapons.aspx?ID=403)",
  "bulk": 1,
  "bulk_raw": "1",
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-394",
+ "id": "equipment-2872",
  "item_category": "Weapons",
  "item_subcategory": "Specific Magic Weapons",
+ "legacy_id": [
+  "equipment-394"
+ ],
  "level": 20,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 20\"\r\n    pfs=\"Standard\"\r\n>\r\n[Sky Hammer](/Equipment.aspx?ID=394)\r\n</title>\n\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 602 <sup>4.0</sup></row>\n\n**Price** 70,000 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Base Weapon** [Warhammer](/Weapons.aspx?ID=47)\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThe sturdy, steel head of this _+3 major striking [flaming](/Equipment.aspx?ID=295) [shock](/Equipment.aspx?ID=303) [orichalcum](/Equipment.aspx?ID=378) [warhammer](/Weapons.aspx?ID=47)_ is shaped like a blazing comet.\n\n<document level=\"2\" id=\"action-219\" />\n\n**Craft Requirements** Supply a casting of _fireball_ (6th level), and the initial raw materials must include 12,375 gp of orichalcum.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 20\"\r\n    pfs=\"Standard\"\r\n>\r\n[Sky Hammer](/Equipment.aspx?ID=2872)\r\n</title>\n\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=683\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 242 <sup>2.0</sup>\n\n**Price** 70,000 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Base Weapon** [Warhammer](/Weapons.aspx?ID=403)\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThe sturdy head of this _+3 major striking [flaming](/Equipment.aspx?ID=295) [shock](/Equipment.aspx?ID=303) [orichalcum](/Equipment.aspx?ID=276) [warhammer](/Weapons.aspx?ID=47)_ is shaped like a blazing comet. \n\n**Activate—Comet Fall** <actions string=\"Reaction\" /> ([concentrate](/Traits.aspx?ID=32))  **Trigger** Your attack roll with the _sky hammer_ is a critical success;  **Effect** A 6th-rank arcane [fireball](/Traits.aspx?ID=604) spell explodes, centered on the sky hammer. The spell DC is 45. You are immune to the fireball's effect, though your allies are not.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Sky Hammer",
  "pfs": "Standard",
  "price": 7000000,
  "price_raw": "70,000 gp",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 242",
+ "primary_source_category": "Rulebooks",
  "rarity": "rare",
- "release_date": "2019-08-01",
+ "rarity_id": 3,
+ "release_date": "2023-11-15",
  "resistance": {},
- "school": "evocation",
- "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 602 <sup>4.0</sup></row>\r\n\r\n**Price** 70,000 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe sturdy, steel head of this  +3 major striking  flaming   shock   orichalcum   warhammer   is shaped like a blazing comet. \r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=683\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 242 <sup>2.0</sup>\r\n\r\n**Price** 70,000 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Base Weapon** [Warhammer](/Weapons.aspx?ID=403)\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe sturdy head of this  +3 major striking  flaming   shock   orichalcum   warhammer   is shaped like a blazing comet.  \r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 602"
+  "GM Core pg. 242"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 602 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 242 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "The sturdy, steel head of this  +3 major striking  flaming   shock   orichalcum   warhammer   is shaped like a blazing comet. ",
- "summary_markdown": "The sturdy, steel head of this  +3 major striking  flaming   shock   orichalcum   warhammer   is shaped like a blazing comet. ",
- "text": "<title level=\"1\" right=\"Item 20\" pfs=\"Standard\" > Sky Hammer Source Core Rulebook pg. 602 4.0 Price 70,000 gp Usage held in 1 hand Bulk 1 Base Weapon Warhammer --- The sturdy, steel head of this +3 major striking flaming shock orichalcum warhammer is shaped like a blazing comet. Craft Requirements Supply a casting of fireball (6th level), and the initial raw materials must include 12,375 gp of orichalcum.\n",
+ "summary": "The sturdy head of this  +3 major striking  flaming   shock   orichalcum   warhammer   is shaped like a blazing comet.  ",
+ "summary_markdown": "The sturdy head of this  +3 major striking  flaming   shock   orichalcum   warhammer   is shaped like a blazing comet.  ",
+ "text": "<title level=\"1\" right=\"Item 20\" pfs=\"Standard\" > Sky Hammer Source GM Core pg. 242 2.0 Price 70,000 gp Usage held in 1 hand Bulk 1 Base Weapon Warhammer --- The sturdy head of this +3 major striking flaming shock orichalcum warhammer is shaped like a blazing comet. Activate—Comet Fall Reaction (concentrate) Trigger Your attack roll with the sky hammer is a critical success; Effect A 6th-rank arcane fireball spell explodes, centered on the sky hammer. The spell DC is 45. You are immune to the fireball's effect, though your allies are not.\n",
  "trait": [
-  "Evocation",
   "Magical",
   "Rare"
  ],
- "trait_markdown": "[Evocation](/Traits.aspx?ID=65), [Magical](/Traits.aspx?ID=103), [Rare](/Traits.aspx?ID=137)",
+ "trait_group": [
+  "Mechanics",
+  "Rarity"
+ ],
+ "trait_markdown": "[Magical](/Traits.aspx?ID=644), [Rare](/Traits.aspx?ID=683)",
  "trait_raw": [
-  "Evocation",
   "Magical",
   "Rare"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=394",
+ "url": "/Equipment.aspx?ID=2872",
  "usage": "held in 1 hand",
  "usage_markdown": "held in 1 hand",
  "weakness": {}

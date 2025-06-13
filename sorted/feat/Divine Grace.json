@@ -1,43 +1,56 @@
 {
  "actions": "Reaction",
- "breadcrumbs_spa": [],
+ "actions_number": 1,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Divine Grace"
  ],
  "feat_markdown": "Divine Grace",
- "id": "feat-218",
+ "id": "feat-5892",
+ "legacy_id": [
+  "feat-218"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Divine Grace](/Feats.aspx?ID=218) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 110 <sup>4.0</sup></row>\n\n**Trigger**\r\nYou attempt a save against a spell, before you roll.\n\n</column>\r\n\r\n---\r\n\r\nYou call upon your deity’s grace, gaining a +2 circumstance bonus to the save.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Divine Grace](/Feats.aspx?ID=5892) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 94 <sup>1.1</sup>\n\n**Trigger**\r\nYou attempt a save against a spell, but you haven’t rolled yet.\n\n</column>\r\n\r\n---\r\n\r\nYou call upon your deity's grace, gaining a +2 circumstance bonus to the save.",
  "name": "Divine Grace",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 94",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 110 <sup>4.0</sup></row>\n\n**Trigger**\r\nYou attempt a save against a spell, before you roll.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou call upon your deity’s grace.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 94 <sup>1.1</sup>\n\n**Trigger**\r\nYou attempt a save against a spell, but you haven’t rolled yet.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou call upon your deity's grace\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 110"
+  "Player Core 2 pg. 94"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 110 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 94 <sup>1.1</sup>",
  "speed": {},
- "summary": "You call upon your deity’s grace.",
- "summary_markdown": "You call upon your deity’s grace.",
- "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Divine Grace Reaction Source Core Rulebook pg. 110 4.0 Trigger You attempt a save against a spell, before you roll. --- You call upon your deity’s grace, gaining a +2 circumstance bonus to the save.",
+ "summary": "You call upon your deity's grace",
+ "summary_markdown": "You call upon your deity's grace",
+ "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Divine Grace Reaction Source Player Core 2 pg. 94 1.1 Trigger You attempt a save against a spell, but you haven’t rolled yet. --- You call upon your deity's grace, gaining a +2 circumstance bonus to the save.",
  "trait": [
   "Champion"
  ],
- "trait_markdown": "[Champion](/Traits.aspx?ID=24)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Champion](/Traits.aspx?ID=811)",
  "trait_raw": [
   "Champion"
  ],
- "trigger": "You attempt a save against a spell, before you roll.",
- "trigger_markdown": "You attempt a save against a spell, before you roll.",
+ "trigger": "You attempt a save against a spell, but you haven’t rolled yet.",
+ "trigger_markdown": "You attempt a save against a spell, but you haven’t rolled yet.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=218",
+ "url": "/Feats.aspx?ID=5892",
  "weakness": {}
 }

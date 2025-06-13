@@ -1,5 +1,4 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
@@ -7,37 +6,51 @@
  ],
  "feat_markdown": "Whodunnit?",
  "frequency": "once per day",
- "id": "feat-1467",
+ "id": "feat-5957",
+ "legacy_id": [
+  "feat-1467"
+ ],
  "level": 8,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Restricted\"\r\n>\r\n[Whodunnit?](/Feats.aspx?ID=1467) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Investigator\" url=\"/Traits.aspx?ID=318\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 63 <sup>2.0</sup></row>\n\n**Frequency**\r\nonce per day\n\n</column>\r\n\r\n---\r\n\r\nYou carefully consider your case and narrow down some of the details. When you [Pursue a Lead](/Actions.aspx?ID=544), you can spend 10 minutes instead of 1 minute to ask two questions of the GM as you complete the activity. The GM must answer truthfully with “yes” or “no,” though if the answer would be misleading or have no practical application to your investigation the GM can answer “immaterial.” You can't use Who Dunnit? more than once for the same lead, even across different days.\n\n Your questions must come from the following list, applying to either the creature or the clue you found: \n<ul><li>Was the clue left by a [creature trait]? (Choose a creature trait such as [humanoid](/Traits.aspx?ID=91), [undead](/Traits.aspx?ID=160), or [dwarf](/Traits.aspx?ID=54); this trait must be accurate as of the time the clue was left.)</li><li>Was this clue left within the last hour?</li><li>Was this clue left within the last day?</li><li>Was the creature that left the clue in a heightened emotional state when it left the clue?</li><li>Did the creature attempt to conceal this clue?</li></ul>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Whodunnit?](/Feats.aspx?ID=5957) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Investigator\" url=\"/Traits.aspx?ID=818\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 109 <sup>1.1</sup>\n\n**Frequency**\r\nonce per day\n\n</column>\r\n\r\n---\r\n\r\nYou carefully consider your case and narrow down some of the details. When you [Pursue a Lead](/Actions.aspx?ID=2811) and learn there's a larger mystery, you can ask two questions related to your investigation when you open it. The GM must answer truthfully with “yes” or “no,” though if the answer would be misleading or have no practical application to your investigation, the GM can answer “immaterial.” You can't use Whodunnit? more than once for the same lead, even across different days.\n\n Your questions must come from the following list, applying to the detail that spurred your investigation. \n<ul><li>Was this clue left by a [creature trait]? (Choose a creature trait such as [humanoid](/Traits.aspx?ID=628), [undead](/Traits.aspx?ID=722), or [dwarf](/Traits.aspx?ID=584); this trait must be accurate as of the time the clue was left.)</li><li>Was this clue left within the last hour?</li><li>Was this clue left within the last day?</li><li>Was the creature that left this clue in a heightened emotional state when it left the clue?</li><li>Did anyone attempt to conceal this clue?</li></ul>",
  "name": "Whodunnit?",
- "pfs": "Restricted",
+ "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 109",
+ "primary_source_category": "Rulebooks",
  "rarity": "uncommon",
- "release_date": "2020-07-30",
+ "rarity_id": 2,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Investigator\" url=\"/Traits.aspx?ID=318\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 63 <sup>2.0</sup></row>\r\n\r\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou carefully consider your case and narrow down some of the details.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Investigator\" url=\"/Traits.aspx?ID=818\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 109 <sup>1.1</sup>\n\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou carefully consider your case and narrow down some of the details.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 63"
+  "Player Core 2 pg. 109"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 63 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 109 <sup>1.1</sup>",
  "speed": {},
  "summary": "You carefully consider your case and narrow down some of the details.",
  "summary_markdown": "You carefully consider your case and narrow down some of the details.",
- "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Restricted\" > Whodunnit? Source Advanced Player's Guide pg. 63 2.0 Frequency once per day --- You carefully consider your case and narrow down some of the details. When you Pursue a Lead, you can spend 10 minutes instead of 1 minute to ask two questions of the GM as you complete the activity. The GM must answer truthfully with “yes” or “no,” though if the answer would be misleading or have no practical application to your investigation the GM can answer “immaterial.” You can't use Who Dunnit? more than once for the same lead, even across different days. Your questions must come from the following list, applying to either the creature or the clue you found: Was the clue left by a creature trait]? (Choose a creature trait such as [humanoid, undead, or dwarf; this trait must be accurate as of the time the clue was left.) Was this clue left within the last hour? Was this clue left within the last day? Was the creature that left the clue in a heightened emotional state when it left the clue? Did the creature attempt to conceal this clue? ",
+ "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Whodunnit? Source Player Core 2 pg. 109 1.1 Frequency once per day --- You carefully consider your case and narrow down some of the details. When you Pursue a Lead and learn there's a larger mystery, you can ask two questions related to your investigation when you open it. The GM must answer truthfully with “yes” or “no,” though if the answer would be misleading or have no practical application to your investigation, the GM can answer “immaterial.” You can't use Whodunnit? more than once for the same lead, even across different days. Your questions must come from the following list, applying to the detail that spurred your investigation. Was this clue left by a creature trait]? (Choose a creature trait such as [humanoid, undead, or dwarf; this trait must be accurate as of the time the clue was left.) Was this clue left within the last hour? Was this clue left within the last day? Was the creature that left this clue in a heightened emotional state when it left the clue? Did anyone attempt to conceal this clue? ",
  "trait": [
   "Investigator",
   "Uncommon"
  ],
- "trait_markdown": "[Investigator](/Traits.aspx?ID=318), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Class",
+  "Rarity"
+ ],
+ "trait_markdown": "[Investigator](/Traits.aspx?ID=818), [Uncommon](/Traits.aspx?ID=721)",
  "trait_raw": [
   "Investigator",
   "Uncommon"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1467",
+ "url": "/Feats.aspx?ID=5957",
  "weakness": {}
 }

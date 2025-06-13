@@ -1,30 +1,41 @@
 {
- "breadcrumbs_spa": [],
  "category": "action",
  "exclude_from_search": true,
- "frequency": "once per hour",
- "id": "action-1448",
- "markdown": "**Activate** <actions string=\"\" />1 minute (command, Interact);  **Frequency** once per hour;   **Effect** Name a person, event, or location and the _umbraex eye_ shows 1 minute of relevant memory the umbraex witnessed firsthand. The events are displayed as clear images in the eye and accompanied by sound. If the umbraex has no relevant memories, the eye merely flickers with shadows.",
+ "frequency": "three times per day",
+ "id": "action-1316",
+ "markdown": "**Activate** <actions string=\"\" /> 1 minute (command, Interact);  **Frequency** three times per day;  **Requirements** A severed head is within the _cresset of grisly interrogation_; **Effect** You pose a question to the head contained within the cresset, and it animates briefly to reply with a short answer over the course of a minute. The cresset empowers the severed head with the ability to reply even without breath, granting the head a semblance of life, calling upon the physical remains' latent memories rather than summoning back the deceased's spirit. The head must be forcefully commanded to answer with a [secret](/Traits.aspx?ID=142) [Intimidation](/Skills.aspx?ID=7) check— other attempts to query the head without attempting an Intimidation check for a result automatically fail. Once activated in this way, this activation of a _cresset of grisly interrogation_ can't be performed again for 1 hour. The head answers the question based on the result of the secret Intimidation check against the Will DC the creature had when it was alive or DC 25, whichever is higher.\r\n\r\n**Critical Success** The head answers the question truthfully, to the best of its ability.<br />\r\n**Success** The head answers the question truthfully, but the answer is brief, cryptic, or repetitive.<br />\r\n**Failure** The head's answer provides false information, attempting to [Lie](/Actions.aspx?ID=47) to you with a +15 [Deception](/Skills.aspx?ID=5) modifier, or the creature's original Deception, whichever is higher.<br />\r\n**Critical Failure** As failure, but the head gains a +4 circumstance bonus to its Deception check, and the next time you use this activation of the _cresset of grisly interrogation_ during the next 24 hours, the result of your Intimidation check is one degree of success worse than the result you rolled.",
  "name": "1 minute (command, Interact)",
+ "primary_source": "Crown of the Kobold King",
+ "primary_source_raw": "Crown of the Kobold King pg. 114",
+ "primary_source_category": "Adventures",
+ "primary_source_group": "Crown of the Kobold King",
  "rarity": "common",
- "release_date": "2022-11-16",
+ "rarity_id": 1,
+ "release_date": "2022-10-26",
+ "requirement": "A severed head is within the  cresset of grisly interrogation ",
+ "requirement_markdown": "A severed head is within the _cresset of grisly interrogation_",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #185: A Taste of Ashes](/Sources.aspx?ID=188) pg. 79</row>\r\n\r\n**Frequency**\r\nonce per hour\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nName a person, event, or location and the  umbraex eye  shows 1 minute of relevant memory the umbraex witnessed firsthand. The events are displayed …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Crown of the Kobold King](/Sources.aspx?ID=148) pg. 114\r\n\r\n**Frequency**\r\nthree times per day\n\n**Requirement**\r\nA severed head is within the _cresset of grisly interrogation_\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou pose a question to the head contained within the cresset, and it animates briefly to reply with a short answer over the course of a minute. The …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Pathfinder #185: A Taste of Ashes"
+  "Crown of the Kobold King"
  ],
  "source_raw": [
-  "Pathfinder #185: A Taste of Ashes pg. 79"
+  "Crown of the Kobold King pg. 114"
  ],
- "source_category": "Adventure Paths",
- "source_group": "Blood Lords",
- "source_markdown": "<row gap=\"tiny\">[Pathfinder #185: A Taste of Ashes](/Sources.aspx?ID=188) pg. 79</row>",
+ "source_category": [
+  "Adventures"
+ ],
+ "source_group": [
+  "Crown of the Kobold King"
+ ],
+ "source_markdown": "[Crown of the Kobold King](/Sources.aspx?ID=148) pg. 114",
  "speed": {},
- "summary": "Name a person, event, or location and the  umbraex eye  shows 1 minute of relevant memory the umbraex witnessed firsthand. The events are displayed …",
- "summary_markdown": "Name a person, event, or location and the  umbraex eye  shows 1 minute of relevant memory the umbraex witnessed firsthand. The events are displayed …",
- "text": " Activate 1 minute (command, Interact); Frequency once per hour; Effect Name a person, event, or location and the umbraex eye shows 1 minute of relevant memory the umbraex witnessed firsthand. The events are displayed as clear images in the eye and accompanied by sound. If the umbraex has no relevant memories, the eye merely flickers with shadows.",
+ "summary": "You pose a question to the head contained within the cresset, and it animates briefly to reply with a short answer over the course of a minute. The …",
+ "summary_markdown": "You pose a question to the head contained within the cresset, and it animates briefly to reply with a short answer over the course of a minute. The …",
+ "text": " Activate 1 minute (command, Interact); Frequency three times per day; Requirements A severed head is within the cresset of grisly interrogation ; Effect You pose a question to the head contained within the cresset, and it animates briefly to reply with a short answer over the course of a minute. The cresset empowers the severed head with the ability to reply even without breath, granting the head a semblance of life, calling upon the physical remains' latent memories rather than summoning back the deceased's spirit. The head must be forcefully commanded to answer with a secret Intimidation check— other attempts to query the head without attempting an Intimidation check for a result automatically fail. Once activated in this way, this activation of a cresset of grisly interrogation can't be performed again for 1 hour. The head answers the question based on the result of the secret Intimidation check against the Will DC the creature had when it was alive or DC 25, whichever is higher. Critical Success The head answers the question truthfully, to the best of its ability. Success The head answers the question truthfully, but the answer is brief, cryptic, or repetitive. Failure The head's answer provides false information, attempting to Lie to you with a +15 Deception modifier, or the creature's original Deception, whichever is higher. Critical Failure As failure, but the head gains a +4 circumstance bonus to its Deception check, and the next time you use this activation of the cresset of grisly interrogation during the next 24 hours, the result of your Intimidation check is one degree of success worse than the result you rolled.",
  "trait_markdown": "",
  "type": "Action",
- "url": "/Actions.aspx?ID=1448",
+ "url": "/Actions.aspx?ID=1316",
  "weakness": {}
 }

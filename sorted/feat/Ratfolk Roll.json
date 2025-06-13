@@ -1,43 +1,57 @@
 {
  "actions": "Two Actions",
- "breadcrumbs_spa": [],
+ "actions_number": 4,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Ratfolk Roll"
  ],
  "feat_markdown": "Ratfolk Roll",
- "id": "feat-2429",
+ "id": "feat-5663",
+ "legacy_id": [
+  "feat-2429"
+ ],
  "level": 5,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Ratfolk Roll](/Feats.aspx?ID=2429) <actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Move\" url=\"/Traits.aspx?ID=114\" />\r\n<trait label=\"Ratfolk\" url=\"/Traits.aspx?ID=234\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 55 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYour ability to curl up into a tight ball comes in handy. You roll up into a ball and move up to four times your Speed in a straight line down an incline. If you reach the bottom of the incline or hit an obstacle during this first turn of movement, you stop rolling safely. Otherwise, you automatically keep rolling at this Speed during subsequent turns until you hit the bottom of the incline or an obstacle ends this movement (which can happen in the middle of your turn). You're [slowed 2](/Conditions.aspx?ID=35) each turn after the first that you keep rolling, and if you hit an obstacle on a turn after the first, you and the obstacle both take 4d6 bludgeoning damage and you stop rolling.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Ratfolk Roll](/Feats.aspx?ID=5663) <actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Move\" url=\"/Traits.aspx?ID=658\" />\r\n<trait label=\"Ratfolk\" url=\"/Traits.aspx?ID=769\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 31 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou roll up into a ball and move up to four times your Speed in a straight line down an incline. If you reach the bottom of the incline or hit an obstacle during this first turn of movement, you stop rolling safely. Otherwise, you automatically keep rolling at this Speed during subsequent turns until you hit the bottom of the incline or an obstacle ends this movement (which can happen in the middle of your turn). You're [slowed 2](/Conditions.aspx?ID=92) each turn after the first that you keep rolling, and if you hit an obstacle on a turn after the first, you and the obstacle both take 4d6 bludgeoning damage and you stop rolling.",
  "name": "Ratfolk Roll",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 31",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2021-02-24",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Move\" url=\"/Traits.aspx?ID=114\" />\r\n<trait label=\"Ratfolk\" url=\"/Traits.aspx?ID=234\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 55 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour ability to curl up into a tight ball comes in handy.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Move\" url=\"/Traits.aspx?ID=658\" />\r\n<trait label=\"Ratfolk\" url=\"/Traits.aspx?ID=769\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 31 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou roll up into a ball and move up to four times your Speed in a straight line down an incline.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Ancestry Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Ancestry Guide pg. 55"
+  "Player Core 2 pg. 31"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Ancestry Guide](/Sources.aspx?ID=74) pg. 55 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 31 <sup>1.1</sup>",
  "speed": {},
- "summary": "Your ability to curl up into a tight ball comes in handy.",
- "summary_markdown": "Your ability to curl up into a tight ball comes in handy.",
- "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Ratfolk Roll Two Actions Source Ancestry Guide pg. 55 2.0 --- Your ability to curl up into a tight ball comes in handy. You roll up into a ball and move up to four times your Speed in a straight line down an incline. If you reach the bottom of the incline or hit an obstacle during this first turn of movement, you stop rolling safely. Otherwise, you automatically keep rolling at this Speed during subsequent turns until you hit the bottom of the incline or an obstacle ends this movement (which can happen in the middle of your turn). You're slowed 2 each turn after the first that you keep rolling, and if you hit an obstacle on a turn after the first, you and the obstacle both take 4d6 bludgeoning damage and you stop rolling.",
+ "summary": "You roll up into a ball and move up to four times your Speed in a straight line down an incline.",
+ "summary_markdown": "You roll up into a ball and move up to four times your Speed in a straight line down an incline.",
+ "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Ratfolk Roll Two Actions Source Player Core 2 pg. 31 1.1 --- You roll up into a ball and move up to four times your Speed in a straight line down an incline. If you reach the bottom of the incline or hit an obstacle during this first turn of movement, you stop rolling safely. Otherwise, you automatically keep rolling at this Speed during subsequent turns until you hit the bottom of the incline or an obstacle ends this movement (which can happen in the middle of your turn). You're slowed 2 each turn after the first that you keep rolling, and if you hit an obstacle on a turn after the first, you and the obstacle both take 4d6 bludgeoning damage and you stop rolling.",
  "trait": [
   "Move",
   "Ratfolk"
  ],
- "trait_markdown": "[Move](/Traits.aspx?ID=114), [Ratfolk](/Traits.aspx?ID=234)",
+ "trait_group": [
+  "Mechanics",
+  "Monster"
+ ],
+ "trait_markdown": "[Move](/Traits.aspx?ID=658), [Ratfolk](/Traits.aspx?ID=769)",
  "trait_raw": [
   "Move",
   "Ratfolk"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2429",
+ "url": "/Feats.aspx?ID=5663",
  "weakness": {}
 }

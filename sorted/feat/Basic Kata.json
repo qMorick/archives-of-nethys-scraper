@@ -2,44 +2,56 @@
  "archetype": [
   "Monk"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Basic Kata"
  ],
  "feat_markdown": "Basic Kata",
- "id": "feat-716",
+ "id": "feat-6211",
+ "legacy_id": [
+  "feat-716"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Basic Kata](/Feats.aspx?ID=716) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 227 <sup>4.0</sup></row>\n\n**Archetype** [Monk](/Archetypes.aspx?ID=8)\n\n**Prerequisites**\r\n[Monk Dedication](/Feats.aspx?ID=715)\n\n</column>\r\n\r\n---\r\n\r\nYou gain a 1st- or 2nd-level [monk feat](/Classes.aspx?ID=8/feats).\n\n<title level=\"2\">Basic Kata leads to...</title>\r\n[Advanced Kata](/Feats.aspx?ID=718)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Basic Kata](/Feats.aspx?ID=6211) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 179 <sup>1.1</sup>\n\n**Archetype** [Monk](/Archetypes.aspx?ID=232)\n\n**Prerequisites**\r\n[Monk Dedication](/Feats.aspx?ID=6210)\n\n</column>\r\n\r\n---\r\n\r\nYou gain a 1st- or 2nd-level [monk feat](/Feats.aspx?Traits=112).\n\n<title level=\"2\">Basic Kata leads to...</title>\r\n[Advanced Kata](/Feats.aspx?ID=6213)",
  "name": "Basic Kata",
  "pfs": "Standard",
  "prerequisite": "Monk Dedication",
- "prerequisite_markdown": "[Monk Dedication](/Feats.aspx?ID=715)",
+ "prerequisite_markdown": "[Monk Dedication](/Feats.aspx?ID=6210)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 179",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 227 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Monk Dedication](/Feats.aspx?ID=715)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain a 1st- or 2nd-level monk feat.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 179 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Monk Dedication](/Feats.aspx?ID=6210)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain a 1st- or 2nd-level monk feat.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 227"
+  "Player Core 2 pg. 179"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 227 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 179 <sup>1.1</sup>",
  "speed": {},
  "summary": "You gain a 1st- or 2nd-level monk feat.",
  "summary_markdown": "You gain a 1st- or 2nd-level monk feat.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Basic Kata Source Core Rulebook pg. 227 4.0 Archetype Monk Prerequisites Monk Dedication --- You gain a 1st- or 2nd-level monk feat. Basic Kata leads to... Advanced Kata",
+ "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Basic Kata Source Player Core 2 pg. 179 1.1 Archetype Monk Prerequisites Monk Dedication --- You gain a 1st- or 2nd-level monk feat. Basic Kata leads to... Advanced Kata",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=716",
+ "url": "/Feats.aspx?ID=6211",
  "weakness": {}
 }

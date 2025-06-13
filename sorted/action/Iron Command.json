@@ -1,48 +1,38 @@
 {
  "actions": "Reaction",
- "breadcrumbs_spa": [],
+ "actions_number": 1,
  "category": "action",
  "exclude_from_search": false,
- "id": "action-552",
- "markdown": "<title level=\"1\" right=\"Action\">[Iron Command](/Actions.aspx?ID=552) <actions string=\"Reaction\" /></title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=48\" />\r\n<trait label=\"Emotion\" url=\"/Traits.aspx?ID=60\" />\r\n<trait label=\"Enchantment\" url=\"/Traits.aspx?ID=61\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 117 <sup>2.0</sup></row>\n\n**Trigger** An enemy within 15 feet damages you.\n\n</column>\r\n\r\n---\r\n\r\nYou put an impertinent foe who dared harm you in their proper place. You command your enemy to kneel before you in obedience. If they dare to refuse, they must pay the price in pain and anguish. The foe must choose one of the following options. \n<ul><li>The enemy kneels, dropping [prone](/Conditions.aspx?ID=31) as a free action.</li><li>The enemy refuses, and you deal 1d6 mental damage to it. This damage increases to 2d6 at 5th level, 3d6 at 9th level, 4d6 at 12th level, 5d6 at 16th level, and 6d6 at 19th level.</li></ul> In addition, your Strikes against the triggering creature deal 1 extra damage until the end of your next turn. You choose whether the damage type is evil or negative each time you use this reaction. This extra damage increases to 2 at 9th level and 3 at 16th level.",
+ "id": "action-2809",
+ "markdown": "<title level=\"1\" right=\"Action\">[Iron Command](/Actions.aspx?ID=2809) <actions string=\"Reaction\" /></title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 93 <sup>1.1</sup>\n\n**Trigger** An enemy in your champion’s aura damages you\n\n</column>\r\n\r\n---\r\n\r\nYou put an impertinent foe who dared harm you in their proper place. You command your enemy to kneel before you in obedience. If they dare to refuse, they must pay the price in pain and anguish. The enemy must choose one of the following options. \n<ul><li>**Kneel** The enemy drops [prone](/Conditions.aspx?ID=88) as a free action.</li><li>**Refuse** You deal 1d6 mental damage to the enemy. </li></ul><br /> This damage increases to 2d6 at 5th level, 3d6 at 9th level, 4d6 at 12th level, 5d6 at 16th level, and 6d6 at 19th level. Regardless of which option the enemy chose, your Strikes against it deal 1 extra spirit damage until the end of your next turn. This extra damage increases to 2 at 9th level and 3 at 16th level.",
  "name": "Iron Command",
- "rarity": "uncommon",
- "release_date": "2020-07-30",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 93",
+ "primary_source_category": "Rulebooks",
+ "rarity": "common",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "school": "enchantment",
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=48\" />\r\n<trait label=\"Emotion\" url=\"/Traits.aspx?ID=60\" />\r\n<trait label=\"Enchantment\" url=\"/Traits.aspx?ID=61\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 117 <sup>2.0</sup></row>\n\n**Trigger**\r\nAn enemy within 15 feet damages you.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou put an impertinent foe who dared harm you in their proper place. You command your enemy to kneel before you in obedience. If they dare to refuse, …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 93 <sup>1.1</sup>\n\n**Trigger**\r\nAn enemy in your champion’s aura damages you\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou put an impertinent foe who dared harm you in their proper place. You command your enemy to kneel before you in obedience. If they dare to refuse, …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 117"
+  "Player Core 2 pg. 93"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 117 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 93 <sup>1.1</sup>",
  "speed": {},
  "summary": "You put an impertinent foe who dared harm you in their proper place. You command your enemy to kneel before you in obedience. If they dare to refuse, …",
  "summary_markdown": "You put an impertinent foe who dared harm you in their proper place. You command your enemy to kneel before you in obedience. If they dare to refuse, …",
- "text": " Iron Command Reaction Source Advanced Player's Guide pg. 117 2.0 Trigger An enemy within 15 feet damages you. --- You put an impertinent foe who dared harm you in their proper place. You command your enemy to kneel before you in obedience. If they dare to refuse, they must pay the price in pain and anguish. The foe must choose one of the following options. The enemy kneels, dropping prone as a free action. The enemy refuses, and you deal 1d6 mental damage to it. This damage increases to 2d6 at 5th level, 3d6 at 9th level, 4d6 at 12th level, 5d6 at 16th level, and 6d6 at 19th level. In addition, your Strikes against the triggering creature deal 1 extra damage until the end of your next turn. You choose whether the damage type is evil or negative each time you use this reaction. This extra damage increases to 2 at 9th level and 3 at 16th level.",
- "trait": [
-  "Champion",
-  "Divine",
-  "Emotion",
-  "Enchantment",
-  "Mental",
-  "Uncommon"
- ],
- "trait_markdown": "[Champion](/Traits.aspx?ID=24), [Divine](/Traits.aspx?ID=48), [Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106), [Uncommon](/Traits.aspx?ID=159)",
- "trait_raw": [
-  "Champion",
-  "Divine",
-  "Emotion",
-  "Enchantment",
-  "Mental",
-  "Uncommon"
- ],
- "trigger": "An enemy within 15 feet damages you.",
- "trigger_markdown": "An enemy within 15 feet damages you.",
+ "text": " Iron Command Reaction Source Player Core 2 pg. 93 1.1 Trigger An enemy in your champion’s aura damages you --- You put an impertinent foe who dared harm you in their proper place. You command your enemy to kneel before you in obedience. If they dare to refuse, they must pay the price in pain and anguish. The enemy must choose one of the following options. Kneel The enemy drops prone as a free action. Refuse You deal 1d6 mental damage to the enemy. This damage increases to 2d6 at 5th level, 3d6 at 9th level, 4d6 at 12th level, 5d6 at 16th level, and 6d6 at 19th level. Regardless of which option the enemy chose, your Strikes against it deal 1 extra spirit damage until the end of your next turn. This extra damage increases to 2 at 9th level and 3 at 16th level.",
+ "trait_markdown": "",
+ "trigger": "An enemy in your champion’s aura damages you",
+ "trigger_markdown": "An enemy in your champion’s aura damages you",
  "type": "Action",
- "url": "/Actions.aspx?ID=552",
+ "url": "/Actions.aspx?ID=2809",
  "weakness": {}
 }

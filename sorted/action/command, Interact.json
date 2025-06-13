@@ -1,31 +1,37 @@
 {
  "actions": "Two Actions",
- "breadcrumbs_spa": [],
+ "actions_number": 4,
  "category": "action",
  "exclude_from_search": true,
  "frequency": "once per day",
- "id": "action-2031",
- "markdown": "**Activate** <actions string=\"Two Actions\" />command, Interact;  **Frequency** once per day;   **Effect** You bring the might of the mountain into your body. You cast 2nd-level or 4th-level [_enlarge_](/Spells.aspx?ID=102) upon yourself. If you're at least 15th level, the duration increases to 1 hour.",
+ "id": "action-244",
+ "markdown": "**Activate** <actions string=\"Two Actions\" /> command, Interact;  **Frequency** once per day;   **Effect** You can either transform the cloak into bat-like wings that grant you a fly Speed of 30 feet for 10 minutes, or have the cloak turn you into a bat by casting a 4th-level [_pest form_](/Spells.aspx?ID=217) spell on you.",
  "name": "command, Interact",
+ "primary_source": "Core Rulebook",
+ "primary_source_raw": "Core Rulebook pg. 608",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2023-04-26",
+ "rarity_id": 1,
+ "release_date": "2019-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #190: The Choosing](/Sources.aspx?ID=198) pg. 78</row>\r\n\r\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou bring the might of the mountain into your body. You cast 2nd-level or 4th-level   enlarge   upon yourself. If you're at least 15th level, the …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 608 <sup>4.0</sup>\r\n\r\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can either transform the cloak into bat-like wings that grant you a fly Speed of 30 feet for 10 minutes, or have the cloak turn you into a bat by …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Pathfinder #190: The Choosing"
+  "Core Rulebook"
  ],
  "source_raw": [
-  "Pathfinder #190: The Choosing pg. 78"
+  "Core Rulebook pg. 608"
  ],
- "source_category": "Adventure Paths",
- "source_group": "Stolen Fate",
- "source_markdown": "<row gap=\"tiny\">[Pathfinder #190: The Choosing](/Sources.aspx?ID=198) pg. 78</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 608 <sup>4.0</sup>",
  "speed": {},
- "summary": "You bring the might of the mountain into your body. You cast 2nd-level or 4th-level   enlarge   upon yourself. If you're at least 15th level, the …",
- "summary_markdown": "You bring the might of the mountain into your body. You cast 2nd-level or 4th-level   enlarge   upon yourself. If you're at least 15th level, the …",
- "text": " Activate Two Actionscommand, Interact; Frequency once per day; Effect You bring the might of the mountain into your body. You cast 2nd-level or 4th-level enlarge upon yourself. If you're at least 15th level, the duration increases to 1 hour.",
+ "summary": "You can either transform the cloak into bat-like wings that grant you a fly Speed of 30 feet for 10 minutes, or have the cloak turn you into a bat by …",
+ "summary_markdown": "You can either transform the cloak into bat-like wings that grant you a fly Speed of 30 feet for 10 minutes, or have the cloak turn you into a bat by …",
+ "text": " Activate Two Actions command, Interact; Frequency once per day; Effect You can either transform the cloak into bat-like wings that grant you a fly Speed of 30 feet for 10 minutes, or have the cloak turn you into a bat by casting a 4th-level pest form spell on you.",
  "trait_markdown": "",
  "type": "Action",
- "url": "/Actions.aspx?ID=2031",
+ "url": "/Actions.aspx?ID=244",
  "weakness": {}
 }

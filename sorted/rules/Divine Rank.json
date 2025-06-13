@@ -1,39 +1,50 @@
 {
  "breadcrumbs": [
-  "Chapter 2: Tools\r\n",
+  "Chapter 2: Building Games",
   "Building Worlds",
   "Religion",
   "Deities"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1145",
- "markdown": "<title level=\"1\" right=\"Rules\">[Divine Rank](/Rules.aspx?ID=1145)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 127</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nGods are usually ranked in a divine hierarchy, from newly ascended godlings to almighty creator gods of unfathomable power.\n\n **God:** Taking a position atop the divine pyramid, gods command near unlimited power and resources. Their mortal congregations are large and (usually) well funded.\n\n **Demigod:** Demigods still possess a great deal of power, though often in subservience to another god or simply inferior to the power of a full god.\n\n **Quasi Deity:** The weakest rank of divinity, many quasi deities are recently ascended mortals who attained their deific powers through ritual apotheosis, or planar natives who have amassed divine power of their own.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2980",
+ "legacy_id": [
+  "rules-1145"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Divine Rank](/Rules.aspx?ID=2980)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 140 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nGods are usually ranked in a divine hierarchy, from newly ascended godlings to almighty creator gods of unfathomable power.\n\n**God:** Taking a position atop the divine pyramid, gods command near unlimited power and resources. Their mortal congregations are large and (usually) well funded.\n\n **Demigod:** Demigods still possess a great deal of power, though often in subservience to another god or simply inferior to the power of a full god.\n\n**Quasi Deity:** The weakest rank of divinity, many quasi deities are recently ascended mortals who attained their deific powers through ritual apotheosis, or planar natives who have amassed divine power of their own.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Divine Rank",
  "next_link": {
   "label": "Divine Statistics",
-  "url": "/Rules.aspx?ID=1146"
+  "url": "/Rules.aspx?ID=2981"
  },
  "previous_link": {
   "label": "Pantheons",
-  "url": "/Rules.aspx?ID=1143"
+  "url": "/Rules.aspx?ID=2978"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 140",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 127</row>\r\n\r\nChapter 2: Tools\r\n/ Building Worlds / Religion / Deities\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 140 <sup>2.0</sup>\r\n\r\nChapter 2: Building Games / Building Worlds / Religion / Deities\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGods are usually ranked in a divine hierarchy, from newly ascended godlings to almighty creator gods of unfathomable power.   God:  Taking a position …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 127"
+  "GM Core pg. 140"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 127</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 140 <sup>2.0</sup>",
  "speed": {},
- "text": " Divine Rank Source Gamemastery Guide pg. 127 Gods are usually ranked in a divine hierarchy, from newly ascended godlings to almighty creator gods of unfathomable power. God: Taking a position atop the divine pyramid, gods command near unlimited power and resources. Their mortal congregations are large and (usually) well funded. Demigod: Demigods still possess a great deal of power, though often in subservience to another god or simply inferior to the power of a full god. Quasi Deity: The weakest rank of divinity, many quasi deities are recently ascended mortals who attained their deific powers through ritual apotheosis, or planar natives who have amassed divine power of their own. ",
+ "summary": "Gods are usually ranked in a divine hierarchy, from newly ascended godlings to almighty creator gods of unfathomable power.   God:  Taking a position …",
+ "summary_markdown": "Gods are usually ranked in a divine hierarchy, from newly ascended godlings to almighty creator gods of unfathomable power.   God:  Taking a position …",
+ "text": " Divine Rank Source GM Core pg. 140 2.0 Gods are usually ranked in a divine hierarchy, from newly ascended godlings to almighty creator gods of unfathomable power. God: Taking a position atop the divine pyramid, gods command near unlimited power and resources. Their mortal congregations are large and (usually) well funded. Demigod: Demigods still possess a great deal of power, though often in subservience to another god or simply inferior to the power of a full god. Quasi Deity: The weakest rank of divinity, many quasi deities are recently ascended mortals who attained their deific powers through ritual apotheosis, or planar natives who have amassed divine power of their own. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1145",
+ "url": "/Rules.aspx?ID=2980",
  "weakness": {}
 }

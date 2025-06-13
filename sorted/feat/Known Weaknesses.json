@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Known Weaknesses"
  ],
  "feat_markdown": "Known Weaknesses",
- "id": "feat-1447",
+ "id": "feat-5936",
+ "legacy_id": [
+  "feat-1447"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Known Weaknesses](/Feats.aspx?ID=1447) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Investigator\" url=\"/Traits.aspx?ID=318\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 60 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nWhenever you [Devise a Stratagem](/Actions.aspx?ID=546), you can also attempt a check to [Recall Knowledge](/Actions.aspx?ID=26) as part of that action. If you critically succeed at the Recall Knowledge check, you notice a weakness and gain a +1 circumstance bonus to your attack roll from Devise a Stratagem. If you immediately convey this information to your allies as part of the check, each ally gains a +1 circumstance bonus to their next attack roll against the subject, as long as their attack is made before the beginning of your next turn.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Known Weaknesses](/Feats.aspx?ID=5936) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Investigator\" url=\"/Traits.aspx?ID=818\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 106 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nWhenever you [Devise a Stratagem](/Actions.aspx?ID=2813), you can also attempt a check to [Recall Knowledge](/Actions.aspx?ID=2367) as part of that action before rolling the d20. If you critically succeed at the Recall Knowledge check, you notice a weakness and can convey the information to allies to grant each of them a +1 circumstance bonus to their next attack roll against the subject, as long as their attack is made before the beginning of your next turn. If you choose an attack stratagem, this bonus applies to that attack roll too.",
  "name": "Known Weaknesses",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 106",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Investigator\" url=\"/Traits.aspx?ID=318\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 60 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhenever you Devise a Stratagem, you can also attempt a check to Recall Knowledge as part of that action.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Investigator\" url=\"/Traits.aspx?ID=818\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 106 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhenever you [Devise a Stratagem](/Actions.aspx?ID=2813), you can also attempt a check to [Recall Knowledge](/Actions.aspx?ID=2367) as part of that action before rolling the d20.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 60"
+  "Player Core 2 pg. 106"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 60 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 106 <sup>1.1</sup>",
  "speed": {},
- "summary": "Whenever you Devise a Stratagem, you can also attempt a check to Recall Knowledge as part of that action.",
- "summary_markdown": "Whenever you Devise a Stratagem, you can also attempt a check to Recall Knowledge as part of that action.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Known Weaknesses Source Advanced Player's Guide pg. 60 2.0 --- Whenever you Devise a Stratagem, you can also attempt a check to Recall Knowledge as part of that action. If you critically succeed at the Recall Knowledge check, you notice a weakness and gain a +1 circumstance bonus to your attack roll from Devise a Stratagem. If you immediately convey this information to your allies as part of the check, each ally gains a +1 circumstance bonus to their next attack roll against the subject, as long as their attack is made before the beginning of your next turn.",
+ "summary": "Whenever you  Devise a Stratagem , you can also attempt a check to  Recall Knowledge  as part of that action before rolling the d20.",
+ "summary_markdown": "Whenever you [Devise a Stratagem](/Actions.aspx?ID=2813), you can also attempt a check to [Recall Knowledge](/Actions.aspx?ID=2367) as part of that action before rolling the d20.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Known Weaknesses Source Player Core 2 pg. 106 1.1 --- Whenever you Devise a Stratagem, you can also attempt a check to Recall Knowledge as part of that action before rolling the d20. If you critically succeed at the Recall Knowledge check, you notice a weakness and can convey the information to allies to grant each of them a +1 circumstance bonus to their next attack roll against the subject, as long as their attack is made before the beginning of your next turn. If you choose an attack stratagem, this bonus applies to that attack roll too.",
  "trait": [
   "Investigator"
  ],
- "trait_markdown": "[Investigator](/Traits.aspx?ID=318)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Investigator](/Traits.aspx?ID=818)",
  "trait_raw": [
   "Investigator"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1447",
+ "url": "/Feats.aspx?ID=5936",
  "weakness": {}
 }

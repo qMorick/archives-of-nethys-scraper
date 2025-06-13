@@ -2,50 +2,62 @@
  "archetype": [
   "Medic"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Holistic Care"
  ],
  "feat_markdown": "Holistic Care",
- "id": "feat-2030",
+ "id": "feat-6376",
+ "legacy_id": [
+  "feat-2030"
+ ],
  "level": 6,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Holistic Care](/Feats.aspx?ID=2030) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=144\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 184 <sup>2.0</sup></row>\n\n**Archetype** [Medic](/Archetypes.aspx?ID=69)\n\n**Prerequisites**\r\nTrained in [Diplomacy](/Skills.aspx?ID=6); [Treat Condition](/Feats.aspx?ID=2029)\n\n</column>\r\n\r\n---\r\n\r\nYou provide emotional and spiritual care. Add [frightened](/Conditions.aspx?ID=19), [stupefied](/Conditions.aspx?ID=37), and [stunned](/Conditions.aspx?ID=36) to the list of conditions you can reduce with [Treat Condition](/Feats.aspx?ID=2029). If the stunned condition has a duration instead of a value, you can't use Treat Condition to reduce it.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Holistic Care](/Feats.aspx?ID=6376) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=695\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 208 <sup>1.1</sup>\n\n**Archetype** [Medic](/Archetypes.aspx?ID=257)\n\n**Prerequisites**\r\n[Treat Condition](/Feats.aspx?ID=6375); Trained in [Diplomacy](/Skills.aspx?ID=39)\n\n</column>\r\n\r\n---\r\n\r\nYou provide emotional and spiritual care. Add [frightened](/Conditions.aspx?ID=76), [stupefied](/Conditions.aspx?ID=94), and [stunned](/Conditions.aspx?ID=93) to the list of conditions you can reduce with [Treat Condition](/Feats.aspx?ID=6375). If the stunned condition has a duration instead of a value, you can’t use Treat Condition to reduce it.",
  "name": "Holistic Care",
  "pfs": "Standard",
- "prerequisite": "Trained in Diplomacy; Treat Condition",
- "prerequisite_markdown": "Trained in [Diplomacy](/Skills.aspx?ID=6); [Treat Condition](/Feats.aspx?ID=2029)",
+ "prerequisite": "Treat Condition; Trained in Diplomacy",
+ "prerequisite_markdown": "[Treat Condition](/Feats.aspx?ID=6375); Trained in [Diplomacy](/Skills.aspx?ID=39)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 208",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=144\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 184 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nTrained in [Diplomacy](/Skills.aspx?ID=6); [Treat Condition](/Feats.aspx?ID=2029)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou provide emotional and spiritual care.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=695\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 208 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Treat Condition](/Feats.aspx?ID=6375); Trained in [Diplomacy](/Skills.aspx?ID=39)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou provide emotional and spiritual care.\r\n</summary>",
  "skill": [
   "Diplomacy",
   "Diplomacy"
  ],
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 184"
+  "Player Core 2 pg. 208"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 184 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 208 <sup>1.1</sup>",
  "speed": {},
  "summary": "You provide emotional and spiritual care.",
  "summary_markdown": "You provide emotional and spiritual care.",
- "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Holistic Care Source Advanced Player's Guide pg. 184 2.0 Archetype Medic Prerequisites Trained in Diplomacy; Treat Condition --- You provide emotional and spiritual care. Add frightened, stupefied, and stunned to the list of conditions you can reduce with Treat Condition. If the stunned condition has a duration instead of a value, you can't use Treat Condition to reduce it.",
+ "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Holistic Care Source Player Core 2 pg. 208 1.1 Archetype Medic Prerequisites Treat Condition; Trained in Diplomacy --- You provide emotional and spiritual care. Add frightened, stupefied, and stunned to the list of conditions you can reduce with Treat Condition. If the stunned condition has a duration instead of a value, you can’t use Treat Condition to reduce it.",
  "trait": [
   "Archetype",
   "Skill"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Skill](/Traits.aspx?ID=144)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535), [Skill](/Traits.aspx?ID=695)",
  "trait_raw": [
   "Archetype",
   "Skill"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2030",
+ "url": "/Feats.aspx?ID=6376",
  "weakness": {}
 }

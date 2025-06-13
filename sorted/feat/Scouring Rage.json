@@ -1,45 +1,58 @@
 {
  "actions": "Free Action",
- "breadcrumbs_spa": [],
+ "actions_number": 0,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Scouring Rage"
  ],
  "feat_markdown": "Scouring Rage",
- "id": "feat-1612",
+ "id": "feat-5833",
+ "legacy_id": [
+  "feat-1612"
+ ],
  "level": 6,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Scouring Rage](/Feats.aspx?ID=1612) <actions string=\"Free Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 110 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nan instinct that allows you to change your additional damage from [Rage](/Actions.aspx?ID=3) to a different damage type\n\n**Trigger**\r\nYou Rage.\n\n</column>\r\n\r\n---\r\n\r\nYou emit a powerful surge of instinctual energy when you unleash your potential. Each adjacent creature takes damage equal to your level (basic Fortitude save against your class DC) of the same type as your additional damage during that Rage.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Scouring Rage](/Feats.aspx?ID=5833) <actions string=\"Free Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 80 <sup>1.1</sup>\n\n**Prerequisites**\r\nan instinct that allows you to change your additional damage from [Rage](/Actions.aspx?ID=2802) to a different damage type\n\n**Trigger**\r\nYou Rage.\n\n</column>\r\n\r\n---\r\n\r\nYou emit a powerful surge of instinctual energy when you unleash your anger. Each enemy within 20 feet takes damage equal to your level ([basic](/Rules.aspx?ID=329) Fortitude save against your class DC) of the same type as your additional damage during that Rage.",
  "name": "Scouring Rage",
  "pfs": "Standard",
  "prerequisite": "an instinct that allows you to change your additional damage from Rage to a different damage type",
- "prerequisite_markdown": "an instinct that allows you to change your additional damage from [Rage](/Actions.aspx?ID=3) to a different damage type",
+ "prerequisite_markdown": "an instinct that allows you to change your additional damage from [Rage](/Actions.aspx?ID=2802) to a different damage type",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 80",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 110 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nan instinct that allows you to change your additional damage from [Rage](/Actions.aspx?ID=3) to a different damage type\n\n**Trigger**\r\nYou Rage.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou emit a powerful surge of instinctual energy when you unleash your potential.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 80 <sup>1.1</sup>\n\n**Prerequisites**\r\nan instinct that allows you to change your additional damage from [Rage](/Actions.aspx?ID=2802) to a different damage type\n\n**Trigger**\r\nYou Rage.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou emit a powerful surge of instinctual energy when you unleash your anger.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 110"
+  "Player Core 2 pg. 80"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 110 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 80 <sup>1.1</sup>",
  "speed": {},
- "summary": "You emit a powerful surge of instinctual energy when you unleash your potential.",
- "summary_markdown": "You emit a powerful surge of instinctual energy when you unleash your potential.",
- "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Scouring Rage Free Action Source Advanced Player's Guide pg. 110 2.0 Prerequisites an instinct that allows you to change your additional damage from Rage to a different damage type Trigger You Rage. --- You emit a powerful surge of instinctual energy when you unleash your potential. Each adjacent creature takes damage equal to your level (basic Fortitude save against your class DC) of the same type as your additional damage during that Rage.",
+ "summary": "You emit a powerful surge of instinctual energy when you unleash your anger.",
+ "summary_markdown": "You emit a powerful surge of instinctual energy when you unleash your anger.",
+ "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Scouring Rage Free Action Source Player Core 2 pg. 80 1.1 Prerequisites an instinct that allows you to change your additional damage from Rage to a different damage type Trigger You Rage. --- You emit a powerful surge of instinctual energy when you unleash your anger. Each enemy within 20 feet takes damage equal to your level (basic Fortitude save against your class DC) of the same type as your additional damage during that Rage.",
  "trait": [
   "Barbarian"
  ],
- "trait_markdown": "[Barbarian](/Traits.aspx?ID=18)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Barbarian](/Traits.aspx?ID=813)",
  "trait_raw": [
   "Barbarian"
  ],
  "trigger": "You Rage.",
  "trigger_markdown": "You Rage.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=1612",
+ "url": "/Feats.aspx?ID=5833",
  "weakness": {}
 }

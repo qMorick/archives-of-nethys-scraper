@@ -1,43 +1,55 @@
 {
- "archetype": [
-  "Elementalist"
- ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Water Step"
  ],
  "feat_markdown": "Water Step",
- "id": "feat-455",
+ "id": "feat-6007",
+ "legacy_id": [
+  "feat-4351"
+ ],
  "level": 6,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Water Step](/Feats.aspx?ID=455) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 162 <sup>4.0</sup></row>\n\n**Archetype** [Elementalist](/Archetypes.aspx?ID=98) (Level 8)\n\n</column>\r\n\r\n---\r\n\r\nYou can Stride across liquid and surfaces that don’t support your weight. This benefit lasts only during your movement. If you end your movement on a surface that can’t support you, you fall in or it collapses as normal.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Water Step](/Feats.aspx?ID=6007) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 123 <sup>1.1</sup>, [Core Rulebook](/Sources.aspx?ID=1) pg. 162 <sup>4.0</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou can Stride across liquid and surfaces that don't support your weight. This benefit lasts only during your movement. If you end your movement on a surface that can't support you, you fall in or it collapses as normal.",
  "name": "Water Step",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 123",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 162 <sup>4.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can Stride across liquid and surfaces that don’t support your weight.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 123 <sup>1.1</sup>, [Core Rulebook](/Sources.aspx?ID=1) pg. 162 <sup>4.0</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can Stride across liquid and surfaces that don't support your weight.\r\n</summary>",
+ "skill_mod": {},
  "source": [
+  "Player Core 2",
   "Core Rulebook"
  ],
  "source_raw": [
+  "Player Core 2 pg. 123",
   "Core Rulebook pg. 162"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 162 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 123 <sup>1.1</sup>, [Core Rulebook](/Sources.aspx?ID=1) pg. 162 <sup>4.0</sup>",
  "speed": {},
- "summary": "You can Stride across liquid and surfaces that don’t support your weight.",
- "summary_markdown": "You can Stride across liquid and surfaces that don’t support your weight.",
- "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Water Step Source Core Rulebook pg. 162 4.0 Archetype Elementalist (Level 8) --- You can Stride across liquid and surfaces that don’t support your weight. This benefit lasts only during your movement. If you end your movement on a surface that can’t support you, you fall in or it collapses as normal.",
+ "summary": "You can Stride across liquid and surfaces that don't support your weight.",
+ "summary_markdown": "You can Stride across liquid and surfaces that don't support your weight.",
+ "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Water Step Source Player Core 2 pg. 123 1.1 , Core Rulebook pg. 162 4.0 --- You can Stride across liquid and surfaces that don't support your weight. This benefit lasts only during your movement. If you end your movement on a surface that can't support you, you fall in or it collapses as normal.",
  "trait": [
   "Monk"
  ],
- "trait_markdown": "[Monk](/Traits.aspx?ID=112)",
+ "trait_group": [
+  "Class",
+  "Weapon"
+ ],
+ "trait_markdown": "[Monk](/Traits.aspx?ID=656)",
  "trait_raw": [
   "Monk"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=455",
+ "url": "/Feats.aspx?ID=6007",
  "weakness": {}
 }

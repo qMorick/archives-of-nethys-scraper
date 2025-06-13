@@ -1,38 +1,46 @@
 {
- "breadcrumbs_spa": [],
  "category": "trait",
  "exclude_from_search": false,
- "id": "trait-215",
- "markdown": "<title level=\"1\" right=\"Trait\">[Dhampir](/Traits.aspx?ID=215)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 267 <sup>2.0</sup></row>\n\nA creature with this trait has the dhampir versatile heritage. These [humanoids](/Traits.aspx?ID=91) are the mortal offspring of [vampires](/MonsterFamilies.aspx?ID=97) and members of other ancestries.",
+ "id": "trait-750",
+ "legacy_id": [
+  "trait-215"
+ ],
+ "markdown": "<title level=\"1\" right=\"Trait\">[Dhampir](/Traits.aspx?ID=750)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 316 <sup>1.1</sup>\n\nA creature with this trait has the [dhampir](/Ancestries.aspx?ID=85) [versatile heritage](/Rules.aspx?ID=2085). These humanoids are the offspring of [vampires](/MonsterFamilies.aspx?ID=480) and members of other ancestries.",
  "name": "Dhampir",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 316",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 267 <sup>2.0</sup></row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA creature with this trait has the dhampir versatile heritage. These  humanoids  are the mortal offspring of  vampires  and members of other …\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 316 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA creature with this trait has the  dhampir   versatile heritage . These humanoids are the offspring of  vampires  and members of other ancestries.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 267"
+  "Player Core 2 pg. 316"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 267 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 316 <sup>1.1</sup>",
  "speed": {},
- "summary": "A creature with this trait has the dhampir versatile heritage. These  humanoids  are the mortal offspring of  vampires  and members of other …",
- "summary_markdown": "A creature with this trait has the dhampir versatile heritage. These  humanoids  are the mortal offspring of  vampires  and members of other …",
- "text": " Dhampir Source Advanced Player's Guide pg. 267 2.0 A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of vampires and members of other ancestries.",
+ "summary": "A creature with this trait has the  dhampir   versatile heritage . These humanoids are the offspring of  vampires  and members of other ancestries.",
+ "summary_markdown": "A creature with this trait has the  dhampir   versatile heritage . These humanoids are the offspring of  vampires  and members of other ancestries.",
+ "text": " Dhampir Source Player Core 2 pg. 316 1.1 A creature with this trait has the dhampir versatile heritage. These humanoids are the offspring of vampires and members of other ancestries.",
  "trait": [
   "Dhampir"
  ],
  "trait_group": [
-  "Monster",
-  "Ancestry"
+  "Monster"
  ],
  "trait_markdown": "Dhampir",
  "trait_raw": [
   "Dhampir"
  ],
  "type": "Trait",
- "url": "/Traits.aspx?ID=215",
+ "url": "/Traits.aspx?ID=750",
  "weakness": {}
 }

@@ -1,45 +1,54 @@
 {
- "access": "You are from Taldor.",
+ "access": "You’re from Taldor.",
  "archetype": [
   "Lion Blade"
  ],
- "archetype_category": [
-  "Faction"
- ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-22",
+ "id": "archetype-319",
+ "legacy_id": [
+  "archetype-22"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Lion Blade](/Archetypes.aspx?ID=22)</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n</traits>\n\n<row gap=\"tiny\">**Source** [World Guide](/Sources.aspx?ID=6) pg. 131 <sup>2.0</sup></row>\n\nYou’ve trained as a spy in service of Taldor, learning secrets of disguise, manipulating crowds, and deceiving various sorts of magic users with ease. You likely dropped out of the Kitharodian Academy, Taldor’s premier bardic college, in order to train at one of the Lion Blade’s elite Shadow Schools.\n\n<document level=\"2\" id=\"feat-917\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-918\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-919\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-920\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-921\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-922\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Lion Blade](/Archetypes.aspx?ID=319)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n</traits>\n\n**Source** [Shining Kingdoms](/Sources.aspx?ID=265) pg. 170\n\nTaldor’s official teeth in the shadows was founded in 1629 ar by Yanual and Izora, children of the late Goscelyn II and half-siblings to the Bastard Prince Penticus IV. Today, the shadow schools below Oppara, Cassomir, and other settlements teach a strict curriculum involving anatomy, politics, and even hypnotic meditation. This grueling program eliminates recruits until only the best remain. About one in ten students become fully recognized agents. The rest often become part of the supporting network as Lion Kiths, who retain a measure of their skills after leaving. Those who don’t become a Lion Kith leave to return to their bardic studies under vows of secrecy or cut off all ties. \n\nMost agents require about five to ten years of active field service before they’re recognized as senior agents who can become an instructor at a shadow school. It is not unusual for masters of the shadow schools to poach one another’s graduates to exchange techniques and skills. \n\nIf you wish to play a PC who’s a Lion Kith, you can limit your feat selections from this archetype to that of level 6 and lower.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-7724\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6131\"\r\noverride-title-right=\"Feat 4*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7725\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7726\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-5094\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7727\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7728\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-5949\"\r\noverride-title-right=\"Feat 6*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7729\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7730\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7731\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7732\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7733\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7734\"\n\n/>",
  "name": "Lion Blade",
  "pfs": "Standard",
  "prerequisite": "member of the Lion Blades; Trained in Performance",
- "prerequisite_markdown": "member of the Lion Blades; Trained in [Performance](/Skills.aspx?ID=12)",
+ "prerequisite_markdown": "member of the Lion Blades; Trained in [Performance](/Skills.aspx?ID=45)",
+ "primary_source": "Shining Kingdoms",
+ "primary_source_raw": "Shining Kingdoms pg. 170",
+ "primary_source_category": "Lost Omens",
  "rarity": "uncommon",
- "release_date": "2019-08-31",
+ "rarity_id": 2,
+ "release_date": "2025-06-04",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [World Guide](/Sources.aspx?ID=6) pg. 131 <sup>2.0</sup></row>\r\n\r\n**Prerequisites**\r\nmember of the Lion Blades; Trained in [Performance](/Skills.aspx?ID=12)\r\n\r\n**Access**\r\nYou are from Taldor.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou’ve trained as a spy in service of Taldor, learning secrets of disguise, manipulating crowds, and deceiving various sorts of magic users with …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Shining Kingdoms](/Sources.aspx?ID=265) pg. 170\r\n\r\n**Prerequisites**\r\nmember of the Lion Blades; Trained in [Performance](/Skills.aspx?ID=45)\r\n\r\n**Access**\r\nYou’re from Taldor.\n\n**Archetype Category**\n\n**Number of Feats** 14\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTaldor’s official teeth in the shadows was founded in 1629 ar by Yanual and Izora, children of the late Goscelyn II and half-siblings to the Bastard …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "World Guide"
+  "Shining Kingdoms"
  ],
  "source_raw": [
-  "World Guide pg. 131"
+  "Shining Kingdoms pg. 170"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[World Guide](/Sources.aspx?ID=6) pg. 131 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Shining Kingdoms](/Sources.aspx?ID=265) pg. 170",
  "speed": {},
- "summary": "You’ve trained as a spy in service of Taldor, learning secrets of disguise, manipulating crowds, and deceiving various sorts of magic users with …",
- "summary_markdown": "You’ve trained as a spy in service of Taldor, learning secrets of disguise, manipulating crowds, and deceiving various sorts of magic users with …",
- "text": " Lion Blade Source World Guide pg. 131 2.0 You’ve trained as a spy in service of Taldor, learning secrets of disguise, manipulating crowds, and deceiving various sorts of magic users with ease. You likely dropped out of the Kitharodian Academy, Taldor’s premier bardic college, in order to train at one of the Lion Blade’s elite Shadow Schools. <document level=\"2\" id=\"feat-918\" /> <document level=\"2\" id=\"feat-919\" /> <document level=\"2\" id=\"feat-920\" /> <document level=\"2\" id=\"feat-921\" /> <document level=\"2\" id=\"feat-922\" />",
+ "summary": "Taldor’s official teeth in the shadows was founded in 1629 ar by Yanual and Izora, children of the late Goscelyn II and half-siblings to the Bastard …",
+ "summary_markdown": "Taldor’s official teeth in the shadows was founded in 1629 ar by Yanual and Izora, children of the late Goscelyn II and half-siblings to the Bastard …",
+ "text": " Lion Blade Source Shining Kingdoms pg. 170 Taldor’s official teeth in the shadows was founded in 1629 ar by Yanual and Izora, children of the late Goscelyn II and half-siblings to the Bastard Prince Penticus IV. Today, the shadow schools below Oppara, Cassomir, and other settlements teach a strict curriculum involving anatomy, politics, and even hypnotic meditation. This grueling program eliminates recruits until only the best remain. About one in ten students become fully recognized agents. The rest often become part of the supporting network as Lion Kiths, who retain a measure of their skills after leaving. Those who don’t become a Lion Kith leave to return to their bardic studies under vows of secrecy or cut off all ties. Most agents require about five to ten years of active field service before they’re recognized as senior agents who can become an instructor at a shadow school. It is not unusual for masters of the shadow schools to poach one another’s graduates to exchange techniques and skills. If you wish to play a PC who’s a Lion Kith, you can limit your feat selections from this archetype to that of level 6 and lower. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-6131\" override-title-right=\"Feat 4 \" /> <document level=\"2\" id=\"feat-7725\" /> <document level=\"2\" id=\"feat-7726\" /> <document level=\"2\" id=\"feat-5094\" /> <document level=\"2\" id=\"feat-7727\" /> <document level=\"2\" id=\"feat-7728\" /> <document level=\"2\" id=\"feat-5949\" override-title-right=\"Feat 6 \" /> <document level=\"2\" id=\"feat-7729\" /> <document level=\"2\" id=\"feat-7730\" /> <document level=\"2\" id=\"feat-7731\" /> <document level=\"2\" id=\"feat-7732\" /> <document level=\"2\" id=\"feat-7733\" /> <document level=\"2\" id=\"feat-7734\" />",
  "trait": [
   "Uncommon"
+ ],
+ "trait_group": [
+  "Rarity"
  ],
  "trait_markdown": "[Uncommon](/Traits.aspx?ID=159)",
  "trait_raw": [
   "Uncommon"
  ],
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=22",
+ "url": "/Archetypes.aspx?ID=319",
  "weakness": {}
 }

@@ -1,23 +1,27 @@
 {
- "ability": [
+ "attribute": [
   "Strength",
   "Charisma"
  ],
- "alignment": "NE",
- "breadcrumbs_spa": [],
+ "anathema": "Abuse a loyal subject, harm or kill a non-combatant",
+ "area_of_concern": [
+  "Majesty",
+  "power",
+  "refinement"
+ ],
+ "area_of_concern_raw": "Majesty, power, refinement",
  "category": "deity",
  "cleric_spell": [
-  "True Strike",
+  "Sure Strike",
   "Invisibility",
   "Weapon Storm"
  ],
  "deity": [
   "Raumya"
  ],
- "deity_markdown": "[Raumya](/Deities.aspx?ID=195)",
  "deity_category": "Vudrani Gods",
- "deity_category_markdown": "[Vudrani Gods\r\n](/DeityCategories.aspx?ID=17)",
- "deity_category_order": "2Vudrani Gods\r\n",
+ "deity_category_markdown": "[Vudrani Gods](/DeityCategories.aspx?ID=17)",
+ "deity_category_order": "2Vudrani Gods",
  "divine_font": [
   "Harm",
   "Heal"
@@ -29,7 +33,7 @@
   "Might",
   "Wealth"
  ],
- "domain_markdown": "[Confidence](/Domains.aspx?ID=4), [Knowledge](/Domains.aspx?ID=17), [Might](/Domains.aspx?ID=20), [Wealth](/Domains.aspx?ID=36)",
+ "domain_markdown": "[Confidence](/Domains.aspx?ID=67), [Knowledge](/Domains.aspx?ID=80), [Might](/Domains.aspx?ID=83), [Wealth](/Domains.aspx?ID=99)",
  "domain_alternate_markdown": "",
  "domain_primary": [
   "Confidence",
@@ -37,49 +41,65 @@
   "Might",
   "Wealth"
  ],
- "domain_primary_markdown": "[Confidence](/Domains.aspx?ID=4), [Knowledge](/Domains.aspx?ID=17), [Might](/Domains.aspx?ID=20), [Wealth](/Domains.aspx?ID=36)",
+ "domain_primary_markdown": "[Confidence](/Domains.aspx?ID=67), [Knowledge](/Domains.aspx?ID=80), [Might](/Domains.aspx?ID=83), [Wealth](/Domains.aspx?ID=99)",
+ "edict": "Improve yourself with music and literature, take what you want, seek power above others",
  "exclude_from_search": false,
  "favored_weapon": [
   "Trident"
  ],
- "favored_weapon_markdown": "[Trident](/Weapons.aspx?ID=45)",
- "follower_alignment": [
-  "LE",
-  "NG",
-  "N",
-  "NE"
+ "favored_weapon_markdown": "[Trident](/Weapons.aspx?ID=401)",
+ "id": "deity-619",
+ "legacy_id": [
+  "deity-195"
  ],
- "id": "deity-195",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Raumya (The Evil Prince)](/Deities.aspx?ID=195)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 132 <sup>2.0</sup></row>\n\n_Nethys Note: no description has been provided of this deity_\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Vudrani Gods\r\n](/DeityCategories.aspx?ID=17)\r\n\r\n**Edicts** Improve yourself with music and literature, take what you want, seek power above others\r\n\r\n**Anathema** Abuse a loyal subject, harm or kill a non-combatant\n\n**Follower Alignments**\r\nLE, NG, N, NE\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nStrength or Charisma\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Performance](/Skills.aspx?ID=12)\r\n\r\n**Favored Weapon** [Trident](/Weapons.aspx?ID=45)\r\n\r\n**Domains** [Confidence](/Domains.aspx?ID=4), [Knowledge](/Domains.aspx?ID=17), [Might](/Domains.aspx?ID=20), [Wealth](/Domains.aspx?ID=36)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[True Strike](/Spells.aspx?ID=345)\n\n- **2nd**\r\n[Invisibility](/Spells.aspx?ID=164)\n\n- **4th**\r\n[Weapon Storm](/Spells.aspx?ID=373)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Raumya (The Evil Prince)](/Deities.aspx?ID=619)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 322\n\n_Nethys Note: no description has been provided of this deity_\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Vudrani Gods](/DeityCategories.aspx?ID=17)\r\n\r\n**Edicts** Improve yourself with music and literature, take what you want, seek power above others\r\n\r\n**Anathema** Abuse a loyal subject, harm or kill a non-combatant\r\n\r\n**Area of Concern**\r\nMajesty, power, refinement\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nStrength or Charisma\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** can choose holy or unholy\r\n\r\n**Divine Skill** [Performance](/Skills.aspx?ID=45)\r\n\r\n**Favored Weapon** [Trident](/Weapons.aspx?ID=401)\r\n\r\n**Domains** [Confidence](/Domains.aspx?ID=67), [Knowledge](/Domains.aspx?ID=80), [Might](/Domains.aspx?ID=83), [Wealth](/Domains.aspx?ID=99)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Sure Strike](/Spells.aspx?ID=1709)\n\n- **2nd**\r\n[Invisibility](/Spells.aspx?ID=1577)\n\n- **4th**\r\n[Weapon Storm](/Spells.aspx?ID=1758)\n\n</column>",
  "name": "Raumya (The Evil Prince)",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 322",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "Sitar made from a human head",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 132 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Harm or Heal\r\n\r\n**Divine Skill** [Performance](/Skills.aspx?ID=12)\r\n\r\n**Favored Weapon** [Trident](/Weapons.aspx?ID=45)\r\n\r\n**Domains** [Confidence](/Domains.aspx?ID=4), [Knowledge](/Domains.aspx?ID=17), [Might](/Domains.aspx?ID=20), [Wealth](/Domains.aspx?ID=36)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Nethys Note: no description has been provided of this deity \r\n</summary>",
+ "sacred_animal": "Wolf",
+ "sacred_color": [
+  "green",
+  "red"
+ ],
+ "sanctification": [
+  "holy",
+  "unholy"
+ ],
+ "sanctification_raw": "can choose holy or unholy",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 322\r\n\r\n**Divine Font** Harm or Heal\r\n\r\n**Divine Skill** [Performance](/Skills.aspx?ID=45)\r\n\r\n**Favored Weapon** [Trident](/Weapons.aspx?ID=401)\r\n\r\n**Domains** [Confidence](/Domains.aspx?ID=67), [Knowledge](/Domains.aspx?ID=80), [Might](/Domains.aspx?ID=83), [Wealth](/Domains.aspx?ID=99)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Nethys Note: no description has been provided of this deity \r\n</summary>",
  "skill": [
   "Performance"
  ],
- "skill_markdown": "[Performance](/Skills.aspx?ID=12)",
+ "skill_markdown": "[Performance](/Skills.aspx?ID=45)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 132"
+  "Divine Mysteries pg. 322"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 132 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 322",
  "speed": {},
+ "spell": [
+  "Sure Strike",
+  "Invisibility",
+  "Weapon Storm"
+ ],
+ "spell_markdown": "[Invisibility](/Spells.aspx?ID=1577), [Sure Strike](/Spells.aspx?ID=1709), [Weapon Storm](/Spells.aspx?ID=1758)",
  "summary": " Nethys Note: no description has been provided of this deity ",
  "summary_markdown": " Nethys Note: no description has been provided of this deity ",
- "text": " Raumya (The Evil Prince) Source Gods &amp; Magic pg. 132 2.0 Nethys Note: no description has been provided of this deity Category [Vudrani Gods ](/DeityCategories.aspx?ID=17) Edicts Improve yourself with music and literature, take what you want, seek power above others Anathema Abuse a loyal subject, harm or kill a non-combatant Follower Alignments LE, NG, N, NE Devotee Benefits Divine Ability Strength or Charisma Divine Font Harm or Heal Divine Skill Performance Favored Weapon Trident Domains Confidence, Knowledge, Might, Wealth Alternate Domains Cleric Spells - 1st True Strike - 2nd Invisibility - 4th Weapon Storm\n",
- "trait": [
-  "NE"
- ],
- "trait_raw": [
-  "NE"
- ],
+ "text": " Raumya (The Evil Prince) Source Divine Mysteries pg. 322 Nethys Note: no description has been provided of this deity Category Vudrani Gods Edicts Improve yourself with music and literature, take what you want, seek power above others Anathema Abuse a loyal subject, harm or kill a non-combatant Area of Concern Majesty, power, refinement Devotee Benefits Divine Attribute Strength or Charisma Divine Font Harm or Heal Divine Sanctification can choose holy or unholy Divine Skill Performance Favored Weapon Trident Domains Confidence, Knowledge, Might, Wealth Alternate Domains Cleric Spells - 1st Sure Strike - 2nd Invisibility - 4th Weapon Storm\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=195",
+ "url": "/Deities.aspx?ID=619",
  "weakness": {}
 }

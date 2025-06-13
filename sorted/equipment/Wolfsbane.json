@@ -1,56 +1,75 @@
 {
  "actions": "Single Action",
+ "actions_number": 2,
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
  "bulk": 0.1,
  "bulk_raw": "L",
  "category": "equipment",
  "duration": 360,
  "duration_raw": "6 minutes",
  "exclude_from_search": false,
- "id": "equipment-131",
+ "id": "equipment-3349",
  "item_category": "Alchemical Items",
  "item_subcategory": "Alchemical Poisons",
+ "legacy_id": [
+  "equipment-131"
+ ],
  "level": 10,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Wolfsbane](/Equipment.aspx?ID=131)\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=6\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Ingested\" url=\"/Traits.aspx?ID=95\" />\r\n<trait label=\"Poison\" url=\"/Traits.aspx?ID=126\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 553 <sup>4.0</sup></row>\n\n**Price** 155 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>Interact</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nWolfsbane appears in folklore for its link to [werecreatures](/MonsterFamilies.aspx?ID=100). If you are afflicted with lycanthropy and survive **Stage 3** of wolfsbane, you're immediately cured of the lycanthropy.\n\n**Saving Throw** DC 30 Fortitude; **Onset** 10 minutes; **Maximum Duration** 6 minutes; **Stage 1** 12d6 poison damage (1 minute); **Stage 2** 16d6 poison damage (1 minute); **Stage 3** 20d6 poison damage (1 minute)\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Wolfsbane](/Equipment.aspx?ID=3349)\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=528\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Ingested\" url=\"/Traits.aspx?ID=633\" />\r\n<trait label=\"Poison\" url=\"/Traits.aspx?ID=669\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 294 <sup>1.1</sup>, [GM Core](/Sources.aspx?ID=218) pg. 250 <sup>2.0</sup>\n\n**Price** 155 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([manipulate](/Traits.aspx?ID=104))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nWolfsbane appears in folklore for its link to [werecreature](/MonsterFamilies.aspx?ID=484). If you are afflicted with the curse of a werecreature and survive stage 3 of wolfsbane, you're immediately cured of the curse. \n\n**Saving Throw** DC 30 Fortitude; **Onset** 10 minutes; **Maximum Duration** 6 minutes; **Stage 1** 3d10 poison damage (1 minute); **Stage 2** 4d10 poison damage (1 minute); **Stage 3** 5d10 poison damage (1 minute)\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Wolfsbane",
  "onset": 600,
  "onset_raw": "10 minutes",
  "pfs": "Standard",
  "price": 15500,
  "price_raw": "155 gp",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 294",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
  "saving_throw": "DC 30 Fortitude",
  "saving_throw_markdown": "DC 30 Fortitude",
- "search_markdown": "<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=6\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Ingested\" url=\"/Traits.aspx?ID=95\" />\r\n<trait label=\"Poison\" url=\"/Traits.aspx?ID=126\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 553 <sup>4.0</sup></row>\r\n\r\n**Price** 155 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>Interact</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWolfsbane appears in folklore for its link to  werecreatures . If you are afflicted with lycanthropy and survive  Stage 3  of wolfsbane, you're …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=528\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Ingested\" url=\"/Traits.aspx?ID=633\" />\r\n<trait label=\"Poison\" url=\"/Traits.aspx?ID=669\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 294 <sup>1.1</sup>, [GM Core](/Sources.aspx?ID=218) pg. 250 <sup>2.0</sup>\r\n\r\n**Price** 155 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([manipulate](/Traits.aspx?ID=104))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWolfsbane appears in folklore for its link to  werecreature . If you are afflicted with the curse of a werecreature and survive stage 3 of wolfsbane, …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2",
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 553"
+  "Player Core 2 pg. 294",
+  "GM Core pg. 250"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 553 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 294 <sup>1.1</sup>, [GM Core](/Sources.aspx?ID=218) pg. 250 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage": [
-  "12d6 poison damage (1 minute)",
-  "16d6 poison damage (1 minute)",
-  "of wolfsbane, you're immediately cured of the lycanthropy.   Saving Throw  DC 30 Fortitude"
+  "3d10 poison damage (1 minute)",
+  "4d10 poison damage (1 minute)",
+  "5d10 poison damage (1 minute)"
  ],
- "stage_markdown": "Stage 1: 12d6 poison damage (1 minute)\n\nStage 2: 16d6 poison damage (1 minute)\n\nStage 3: of wolfsbane, you're immediately cured of the lycanthropy.\n\n**Saving Throw** DC 30 Fortitude",
- "summary": "Wolfsbane appears in folklore for its link to  werecreatures . If you are afflicted with lycanthropy and survive  Stage 3  of wolfsbane, you're …",
- "summary_markdown": "Wolfsbane appears in folklore for its link to  werecreatures . If you are afflicted with lycanthropy and survive  Stage 3  of wolfsbane, you're …",
- "text": "<title level=\"1\" right=\"Item 10\" pfs=\"Standard\" > Wolfsbane Source Core Rulebook pg. 553 4.0 Price 155 gp Usage held in 1 hand Bulk L Activate Single Action Interact --- Wolfsbane appears in folklore for its link to werecreatures. If you are afflicted with lycanthropy and survive Stage 3 of wolfsbane, you're immediately cured of the lycanthropy. Saving Throw DC 30 Fortitude; Onset 10 minutes; Maximum Duration 6 minutes; Stage 1 12d6 poison damage (1 minute); Stage 2 16d6 poison damage (1 minute); Stage 3 20d6 poison damage (1 minute)\n",
+ "stage_markdown": "Stage 1: 3d10 poison damage (1 minute)\n\nStage 2: 4d10 poison damage (1 minute)\n\nStage 3: 5d10 poison damage (1 minute)",
+ "summary": "Wolfsbane appears in folklore for its link to  werecreature . If you are afflicted with the curse of a werecreature and survive stage 3 of wolfsbane, …",
+ "summary_markdown": "Wolfsbane appears in folklore for its link to  werecreature . If you are afflicted with the curse of a werecreature and survive stage 3 of wolfsbane, …",
+ "text": "<title level=\"1\" right=\"Item 10\" pfs=\"Standard\" > Wolfsbane Source Player Core 2 pg. 294 1.1 , GM Core pg. 250 2.0 Price 155 gp Usage held in 1 hand Bulk L Activate Single Action (manipulate) --- Wolfsbane appears in folklore for its link to werecreature. If you are afflicted with the curse of a werecreature and survive stage 3 of wolfsbane, you're immediately cured of the curse. Saving Throw DC 30 Fortitude; Onset 10 minutes; Maximum Duration 6 minutes; Stage 1 3d10 poison damage (1 minute); Stage 2 4d10 poison damage (1 minute); Stage 3 5d10 poison damage (1 minute)\n",
  "trait": [
   "Alchemical",
   "Consumable",
   "Ingested",
   "Poison"
  ],
- "trait_markdown": "[Alchemical](/Traits.aspx?ID=6), [Consumable](/Traits.aspx?ID=36), [Ingested](/Traits.aspx?ID=95), [Poison](/Traits.aspx?ID=126)",
+ "trait_group": [
+  "Monster",
+  "Equipment",
+  "Weapon",
+  "Poison",
+  "Affliction"
+ ],
+ "trait_markdown": "[Alchemical](/Traits.aspx?ID=528), [Consumable](/Traits.aspx?ID=564), [Ingested](/Traits.aspx?ID=633), [Poison](/Traits.aspx?ID=669)",
  "trait_raw": [
   "Alchemical",
   "Consumable",
@@ -58,7 +77,7 @@
   "Poison"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=131",
+ "url": "/Equipment.aspx?ID=3349",
  "usage": "held in 1 hand",
  "usage_markdown": "held in 1 hand",
  "weakness": {}

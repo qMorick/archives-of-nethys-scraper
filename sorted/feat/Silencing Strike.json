@@ -1,45 +1,60 @@
 {
  "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions_number": 2,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Silencing Strike"
  ],
  "feat_markdown": "Silencing Strike",
- "id": "feat-1621",
+ "id": "feat-5851",
+ "legacy_id": [
+  "feat-1621"
+ ],
  "level": 10,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Silencing Strike](/Feats.aspx?ID=1621) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Incapacitation\" url=\"/Traits.aspx?ID=93\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 110 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nA quick strike to the face or mouth silences your opponent. Make a melee Strike against a foe. The foe must succeed at a Fortitude save against your class DC.\n\n**Success** The target is unaffected.<br />\r\n**Failure** The target is dazed and can barely vocalize. It's [stunned 1](/Conditions.aspx?ID=36) and its speech is raspy and hard to understand. It must succeed at a DC 11 flat check to use [linguistic](/Traits.aspx?ID=101) actions or supply verbal spellcasting components until the end of its next turn.<br />\r\n**Critical Failure** As failure, but the creature is stunned 3 instead of stunned 1.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Silencing Strike](/Feats.aspx?ID=5851) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Incapacitation\" url=\"/Traits.aspx?ID=631\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 82 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nA quick strike to the face or mouth silences your opponent. Make a melee Strike against an enemy. If it hits, the enemy must succeed at a Fortitude save against your class DC.\n\n**Success** The target is unaffected.<br />\r\n**Failure** The target is dazed and can barely vocalize. It's [stunned 1](/Conditions.aspx?ID=93) and its speech is raspy and hard to understand. It must succeed at a DC 11 flat check to use [linguistic](/Traits.aspx?ID=642) actions or Cast a Spell, unless the spell has the [subtle](/Traits.aspx?ID=522) trait.<br />\r\n**Critical Failure** As failure, but the creature is stunned 3 instead of stunned 1.",
  "name": "Silencing Strike",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 82",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Incapacitation\" url=\"/Traits.aspx?ID=93\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 110 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA quick strike to the face or mouth silences your opponent.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Incapacitation\" url=\"/Traits.aspx?ID=631\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 82 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA quick strike to the face or mouth silences your opponent.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 110"
+  "Player Core 2 pg. 82"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 110 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 82 <sup>1.1</sup>",
  "speed": {},
  "summary": "A quick strike to the face or mouth silences your opponent.",
  "summary_markdown": "A quick strike to the face or mouth silences your opponent.",
- "text": "<title level=\"1\" right=\"Feat 10\" pfs=\"Standard\" > Silencing Strike Single Action Source Advanced Player's Guide pg. 110 2.0 --- A quick strike to the face or mouth silences your opponent. Make a melee Strike against a foe. The foe must succeed at a Fortitude save against your class DC. Success The target is unaffected. Failure The target is dazed and can barely vocalize. It's stunned 1 and its speech is raspy and hard to understand. It must succeed at a DC 11 flat check to use linguistic actions or supply verbal spellcasting components until the end of its next turn. Critical Failure As failure, but the creature is stunned 3 instead of stunned 1.",
+ "text": "<title level=\"1\" right=\"Feat 10\" pfs=\"Standard\" > Silencing Strike Single Action Source Player Core 2 pg. 82 1.1 --- A quick strike to the face or mouth silences your opponent. Make a melee Strike against an enemy. If it hits, the enemy must succeed at a Fortitude save against your class DC. Success The target is unaffected. Failure The target is dazed and can barely vocalize. It's stunned 1 and its speech is raspy and hard to understand. It must succeed at a DC 11 flat check to use linguistic actions or Cast a Spell, unless the spell has the subtle trait. Critical Failure As failure, but the creature is stunned 3 instead of stunned 1.",
  "trait": [
   "Barbarian",
   "Incapacitation",
   "Rage"
  ],
- "trait_markdown": "[Barbarian](/Traits.aspx?ID=18), [Incapacitation](/Traits.aspx?ID=93), [Rage](/Traits.aspx?ID=135)",
+ "trait_group": [
+  "Class",
+  "Mechanics",
+  "Class-Specific"
+ ],
+ "trait_markdown": "[Barbarian](/Traits.aspx?ID=813), [Incapacitation](/Traits.aspx?ID=631), [Rage](/Traits.aspx?ID=680)",
  "trait_raw": [
   "Barbarian",
   "Incapacitation",
   "Rage"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1621",
+ "url": "/Feats.aspx?ID=5851",
  "weakness": {}
 }

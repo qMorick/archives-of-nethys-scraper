@@ -1,30 +1,34 @@
 {
- "actions": "Two Actions",
- "breadcrumbs_spa": [],
+ "actions": "Single Action",
+ "actions_number": 2,
  "category": "action",
  "exclude_from_search": true,
- "frequency": "once per day",
- "id": "action-2067",
- "markdown": "**Activate** <actions string=\"Two Actions\" />interact;  **Frequency** once per day;   **Effect** the screamsword does what it does best and lets out an ear-shattering shriek. Each creature in a 30-foot cone takes 6d6 sonic damage (DC 25 basic Fortitude save). Any creature who fails is [deafened](/Conditions.aspx?ID=8) for 1 round, or 1 hour on a critical failure",
- "name": "interact",
+ "id": "action-3259",
+ "markdown": "**Activate** <actions string=\"Single Action\" /> [Interact](/Actions.aspx?ID=2297)     ",
+ "name": "Interact",
+ "primary_source": "Shining Kingdoms",
+ "primary_source_raw": "Shining Kingdoms pg. 173",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2023-05-31",
+ "rarity_id": 1,
+ "release_date": "2025-06-04",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Wake the Dead #1](/Sources.aspx?ID=201) pg. 26</row>\r\n\r\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nthe screamsword does what it does best and lets out an ear-shattering shriek. Each creature in a 30-foot cone takes 6d6 sonic damage (DC 25 basic …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Shining Kingdoms](/Sources.aspx?ID=265) pg. 173\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Wake the Dead #1"
+  "Shining Kingdoms"
  ],
  "source_raw": [
-  "Wake the Dead #1 pg. 26"
+  "Shining Kingdoms pg. 173"
  ],
- "source_category": "Comics",
- "source_markdown": "<row gap=\"tiny\">[Wake the Dead #1](/Sources.aspx?ID=201) pg. 26</row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Shining Kingdoms](/Sources.aspx?ID=265) pg. 173",
  "speed": {},
- "summary": "the screamsword does what it does best and lets out an ear-shattering shriek. Each creature in a 30-foot cone takes 6d6 sonic damage (DC 25 basic …",
- "summary_markdown": "the screamsword does what it does best and lets out an ear-shattering shriek. Each creature in a 30-foot cone takes 6d6 sonic damage (DC 25 basic …",
- "text": " Activate Two Actionsinteract; Frequency once per day; Effect the screamsword does what it does best and lets out an ear-shattering shriek. Each creature in a 30-foot cone takes 6d6 sonic damage (DC 25 basic Fortitude save). Any creature who fails is deafened for 1 round, or 1 hour on a critical failure",
+ "text": " Activate Single Action Interact ",
  "trait_markdown": "",
  "type": "Action",
- "url": "/Actions.aspx?ID=2067",
+ "url": "/Actions.aspx?ID=3259",
  "weakness": {}
 }

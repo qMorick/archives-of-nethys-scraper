@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Resist Ruin"
  ],
  "feat_markdown": "Resist Ruin",
- "id": "feat-1375",
+ "id": "feat-5758",
+ "legacy_id": [
+  "feat-1375"
+ ],
  "level": 13,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 13\"\r\n    pfs=\"Standard\"\r\n>\r\n[Resist Ruin](/Feats.aspx?ID=1375) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Duskwalker\" url=\"/Traits.aspx?ID=257\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 38 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYour duskwalker heritage allows you to extend protection against negative energy to yourself or an ally in need. You gain resistance 5 to negative energy, and once per day, you can cast [_death ward_](/Spells.aspx?ID=64) as a divine innate spell.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 13\"\r\n    pfs=\"Standard\"\r\n>\r\n[Resist Ruin](/Feats.aspx?ID=5758) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Duskwalker\" url=\"/Traits.aspx?ID=751\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 49 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYour duskwalker heritage allows you to extend protection against void energy. You gain resistance 5 to void, and once per day, you can cast [_false vitality_](/Spells.aspx?ID=1523) as a 5th-rank divine innate spell.",
  "name": "Resist Ruin",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 49",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Duskwalker\" url=\"/Traits.aspx?ID=257\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 38 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour duskwalker heritage allows you to extend protection against negative energy to yourself or an ally in need.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Duskwalker\" url=\"/Traits.aspx?ID=751\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 49 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour duskwalker heritage allows you to extend protection against void energy.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 38"
+  "Player Core 2 pg. 49"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 38 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 49 <sup>1.1</sup>",
  "speed": {},
- "summary": "Your duskwalker heritage allows you to extend protection against negative energy to yourself or an ally in need.",
- "summary_markdown": "Your duskwalker heritage allows you to extend protection against negative energy to yourself or an ally in need.",
- "text": "<title level=\"1\" right=\"Feat 13\" pfs=\"Standard\" > Resist Ruin Source Advanced Player's Guide pg. 38 2.0 --- Your duskwalker heritage allows you to extend protection against negative energy to yourself or an ally in need. You gain resistance 5 to negative energy, and once per day, you can cast death ward as a divine innate spell.",
+ "summary": "Your duskwalker heritage allows you to extend protection against void energy.",
+ "summary_markdown": "Your duskwalker heritage allows you to extend protection against void energy.",
+ "text": "<title level=\"1\" right=\"Feat 13\" pfs=\"Standard\" > Resist Ruin Source Player Core 2 pg. 49 1.1 --- Your duskwalker heritage allows you to extend protection against void energy. You gain resistance 5 to void, and once per day, you can cast false vitality as a 5th-rank divine innate spell.",
  "trait": [
   "Duskwalker"
  ],
- "trait_markdown": "[Duskwalker](/Traits.aspx?ID=257)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Duskwalker](/Traits.aspx?ID=751)",
  "trait_raw": [
   "Duskwalker"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1375",
+ "url": "/Feats.aspx?ID=5758",
  "weakness": {}
 }

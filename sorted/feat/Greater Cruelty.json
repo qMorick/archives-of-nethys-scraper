@@ -1,44 +1,54 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Greater Cruelty"
  ],
  "feat_markdown": "Greater Cruelty",
- "id": "feat-1677",
+ "id": "feat-5903",
+ "legacy_id": [
+  "feat-1677"
+ ],
  "level": 8,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Greater Cruelty](/Feats.aspx?ID=1677) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 120 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Cruelty](/Feats.aspx?ID=1673)\n\n</column>\r\n\r\n---\r\n\r\nThe extent of the corruption within you does more than simply sap your foes' strength, it devastates their minds and reflexes. When you use [Cruelty](/Feats.aspx?ID=1673), choose whether you want to make the creature [enfeebled](/Conditions.aspx?ID=13) as normal, to make it [clumsy 1](/Conditions.aspx?ID=3) on a failed save (clumsy 2 on a critical failure), or to make it [stupefied 1](/Conditions.aspx?ID=37) on a failed save (stupefied 2 on a critical failure).",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Greater Cruelty](/Feats.aspx?ID=5903) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 96 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Cruelty](/Feats.aspx?ID=5896)\n\n</column>\r\n\r\n---\r\n\r\nThe extent of your corruption devastates your foes' minds and reflexes. When you use Cruelty, you can choose to make the target [clumsy](/Conditions.aspx?ID=61) or [stupefied](/Conditions.aspx?ID=94) instead, with the same condition value. Make the choice when you Cast the Spell (before you know the result of the target's save).",
  "name": "Greater Cruelty",
  "pfs": "Standard",
  "prerequisite": "Cruelty",
- "prerequisite_markdown": "[Cruelty](/Feats.aspx?ID=1673)",
- "rarity": "uncommon",
- "release_date": "2020-07-30",
+ "prerequisite_markdown": "[Cruelty](/Feats.aspx?ID=5896)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 96",
+ "primary_source_category": "Rulebooks",
+ "rarity": "common",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 120 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Cruelty](/Feats.aspx?ID=1673)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe extent of the corruption within you does more than simply sap your foes' strength, it devastates their minds and reflexes.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 96 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Cruelty](/Feats.aspx?ID=5896)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe extent of your corruption devastates your foes' minds and reflexes.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 120"
+  "Player Core 2 pg. 96"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 120 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 96 <sup>1.1</sup>",
  "speed": {},
- "summary": "The extent of the corruption within you does more than simply sap your foes' strength, it devastates their minds and reflexes.",
- "summary_markdown": "The extent of the corruption within you does more than simply sap your foes' strength, it devastates their minds and reflexes.",
- "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Greater Cruelty Source Advanced Player's Guide pg. 120 2.0 Prerequisites Cruelty --- The extent of the corruption within you does more than simply sap your foes' strength, it devastates their minds and reflexes. When you use Cruelty, choose whether you want to make the creature enfeebled as normal, to make it clumsy 1 on a failed save (clumsy 2 on a critical failure), or to make it stupefied 1 on a failed save (stupefied 2 on a critical failure).",
+ "summary": "The extent of your corruption devastates your foes' minds and reflexes.",
+ "summary_markdown": "The extent of your corruption devastates your foes' minds and reflexes.",
+ "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Greater Cruelty Source Player Core 2 pg. 96 1.1 Prerequisites Cruelty --- The extent of your corruption devastates your foes' minds and reflexes. When you use Cruelty, you can choose to make the target clumsy or stupefied instead, with the same condition value. Make the choice when you Cast the Spell (before you know the result of the target's save).",
  "trait": [
-  "Champion",
-  "Uncommon"
+  "Champion"
  ],
- "trait_markdown": "[Champion](/Traits.aspx?ID=24), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Champion](/Traits.aspx?ID=811)",
  "trait_raw": [
-  "Champion",
-  "Uncommon"
+  "Champion"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1677",
+ "url": "/Feats.aspx?ID=5903",
  "weakness": {}
 }

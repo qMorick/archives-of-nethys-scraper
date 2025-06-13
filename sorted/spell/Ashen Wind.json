@@ -1,67 +1,83 @@
 {
  "actions": "Two Actions",
- "area": "10-foot burst",
- "bloodline_markdown": "",
- "breadcrumbs_spa": [],
- "category": "spell",
- "component": [
-  "verbal",
-  "somatic"
+ "actions_number": 4,
+ "area": [
+  10
  ],
- "deity_markdown": "",
+ "area_raw": "10-foot <%RULES%2385%%>burst<%END>",
+ "area_type": [
+  "burst"
+ ],
+ "bloodline_markdown": "",
+ "category": "spell",
  "domain_markdown": "",
+ "duration": 60,
+ "duration_raw": "<%ACTIONS%2317%%>sustained<%END> up to 1 minute",
  "exclude_from_search": false,
+ "heighten_group": [
+  "1st rank"
+ ],
  "heighten_level": [
   1
  ],
- "id": "spell-1242",
- "level": 1,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Focus 1\" pfs=\"\">[Ashen Wind](/Spells.aspx?ID=1242)</title>\r\n\r\n<spoilers>May contain spoilers from Blood Lords</spoilers>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Conjuration\" url=\"/Traits.aspx?ID=33\" />\r\n<trait label=\"Cursebound\" url=\"/Traits.aspx?ID=320\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Pathfinder #185: A Taste of Ashes](/Sources.aspx?ID=188) pg. 81</row>\n\n**Mystery**\r\n[Ash](/Mysteries.aspx?ID=10)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[verbal](/Rules.aspx?ID=284), [somatic](/Rules.aspx?ID=283)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 120 feet\r\n\r\n**Area** 10-foot burst\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** Fortitude\n\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou conjure a swirling wind of ashes that blows through the area. Each creature in the area must attempt a Fortitude save or get the cloying ash in its lungs.\r\n\r\n**Success** The creature is unaffected.<br />\r\n**Failure** The creature is [sickened 1](/Conditions.aspx?ID=34).<br />\r\n**Critical Failure** The creature is sickened 2.",
- "mystery": [
-  "Ash"
+ "id": "spell-2423",
+ "legacy_id": [
+  "spell-1242"
  ],
- "mystery_markdown": "[Ash](/Mysteries.aspx?ID=10)",
+ "level": 1,
+ "markdown": "<title level=\"1\" right=\"Focus 1\" pfs=\"Standard\">\r\n[Ashen Wind](/Spells.aspx?ID=2423)\r\n<actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 286\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 120 feet\r\n\r\n**Area** 10-foot [burst](/Rules.aspx?ID=2385)\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\nFortitude\r\n\r\n**Duration** [sustained](/Actions.aspx?ID=2317) up to 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou conjure a swirling wind of ashes that blows through the area. Each creature in the area must attempt a Fortitude save or get the choking ash in its lungs.\r\n\r\n**Success** The creature is unaffected.<br />\r\n**Failure** The creature is [sickened](/Conditions.aspx?ID=91) 1.<br />\r\n**Critical Failure** The creature is sickened 2.",
  "name": "Ashen Wind",
- "patron_theme_markdown": "",
+ "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 286",
+ "primary_source_category": "Lost Omens",
  "range": 120,
  "range_raw": "120 feet",
  "rarity": "uncommon",
- "release_date": "2022-11-16",
+ "rarity_id": 2,
+ "release_date": "2025-01-30",
  "resistance": {},
  "saving_throw": "Fortitude",
  "saving_throw_markdown": "Fortitude",
- "school": "conjuration",
- "search_markdown": "<spoilers>May contain spoilers from Blood Lords</spoilers>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Conjuration\" url=\"/Traits.aspx?ID=33\" />\r\n<trait label=\"Cursebound\" url=\"/Traits.aspx?ID=320\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #185: A Taste of Ashes](/Sources.aspx?ID=188) pg. 81</row>\n\n**Mystery**\r\n[Ash](/Mysteries.aspx?ID=10)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[verbal](/Rules.aspx?ID=284), [somatic](/Rules.aspx?ID=283)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 120 feet\r\n\r\n**Area** 10-foot burst\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** Fortitude\r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou conjure a swirling wind of ashes that blows through the area.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 286\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 120 feet\r\n\r\n**Area** 10-foot [burst](/Rules.aspx?ID=2385)\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\nFortitude\r\n\r\n**Duration** [sustained](/Actions.aspx?ID=2317) up to 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou conjure a swirling wind of ashes that blows through the area.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Pathfinder #185: A Taste of Ashes"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Pathfinder #185: A Taste of Ashes pg. 81"
+  "Divine Mysteries pg. 286"
  ],
- "source_category": "Adventure Paths",
- "source_group": "Blood Lords",
- "source_markdown": "<row gap=\"tiny\">[Pathfinder #185: A Taste of Ashes](/Sources.aspx?ID=188) pg. 81</row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 286",
  "speed": {},
- "spoilers": "Blood Lords",
+ "spell_type": "Focus",
  "summary": "You conjure a swirling wind of ashes that blows through the area.",
  "summary_markdown": "You conjure a swirling wind of ashes that blows through the area.",
- "text": " Ashen Wind May contain spoilers from Blood Lords Source Pathfinder #185: A Taste of Ashes pg. 81 Mystery Ash Cast Two Actions verbal, somatic Range 120 feet Area 10-foot burst Saving Throw Fortitude --- You conjure a swirling wind of ashes that blows through the area. Each creature in the area must attempt a Fortitude save or get the cloying ash in its lungs. Success The creature is unaffected. Failure The creature is sickened 1. Critical Failure The creature is sickened 2.",
+ "text": "\nAshen Wind Two Actions Source Divine Mysteries pg. 286 Range 120 feet Area 10-foot burst Defense Fortitude Duration sustained up to 1 minute --- You conjure a swirling wind of ashes that blows through the area. Each creature in the area must attempt a Fortitude save or get the choking ash in its lungs. Success The creature is unaffected. Failure The creature is sickened 1. Critical Failure The creature is sickened 2.",
  "tradition_markdown": "",
  "trait": [
-  "Conjuration",
-  "Cursebound",
+  "Concentrate",
+  "Focus",
+  "Manipulate",
   "Oracle",
   "Uncommon"
  ],
- "trait_markdown": "[Conjuration](/Traits.aspx?ID=33), [Cursebound](/Traits.aspx?ID=320), [Oracle](/Traits.aspx?ID=319), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Mechanics",
+  "Class",
+  "Rarity"
+ ],
+ "trait_markdown": "[Concentrate](/Traits.aspx?ID=32), [Focus](/Traits.aspx?ID=511), [Manipulate](/Traits.aspx?ID=104), [Oracle](/Traits.aspx?ID=319), [Uncommon](/Traits.aspx?ID=159)",
  "trait_raw": [
-  "Conjuration",
-  "Cursebound",
+  "Concentrate",
+  "Focus",
+  "Manipulate",
   "Oracle",
   "Uncommon"
  ],
- "type": "Focus",
- "url": "/Spells.aspx?ID=1242",
+ "type": "Spell",
+ "url": "/Spells.aspx?ID=2423",
  "weakness": {}
 }

@@ -1,42 +1,56 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Aura of Life"
  ],
  "feat_markdown": "Aura of Life",
- "id": "feat-250",
+ "id": "feat-5920",
+ "legacy_id": [
+  "feat-250"
+ ],
  "level": 14,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 14\"\r\n    pfs=\"Standard\"\r\n>\r\n[Aura of Life](/Feats.aspx?ID=250) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 114 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Shining Oath](/Feats.aspx?ID=221)\n\n</column>\r\n\r\n---\r\n\r\nYour aura protects against necromantic effects. You and all allies within 15 feet gain resistance 5 to negative energy and a +1 status bonus to saves against necromancy effects.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 14\"\r\n    pfs=\"Standard\"\r\n>\r\n[Aura of Life](/Feats.aspx?ID=5920) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 98 <sup>1.1</sup>\n\n**Prerequisites**\r\nchampion's aura\n\n**Requirements**\r\nchampion’s aura\n\n</column>\r\n\r\n---\r\n\r\nYour aura protects against the power of the Void. You and all allies in your champion's aura gain resistance 5 to void damage and a +1 status bonus to saves against [void](/Traits.aspx?ID=510) effects.",
  "name": "Aura of Life",
  "pfs": "Standard",
- "prerequisite": "Shining Oath",
- "prerequisite_markdown": "[Shining Oath](/Feats.aspx?ID=221)",
+ "prerequisite": "champion's aura",
+ "prerequisite_markdown": "champion's aura",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 98",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
+ "requirement": "champion’s aura",
+ "requirement_markdown": "champion’s aura",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 114 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Shining Oath](/Feats.aspx?ID=221)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour aura protects against necromantic effects.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 98 <sup>1.1</sup>\n\n**Prerequisites**\r\nchampion's aura\n\n**Requirements**\r\nchampion’s aura\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour aura protects against the power of the Void.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 114"
+  "Player Core 2 pg. 98"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 114 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 98 <sup>1.1</sup>",
  "speed": {},
- "summary": "Your aura protects against necromantic effects.",
- "summary_markdown": "Your aura protects against necromantic effects.",
- "text": "<title level=\"1\" right=\"Feat 14\" pfs=\"Standard\" > Aura of Life Source Core Rulebook pg. 114 4.0 Prerequisites Shining Oath --- Your aura protects against necromantic effects. You and all allies within 15 feet gain resistance 5 to negative energy and a +1 status bonus to saves against necromancy effects.",
+ "summary": "Your aura protects against the power of the Void.",
+ "summary_markdown": "Your aura protects against the power of the Void.",
+ "text": "<title level=\"1\" right=\"Feat 14\" pfs=\"Standard\" > Aura of Life Source Player Core 2 pg. 98 1.1 Prerequisites champion's aura Requirements champion’s aura --- Your aura protects against the power of the Void. You and all allies in your champion's aura gain resistance 5 to void damage and a +1 status bonus to saves against void effects.",
  "trait": [
   "Champion"
  ],
- "trait_markdown": "[Champion](/Traits.aspx?ID=24)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Champion](/Traits.aspx?ID=811)",
  "trait_raw": [
   "Champion"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=250",
+ "url": "/Feats.aspx?ID=5920",
  "weakness": {}
 }

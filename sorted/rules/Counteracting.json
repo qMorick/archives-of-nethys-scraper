@@ -1,37 +1,48 @@
 {
  "breadcrumbs": [
-  "Chapter 9: Playing the Game",
-  "General Rules"
+  "Chapter 8: Playing the Game",
+  "Afflictions"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-371",
- "markdown": "<title level=\"1\" right=\"Rules\">[Counteracting](/Rules.aspx?ID=371)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 458 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nSome effects try to counteract spells, afflictions, conditions, or other effects. Counteract checks compare the power of two forces and determine which defeats the other. Successfully counteracting an effect ends it unless noted otherwise.\n\n When attempting a counteract check, add the relevant skill modifier or other appropriate modifier to your check against the target’s DC. If you’re counteracting an affliction, the DC is in the affliction’s stat block. If it’s a spell, use the caster’s DC. The GM can also calculate a DC based on the target effect’s level. For spells, the counteract check modifier is your spellcasting ability modifier plus your spellcasting proficiency bonus, plus any bonuses and penalties that specifically apply to counteract checks. What you can counteract depends on the check result and the target’s level. If an effect is a spell, its level is the counteract level. Otherwise, halve its level and round up to determine its counteract level. If an effect’s level is unclear and it came from a creature, halve and round up the creature’s level. \n\n**Critical Success** Counteract the target if its counteract level is no more than 3 levels higher than your effect’s counteract level.<br /> **Success** Counteract the target if its counteract level is no more than 1 level higher than your effect’s counteract level.<br /> **Failure** Counteract the target if its counteract level is lower than your effect’s counteract level.<br /> **Critical Failure** You fail to counteract the target.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-3280",
+ "legacy_id": [
+  "rules-371"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Counteracting](/Rules.aspx?ID=3280)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 431 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nSome effects try to counteract spells, afflictions, conditions, or other effects. Counteract checks compare the power of two forces and determine which defeats the other. Successfully counteracting an effect [disrupts ](/Rules.aspx?ID=2342) it, preventing it from having any effect, unless noted otherwise.\n\nWhen attempting a counteract check, add the relevant skill modifier or other appropriate modifier to your check against the target's DC. If you're counteracting an [affliction](/Rules.aspx?ID=2389), the DC is in the affliction's stat block. If it's a spell, use the caster's DC. The GM can also calculate a DC based on the target effect's level. For spells, the counteract check modifier is your spellcasting attribute modifier plus your spellcasting proficiency bonus, plus any bonuses and penalties that specifically apply to counteract checks.\n\nWhat you can counteract depends on the check result and the target's counteract rank. If an effect is a spell, its rank is the counteract rank. Otherwise, halve its level and round up to determine its counteract rank (minimum counteract rank 0). If an effect's level is unclear and it came from a creature, halve and round up the creature's level.\n\n**Critical Success** Counteract the target if its counteract rank is no more than 3 higher than your effect's counteract rank.<br />**Success** Counteract the target if its counteract rank is no more than 1 higher than your effect's counteract rank.<br />**Failure** Counteract the target if its counteract rank is lower than your effect's counteract rank.<br />**Critical Failure** You fail to counteract the target.<br /><title level=\"2\" noclass=\"true\">Counteract Table</title>This table provides a reference for what an effect can counteract based on its rank and the check result. The first number in each column is the counteract rank at which you can counteract an effect based on your degree of success. The numbers in parentheses are the typical level range corresponding to that rank.\n\n## Counteract\n<row gap=\"tiny\">\n<table><tr><td>**Counteract Rank**</td><td>**Failure**</td><td>**Success**</td><td>**Critical Success**</td></tr><tr><td>0</td><td>—</td><td>1 (1 to 2)</td><td>3 (5 to 6)</td></tr><tr><td>1</td><td>0 (–1 to 0)</td><td>2 (3 to 4)</td><td>4 (7 to 8)</td></tr><tr><td>2</td><td>1 (1 to 2)</td><td>3 (5 to 6)</td><td>5 (9 to 10)</td></tr><tr><td>3</td><td>2 (3 to 4)</td><td>4 (7 to 8)</td><td>6 (11 to 12)</td></tr><tr><td>4</td><td>3 (5 to 6)</td><td>5 (9 to 10)</td><td>7 (13 to 14)</td></tr><tr><td>5</td><td>4 (7 to 8)</td><td>6 (11 to 12)</td><td>8 (15 to 16)</td></tr><tr><td>6</td><td>5 (9 to 10)</td><td>7 (13 to 14)</td><td>9 (17 to 18)</td></tr><tr><td>7</td><td>6 (11 to 12)</td><td>8 (15 to 16)</td><td>10 (19 to 20)</td></tr><tr><td>8</td><td>7 (13 to 14)</td><td>9 (17 to 18)</td><td>11 (21 to 22)</td></tr><tr><td>9</td><td>8 (15 to 16)</td><td>10 (19 to 20)</td><td>12 (23 to 24)</td></tr><tr><td>10</td><td>9 (17 to 18)</td><td>11 (21 to 22)</td><td>13 (25 to 26)</td></tr><tr></tr></table></row>\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Counteracting",
  "next_link": {
-  "label": "Hit Points, Healing, and Dying",
-  "url": "/Rules.aspx?ID=372"
+  "label": "Perception and Detection",
+  "url": "/Rules.aspx?ID=2400"
  },
  "previous_link": {
-  "label": "Afflictions",
-  "url": "/Rules.aspx?ID=361"
+  "label": "Removing Afflictions",
+  "url": "/Rules.aspx?ID=2399"
  },
+ "primary_source": "Player Core",
+ "primary_source_raw": "Player Core pg. 431",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 458 <sup>4.0</sup></row>\r\n\r\nChapter 9: Playing the Game / General Rules\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 431 <sup>2.0</sup>\r\n\r\nChapter 8: Playing the Game / Afflictions\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSome effects try to counteract spells, afflictions, conditions, or other effects. Counteract checks compare the power of two forces and determine …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 458"
+  "Player Core pg. 431"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 458 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 431 <sup>2.0</sup>",
  "speed": {},
- "text": " Counteracting Source Core Rulebook pg. 458 4.0 Some effects try to counteract spells, afflictions, conditions, or other effects. Counteract checks compare the power of two forces and determine which defeats the other. Successfully counteracting an effect ends it unless noted otherwise. When attempting a counteract check, add the relevant skill modifier or other appropriate modifier to your check against the target’s DC. If you’re counteracting an affliction, the DC is in the affliction’s stat block. If it’s a spell, use the caster’s DC. The GM can also calculate a DC based on the target effect’s level. For spells, the counteract check modifier is your spellcasting ability modifier plus your spellcasting proficiency bonus, plus any bonuses and penalties that specifically apply to counteract checks. What you can counteract depends on the check result and the target’s level. If an effect is a spell, its level is the counteract level. Otherwise, halve its level and round up to determine its counteract level. If an effect’s level is unclear and it came from a creature, halve and round up the creature’s level. Critical Success Counteract the target if its counteract level is no more than 3 levels higher than your effect’s counteract level. Success Counteract the target if its counteract level is no more than 1 level higher than your effect’s counteract level. Failure Counteract the target if its counteract level is lower than your effect’s counteract level. Critical Failure You fail to counteract the target. ",
+ "summary": "Some effects try to counteract spells, afflictions, conditions, or other effects. Counteract checks compare the power of two forces and determine …",
+ "summary_markdown": "Some effects try to counteract spells, afflictions, conditions, or other effects. Counteract checks compare the power of two forces and determine …",
+ "text": " Counteracting Source Player Core pg. 431 2.0 Some effects try to counteract spells, afflictions, conditions, or other effects. Counteract checks compare the power of two forces and determine which defeats the other. Successfully counteracting an effect disrupts it, preventing it from having any effect, unless noted otherwise. When attempting a counteract check, add the relevant skill modifier or other appropriate modifier to your check against the target's DC. If you're counteracting an affliction, the DC is in the affliction's stat block. If it's a spell, use the caster's DC. The GM can also calculate a DC based on the target effect's level. For spells, the counteract check modifier is your spellcasting attribute modifier plus your spellcasting proficiency bonus, plus any bonuses and penalties that specifically apply to counteract checks. What you can counteract depends on the check result and the target's counteract rank. If an effect is a spell, its rank is the counteract rank. Otherwise, halve its level and round up to determine its counteract rank (minimum counteract rank 0). If an effect's level is unclear and it came from a creature, halve and round up the creature's level. Critical Success Counteract the target if its counteract rank is no more than 3 higher than your effect's counteract rank. Success Counteract the target if its counteract rank is no more than 1 higher than your effect's counteract rank. Failure Counteract the target if its counteract rank is lower than your effect's counteract rank. Critical Failure You fail to counteract the target. Counteract Table This table provides a reference for what an effect can counteract based on its rank and the check result. The first number in each column is the counteract rank at which you can counteract an effect based on your degree of success. The numbers in parentheses are the typical level range corresponding to that rank. ## Counteract Counteract Rank Failure Success Critical Success 0 — 1 (1 to 2) 3 (5 to 6) 1 0 (–1 to 0) 2 (3 to 4) 4 (7 to 8) 2 1 (1 to 2) 3 (5 to 6) 5 (9 to 10) 3 2 (3 to 4) 4 (7 to 8) 6 (11 to 12) 4 3 (5 to 6) 5 (9 to 10) 7 (13 to 14) 5 4 (7 to 8) 6 (11 to 12) 8 (15 to 16) 6 5 (9 to 10) 7 (13 to 14) 9 (17 to 18) 7 6 (11 to 12) 8 (15 to 16) 10 (19 to 20) 8 7 (13 to 14) 9 (17 to 18) 11 (21 to 22) 9 8 (15 to 16) 10 (19 to 20) 12 (23 to 24) 10 9 (17 to 18) 11 (21 to 22) 13 (25 to 26) ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=371",
+ "url": "/Rules.aspx?ID=3280",
  "weakness": {}
 }

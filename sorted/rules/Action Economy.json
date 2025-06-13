@@ -1,39 +1,50 @@
 {
  "breadcrumbs": [
-  "Chapter 2: Tools\r\n",
-  "Building Creatures\r\n",
+  "Chapter 2: Building Games",
+  "Building Creatures",
   "Design Abilities",
   "Basics of Ability Design"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1026",
- "markdown": "<title level=\"1\" right=\"Rules\">[Action Economy](/Rules.aspx?ID=1026)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 67</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nUnderstanding a creature’s action economy is key for making it work in play. Remember how short the lifespan of a typical combat creature is. Including a bunch of combat abilities might mean you spend time building actions the creature will never have time to use. Narrow your selections down to the smallest and most compelling set that makes sense. Also keep in mind that special actions will compete for time with any combat spells you gave the creature.\n\n Reactions can help, giving the creature a way to act when it’s not its turn. See Reactive Abilities on page 69 for advice on designing these tricky abilities.\n\n Because of PC capabilities at higher levels, creatures at those levels should get more abilities that improve their action economy. For instance, creatures that grapple should have Improved Grab instead of Grab, Speeds should be higher, and many abilities that would have cost an action at a lower level should be free actions.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2905",
+ "legacy_id": [
+  "rules-1026"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Action Economy](/Rules.aspx?ID=2905)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 123 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nUnderstanding a creature's action economy is key to making it work in play. Remember how short the lifespan of a typical combat creature is. Including a bunch of combat abilities might mean you spend time building actions the creature will never have time to use. Narrow your selections down to the smallest and most compelling set that makes sense. Also keep in mind that special actions will compete for time with any combat spells you give the creature.\n\nReactions can help, giving the creature a way to act when it's not its turn. See [Reactive Abilities](/Rules.aspx?ID=2912) for advice on designing these tricky abilities.\n\nBecause of PC capabilities at higher levels, creatures at those levels should get more abilities that improve their action economy. For instance, creatures that grapple should have [Improved Grab](/MonsterAbilities.aspx?ID=27) instead of [Grab](/MonsterAbilities.aspx?ID=45), Speeds should be higher, and many abilities that would have cost an action at a lower level should be free actions.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Action Economy",
  "next_link": {
   "label": "Level Appropriateness",
-  "url": "/Rules.aspx?ID=1027"
+  "url": "/Rules.aspx?ID=2906"
  },
  "previous_link": {
   "label": "Spells",
-  "url": "/Rules.aspx?ID=1019"
+  "url": "/Rules.aspx?ID=2898"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 123",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 67</row>\r\n\r\nChapter 2: Tools\r\n/ Building Creatures\r\n/ Design Abilities / Basics of Ability Design\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 123 <sup>2.0</sup>\r\n\r\nChapter 2: Building Games / Building Creatures / Design Abilities / Basics of Ability Design\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nUnderstanding a creature's action economy is key to making it work in play. Remember how short the lifespan of a typical combat creature is. …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 67"
+  "GM Core pg. 123"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 67</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 123 <sup>2.0</sup>",
  "speed": {},
- "text": " Action Economy Source Gamemastery Guide pg. 67 Understanding a creature’s action economy is key for making it work in play. Remember how short the lifespan of a typical combat creature is. Including a bunch of combat abilities might mean you spend time building actions the creature will never have time to use. Narrow your selections down to the smallest and most compelling set that makes sense. Also keep in mind that special actions will compete for time with any combat spells you gave the creature. Reactions can help, giving the creature a way to act when it’s not its turn. See Reactive Abilities on page 69 for advice on designing these tricky abilities. Because of PC capabilities at higher levels, creatures at those levels should get more abilities that improve their action economy. For instance, creatures that grapple should have Improved Grab instead of Grab, Speeds should be higher, and many abilities that would have cost an action at a lower level should be free actions. ",
+ "summary": "Understanding a creature's action economy is key to making it work in play. Remember how short the lifespan of a typical combat creature is. …",
+ "summary_markdown": "Understanding a creature's action economy is key to making it work in play. Remember how short the lifespan of a typical combat creature is. …",
+ "text": " Action Economy Source GM Core pg. 123 2.0 Understanding a creature's action economy is key to making it work in play. Remember how short the lifespan of a typical combat creature is. Including a bunch of combat abilities might mean you spend time building actions the creature will never have time to use. Narrow your selections down to the smallest and most compelling set that makes sense. Also keep in mind that special actions will compete for time with any combat spells you give the creature. Reactions can help, giving the creature a way to act when it's not its turn. See Reactive Abilities for advice on designing these tricky abilities. Because of PC capabilities at higher levels, creatures at those levels should get more abilities that improve their action economy. For instance, creatures that grapple should have Improved Grab instead of Grab, Speeds should be higher, and many abilities that would have cost an action at a lower level should be free actions. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1026",
+ "url": "/Rules.aspx?ID=2905",
  "weakness": {}
 }

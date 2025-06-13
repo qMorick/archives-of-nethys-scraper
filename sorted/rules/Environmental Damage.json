@@ -1,37 +1,48 @@
 {
  "breadcrumbs": [
-  "Chapter 10: Game Mastering",
+  "Chapter 2: Building Games",
   "Environment"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-591",
- "markdown": "<title level=\"1\" right=\"Rules\">[Environmental Damage](/Rules.aspx?ID=591)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 512 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nSome environmental features or natural disasters deal damage. Because the amount of damage can vary based on the specific circumstances, the rules for specific environments and natural disasters use damage categories to describe the damage, rather than exact numbers. Use Table 10–11 below to determine damage from an environment or natural disaster. When deciding the exact damage amount, use your best judgment based on how extreme you deem the danger to be.\n\n## Table 10-11: Environmental Damage\n<row gap=\"tiny\">\n<table> <tr><td>**Category**</td><td>**Damage**</td></tr> <tr><td>Minor</td><td>1d6-2d6</td></tr> <tr><td>Moderate</td><td>4d6-6d6</td></tr> <tr><td>Major</td><td>8d6-12d6</td></tr> <tr><td>Massive</td><td>16d6-24d6</td></tr> </table></row>\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2769",
+ "legacy_id": [
+  "rules-591"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Environmental Damage](/Rules.aspx?ID=2769)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 90 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nSome environmental features or natural disasters deal damage. Because the amount of damage can vary based on the specific circumstances, the rules for specific environments and natural disasters use damage categories to describe the damage, rather than exact numbers. Use the Environmental Damage table to determine damage from an environment or natural disaster. When deciding the exact damage amount, use your best judgment based on how extreme you deem the danger to be.\n\n## Table 10-11: Environmental Damage\n<row gap=\"tiny\">\n<table> <tr><td>**Category**</td><td>**Damage**</td></tr> <tr><td>Minor</td><td>1d6-2d6</td></tr> <tr><td>Moderate</td><td>4d6-6d6</td></tr> <tr><td>Major</td><td>8d6-12d6</td></tr> <tr><td>Massive</td><td>16d6-24d6</td></tr> </table></row>\n\n## Table 10-12: Environmental Features\n<row gap=\"tiny\">\n<table> <tr><td>**Feature**</td><td>**Proficiency DC Band**</td></tr> <tr><td>Avalanche</td><td>Expert–legendary</td></tr> <tr><td>Blizzard</td><td>—</td></tr> <tr><td>Bog</td><td>Untrained-trained</td></tr> <tr><td>Canopy</td><td>Trained-master</td></tr> <tr><td>Chasm</td><td>—</td></tr> <tr><td>Cliff</td><td>Trained-master</td></tr> <tr><td>Collapse</td><td>—</td></tr> <tr><td>Crowd</td><td>Trained-master</td></tr> <tr><td>Current</td><td>Trained-master</td></tr> <tr><td>Door</td><td>See entry</td></tr> <tr><td>Earthquake</td><td>Trained-legendary</td></tr> <tr><td>Flood</td><td>Expert-legendary</td></tr> <tr><td>Floor</td><td>Untrained-expert</td></tr> <tr><td>Fog</td><td>—</td></tr> <tr><td>Gate</td><td>—</td></tr> <tr><td>Guard</td><td>—</td></tr> <tr><td>Hedge</td><td>Untrained-trained</td></tr> <tr><td>Ice</td><td>Trained-master</td></tr> <tr><td>Lava</td><td>Expert-legendary</td></tr> <tr><td>Ledge</td><td>Untrained-master</td></tr> <tr><td>Portcullis</td><td>See entry</td></tr> <tr><td>Precipitation</td><td>—</td></tr> <tr><td>Rooftop</td><td>Trained-master</td></tr> <tr><td>Rubble</td><td>Untrained-expert</td></tr> <tr><td>Sand</td><td>Untrained-expert</td></tr> <tr><td>Sandstorm</td><td>Trained-master</td></tr> <tr><td>Sewer</td><td>—</td></tr> <tr><td>Slope</td><td>Untrained-trained</td></tr> <tr><td>Snow</td><td>Untrained-expert</td></tr> <tr><td>Stairs</td><td>Untrained-trained</td></tr> <tr><td>Stalagmite</td><td>Trained-expert</td></tr> <tr><td>Street</td><td>Untrained-trained</td></tr> <tr><td>Temperature</td><td>—</td></tr> <tr><td>Tornado</td><td>Master-legendary</td></tr> <tr><td>Tree</td><td>Untrained-master</td></tr> <tr><td>Tsunami</td><td>Master-legendary</td></tr> <tr><td>Undergrowth</td><td>Untrained-expert</td></tr> <tr><td>Underwater Visibility</td><td>—</td></tr> <tr><td>Volcanic Eruption</td><td>Trained-legendary</td></tr> <tr><td>Wall</td><td>See entry</td></tr> <tr><td>Wildfire</td><td>Expert-legendary</td></tr> <tr><td>Wind</td><td>Untrained-legendary</td></tr> </table></row>\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Environmental Damage",
  "next_link": {
   "label": "Aquatic",
-  "url": "/Rules.aspx?ID=592"
+  "url": "/Rules.aspx?ID=2770"
  },
  "previous_link": {
-  "label": "Rewards",
-  "url": "/Rules.aspx?ID=572"
+  "label": "Afflictions",
+  "url": "/Rules.aspx?ID=2765"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 90",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 512 <sup>4.0</sup></row>\r\n\r\nChapter 10: Game Mastering / Environment\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 90 <sup>2.0</sup>\r\n\r\nChapter 2: Building Games / Environment\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSome environmental features or natural disasters deal damage. Because the amount of damage can vary based on the specific circumstances, the rules …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 512"
+  "GM Core pg. 90"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 512 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 90 <sup>2.0</sup>",
  "speed": {},
- "text": " Environmental Damage Source Core Rulebook pg. 512 4.0 Some environmental features or natural disasters deal damage. Because the amount of damage can vary based on the specific circumstances, the rules for specific environments and natural disasters use damage categories to describe the damage, rather than exact numbers. Use Table 10–11 below to determine damage from an environment or natural disaster. When deciding the exact damage amount, use your best judgment based on how extreme you deem the danger to be. ## Table 10-11: Environmental Damage Category Damage Minor 1d6-2d6 Moderate 4d6-6d6 Major 8d6-12d6 Massive 16d6-24d6 ",
+ "summary": "Some environmental features or natural disasters deal damage. Because the amount of damage can vary based on the specific circumstances, the rules …",
+ "summary_markdown": "Some environmental features or natural disasters deal damage. Because the amount of damage can vary based on the specific circumstances, the rules …",
+ "text": " Environmental Damage Source GM Core pg. 90 2.0 Some environmental features or natural disasters deal damage. Because the amount of damage can vary based on the specific circumstances, the rules for specific environments and natural disasters use damage categories to describe the damage, rather than exact numbers. Use the Environmental Damage table to determine damage from an environment or natural disaster. When deciding the exact damage amount, use your best judgment based on how extreme you deem the danger to be. ## Table 10-11: Environmental Damage Category Damage Minor 1d6-2d6 Moderate 4d6-6d6 Major 8d6-12d6 Massive 16d6-24d6 ## Table 10-12: Environmental Features Feature Proficiency DC Band Avalanche Expert–legendary Blizzard — Bog Untrained-trained Canopy Trained-master Chasm — Cliff Trained-master Collapse — Crowd Trained-master Current Trained-master Door See entry Earthquake Trained-legendary Flood Expert-legendary Floor Untrained-expert Fog — Gate — Guard — Hedge Untrained-trained Ice Trained-master Lava Expert-legendary Ledge Untrained-master Portcullis See entry Precipitation — Rooftop Trained-master Rubble Untrained-expert Sand Untrained-expert Sandstorm Trained-master Sewer — Slope Untrained-trained Snow Untrained-expert Stairs Untrained-trained Stalagmite Trained-expert Street Untrained-trained Temperature — Tornado Master-legendary Tree Untrained-master Tsunami Master-legendary Undergrowth Untrained-expert Underwater Visibility — Volcanic Eruption Trained-legendary Wall See entry Wildfire Expert-legendary Wind Untrained-legendary ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=591",
+ "url": "/Rules.aspx?ID=2769",
  "weakness": {}
 }

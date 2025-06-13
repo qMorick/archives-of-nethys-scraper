@@ -1,37 +1,48 @@
 {
  "breadcrumbs": [
-  "Chapter 10: Game Mastering",
+  "Chapter 2: Building Games",
   "Environment"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-601",
- "markdown": "<title level=\"1\" right=\"Rules\">[Forest](/Rules.aspx?ID=601)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 513 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThese diverse environments include jungles and other wooded areas. They are sometimes struck by wildfires.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-602\" />\r\n\r\n<document level=\"2\" id=\"rules-603\" />\r\n\r\n<document level=\"2\" id=\"rules-604\" />",
+ "id": "rules-2779",
+ "legacy_id": [
+  "rules-601"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Forest](/Rules.aspx?ID=2779)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 91 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThese diverse environments include jungles and other wooded areas. They are sometimes struck by wildfires.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-2780\" />\r\n\r\n<document level=\"2\" id=\"rules-2781\" />\r\n\r\n<document level=\"2\" id=\"rules-2782\" />",
  "name": "Forest",
  "next_link": {
   "label": "Mountain",
-  "url": "/Rules.aspx?ID=605"
+  "url": "/Rules.aspx?ID=2783"
  },
  "previous_link": {
   "label": "Desert",
-  "url": "/Rules.aspx?ID=598"
+  "url": "/Rules.aspx?ID=2776"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 91",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 513 <sup>4.0</sup></row>\r\n\r\nChapter 10: Game Mastering / Environment\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 91 <sup>2.0</sup>\r\n\r\nChapter 2: Building Games / Environment\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese diverse environments include jungles and other wooded areas. They are sometimes struck by wildfires.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 513"
+  "GM Core pg. 91"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 513 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 91 <sup>2.0</sup>",
  "speed": {},
- "text": " Forest Source Core Rulebook pg. 513 4.0 These diverse environments include jungles and other wooded areas. They are sometimes struck by wildfires. ",
+ "summary": "These diverse environments include jungles and other wooded areas. They are sometimes struck by wildfires.",
+ "summary_markdown": "These diverse environments include jungles and other wooded areas. They are sometimes struck by wildfires.",
+ "text": " Forest Source GM Core pg. 91 2.0 These diverse environments include jungles and other wooded areas. They are sometimes struck by wildfires. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=601",
+ "url": "/Rules.aspx?ID=2779",
  "weakness": {}
 }

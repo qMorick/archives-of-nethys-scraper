@@ -1,40 +1,53 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Reptile Speaker"
  ],
  "feat_markdown": "Reptile Speaker",
- "id": "feat-1054",
+ "id": "feat-5637",
+ "legacy_id": [
+  "feat-1054"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Reptile Speaker](/Feats.aspx?ID=1054) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 58 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou hear the sounds of reptiles as language. You can ask questions of, receive answers from, and use the [Diplomacy](/Skills.aspx?ID=6) skill with animals that are reptiles (the GM determines which animals count as reptiles).",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Reptile Speaker](/Feats.aspx?ID=5637) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=760\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 26 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou hear the sounds of reptiles as language. You can ask questions of, receive answers from, and use the [Diplomacy](/Skills.aspx?ID=39) skill with [animals](/Traits.aspx?ID=531) that are reptiles (the GM determines which animals count as reptiles).",
  "name": "Reptile Speaker",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 26",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-10-16",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 58 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou hear the sounds of reptiles as language.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=760\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 26 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou hear the sounds of reptiles as language.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Character Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Character Guide pg. 58"
+  "Player Core 2 pg. 26"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Character Guide](/Sources.aspx?ID=12) pg. 58 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 26 <sup>1.1</sup>",
  "speed": {},
  "summary": "You hear the sounds of reptiles as language.",
  "summary_markdown": "You hear the sounds of reptiles as language.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Reptile Speaker Source Character Guide pg. 58 2.0 --- You hear the sounds of reptiles as language. You can ask questions of, receive answers from, and use the Diplomacy skill with animals that are reptiles (the GM determines which animals count as reptiles).",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Reptile Speaker Source Player Core 2 pg. 26 1.1 --- You hear the sounds of reptiles as language. You can ask questions of, receive answers from, and use the Diplomacy skill with animals that are reptiles (the GM determines which animals count as reptiles).",
  "trait": [
   "Lizardfolk"
  ],
- "trait_markdown": "[Lizardfolk](/Traits.aspx?ID=226)",
+ "trait_group": [
+  "Monster",
+  "Ancestry"
+ ],
+ "trait_markdown": "[Lizardfolk](/Traits.aspx?ID=760)",
  "trait_raw": [
   "Lizardfolk"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1054",
+ "url": "/Feats.aspx?ID=5637",
  "weakness": {}
 }

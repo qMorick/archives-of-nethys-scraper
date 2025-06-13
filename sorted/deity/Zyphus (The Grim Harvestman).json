@@ -1,10 +1,16 @@
 {
- "ability": [
-  "Dexterity",
-  "Constitution"
+ "attribute": [
+  "Constitution",
+  "Dexterity"
  ],
- "alignment": "NE",
- "breadcrumbs_spa": [],
+ "anathema": "engineer the same accident twice in a row, knowingly provide aid to a Pharasmin, spread hope or optimism (particularly in the face of a tragedy)",
+ "area_of_concern": [
+  "accidental death",
+  "graveyards",
+  "spite",
+  "tragedy"
+ ],
+ "area_of_concern_raw": "accidental death, graveyards, spite, tragedy",
  "category": "deity",
  "cleric_spell": [
   "Ill Omen",
@@ -14,7 +20,6 @@
  "deity": [
   "Zyphus"
  ],
- "deity_markdown": "[Zyphus](/Deities.aspx?ID=160)",
  "deity_category": "Other Gods",
  "deity_category_markdown": "[Other Gods](/DeityCategories.aspx?ID=2)",
  "deity_category_order": "2Other Gods",
@@ -23,60 +28,83 @@
  ],
  "divine_font_markdown": "[Harm](/Spells.aspx?ID=146)",
  "domain": [
+  "Creation",
   "Death",
+  "Pain",
   "Sorrow",
   "Soul",
   "Undeath"
  ],
- "domain_markdown": "[Death](/Domains.aspx?ID=7), [Sorrow](/Domains.aspx?ID=50), [Soul](/Domains.aspx?ID=51), [Undeath](/Domains.aspx?ID=34)",
- "domain_alternate_markdown": "",
+ "domain_markdown": "[Creation](/Domains.aspx?ID=68), [Death](/Domains.aspx?ID=70), [Pain](/Domains.aspx?ID=87), [Sorrow](/Domains.aspx?ID=117), [Soul](/Domains.aspx?ID=118), [Undeath](/Domains.aspx?ID=97)",
+ "domain_alternate": [
+  "Creation",
+  "Pain"
+ ],
+ "domain_alternate_markdown": "[Creation](/Domains.aspx?ID=68), [Pain](/Domains.aspx?ID=87)",
  "domain_primary": [
   "Death",
   "Sorrow",
   "Soul",
   "Undeath"
  ],
- "domain_primary_markdown": "[Death](/Domains.aspx?ID=7), [Sorrow](/Domains.aspx?ID=50), [Soul](/Domains.aspx?ID=51), [Undeath](/Domains.aspx?ID=34)",
+ "domain_primary_markdown": "[Death](/Domains.aspx?ID=70), [Sorrow](/Domains.aspx?ID=117), [Soul](/Domains.aspx?ID=118), [Undeath](/Domains.aspx?ID=97)",
+ "edict": "encourage deadly accidents by performing acts of sabotage or through faulty design, seek out instances of tragedy and foster ill will in the surviving victims, spread the belief that life is pointless since it all ends in the pain of death",
  "exclude_from_search": false,
  "favored_weapon": [
   "Pick"
  ],
- "favored_weapon_markdown": "[Pick](/Weapons.aspx?ID=34)",
- "follower_alignment": [
-  "NE",
-  "CE"
+ "favored_weapon_markdown": "[Pick](/Weapons.aspx?ID=389)",
+ "id": "deity-361",
+ "legacy_id": [
+  "deity-160"
  ],
- "id": "deity-160",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Zyphus (The Grim Harvestman)](/Deities.aspx?ID=160)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 130 <sup>2.0</sup></row>\n\n_Nethys Note: no description has been provided of this deity_\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Other Gods](/DeityCategories.aspx?ID=2)\r\n\r\n**Edicts** Set pointless traps, spread nihilism, encourage deadly accidents\r\n\r\n**Anathema** Spread hope, provide aid to Pharasmins\n\n**Follower Alignments**\r\nNE, CE\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nDexterity or Constitution\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146)\r\n\r\n**Divine Skill** [Thievery](/Skills.aspx?ID=17)\r\n\r\n**Favored Weapon** [Pick](/Weapons.aspx?ID=34)\r\n\r\n**Domains** [Death](/Domains.aspx?ID=7), [Sorrow](/Domains.aspx?ID=50), [Soul](/Domains.aspx?ID=51), [Undeath](/Domains.aspx?ID=34)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Ill Omen](/Spells.aspx?ID=696)\n\n- **2nd**\r\n[Shatter](/Spells.aspx?ID=279)\n\n- **6th**\r\n[Phantasmal Calamity](/Spells.aspx?ID=218)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Restricted\">[Zyphus (The Grim Harvestman)](/Deities.aspx?ID=361)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 163\n\nLegends say Zyphus rose from the soul of the first mortal to die from an accidental and meaningless death. These legends hold that when this soul appeared in [Pharasma](/Deities.aspx?ID=290)’s [Boneyard](/Planes.aspx?ID=39), he cursed the goddess and refused to accept her judgment, and instead escaped to become a god himself. The highest ranking among the Grim Harvestman’s faith believe a darker truth: that Zyphus was and is the accident that killed this soul and all other mortals thereafter who befall fatal misfortune. Those who rail against their final judgment act out a final spiritual tragedy, the denial of the impartial force who might be their final defense against Zyphus’s clutches. Those who cannot accept their unfortunate demises, it is said, turn their backs on life and are consumed by Zyphus, their souls forever gone from the cycle of life and death. \n\nWhether this is true or simply a harrowing tale spread by worshippers of the cruel god to bolster terror is largely irrelevant, for the faithful of Zyphus are already reviled and feared. As devotees of the god of death and tragedy, they see death not as a natural end of life but as the punishment for daring to enjoy life at all. Many of these spiteful worshippers came to the faith as the result of an unfortunate tragedy capitalized upon (and often engineered by) other priests of Zyphus. Rather than healing and moving on, these individuals obsess over their misfortune and see inflicting tragedy on others as the only way to justify what happened to them. In time, such folk grow addicted to the cruelty, find pleasure in pain, and sup upon the tears of mourners while basking in their losses. In time, all worshippers of Zyphus become spite-filled wells of hatred whose long-standing grudges have bloomed into ceaseless drives to spread misery through the world.\n\nWhile his followers often rise as [undead](/Traits.aspx?ID=722) after they succumb to accidents, no living devotee of Zyphus seeks undeath as an escape from death, for they believe that an unplanned violent demise is the greatest reward they can earn for a life devoted to despair and tragedy.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Other Gods](/DeityCategories.aspx?ID=2)\r\n\r\n**Edicts** encourage deadly accidents by performing acts of sabotage or through faulty design, seek out instances of tragedy and foster ill will in the surviving victims, spread the belief that life is pointless since it all ends in the pain of death\r\n\r\n**Anathema** engineer the same accident twice in a row, knowingly provide aid to a Pharasmin, spread hope or optimism (particularly in the face of a tragedy)\r\n\r\n**Area of Concern**\r\naccidental death, graveyards, spite, tragedy\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nConstitution or Dexterity\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146)\r\n\r\n**Divine Sanctification** must choose unholy\r\n\r\n**Divine Skill** [Thievery](/Skills.aspx?ID=50)\r\n\r\n**Favored Weapon** [Pick](/Weapons.aspx?ID=389)\r\n\r\n**Domains** [Death](/Domains.aspx?ID=70), [Sorrow](/Domains.aspx?ID=117), [Soul](/Domains.aspx?ID=118), [Undeath](/Domains.aspx?ID=97)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** [Creation](/Domains.aspx?ID=68), [Pain](/Domains.aspx?ID=87)\r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Ill Omen](/Spells.aspx?ID=1566)\n\n- **2nd**\r\n[Shatter](/Spells.aspx?ID=1670)\n\n- **6th**\r\n[Phantasmal Calamity](/Spells.aspx?ID=1630)\n\n</column>",
  "name": "Zyphus (The Grim Harvestman)",
- "pfs": "Standard",
+ "pfs": "Restricted",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 163",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "pickaxe made of bones",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 130 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Harm\r\n\r\n**Divine Skill** [Thievery](/Skills.aspx?ID=17)\r\n\r\n**Favored Weapon** [Pick](/Weapons.aspx?ID=34)\r\n\r\n**Domains** [Death](/Domains.aspx?ID=7), [Sorrow](/Domains.aspx?ID=50), [Soul](/Domains.aspx?ID=51), [Undeath](/Domains.aspx?ID=34)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Nethys Note: no description has been provided of this deity \r\n</summary>",
+ "sacred_animal": "vulture",
+ "sacred_color": [
+  "ivory",
+  "red"
+ ],
+ "sanctification": [
+  "unholy"
+ ],
+ "sanctification_raw": "must choose unholy",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 163\r\n\r\n**Divine Font** Harm\r\n\r\n**Divine Skill** [Thievery](/Skills.aspx?ID=50)\r\n\r\n**Favored Weapon** [Pick](/Weapons.aspx?ID=389)\r\n\r\n**Domains** [Creation](/Domains.aspx?ID=68), [Death](/Domains.aspx?ID=70), [Pain](/Domains.aspx?ID=87), [Sorrow](/Domains.aspx?ID=117), [Soul](/Domains.aspx?ID=118), [Undeath](/Domains.aspx?ID=97)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLegends say Zyphus rose from the soul of the first mortal to die from an accidental and meaningless death. These legends hold that when this soul …\r\n</summary>",
  "skill": [
   "Thievery"
  ],
- "skill_markdown": "[Thievery](/Skills.aspx?ID=17)",
+ "skill_markdown": "[Thievery](/Skills.aspx?ID=50)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 130"
+  "Divine Mysteries pg. 163"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 130 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 163",
  "speed": {},
- "summary": " Nethys Note: no description has been provided of this deity ",
- "summary_markdown": " Nethys Note: no description has been provided of this deity ",
- "text": " Zyphus (The Grim Harvestman) Source Gods &amp; Magic pg. 130 2.0 Nethys Note: no description has been provided of this deity Category Other Gods Edicts Set pointless traps, spread nihilism, encourage deadly accidents Anathema Spread hope, provide aid to Pharasmins Follower Alignments NE, CE Devotee Benefits Divine Ability Dexterity or Constitution Divine Font Harm Divine Skill Thievery Favored Weapon Pick Domains Death, Sorrow, Soul, Undeath Alternate Domains Cleric Spells - 1st Ill Omen - 2nd Shatter - 6th Phantasmal Calamity\n",
- "trait": [
-  "NE"
+ "spell": [
+  "Ill Omen",
+  "Shatter",
+  "Phantasmal Calamity"
  ],
- "trait_raw": [
-  "NE"
- ],
+ "spell_markdown": "[Ill Omen](/Spells.aspx?ID=1566), [Phantasmal Calamity](/Spells.aspx?ID=1630), [Shatter](/Spells.aspx?ID=1670)",
+ "summary": "Legends say Zyphus rose from the soul of the first mortal to die from an accidental and meaningless death. These legends hold that when this soul …",
+ "summary_markdown": "Legends say Zyphus rose from the soul of the first mortal to die from an accidental and meaningless death. These legends hold that when this soul …",
+ "text": " Zyphus (The Grim Harvestman) Source Divine Mysteries pg. 163 Legends say Zyphus rose from the soul of the first mortal to die from an accidental and meaningless death. These legends hold that when this soul appeared in Pharasma’s Boneyard, he cursed the goddess and refused to accept her judgment, and instead escaped to become a god himself. The highest ranking among the Grim Harvestman’s faith believe a darker truth: that Zyphus was and is the accident that killed this soul and all other mortals thereafter who befall fatal misfortune. Those who rail against their final judgment act out a final spiritual tragedy, the denial of the impartial force who might be their final defense against Zyphus’s clutches. Those who cannot accept their unfortunate demises, it is said, turn their backs on life and are consumed by Zyphus, their souls forever gone from the cycle of life and death. Whether this is true or simply a harrowing tale spread by worshippers of the cruel god to bolster terror is largely irrelevant, for the faithful of Zyphus are already reviled and feared. As devotees of the god of death and tragedy, they see death not as a natural end of life but as the punishment for daring to enjoy life at all. Many of these spiteful worshippers came to the faith as the result of an unfortunate tragedy capitalized upon (and often engineered by) other priests of Zyphus. Rather than healing and moving on, these individuals obsess over their misfortune and see inflicting tragedy on others as the only way to justify what happened to them. In time, such folk grow addicted to the cruelty, find pleasure in pain, and sup upon the tears of mourners while basking in their losses. In time, all worshippers of Zyphus become spite-filled wells of hatred whose long-standing grudges have bloomed into ceaseless drives to spread misery through the world. While his followers often rise as undead after they succumb to accidents, no living devotee of Zyphus seeks undeath as an escape from death, for they believe that an unplanned violent demise is the greatest reward they can earn for a life devoted to despair and tragedy. Category Other Gods Edicts encourage deadly accidents by performing acts of sabotage or through faulty design, seek out instances of tragedy and foster ill will in the surviving victims, spread the belief that life is pointless since it all ends in the pain of death Anathema engineer the same accident twice in a row, knowingly provide aid to a Pharasmin, spread hope or optimism (particularly in the face of a tragedy) Area of Concern accidental death, graveyards, spite, tragedy Devotee Benefits Divine Attribute Constitution or Dexterity Divine Font Harm Divine Sanctification must choose unholy Divine Skill Thievery Favored Weapon Pick Domains Death, Sorrow, Soul, Undeath Alternate Domains Creation, Pain Cleric Spells - 1st Ill Omen - 2nd Shatter - 6th Phantasmal Calamity\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=160",
+ "url": "/Deities.aspx?ID=361",
  "weakness": {}
 }

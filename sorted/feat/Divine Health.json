@@ -1,42 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Divine Health"
  ],
  "feat_markdown": "Divine Health",
- "id": "feat-224",
- "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Divine Health](/Feats.aspx?ID=224) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 111 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[tenets of good](/Tenets.aspx?ID=1)\n\n</column>\r\n\r\n---\r\n\r\nYour faith makes you resistant to disease, protecting you as you offer succor to the ill. You gain a +1 status bonus to saves against diseases. In addition, if you roll a success on a save against a disease, you get a critical success instead.",
+ "id": "feat-5893",
+ "legacy_id": [
+  "feat-224"
+ ],
+ "level": 2,
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Divine Health](/Feats.aspx?ID=5893) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 94 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYour faith makes you resistant to disease, protecting you as you offer succor to the ill. You gain a +2 status bonus to saves against [diseases](/Traits.aspx?ID=578) and [poisons](/Traits.aspx?ID=669) and to flat checks to recover from [persistent poison damage](/Conditions.aspx?ID=29). Allies in your champion's aura get this benefit, but their bonus is +1.\n\n In addition, if you roll a success on a save against a disease or poison, you get a critical success instead. (Your allies don't share this benefit.) If you have the sacred body class feature, when you roll a critical failure on a save against a disease or poison, you get a failure instead.",
  "name": "Divine Health",
  "pfs": "Standard",
- "prerequisite": "tenets of good",
- "prerequisite_markdown": "[tenets of good](/Tenets.aspx?ID=1)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 94",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 111 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[tenets of good](/Tenets.aspx?ID=1)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour faith makes you resistant to disease.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 94 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour faith makes you resistant to disease, protecting you as you offer succor to the ill.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 111"
+  "Player Core 2 pg. 94"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 111 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 94 <sup>1.1</sup>",
  "speed": {},
- "summary": "Your faith makes you resistant to disease.",
- "summary_markdown": "Your faith makes you resistant to disease.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Divine Health Source Core Rulebook pg. 111 4.0 Prerequisites tenets of good --- Your faith makes you resistant to disease, protecting you as you offer succor to the ill. You gain a +1 status bonus to saves against diseases. In addition, if you roll a success on a save against a disease, you get a critical success instead.",
+ "summary": "Your faith makes you resistant to disease, protecting you as you offer succor to the ill.",
+ "summary_markdown": "Your faith makes you resistant to disease, protecting you as you offer succor to the ill.",
+ "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Divine Health Source Player Core 2 pg. 94 1.1 --- Your faith makes you resistant to disease, protecting you as you offer succor to the ill. You gain a +2 status bonus to saves against diseases and poisons and to flat checks to recover from persistent poison damage. Allies in your champion's aura get this benefit, but their bonus is +1. In addition, if you roll a success on a save against a disease or poison, you get a critical success instead. (Your allies don't share this benefit.) If you have the sacred body class feature, when you roll a critical failure on a save against a disease or poison, you get a failure instead.",
  "trait": [
   "Champion"
  ],
- "trait_markdown": "[Champion](/Traits.aspx?ID=24)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Champion](/Traits.aspx?ID=811)",
  "trait_raw": [
   "Champion"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=224",
+ "url": "/Feats.aspx?ID=5893",
  "weakness": {}
 }

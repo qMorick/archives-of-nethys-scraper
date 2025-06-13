@@ -1,77 +1,91 @@
 {
  "ammunition_markdown": "",
- "breadcrumbs_spa": [],
  "bulk": 1,
  "bulk_raw": "1",
  "category": "weapon",
  "damage": "1d6 P",
  "damage_die": 6,
+ "damage_type": [
+  "Piercing"
+ ],
  "deity": [
+  "Acavna",
   "Angazhan",
   "Arqueros",
   "Baalzebul",
   "Chamidu",
+  "Cihua Coatl",
   "Ghlaunder",
+  "Lorris",
   "Lysianassa",
   "Mammon",
+  "Orgesh",
   "Ra",
   "Set",
+  "Thalaphyrr",
+  "Tjasse",
   "Tsukiyo",
+  "Venkelvore",
   "Walkena",
-  "Xhamen-Dor"
+  "Xhamen-Dor",
+  "Zipacna"
  ],
- "deity_markdown": "[Angazhan](/Deities.aspx?ID=72), [Arqueros](/Deities.aspx?ID=244), [Baalzebul](/Deities.aspx?ID=63), [Chamidu](/Deities.aspx?ID=188), [Ghlaunder](/Deities.aspx?ID=36), [Lysianassa](/Deities.aspx?ID=105), [Mammon](/Deities.aspx?ID=68), [Ra](/Deities.aspx?ID=57), [Set](/Deities.aspx?ID=242), [Tsukiyo](/Deities.aspx?ID=48), [Walkena](/Deities.aspx?ID=159), [Xhamen-Dor](/Deities.aspx?ID=165)",
+ "deity_markdown": "[Acavna](/Deities.aspx?ID=402), [Angazhan](/Deities.aspx?ID=644), [Arqueros](/Deities.aspx?ID=645), [Baalzebul](/Deities.aspx?ID=394), [Chamidu](/Deities.aspx?ID=612), [Cihua Coatl](/Deities.aspx?ID=413), [Ghlaunder](/Deities.aspx?ID=343), [Lorris](/Deities.aspx?ID=477), [Lysianassa](/Deities.aspx?ID=692), [Mammon](/Deities.aspx?ID=399), [Orgesh](/Deities.aspx?ID=576), [Ra](/Deities.aspx?ID=521), [Set](/Deities.aspx?ID=641), [Thalaphyrr](/Deities.aspx?ID=663), [Tjasse](/Deities.aspx?ID=498), [Tsukiyo](/Deities.aspx?ID=317), [Venkelvore](/Deities.aspx?ID=506), [Walkena](/Deities.aspx?ID=683), [Xhamen-Dor](/Deities.aspx?ID=578), [Zipacna](/Deities.aspx?ID=604)",
  "exclude_from_search": false,
- "favored_weapon": [
-  "Angazhan",
-  "Arqueros",
-  "Baalzebul",
-  "Chamidu",
-  "Ghlaunder",
-  "Lysianassa",
-  "Mammon",
-  "Ra",
-  "Set",
-  "Tsukiyo",
-  "Walkena",
-  "Xhamen-Dor"
- ],
- "favored_weapon_markdown": "[Angazhan](/Deities.aspx?ID=72), [Arqueros](/Deities.aspx?ID=244), [Baalzebul](/Deities.aspx?ID=63), [Chamidu](/Deities.aspx?ID=188), [Ghlaunder](/Deities.aspx?ID=36), [Lysianassa](/Deities.aspx?ID=105), [Mammon](/Deities.aspx?ID=68), [Ra](/Deities.aspx?ID=57), [Set](/Deities.aspx?ID=242), [Tsukiyo](/Deities.aspx?ID=48), [Walkena](/Deities.aspx?ID=159), [Xhamen-Dor](/Deities.aspx?ID=165)",
  "hands": "1",
- "id": "weapon-10",
+ "id": "weapon-365",
  "item_category": "Weapons",
  "item_subcategory": "Base Weapons",
+ "legacy_id": [
+  "weapon-10"
+ ],
  "level": 0,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Weapon 0\"\r\n    pfs=\"Standard\"\r\n>\r\n[Spear](/Weapons.aspx?ID=10)\r\n</title>\n\n<traits>\r\n<trait label=\"Thrown 20 ft.\" url=\"/Traits.aspx?ID=195\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 280 <sup>4.0</sup></row>\n\n**Favored Weapon** [Angazhan](/Deities.aspx?ID=72), [Arqueros](/Deities.aspx?ID=244), [Baalzebul](/Deities.aspx?ID=63), [Chamidu](/Deities.aspx?ID=188), [Ghlaunder](/Deities.aspx?ID=36), [Lysianassa](/Deities.aspx?ID=105), [Mammon](/Deities.aspx?ID=68), [Ra](/Deities.aspx?ID=57), [Set](/Deities.aspx?ID=242), [Tsukiyo](/Deities.aspx?ID=48), [Walkena](/Deities.aspx?ID=159), [Xhamen-Dor](/Deities.aspx?ID=165)\n\n<row gap=\"medium\">\r\n**Price** 1 sp\r\n\r\n**Damage** 1d6 P\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hands** 1\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Category** Simple\r\n\r\n**Group** [Spear](/WeaponGroups.aspx?ID=14)\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\nA long metal shaft ending with a metal spike, a spear can be used one-handed as a melee weapon and can be thrown.\r\n\r\n<title level=\"2\">Critical Specialization Effects</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 283 <sup>4.0</sup></row>\r\n\r\nCertain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.\r\n\r\n[Click here for the full rules on Critical Specialization Effects](/Rules.aspx?ID=235).\r\n\r\n<document level=\"2\" id=\"weapon-group-14\" />\r\n\r\n<title level=\"2\">Specific Magic Weapons</title>\r\n[Anchor Spear](/Equipment.aspx?ID=654), [Deepdread Claw](/Equipment.aspx?ID=768), [Fulminating Spear](/Equipment.aspx?ID=1087), [Gluttonous Spear](/Equipment.aspx?ID=788), [Golden Blade of Mzali](/Equipment.aspx?ID=1449)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Weapon 0\"\r\n    pfs=\"Standard\"\r\n>\r\n[Spear](/Weapons.aspx?ID=365)\r\n</title>\n\n<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n<trait label=\"Thrown 20 ft.\" url=\"/Traits.aspx?ID=195\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 127, [Player Core](/Sources.aspx?ID=216) pg. 277 <sup>2.0</sup>\n\n**Favored Weapon** [Acavna](/Deities.aspx?ID=402), [Angazhan](/Deities.aspx?ID=644), [Arqueros](/Deities.aspx?ID=645), [Baalzebul](/Deities.aspx?ID=394), [Chamidu](/Deities.aspx?ID=612), [Cihua Coatl](/Deities.aspx?ID=413), [Ghlaunder](/Deities.aspx?ID=343), [Lorris](/Deities.aspx?ID=477), [Lysianassa](/Deities.aspx?ID=692), [Mammon](/Deities.aspx?ID=399), [Orgesh](/Deities.aspx?ID=576), [Ra](/Deities.aspx?ID=521), [Set](/Deities.aspx?ID=641), [Thalaphyrr](/Deities.aspx?ID=663), [Tjasse](/Deities.aspx?ID=498), [Tsukiyo](/Deities.aspx?ID=317), [Venkelvore](/Deities.aspx?ID=506), [Walkena](/Deities.aspx?ID=683), [Xhamen-Dor](/Deities.aspx?ID=578), [Zipacna](/Deities.aspx?ID=604)\n\n<row gap=\"medium\">\r\n**Price** 1 sp\r\n\r\n**Damage** 1d6 P\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hands** 1\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Type** Melee\r\n\r\n**Category** Simple\r\n\r\n**Group** [Spear](/WeaponGroups.aspx?ID=14)\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\nA long metal shaft ending with a metal spike, a spear can be used one-handed as a melee weapon and can be thrown.\r\n\r\n<title level=\"2\">Critical Specialization Effects</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 283 <sup>4.0</sup>\r\n\r\nCertain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.\r\n\r\n[Click here for the full rules on Critical Specialization Effects](/Rules.aspx?ID=235).\r\n\r\n<document level=\"2\" id=\"weapon-group-14\" />\r\n\r\n<title level=\"2\">Specific Magic Weapons</title>\r\n[Shadowpiercer](/Equipment.aspx?ID=3510)",
  "name": "Spear",
  "pfs": "Standard",
  "price": 10,
  "price_raw": "1 sp",
+ "primary_source": "Tian Xia Character Guide",
+ "primary_source_raw": "Tian Xia Character Guide pg. 127",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-28",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Thrown 20 ft.\" url=\"/Traits.aspx?ID=195\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 280 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n**Price** 1 sp\r\n\r\n**Damage** 1d6 P\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hands** 1\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n \r\n\r\n<row gap=\"medium\">\r\n**Category** Simple\r\n\r\n**Group** [Spear](/WeaponGroups.aspx?ID=14)\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA long metal shaft ending with a metal spike, a spear can be used one-handed as a melee weapon and can be thrown.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n<trait label=\"Thrown 20 ft.\" url=\"/Traits.aspx?ID=195\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 127, [Player Core](/Sources.aspx?ID=216) pg. 277 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 1 sp\r\n\r\n**Damage** 1d6 P\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hands** 1\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n \r\n\r\n<row gap=\"medium\">\r\n**Category** Simple\r\n\r\n**Group** [Spear](/WeaponGroups.aspx?ID=14)\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA long metal shaft ending with a metal spike, a spear can be used one-handed as a melee weapon and can be thrown.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Tian Xia Character Guide",
+  "Player Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 280"
+  "Tian Xia Character Guide pg. 127",
+  "Player Core pg. 277"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 280 <sup>4.0</sup></row>",
+ "source_category": [
+  "Lost Omens",
+  "Rulebooks"
+ ],
+ "source_markdown": "[Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 127, [Player Core](/Sources.aspx?ID=216) pg. 277 <sup>2.0</sup>",
  "speed": {},
  "summary": "A long metal shaft ending with a metal spike, a spear can be used one-handed as a melee weapon and can be thrown.",
  "summary_markdown": "A long metal shaft ending with a metal spike, a spear can be used one-handed as a melee weapon and can be thrown.",
- "text": "<title level=\"1\" right=\"Weapon 0\" pfs=\"Standard\" > Spear Source Core Rulebook pg. 280 4.0 Favored Weapon Angazhan, Arqueros, Baalzebul, Chamidu, Ghlaunder, Lysianassa, Mammon, Ra, Set, Tsukiyo, Walkena, Xhamen-Dor Price 1 sp Damage 1d6 P Bulk 1 Hands 1 Category Simple Group Spear --- A long metal shaft ending with a metal spike, a spear can be used one-handed as a melee weapon and can be thrown. Critical Specialization Effects Source Core Rulebook pg. 283 4.0 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon. Click here for the full rules on Critical Specialization Effects. Specific Magic Weapons Anchor Spear, Deepdread Claw, Fulminating Spear, Gluttonous Spear, Golden Blade of Mzali",
+ "text": "<title level=\"1\" right=\"Weapon 0\" pfs=\"Standard\" > Spear Source Tian Xia Character Guide pg. 127, Player Core pg. 277 2.0 Favored Weapon Acavna, Angazhan, Arqueros, Baalzebul, Chamidu, Cihua Coatl, Ghlaunder, Lorris, Lysianassa, Mammon, Orgesh, Ra, Set, Thalaphyrr, Tjasse, Tsukiyo, Venkelvore, Walkena, Xhamen-Dor, Zipacna Price 1 sp Damage 1d6 P Bulk 1 Hands 1 Type Melee Category Simple Group Spear --- A long metal shaft ending with a metal spike, a spear can be used one-handed as a melee weapon and can be thrown. Critical Specialization Effects Source Core Rulebook pg. 283 4.0 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon. Click here for the full rules on Critical Specialization Effects. Specific Magic Weapons Shadowpiercer",
  "trait": [
+  "Monk",
   "Thrown"
  ],
- "trait_markdown": "[Thrown 20 ft.](/Traits.aspx?ID=195)",
+ "trait_group": [
+  "Class",
+  "Weapon"
+ ],
+ "trait_markdown": "[Monk](/Traits.aspx?ID=656), [Thrown 20 ft.](/Traits.aspx?ID=195)",
  "trait_raw": [
+  "Monk",
   "Thrown 20 ft."
  ],
- "type": "Weapon",
- "url": "/Weapons.aspx?ID=10",
+ "type": "Item",
+ "url": "/Weapons.aspx?ID=365",
  "weakness": {},
  "weapon_category": "Simple",
  "weapon_group": "Spear",

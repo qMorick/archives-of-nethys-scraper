@@ -1,52 +1,67 @@
 {
  "actions": "Reaction",
+ "actions_number": 1,
  "archetype": [
   "Linguist"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Spot Translate"
  ],
  "feat_markdown": "Spot Translate",
- "id": "feat-1996",
+ "id": "feat-6347",
+ "legacy_id": [
+  "feat-1996"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Spot Translate](/Feats.aspx?ID=1996) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=16\" />\r\n<trait label=\"Linguistic\" url=\"/Traits.aspx?ID=101\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 178 <sup>2.0</sup></row>\n\n**Archetype** [Linguist](/Archetypes.aspx?ID=64)\n\n**Prerequisites**\r\n[Linguist Dedication](/Feats.aspx?ID=1993)\n\n**Trigger**\r\nAnother creature within 60 feet uses a [linguistic](/Traits.aspx?ID=101) effect in a language you understand.\n\n</column>\r\n\r\n---\r\n\r\nYou interpret a creature's words, repeating their message in a different language that you know. If the triggering effect's targets speak either the original language or the one you translated into, they are affected.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Spot Translate](/Feats.aspx?ID=6347) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=541\" />\r\n<trait label=\"Linguistic\" url=\"/Traits.aspx?ID=642\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 203 <sup>1.1</sup>\n\n**Archetype** [Linguist](/Archetypes.aspx?ID=253)\n\n**Prerequisites**\r\n[Linguist Dedication](/Feats.aspx?ID=6344)\n\n**Trigger**\r\nAnother creature within 60 feet uses a [linguistic](/Traits.aspx?ID=642) effect in a language you understand.\n\n</column>\r\n\r\n---\r\n\r\nYou bridge a language gap, repeating the message in a different language that you know. Choose a language you understand to repeat the message in. The [linguistic](/Traits.aspx?ID=642) effect counts as both languages, rather than only the language the triggering creature is using, potentially allowing it to affect a wider range of creatures. As normal, you can translate normal speech without Spot Translate and without using a reaction, but this reaction allows you to apply the benefits of translation to spells and actions such as command or [Demoralize](/Actions.aspx?ID=2395).",
  "name": "Spot Translate",
  "pfs": "Standard",
  "prerequisite": "Linguist Dedication",
- "prerequisite_markdown": "[Linguist Dedication](/Feats.aspx?ID=1993)",
+ "prerequisite_markdown": "[Linguist Dedication](/Feats.aspx?ID=6344)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 203",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=16\" />\r\n<trait label=\"Linguistic\" url=\"/Traits.aspx?ID=101\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 178 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Linguist Dedication](/Feats.aspx?ID=1993)\n\n**Trigger**\r\nAnother creature within 60 feet uses a [linguistic](/Traits.aspx?ID=101) effect in a language you understand.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou interpret a creature's words, repeating their message in a different language that you know.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=541\" />\r\n<trait label=\"Linguistic\" url=\"/Traits.aspx?ID=642\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 203 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Linguist Dedication](/Feats.aspx?ID=6344)\n\n**Trigger**\r\nAnother creature within 60 feet uses a [linguistic](/Traits.aspx?ID=642) effect in a language you understand.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou bridge a language gap, repeating the message in a different language that you know.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 178"
+  "Player Core 2 pg. 203"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 178 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 203 <sup>1.1</sup>",
  "speed": {},
- "summary": "You interpret a creature's words, repeating their message in a different language that you know.",
- "summary_markdown": "You interpret a creature's words, repeating their message in a different language that you know.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Spot Translate Reaction Source Advanced Player's Guide pg. 178 2.0 Archetype Linguist Prerequisites Linguist Dedication Trigger Another creature within 60 feet uses a linguistic effect in a language you understand. --- You interpret a creature's words, repeating their message in a different language that you know. If the triggering effect's targets speak either the original language or the one you translated into, they are affected.",
+ "summary": "You bridge a language gap, repeating the message in a different language that you know.",
+ "summary_markdown": "You bridge a language gap, repeating the message in a different language that you know.",
+ "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Spot Translate Reaction Source Player Core 2 pg. 203 1.1 Archetype Linguist Prerequisites Linguist Dedication Trigger Another creature within 60 feet uses a linguistic effect in a language you understand. --- You bridge a language gap, repeating the message in a different language that you know. Choose a language you understand to repeat the message in. The linguistic effect counts as both languages, rather than only the language the triggering creature is using, potentially allowing it to affect a wider range of creatures. As normal, you can translate normal speech without Spot Translate and without using a reaction, but this reaction allows you to apply the benefits of translation to spells and actions such as command or Demoralize.",
  "trait": [
   "Archetype",
   "Auditory",
   "Linguistic"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Auditory](/Traits.aspx?ID=16), [Linguistic](/Traits.aspx?ID=101)",
+ "trait_group": [
+  "Feat",
+  "Sense",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535), [Auditory](/Traits.aspx?ID=541), [Linguistic](/Traits.aspx?ID=642)",
  "trait_raw": [
   "Archetype",
   "Auditory",
   "Linguistic"
  ],
  "trigger": "Another creature within 60 feet uses a  linguistic  effect in a language you understand.",
- "trigger_markdown": "Another creature within 60 feet uses a [linguistic](/Traits.aspx?ID=101) effect in a language you understand.",
+ "trigger_markdown": "Another creature within 60 feet uses a [linguistic](/Traits.aspx?ID=642) effect in a language you understand.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=1996",
+ "url": "/Feats.aspx?ID=6347",
  "weakness": {}
 }

@@ -5,34 +5,46 @@
  "archetype_category": [
   "Multiclass"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-1",
+ "id": "archetype-228",
+ "image": [
+  "/Images/Archetypes/Archetype_Alchemist.webp"
+ ],
+ "legacy_id": [
+  "archetype-1"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Alchemist](/Archetypes.aspx?ID=1)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 220 <sup>4.0</sup></row>\n\nYou enjoy tinkering with alchemical formulas and substances in your spare time, and your studies have progressed beyond mere experimentation.\r\n\r\n<title level=\"3\">Multiclass Alchemist characters</title>\r\n\r\nThe free alchemical items from the alchemist archetype are extremely useful to characters of any class. The following are just some of the possible combinations. \n<ul><li>Barbarian alchemists can mix mutagens with their rage to ferocious effect. </li><li>Champion alchemists can focus on alchemical items that boost defenses and heal others, allowing their champion’s reaction and lay on hands to go further. </li><li>Fighter alchemists can use their alchemy to gain additional options in situations where their usual tactics don’t work. </li><li>Ranger alchemists focus on alchemy and snares, getting extra use out of their Crafting skill and supplying bombs for the bomb snare. </li><li>Rogue alchemists can combine a rogue’s poison feats with free daily poisons, and bombs present an interesting way to sneak attack with various types of energy damage. </li><li>Spellcaster alchemists often use their alchemical items to take pressure off their repertoire or prepared spells. For instance, a wizard alchemist who can brew up darksight elixirs to grant darkvision can prepare another spell instead of [_darkvision_](/Spells.aspx?ID=60).</li></ul>\n\n<document level=\"2\" id=\"feat-665\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-666\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-667\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-668\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-669\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-670\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Alchemist](/Archetypes.aspx?ID=228)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 175 <sup>1.1</sup>\n\nYou enjoy tinkering with alchemical formulas and substances in your spare time, and your studies have progressed beyond mere experimentation. You might throw bombs, drink mutagens, or carry an assortment of helpful elixirs and alchemical tools.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Alchemist.webp\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"3\">Multiclass Alchemist Characters</title>\r\n\r\nThe free alchemical items from the alchemist archetype are extremely useful to characters of any class. The following are just some of the possible combinations. \n<ul><li>Barbarian alchemists can mix mutagens with their rage to ferocious effect. </li><li>Champion alchemists can focus on alchemical items that boost defenses and heal others, allowing their champion's reaction and _lay on hands_ to go further. </li><li>Fighter alchemists can use their alchemy to gain additional options in situations where their usual tactics don't work.</li><li>Ranger alchemists often focus on alchemy and snares, getting extra use out of their Crafting skill and supplying bombs for the bomb snare.</li><li>Rogue alchemists can combine a rogue's poison feats with free daily poisons, and bombs present an interesting way to sneak attack with various types of energy damage.</li><li>Spellcaster alchemists often use their alchemical items to take pressure off their repertoire or prepared spells. For instance, a wizard alchemist who can brew up darkvision elixirs to grant vision in darkness can prepare another spell instead of _darkvision_.</li></ul>\n\n<document level=\"2\" id=\"feat-6184\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6185\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6186\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6187\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6188\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6189\"\n\n/>",
  "name": "Alchemist",
  "pfs": "Standard",
- "prerequisite": "Intelligence 14",
- "prerequisite_markdown": "Intelligence 14",
+ "prerequisite": "Intelligence +2",
+ "prerequisite_markdown": "Intelligence +2",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 175",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 220 <sup>4.0</sup></row>\r\n\r\n**Prerequisites**\r\nIntelligence 14\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou enjoy tinkering with alchemical formulas and substances in your spare time, and your studies have progressed beyond mere experimentation.\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 175 <sup>1.1</sup>\r\n\r\n**Prerequisites**\r\nIntelligence +2\n\n**Archetype Category**\r\nMulticlass\r\n\r\n**Number of Feats** 6\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou enjoy tinkering with alchemical formulas and substances in your spare time, and your studies have progressed beyond mere experimentation. You …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 220"
+  "Player Core 2 pg. 175"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 220 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 175 <sup>1.1</sup>",
  "speed": {},
- "summary": "You enjoy tinkering with alchemical formulas and substances in your spare time, and your studies have progressed beyond mere experimentation.",
- "summary_markdown": "You enjoy tinkering with alchemical formulas and substances in your spare time, and your studies have progressed beyond mere experimentation.",
- "text": " Alchemist Source Core Rulebook pg. 220 4.0 You enjoy tinkering with alchemical formulas and substances in your spare time, and your studies have progressed beyond mere experimentation. Multiclass Alchemist characters The free alchemical items from the alchemist archetype are extremely useful to characters of any class. The following are just some of the possible combinations. Barbarian alchemists can mix mutagens with their rage to ferocious effect. Champion alchemists can focus on alchemical items that boost defenses and heal others, allowing their champion’s reaction and lay on hands to go further. Fighter alchemists can use their alchemy to gain additional options in situations where their usual tactics don’t work. Ranger alchemists focus on alchemy and snares, getting extra use out of their Crafting skill and supplying bombs for the bomb snare. Rogue alchemists can combine a rogue’s poison feats with free daily poisons, and bombs present an interesting way to sneak attack with various types of energy damage. Spellcaster alchemists often use their alchemical items to take pressure off their repertoire or prepared spells. For instance, a wizard alchemist who can brew up darksight elixirs to grant darkvision can prepare another spell instead of darkvision . <document level=\"2\" id=\"feat-666\" /> <document level=\"2\" id=\"feat-667\" /> <document level=\"2\" id=\"feat-668\" /> <document level=\"2\" id=\"feat-669\" /> <document level=\"2\" id=\"feat-670\" />",
+ "summary": "You enjoy tinkering with alchemical formulas and substances in your spare time, and your studies have progressed beyond mere experimentation. You …",
+ "summary_markdown": "You enjoy tinkering with alchemical formulas and substances in your spare time, and your studies have progressed beyond mere experimentation. You …",
+ "text": " Alchemist Source Player Core 2 pg. 175 1.1 You enjoy tinkering with alchemical formulas and substances in your spare time, and your studies have progressed beyond mere experimentation. You might throw bombs, drink mutagens, or carry an assortment of helpful elixirs and alchemical tools. Multiclass Alchemist Characters The free alchemical items from the alchemist archetype are extremely useful to characters of any class. The following are just some of the possible combinations. Barbarian alchemists can mix mutagens with their rage to ferocious effect. Champion alchemists can focus on alchemical items that boost defenses and heal others, allowing their champion's reaction and lay on hands to go further. Fighter alchemists can use their alchemy to gain additional options in situations where their usual tactics don't work. Ranger alchemists often focus on alchemy and snares, getting extra use out of their Crafting skill and supplying bombs for the bomb snare. Rogue alchemists can combine a rogue's poison feats with free daily poisons, and bombs present an interesting way to sneak attack with various types of energy damage. Spellcaster alchemists often use their alchemical items to take pressure off their repertoire or prepared spells. For instance, a wizard alchemist who can brew up darkvision elixirs to grant vision in darkness can prepare another spell instead of darkvision . <document level=\"2\" id=\"feat-6185\" /> <document level=\"2\" id=\"feat-6186\" /> <document level=\"2\" id=\"feat-6187\" /> <document level=\"2\" id=\"feat-6188\" /> <document level=\"2\" id=\"feat-6189\" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=1",
+ "url": "/Archetypes.aspx?ID=228",
  "weakness": {}
 }

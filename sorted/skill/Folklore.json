@@ -1,31 +1,40 @@
 {
- "breadcrumbs_spa": [],
  "category": "skill",
  "exclude_from_search": false,
  "id": "skill-24",
- "markdown": "<title level=\"1\" right=\"Skill \" pfs=\"\">[Folklore](/Skills.aspx?ID=24)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 524</row>\n\nFolklore measures the kingdom’s connection with faiths and customs of all kinds. It also indicates how deeply tradition affects public life and the prominence of faith, worship, and culturally traditional activities.\r\n\r\n<title level=\"2\">Folklore Untrained General Actions</title>\r\n\r\n- [Focused Attention](/Skills.aspx?ID=14&amp;General=true) \r\n\r\n- [Quell Unrest](/Skills.aspx?ID=17&amp;General=true) \n\n<title level=\"2\">Related Feats</title>\r\n\r\nTo see a list of Feats related to Folklore, [click here](/feats?include-traits=skill&amp;exclude-traits=archetype&amp;include-skills=folklore&amp;sort=level-asc%3Bname-asc).\r\n\r\n<title level=\"2\">Folklore Untrained Actions</title>\r\n\r\n<document level=\"3\" id=\"action-1395\" />",
+ "markdown": "<title level=\"1\" right=\"Skill \" pfs=\"\">[Folklore](/Skills.aspx?ID=24)</title>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 524\n\nFolklore measures the kingdom’s connection with faiths and customs of all kinds. It also indicates how deeply tradition affects public life and the prominence of faith, worship, and culturally traditional activities.\r\n\r\n<title level=\"2\">Folklore Untrained General Actions</title>\r\n\r\n- [Focused Attention](/Skills.aspx?ID=14&amp;General=true) \r\n\r\n- [Quell Unrest](/Skills.aspx?ID=17&amp;General=true) \n\n<title level=\"2\">Item Bonuses for Folklore</title>\n<table>\r\n<thead>\r\n<tr>\r\n<th>Item</th>\r\n<th>Bonus</th>\r\n<th>Level</th>\r\n<th>Category</th>\r\n<th>Consumable</th>\r\n<th>Note</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n\r\n<tr>\r\n<td>[Kora of the Unending Story](/Equipment.aspx?ID=3704)</td>\r\n<td>+2</td>\r\n<td>14</td>\r\n<td>[Coda](/equipment/staves/coda)</td>\r\n<td>No</td>\r\n<td>item bonus to checks made to Recall Knowledge about demons.</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>\r\n\r\n<title level=\"2\">Related Feats</title>\r\n\r\nTo see a list of Feats related to Folklore, [click here](/feats?include-traits=skill&amp;exclude-traits=archetype&amp;include-skills=folklore&amp;sort=level-asc%3Bname-asc).\r\n\r\n<title level=\"2\">Folklore Untrained Actions</title>\r\n\r\n<document level=\"3\" id=\"action-1395\" />",
  "name": "Folklore",
+ "primary_source": "Kingmaker Adventure Path",
+ "primary_source_raw": "Kingmaker Adventure Path pg. 524",
+ "primary_source_category": "Adventure Paths",
+ "primary_source_group": "Kingmaker",
  "rarity": "common",
+ "rarity_id": 1,
  "release_date": "2022-10-26",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 524</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFolklore measures the kingdom’s connection with faiths and customs of all kinds. It also indicates how deeply tradition affects public life and the …\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 524\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFolklore measures the kingdom’s connection with faiths and customs of all kinds. It also indicates how deeply tradition affects public life and the …\r\n</summary>",
  "skill": [
   "Folklore"
  ],
  "skill_markdown": "Folklore",
+ "skill_mod": {},
  "source": [
   "Kingmaker Adventure Path"
  ],
  "source_raw": [
   "Kingmaker Adventure Path pg. 524"
  ],
- "source_category": "Adventure Paths",
- "source_group": "Kingmaker",
- "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 524</row>",
+ "source_category": [
+  "Adventure Paths"
+ ],
+ "source_group": [
+  "Kingmaker"
+ ],
+ "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 524",
  "speed": {},
  "summary": "Folklore measures the kingdom’s connection with faiths and customs of all kinds. It also indicates how deeply tradition affects public life and the …",
  "summary_markdown": "Folklore measures the kingdom’s connection with faiths and customs of all kinds. It also indicates how deeply tradition affects public life and the …",
- "text": " Folklore Source Kingmaker Adventure Path pg. 524 Folklore measures the kingdom’s connection with faiths and customs of all kinds. It also indicates how deeply tradition affects public life and the prominence of faith, worship, and culturally traditional activities. Folklore Untrained General Actions - Focused Attention - Quell Unrest Related Feats To see a list of Feats related to Folklore, click here. Folklore Untrained Actions ",
+ "text": " Folklore Source Kingmaker Adventure Path pg. 524 Folklore measures the kingdom’s connection with faiths and customs of all kinds. It also indicates how deeply tradition affects public life and the prominence of faith, worship, and culturally traditional activities. Folklore Untrained General Actions - Focused Attention - Quell Unrest Item Bonuses for Folklore Item Bonus Level Category Consumable Note Kora of the Unending Story +2 14 Coda No item bonus to checks made to Recall Knowledge about demons. Related Feats To see a list of Feats related to Folklore, click here. Folklore Untrained Actions ",
  "type": "Skill",
  "url": "/Skills.aspx?ID=24",
  "weakness": {}

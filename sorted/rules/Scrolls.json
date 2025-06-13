@@ -1,38 +1,47 @@
 {
  "breadcrumbs": [
-  "Chapter 2: Tools\r\n",
-  "Building Items",
-  "Designing by Type"
+  "Chapter 5: Treasure Trove"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1071",
- "markdown": "<title level=\"1\" right=\"Rules\">[Scrolls](/Rules.aspx?ID=1071)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 84</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nYou’ll never need to design a new scroll, but use them as a comparison when designing other types of consumables. If you’re designing a consumable that seems like it’s much better than a scroll of its level—or faster to activate—you should probably raise the item’s level or adjust the effect.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-3197",
+ "legacy_id": [
+  "rules-1071"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Scrolls](/Rules.aspx?ID=3197)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 262 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nA scroll contains a single spell that you can cast without having to expend a spell slot. A scroll can be [Crafted](/Actions.aspx?ID=2385) to contain nearly any spell. The exceptions are [cantrips](/Rules.aspx?ID=2227), [focus spells](/Rules.aspx?ID=2228), and [rituals](/Rules.aspx?ID=2255), none of which can be put on scrolls. The spell on a scroll can be cast only once, and the scroll is destroyed as part of the casting. The spell on the scroll is cast at a particular spell rank, as determined by the scroll. For instance, a scroll of [_force barrage_](/Spells.aspx?ID=1536) (1st rank) can be used to cast the 1st-rank version of _force barrage_, but not a force barrage heightened to 2nd rank. If no rank is listed, the scroll can be used to cast the spell at its lowest rank.\n\nIf you find a scroll, you can try to figure out what spell it contains. If the spell is a common spell from your spell list or a spell you know, you can spend a single [Recall Knowledge](/Actions.aspx?ID=2367) action and automatically succeed at identifying the scroll's spell. If it's not, you must [Identify Magic](/Actions.aspx?ID=2365).\n\n[Click here for the Scrolls category page](/Equipment.aspx?Category=15&amp;Subcategory=52).\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-3198\" />\r\n\r\n<document level=\"2\" id=\"rules-3199\" />\r\n\r\n<document level=\"2\" id=\"rules-3201\" />\r\n\r\n<document level=\"2\" id=\"rules-3202\" />",
  "name": "Scrolls",
  "next_link": {
-  "label": "Shields",
-  "url": "/Rules.aspx?ID=1072"
+  "label": "Talismans",
+  "url": "/Rules.aspx?ID=3203"
  },
  "previous_link": {
-  "label": "Runes",
-  "url": "/Rules.aspx?ID=1070"
+  "label": "Potions",
+  "url": "/Rules.aspx?ID=3196"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 262",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 84</row>\r\n\r\nChapter 2: Tools\r\n/ Building Items / Designing by Type\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 262 <sup>2.0</sup>\r\n\r\nChapter 5: Treasure Trove\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA scroll contains a single spell that you can cast without having to expend a spell slot. A scroll can be  Crafted  to contain nearly any spell. The …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 84"
+  "GM Core pg. 262"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 84</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 262 <sup>2.0</sup>",
  "speed": {},
- "text": " Scrolls Source Gamemastery Guide pg. 84 You’ll never need to design a new scroll, but use them as a comparison when designing other types of consumables. If you’re designing a consumable that seems like it’s much better than a scroll of its level—or faster to activate—you should probably raise the item’s level or adjust the effect. ",
+ "summary": "A scroll contains a single spell that you can cast without having to expend a spell slot. A scroll can be  Crafted  to contain nearly any spell. The …",
+ "summary_markdown": "A scroll contains a single spell that you can cast without having to expend a spell slot. A scroll can be  Crafted  to contain nearly any spell. The …",
+ "text": " Scrolls Source GM Core pg. 262 2.0 A scroll contains a single spell that you can cast without having to expend a spell slot. A scroll can be Crafted to contain nearly any spell. The exceptions are cantrips, focus spells, and rituals, none of which can be put on scrolls. The spell on a scroll can be cast only once, and the scroll is destroyed as part of the casting. The spell on the scroll is cast at a particular spell rank, as determined by the scroll. For instance, a scroll of force barrage (1st rank) can be used to cast the 1st-rank version of force barrage , but not a force barrage heightened to 2nd rank. If no rank is listed, the scroll can be used to cast the spell at its lowest rank. If you find a scroll, you can try to figure out what spell it contains. If the spell is a common spell from your spell list or a spell you know, you can spend a single Recall Knowledge action and automatically succeed at identifying the scroll's spell. If it's not, you must Identify Magic. Click here for the Scrolls category page. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1071",
+ "url": "/Rules.aspx?ID=3197",
  "weakness": {}
 }

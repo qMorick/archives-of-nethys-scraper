@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Raging Thrower"
  ],
  "feat_markdown": "Raging Thrower",
- "id": "feat-133",
+ "id": "feat-5811",
+ "legacy_id": [
+  "feat-133"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Raging Thrower](/Feats.aspx?ID=133) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 88 <sup>4.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nThrown weapons become especially deadly in your fury. You apply the additional damage from Rage to your thrown weapon attacks. If you have the [Brutal Critical](/Feats.aspx?ID=174) feat or the devastator class feature, apply their benefits to thrown weapon attacks.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Raging Thrower](/Feats.aspx?ID=5811) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 77 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\n[Thrown](/Traits.aspx?ID=711) weapons become especially deadly in your fury. You apply the additional damage from [Rage](/Actions.aspx?ID=2802) to your thrown weapon attacks. If you have the [Brutal Critical](/Feats.aspx?ID=174) feat or the [devastator class feature](/Classes.aspx?ID=2), apply their benefits to thrown weapon attacks.",
  "name": "Raging Thrower",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 77",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 88 <sup>4.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThrown weapons become especially deadly in your fury. You apply the additional damage from Rage to your [thrown](/Traits.aspx?ID=195) weapon attacks. If you have the [Brutal Critical](/Feats.aspx?ID=174) feat or the devastator class feature, apply their benefits to thrown weapon attacks.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 77 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n[Thrown](/Traits.aspx?ID=711) weapons become especially deadly in your fury.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 88"
+  "Player Core 2 pg. 77"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 88 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 77 <sup>1.1</sup>",
  "speed": {},
- "summary": "Thrown weapons become especially deadly in your fury. You apply the additional damage from Rage to your  thrown  weapon attacks. If you have the  Brutal Critical  feat or the devastator class feature, apply their benefits to thrown weapon attacks.",
- "summary_markdown": "Thrown weapons become especially deadly in your fury. You apply the additional damage from Rage to your [thrown](/Traits.aspx?ID=195) weapon attacks. If you have the [Brutal Critical](/Feats.aspx?ID=174) feat or the devastator class feature, apply their benefits to thrown weapon attacks.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Raging Thrower Source Core Rulebook pg. 88 4.0 --- Thrown weapons become especially deadly in your fury. You apply the additional damage from Rage to your thrown weapon attacks. If you have the Brutal Critical feat or the devastator class feature, apply their benefits to thrown weapon attacks.",
+ "summary": " Thrown  weapons become especially deadly in your fury.",
+ "summary_markdown": "[Thrown](/Traits.aspx?ID=711) weapons become especially deadly in your fury.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Raging Thrower Source Player Core 2 pg. 77 1.1 --- Thrown weapons become especially deadly in your fury. You apply the additional damage from Rage to your thrown weapon attacks. If you have the Brutal Critical feat or the devastator class feature, apply their benefits to thrown weapon attacks.",
  "trait": [
   "Barbarian"
  ],
- "trait_markdown": "[Barbarian](/Traits.aspx?ID=18)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Barbarian](/Traits.aspx?ID=813)",
  "trait_raw": [
   "Barbarian"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=133",
+ "url": "/Feats.aspx?ID=5811",
  "weakness": {}
 }

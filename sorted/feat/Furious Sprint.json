@@ -1,43 +1,57 @@
 {
- "actions": "Two Actions",
- "breadcrumbs_spa": [],
+ "actions": "Two Actions or Three Actions",
+ "actions_number": 4,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Furious Sprint"
  ],
  "feat_markdown": "Furious Sprint",
- "id": "feat-158",
+ "id": "feat-5846",
+ "legacy_id": [
+  "feat-158"
+ ],
  "level": 10,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Furious Sprint](/Feats.aspx?ID=158) <actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 91 <sup>4.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou rush forward. Stride up to five times your Speed in a straight line. You can increase the number of actions this activity takes to 3 to Stride up to eight times your Speed in a straight line instead.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Furious Sprint](/Feats.aspx?ID=5846) <actions string=\"Two Actions or Three Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 81 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou rush forward. Stride up to five times, or up to eight times if you used 3 actions. All this movement must be in a straight line (though the GM might allow reasonable variance). You can replace any of these Strides with a [Balance](/Actions.aspx?ID=2369) action if you need to, which you attempt using an [Athletics](/Skills.aspx?ID=36) check instead of an [Acrobatics](/Skills.aspx?ID=34) check, using the same DC.",
  "name": "Furious Sprint",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 81",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 91 <sup>4.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou rush forward.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 81 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou rush forward.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 91"
+  "Player Core 2 pg. 81"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 91 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 81 <sup>1.1</sup>",
  "speed": {},
  "summary": "You rush forward.",
  "summary_markdown": "You rush forward.",
- "text": "<title level=\"1\" right=\"Feat 10\" pfs=\"Standard\" > Furious Sprint Two Actions Source Core Rulebook pg. 91 4.0 --- You rush forward. Stride up to five times your Speed in a straight line. You can increase the number of actions this activity takes to 3 to Stride up to eight times your Speed in a straight line instead.",
+ "text": "<title level=\"1\" right=\"Feat 10\" pfs=\"Standard\" > Furious Sprint Two Actions or Three Actions Source Player Core 2 pg. 81 1.1 --- You rush forward. Stride up to five times, or up to eight times if you used 3 actions. All this movement must be in a straight line (though the GM might allow reasonable variance). You can replace any of these Strides with a Balance action if you need to, which you attempt using an Athletics check instead of an Acrobatics check, using the same DC.",
  "trait": [
   "Barbarian",
   "Rage"
  ],
- "trait_markdown": "[Barbarian](/Traits.aspx?ID=18), [Rage](/Traits.aspx?ID=135)",
+ "trait_group": [
+  "Class",
+  "Class-Specific"
+ ],
+ "trait_markdown": "[Barbarian](/Traits.aspx?ID=813), [Rage](/Traits.aspx?ID=680)",
  "trait_raw": [
   "Barbarian",
   "Rage"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=158",
+ "url": "/Feats.aspx?ID=5846",
  "weakness": {}
 }

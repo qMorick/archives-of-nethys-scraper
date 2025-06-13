@@ -1,49 +1,59 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
  "bulk": 0.1,
- "bulk_raw": "L",
+ "bulk_raw": "L (when not activated)",
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-367",
+ "id": "equipment-3028",
  "item_category": "Structures",
+ "legacy_id": [
+  "equipment-367"
+ ],
  "level": 5,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Pocket Stage](/Equipment.aspx?ID=367)\r\n</title>\n\n<traits>\r\n<trait label=\"Conjuration\" url=\"/Traits.aspx?ID=33\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Structure\" url=\"/Traits.aspx?ID=153\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 596 <sup>4.0</sup></row>\n\n**Price** 138 gp\r\n\r\n<row gap=\"medium\">\n\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis item appears to be a miniature replica of a theater. It includes a small pocket full of minute set dressing and costumed paper dolls.\n\n<document level=\"2\" id=\"action-201\" />\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Pocket Stage](/Equipment.aspx?ID=3028)\r\n</title>\n\n<traits>\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Structure\" url=\"/Traits.aspx?ID=704\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 276 <sup>2.0</sup>\n\n**Price** 138 gp\r\n\r\n<row gap=\"medium\">\n\n**Bulk** L (when not activated)\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis item appears to be a miniature replica of a theater. It includes a small pocket full of minute set dressing and costumed paper dolls. \n\n**Activate—Play with Dolls** <actions string=\"\" /> 1 minute ([concentrate](/Traits.aspx?ID=32), [manipulate](/Traits.aspx?ID=104))    **Effect** You place the miniature theater on the ground, filling it with any set dressing and up to six figures you choose. Then, you tap a rhythm on the miniature, causing it to grow into a modest stage 20 feet wide and 15 feet deep. It's dressed with the decorations you selected, and simple mannequins wear the costumes you chose. A wooden proscenium arch frames the stage, and simple curtains along the sides conceal the wings. As a magical structure, the stage has the [structure](/Traits.aspx?ID=153) trait.<br /> All the stage's set dressing is illusory and disappears if taken more than 20 feet from the stage. The costumes are physical but with illusory embellishments that fade at the same range, revealing only plain, white smocks.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Pocket Stage",
  "pfs": "Standard",
  "price": 13800,
  "price_raw": "138 gp",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 276",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "school": "conjuration",
- "search_markdown": "<traits>\r\n<trait label=\"Conjuration\" url=\"/Traits.aspx?ID=33\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Structure\" url=\"/Traits.aspx?ID=153\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 596 <sup>4.0</sup></row>\r\n\r\n**Price** 138 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n**Bulk** L\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis item appears to be a miniature replica of a theater. It includes a small pocket full of minute set dressing and costumed paper dolls. \r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Structure\" url=\"/Traits.aspx?ID=704\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 276 <sup>2.0</sup>\r\n\r\n**Price** 138 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n**Bulk** L (when not activated)\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis item appears to be a miniature replica of a theater. It includes a small pocket full of minute set dressing and costumed paper dolls.  \r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 596"
+  "GM Core pg. 276"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 596 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 276 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "This item appears to be a miniature replica of a theater. It includes a small pocket full of minute set dressing and costumed paper dolls. ",
- "summary_markdown": "This item appears to be a miniature replica of a theater. It includes a small pocket full of minute set dressing and costumed paper dolls. ",
- "text": "<title level=\"1\" right=\"Item 5\" pfs=\"Standard\" > Pocket Stage Source Core Rulebook pg. 596 4.0 Price 138 gp Bulk L --- This item appears to be a miniature replica of a theater. It includes a small pocket full of minute set dressing and costumed paper dolls.\n",
+ "summary": "This item appears to be a miniature replica of a theater. It includes a small pocket full of minute set dressing and costumed paper dolls.  ",
+ "summary_markdown": "This item appears to be a miniature replica of a theater. It includes a small pocket full of minute set dressing and costumed paper dolls.  ",
+ "text": "<title level=\"1\" right=\"Item 5\" pfs=\"Standard\" > Pocket Stage Source GM Core pg. 276 2.0 Price 138 gp Bulk L (when not activated) --- This item appears to be a miniature replica of a theater. It includes a small pocket full of minute set dressing and costumed paper dolls. Activate—Play with Dolls 1 minute (concentrate, manipulate) Effect You place the miniature theater on the ground, filling it with any set dressing and up to six figures you choose. Then, you tap a rhythm on the miniature, causing it to grow into a modest stage 20 feet wide and 15 feet deep. It's dressed with the decorations you selected, and simple mannequins wear the costumes you chose. A wooden proscenium arch frames the stage, and simple curtains along the sides conceal the wings. As a magical structure, the stage has the structure trait. All the stage's set dressing is illusory and disappears if taken more than 20 feet from the stage. The costumes are physical but with illusory embellishments that fade at the same range, revealing only plain, white smocks.\n",
  "trait": [
-  "Conjuration",
   "Magical",
   "Structure"
  ],
- "trait_markdown": "[Conjuration](/Traits.aspx?ID=33), [Magical](/Traits.aspx?ID=103), [Structure](/Traits.aspx?ID=153)",
+ "trait_group": [
+  "Mechanics",
+  "Equipment"
+ ],
+ "trait_markdown": "[Magical](/Traits.aspx?ID=644), [Structure](/Traits.aspx?ID=704)",
  "trait_raw": [
-  "Conjuration",
   "Magical",
   "Structure"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=367",
+ "url": "/Equipment.aspx?ID=3028",
  "weakness": {}
 }

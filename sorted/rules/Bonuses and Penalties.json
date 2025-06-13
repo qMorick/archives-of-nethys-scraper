@@ -4,35 +4,49 @@
   "Playing the Game",
   "Key Terms"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-22",
- "markdown": "<title level=\"1\" right=\"Rules\">[Bonuses and Penalties](/Rules.aspx?ID=22)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 12 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nBonuses and penalties apply to checks and certain statistics. There are several types of bonuses and penalties. If you have more than one bonus of the same type, you use only the highest bonus. Likewise, you use only the worst penalty of each type.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
- "name": "Bonuses and Penalties",
+ "id": "rules-3291",
+ "legacy_id": [
+  "rules-22"
+ ],
+ "legacy_name": [
+  "Bonuses and Penalties"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Bonuses And Penalties](/Rules.aspx?ID=3291)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 10 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n[Bonuses](/Rules.aspx?ID=2281) and [penalties](/Rules.aspx?ID=2282) apply to checks and certain statistics. There are several types of bonuses and penalties. If you have more than one bonus of the same type, you use only the highest bonus. Likewise, you use only the worst penalty of each type.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "name": "Bonuses And Penalties",
  "next_link": {
-  "label": "Class",
-  "url": "/Rules.aspx?ID=23"
+  "label": "Check",
+  "url": "/Rules.aspx?ID=3292"
  },
  "previous_link": {
   "label": "Background",
-  "url": "/Rules.aspx?ID=21"
+  "url": "/Rules.aspx?ID=3290"
  },
+ "primary_source": "Player Core",
+ "primary_source_raw": "Player Core pg. 10",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 12 <sup>4.0</sup></row>\r\n\r\nChapter 1: Introduction / Playing the Game / Key Terms\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 10 <sup>2.0</sup>\r\n\r\nChapter 1: Introduction / Playing the Game / Key Terms\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBonuses  and  penalties  apply to checks and certain statistics. There are several types of bonuses and penalties. If you have more than one bonus …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 12"
+  "Player Core pg. 10"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 12 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 10 <sup>2.0</sup>",
  "speed": {},
- "text": " Bonuses and Penalties Source Core Rulebook pg. 12 4.0 Bonuses and penalties apply to checks and certain statistics. There are several types of bonuses and penalties. If you have more than one bonus of the same type, you use only the highest bonus. Likewise, you use only the worst penalty of each type. ",
+ "summary": "Bonuses  and  penalties  apply to checks and certain statistics. There are several types of bonuses and penalties. If you have more than one bonus …",
+ "summary_markdown": "Bonuses  and  penalties  apply to checks and certain statistics. There are several types of bonuses and penalties. If you have more than one bonus …",
+ "text": " Bonuses And Penalties Source Player Core pg. 10 2.0 Bonuses and penalties apply to checks and certain statistics. There are several types of bonuses and penalties. If you have more than one bonus of the same type, you use only the highest bonus. Likewise, you use only the worst penalty of each type. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=22",
+ "url": "/Rules.aspx?ID=3291",
  "weakness": {}
 }

@@ -1,38 +1,49 @@
 {
  "breadcrumbs": [
-  "Gears Characters",
-  "Construct Companions",
-  "Prototype Construct Companions"
+  "Chapter 2: Building Games",
+  "Building Creatures",
+  "Perception"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1610",
- "markdown": "<title level=\"1\" right=\"Rules\">[Senses](/Rules.aspx?ID=1610)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 33</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nYour construct companion has precise vision, imprecise hearing, and vague touch senses, but no sense of smell or taste.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2883",
+ "legacy_id": [
+  "rules-1004"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Senses](/Rules.aspx?ID=2883)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 115 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nChoose or design any special senses for your creature, such as [low-light vision](/MonsterAbilities.aspx?ID=23), [darkvision](/MonsterAbilities.aspx?ID=12), or [scent](/MonsterAbilities.aspx?ID=33). If you’re making a sense from scratch, simply decide what it senses, whether it has a range limit, and whether it’s [precise](/Rules.aspx?ID=2406) or [imprecise](/Rules.aspx?ID=2407). For example, a [sinspawn](/MonsterFamilies.aspx?ID=91) has “sin scent (imprecise) 30 feet.” This means it can smell creatures bearing its associated sin if they’re within 30 feet, and the sense is imprecise—about as acute as human hearing.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Senses",
  "next_link": {
-  "label": "Speed",
-  "url": "/Rules.aspx?ID=1611"
+  "label": "Languages",
+  "url": "/Rules.aspx?ID=2884"
  },
  "previous_link": {
-  "label": "Immunities",
-  "url": "/Rules.aspx?ID=1609"
+  "label": "Attribute Modifiers",
+  "url": "/Rules.aspx?ID=2881"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 115",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2021-10-13",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 33</row>\r\n\r\nGears Characters / Construct Companions / Prototype Construct Companions\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 115 <sup>2.0</sup>\r\n\r\nChapter 2: Building Games / Building Creatures / Perception\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nChoose or design any special senses for your creature, such as  low-light vision ,  darkvision , or  scent . If you’re making a sense from scratch, …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Guns & Gears"
+  "GM Core"
  ],
  "source_raw": [
-  "Guns & Gears pg. 33"
+  "GM Core pg. 115"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Guns &amp; Gears](/Sources.aspx?ID=98) pg. 33</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 115 <sup>2.0</sup>",
  "speed": {},
- "text": " Senses Source Guns &amp; Gears pg. 33 Your construct companion has precise vision, imprecise hearing, and vague touch senses, but no sense of smell or taste. ",
+ "summary": "Choose or design any special senses for your creature, such as  low-light vision ,  darkvision , or  scent . If you’re making a sense from scratch, …",
+ "summary_markdown": "Choose or design any special senses for your creature, such as  low-light vision ,  darkvision , or  scent . If you’re making a sense from scratch, …",
+ "text": " Senses Source GM Core pg. 115 2.0 Choose or design any special senses for your creature, such as low-light vision, darkvision, or scent. If you’re making a sense from scratch, simply decide what it senses, whether it has a range limit, and whether it’s precise or imprecise. For example, a sinspawn has “sin scent (imprecise) 30 feet.” This means it can smell creatures bearing its associated sin if they’re within 30 feet, and the sense is imprecise—about as acute as human hearing. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1610",
+ "url": "/Rules.aspx?ID=2883",
  "weakness": {}
 }

@@ -1,48 +1,78 @@
 {
  "actions": "Two Actions",
- "breadcrumbs_spa": [],
+ "actions_number": 4,
  "category": "feat",
+ "element": [
+  "Water"
+ ],
  "exclude_from_search": false,
  "feat": [
   "Wave Spiral"
  ],
  "feat_markdown": "Wave Spiral",
  "frequency": "once per minute",
- "id": "feat-2985",
+ "id": "feat-7504",
+ "legacy_id": [
+  "feat-2985"
+ ],
  "level": 12,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Wave Spiral](/Feats.aspx?ID=2985) <actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 202 <sup>1.1</sup></row>\n\n**Frequency**\r\nonce per minute\r\n\r\n**Prerequisites**\r\n[Reflective Ripple Stance](/Feats.aspx?ID=2980)\n\n**Requirements**\r\nYou're in Reflective Ripple Stance.\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou dip and spin, unleashing a wide whirlpool of water. Make an [Athletics](/Skills.aspx?ID=3) check to [Trip](/Actions.aspx?ID=40) each creature standing on the ground in a 10-foot emanation. These attacks all count toward your multiple attack penalty, but the penalty doesn't increase until after you make all the attacks.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Wave Spiral](/Feats.aspx?ID=7504) <actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Flourish\" url=\"/Traits.aspx?ID=606\" />\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n<trait label=\"Occult\" url=\"/Traits.aspx?ID=662\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=732\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Rival Academies](/Sources.aspx?ID=235) pg. 81\n\n**Frequency**\r\nonce per minute\r\n\r\n**Prerequisites**\r\n[Reflective Ripple Stance](/Feats.aspx?ID=7493)\n\n**Requirements**\r\nYou’re in Reflective Ripple Stance.\n\n</column>\r\n\r\n---\r\n\r\nYou dip and spin, unleashing a wide whirlpool of water. Make an Athletics check to [Trip](/Actions.aspx?ID=2382) each creature standing on the ground in a 10-foot emanation. These attacks all count toward your multiple attack penalty, but the penalty doesn’t increase until after you make all the attacks.",
  "name": "Wave Spiral",
  "pfs": "Standard",
  "prerequisite": "Reflective Ripple Stance",
- "prerequisite_markdown": "[Reflective Ripple Stance](/Feats.aspx?ID=2980)",
+ "prerequisite_markdown": "[Reflective Ripple Stance](/Feats.aspx?ID=7493)",
+ "primary_source": "Rival Academies",
+ "primary_source_raw": "Rival Academies pg. 81",
+ "primary_source_category": "Lost Omens",
+ "primary_source_group": "Convocation",
  "rarity": "common",
- "release_date": "2021-09-01",
- "requirement": "You're in Reflective Ripple Stance.",
- "requirement_markdown": "You're in Reflective Ripple Stance.",
+ "rarity_id": 1,
+ "release_date": "2025-02-26",
+ "requirement": "You’re in Reflective Ripple Stance.",
+ "requirement_markdown": "You’re in Reflective Ripple Stance.",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 202 <sup>1.1</sup></row>\r\n\r\n**Frequency**\r\nonce per minute\r\n\r\n**Prerequisites**\r\n[Reflective Ripple Stance](/Feats.aspx?ID=2980)\n\n**Requirements**\r\nYou're in Reflective Ripple Stance.\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou dip and spin, unleashing a wide whirlpool of water.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Flourish\" url=\"/Traits.aspx?ID=606\" />\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n<trait label=\"Occult\" url=\"/Traits.aspx?ID=662\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=732\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Rival Academies](/Sources.aspx?ID=235) pg. 81\n\n**Frequency**\r\nonce per minute\r\n\r\n**Prerequisites**\r\n[Reflective Ripple Stance](/Feats.aspx?ID=7493)\n\n**Requirements**\r\nYou’re in Reflective Ripple Stance.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou dip and spin, unleashing a wide whirlpool of water.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Secrets of Magic"
+  "Rival Academies"
  ],
  "source_raw": [
-  "Secrets of Magic pg. 202"
+  "Rival Academies pg. 81"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Secrets of Magic](/Sources.aspx?ID=96) pg. 202 <sup>1.1</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_group": [
+  "Convocation"
+ ],
+ "source_markdown": "[Rival Academies](/Sources.aspx?ID=235) pg. 81",
  "speed": {},
  "summary": "You dip and spin, unleashing a wide whirlpool of water.",
  "summary_markdown": "You dip and spin, unleashing a wide whirlpool of water.",
- "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Wave Spiral Two Actions Source Secrets of Magic pg. 202 1.1 Frequency once per minute Prerequisites Reflective Ripple Stance Requirements You're in Reflective Ripple Stance. --- You dip and spin, unleashing a wide whirlpool of water. Make an Athletics check to Trip each creature standing on the ground in a 10-foot emanation. These attacks all count toward your multiple attack penalty, but the penalty doesn't increase until after you make all the attacks.",
+ "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Wave Spiral Two Actions Source Rival Academies pg. 81 Frequency once per minute Prerequisites Reflective Ripple Stance Requirements You’re in Reflective Ripple Stance. --- You dip and spin, unleashing a wide whirlpool of water. Make an Athletics check to Trip each creature standing on the ground in a 10-foot emanation. These attacks all count toward your multiple attack penalty, but the penalty doesn’t increase until after you make all the attacks.",
  "trait": [
+  "Flourish",
   "Monk",
+  "Occult",
   "Water"
  ],
- "trait_markdown": "[Monk](/Traits.aspx?ID=112), [Water](/Traits.aspx?ID=165)",
+ "trait_group": [
+  "Mechanics",
+  "Class",
+  "Weapon",
+  "Tradition",
+  "Monster",
+  "Elemental",
+  "Planar"
+ ],
+ "trait_markdown": "[Flourish](/Traits.aspx?ID=606), [Monk](/Traits.aspx?ID=656), [Occult](/Traits.aspx?ID=662), [Water](/Traits.aspx?ID=732)",
  "trait_raw": [
+  "Flourish",
   "Monk",
+  "Occult",
   "Water"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2985",
+ "url": "/Feats.aspx?ID=7504",
  "weakness": {}
 }

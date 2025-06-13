@@ -1,33 +1,44 @@
 {
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-181",
- "markdown": "<title level=\"1\" right=\"Rules\">[Chapter 6: Equipment](/Rules.aspx?ID=181)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 271 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nTo make your mark on the world, you’ll need to have the right equipment, including armor, weapons, and other gear. This chapter presents the various equipment that you can purchase during character creation. You can usually find these items for sale in most cities and other large settlements.\n\n Your character starts out with 15 gold pieces (150 silver pieces) to spend on any common items from this chapter. Items with an uncommon rarity can be purchased only if you have special access from abilities you selected during character creation or your GM gives you permission to purchase them.\n\n Once you’ve purchased your starting items, there are three main ways to gain new items and equipment: you can find them during an adventure, make them using the Crafting skill, or purchase them from a merchant.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-182\" />\r\n\r\n<document level=\"2\" id=\"rules-184\" />\r\n\r\n<document level=\"2\" id=\"rules-185\" />\r\n\r\n<document level=\"2\" id=\"rules-186\" />\r\n\r\n<document level=\"2\" id=\"rules-195\" />\r\n\r\n<document level=\"2\" id=\"rules-197\" />\r\n\r\n<document level=\"2\" id=\"rules-198\" />\r\n\r\n<document level=\"2\" id=\"rules-212\" />\r\n\r\n<document level=\"2\" id=\"rules-218\" />\r\n\r\n<document level=\"2\" id=\"rules-236\" />",
+ "id": "rules-2143",
+ "legacy_id": [
+  "rules-181"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Chapter 6: Equipment](/Rules.aspx?ID=2143)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 267 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nTo make your mark on the world, you'll need to have the right equipment, including armor, weapons, and other gear. This chapter presents the various equipment that you can purchase during character creation. You can usually find these items for sale in most cities and other large settlements. Your character starts out with **15 gold pieces (150 silver pieces)** to spend on any common items from this chapter. Items with an uncommon rarity can be purchased only if you have special access from abilities you selected during character creation or your GM gives you permission to purchase them. Quick equipment packages for each class appear on page 268.\n\nOnce you've purchased your starting items, there are three main ways to gain new items and equipment: you can find them during an adventure, make them using the Crafting skill, or purchase them from a merchant.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Quick Equipment Packages</title>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these batches of starting gear. An adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. The Options section lists items that aren’t in the base package but that many characters of the class might like to buy.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"rules-2144\" />\r\n\r\n<document level=\"2\" id=\"rules-2146\" />\r\n\r\n<document level=\"2\" id=\"rules-2147\" />\r\n\r\n<document level=\"2\" id=\"rules-2148\" />\r\n\r\n<document level=\"2\" id=\"rules-2153\" />\r\n\r\n<document level=\"2\" id=\"rules-2160\" />\r\n\r\n<document level=\"2\" id=\"rules-2162\" />\r\n\r\n<document level=\"2\" id=\"rules-2163\" />\r\n\r\n<document level=\"2\" id=\"rules-2166\" />\r\n\r\n<document level=\"2\" id=\"rules-2180\" />\r\n\r\n<document level=\"2\" id=\"rules-2186\" />\r\n\r\n<document level=\"2\" id=\"rules-2204\" />",
  "name": "Chapter 6: Equipment",
  "next_link": {
   "label": "Chapter 7: Spells",
-  "url": "/Rules.aspx?ID=259"
+  "url": "/Rules.aspx?ID=2221"
  },
  "previous_link": {
   "label": "Chapter 5: Feats",
-  "url": "/Rules.aspx?ID=180"
+  "url": "/Rules.aspx?ID=2142"
  },
+ "primary_source": "Player Core",
+ "primary_source_raw": "Player Core pg. 267",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 271 <sup>4.0</sup></row>\n\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 267 <sup>2.0</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTo make your mark on the world, you'll need to have the right equipment, including armor, weapons, and other gear. This chapter presents the various …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 271"
+  "Player Core pg. 267"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 271 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 267 <sup>2.0</sup>",
  "speed": {},
- "text": " Chapter 6: Equipment Source Core Rulebook pg. 271 4.0 To make your mark on the world, you’ll need to have the right equipment, including armor, weapons, and other gear. This chapter presents the various equipment that you can purchase during character creation. You can usually find these items for sale in most cities and other large settlements. Your character starts out with 15 gold pieces (150 silver pieces) to spend on any common items from this chapter. Items with an uncommon rarity can be purchased only if you have special access from abilities you selected during character creation or your GM gives you permission to purchase them. Once you’ve purchased your starting items, there are three main ways to gain new items and equipment: you can find them during an adventure, make them using the Crafting skill, or purchase them from a merchant. ",
+ "summary": "To make your mark on the world, you'll need to have the right equipment, including armor, weapons, and other gear. This chapter presents the various …",
+ "summary_markdown": "To make your mark on the world, you'll need to have the right equipment, including armor, weapons, and other gear. This chapter presents the various …",
+ "text": " Chapter 6: Equipment Source Player Core pg. 267 2.0 To make your mark on the world, you'll need to have the right equipment, including armor, weapons, and other gear. This chapter presents the various equipment that you can purchase during character creation. You can usually find these items for sale in most cities and other large settlements. Your character starts out with 15 gold pieces (150 silver pieces) to spend on any common items from this chapter. Items with an uncommon rarity can be purchased only if you have special access from abilities you selected during character creation or your GM gives you permission to purchase them. Quick equipment packages for each class appear on page 268. Once you've purchased your starting items, there are three main ways to gain new items and equipment: you can find them during an adventure, make them using the Crafting skill, or purchase them from a merchant. Quick Equipment Packages If you want to quickly decide how to spend your starting money on what your class needs, start with one of these batches of starting gear. An adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. The Options section lists items that aren’t in the base package but that many characters of the class might like to buy. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=181",
+ "url": "/Rules.aspx?ID=2143",
  "weakness": {}
 }

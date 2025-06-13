@@ -1,42 +1,55 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Marsh Runner"
  ],
  "feat_markdown": "Marsh Runner",
- "id": "feat-1051",
+ "id": "feat-5635",
+ "legacy_id": [
+  "feat-1051"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Marsh Runner](/Feats.aspx?ID=1051) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 58 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nYou have a swim speed\n\n</column>\r\n\r\n---\r\n\r\nYou are adept at moving through marshy terrain. When you use the Step action, you can ignore difficult terrain caused by flooding, swamps, or quicksand. In addition, when you use the [Acrobatics](/Skills.aspx?ID=1) skill to Balance on narrow surfaces or uneven marshy ground, you aren’t flat-footed, and if you roll a success on the Acrobatics check, you get a critical success instead.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Marsh Runner](/Feats.aspx?ID=5635) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=760\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 26 <sup>1.1</sup>\n\n**Prerequisites**\r\nYou have a swim Speed.\n\n</column>\r\n\r\n---\r\n\r\nWhen you use the Step action, you can ignore [difficult terrain](/Rules.aspx?ID=453) caused by flooding, swamps, or quicksand. In addition, when you use the [Acrobatics](/Skills.aspx?ID=34) skill to [Balance](/Actions.aspx?ID=2369) on narrow surfaces or uneven marshy ground, you aren't [off-guard](/Conditions.aspx?ID=58), and if you roll a success on the Acrobatics check, you get a critical success instead.",
  "name": "Marsh Runner",
  "pfs": "Standard",
- "prerequisite": "You have a swim speed",
- "prerequisite_markdown": "You have a swim speed",
+ "prerequisite": "You have a swim Speed.",
+ "prerequisite_markdown": "You have a swim Speed.",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 26",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-10-16",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 58 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nYou have a swim speed\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou are adept at moving through marshy terrain.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=760\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 26 <sup>1.1</sup>\n\n**Prerequisites**\r\nYou have a swim Speed.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen you use the Step action, you can ignore [difficult terrain](/Rules.aspx?ID=453) caused by flooding, swamps, or quicksand.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Character Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Character Guide pg. 58"
+  "Player Core 2 pg. 26"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Character Guide](/Sources.aspx?ID=12) pg. 58 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 26 <sup>1.1</sup>",
  "speed": {},
- "summary": "You are adept at moving through marshy terrain.",
- "summary_markdown": "You are adept at moving through marshy terrain.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Marsh Runner Source Character Guide pg. 58 2.0 Prerequisites You have a swim speed --- You are adept at moving through marshy terrain. When you use the Step action, you can ignore difficult terrain caused by flooding, swamps, or quicksand. In addition, when you use the Acrobatics skill to Balance on narrow surfaces or uneven marshy ground, you aren’t flat-footed, and if you roll a success on the Acrobatics check, you get a critical success instead.",
+ "summary": "When you use the Step action, you can ignore  difficult terrain  caused by flooding, swamps, or quicksand.",
+ "summary_markdown": "When you use the Step action, you can ignore [difficult terrain](/Rules.aspx?ID=453) caused by flooding, swamps, or quicksand.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Marsh Runner Source Player Core 2 pg. 26 1.1 Prerequisites You have a swim Speed. --- When you use the Step action, you can ignore difficult terrain caused by flooding, swamps, or quicksand. In addition, when you use the Acrobatics skill to Balance on narrow surfaces or uneven marshy ground, you aren't off-guard, and if you roll a success on the Acrobatics check, you get a critical success instead.",
  "trait": [
   "Lizardfolk"
  ],
- "trait_markdown": "[Lizardfolk](/Traits.aspx?ID=226)",
+ "trait_group": [
+  "Monster",
+  "Ancestry"
+ ],
+ "trait_markdown": "[Lizardfolk](/Traits.aspx?ID=760)",
  "trait_raw": [
   "Lizardfolk"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1051",
+ "url": "/Feats.aspx?ID=5635",
  "weakness": {}
 }

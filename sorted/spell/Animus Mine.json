@@ -1,23 +1,31 @@
 {
  "actions": "Two Actions",
+ "actions_number": 4,
  "bloodline_markdown": "",
- "breadcrumbs_spa": [],
  "category": "spell",
- "component": [
-  "somatic",
-  "verbal"
- ],
  "deity": [
   "Arazni",
-  "Arazni"
+  "Lissala",
+  "Nyarlathotep (The Faceless Sphinx)"
  ],
- "deity_markdown": "[Arazni](/Deities.aspx?ID=31), [Arazni](/Deities.aspx?ID=31)",
+ "deity_markdown": "[Arazni](/Deities.aspx?ID=326), [Lissala](/Deities.aspx?ID=407), [Nyarlathotep (The Faceless Sphinx)](/Deities.aspx?ID=574)",
  "domain_markdown": "",
  "duration": 3600,
  "duration_raw": "1 hour",
  "exclude_from_search": false,
  "heighten": [
   "+1"
+ ],
+ "heighten_group": [
+  "2nd rank",
+  "Heightened 3rd rank",
+  "Heightened 4th rank",
+  "Heightened 5th rank",
+  "Heightened 6th rank",
+  "Heightened 7th rank",
+  "Heightened 8th rank",
+  "Heightened 9th rank",
+  "Heightened 10th rank"
  ],
  "heighten_level": [
   2,
@@ -30,47 +38,59 @@
   9,
   10
  ],
- "id": "spell-567",
+ "id": "spell-2342",
+ "legacy_id": [
+  "spell-567"
+ ],
  "level": 2,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Spell 2\" pfs=\"Standard\">[Animus Mine](/Spells.aspx?ID=567)</title>\n\n<traits>\r\n<trait label=\"Abjuration\" url=\"/Traits.aspx?ID=2\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 106 <sup>2.0</sup></row>\n\n**Tradition**\r\n[Occult](/SpellLists.aspx?Tradition=3)\n\n**Deities**\r\n[Arazni](/Deities.aspx?ID=31), [Arazni](/Deities.aspx?ID=31)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** Will\r\n\r\n**Duration** 1 hour\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou implant a mental mine within your psyche that detonates against anyone attempting to manipulate your thoughts. You can use a single action, which has the [concentrate](/Traits.aspx?ID=32) trait, to suppress the effects of the mine for 1 round to allow someone to safely use a [mental](/Traits.aspx?ID=106) effect on you. You can Dismiss the spell.\n\n The first creature that uses a [magical](/Traits.aspx?ID=103) mental effect against you triggers the _animus mine_, causing the spell to end. The _animus mine_ deals 4d8 mental damage to the triggering creature, which must attempt a Will save.\r\n\r\n**Critical Success** The creature is unaffected.<br />\r\n**Success** The creature takes half damage.<br />\r\n**Failure** The creature takes full damage and is [stunned 1](/Conditions.aspx?ID=36).<br />\r\n**Critical Failure** The creature takes double damage and is stunned 1. You are unaffected by the triggering mental effect.\n\n---\r\n**Heightened (+1)** The damage increases by 2d8.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Spell 2\" pfs=\"Standard\">\r\n[Animus Mine](/Spells.aspx?ID=2342)\r\n<actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 256\n\n**Tradition**\r\n[Occult](/SpellLists.aspx?Tradition=3)\n\n**Deities**\r\n[Arazni](/Deities.aspx?ID=326), [Lissala](/Deities.aspx?ID=407), [Nyarlathotep (The Faceless Sphinx)](/Deities.aspx?ID=574)\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\nWill\r\n\r\n**Duration** 1 hour\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou implant a mental mine within your psyche that detonates against anyone attempting to magically manipulate your thoughts. You can [Sustain](/Actions.aspx?ID=2317) the spell to suppress the effects of the mine for 1 round to allow someone to safely use a [mental](/Traits.aspx?ID=647) effect on you. You can [Dismiss](/Actions.aspx?ID=2311) the spell.\n\nThe first creature that uses a magical mental effect against you triggers the animus mine, causing the spell to end. The animus mine deals 4d8 mental damage to the triggering creature, which must attempt a Will save.\r\n\r\n**Critical Success** The creature is unaffected.<br />\r\n**Success** The creature takes half damage.<br />\r\n**Failure** The creature takes full damage and is [stunned](/Conditions.aspx?ID=93) 1.<br />\r\n**Critical Failure** The creature takes double damage and is stunned 1. You’re unaffected by the triggering mental effect.\n\n---\r\n**Heightened (+1)** The damage increases by 2d8.",
  "name": "Animus Mine",
- "patron_theme_markdown": "",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 256",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
  "resistance": {},
  "saving_throw": "Will",
  "saving_throw_markdown": "Will",
- "school": "abjuration",
- "search_markdown": "<traits>\r\n<trait label=\"Abjuration\" url=\"/Traits.aspx?ID=2\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 106 <sup>2.0</sup></row>\r\n\r\n**Tradition**\r\n[Occult](/SpellLists.aspx?Tradition=3)\n\n**Deities**\r\n[Arazni](/Deities.aspx?ID=31), [Arazni](/Deities.aspx?ID=31)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** Will\r\n\r\n**Duration** 1 hour\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou implant a mental mine within your psyche that detonates against anyone attempting to manipulate your thoughts.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 256\r\n\r\n**Tradition**\r\n[Occult](/SpellLists.aspx?Tradition=3)\n\n**Deities**\r\n[Arazni](/Deities.aspx?ID=326), [Lissala](/Deities.aspx?ID=407), [Nyarlathotep (The Faceless Sphinx)](/Deities.aspx?ID=574)\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\nWill\r\n\r\n**Duration** 1 hour\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou implant a mental mine within your psyche that detonates against anyone attempting to magically manipulate your thoughts.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 106"
+  "Divine Mysteries pg. 256"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 106 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 256",
  "speed": {},
- "summary": "You implant a mental mine within your psyche that detonates against anyone attempting to manipulate your thoughts.",
- "summary_markdown": "You implant a mental mine within your psyche that detonates against anyone attempting to manipulate your thoughts.",
- "text": " Animus Mine Source Gods &amp; Magic pg. 106 2.0 Tradition Occult Deities Arazni, Arazni Cast Two Actions somatic, verbal Saving Throw Will Duration 1 hour --- You implant a mental mine within your psyche that detonates against anyone attempting to manipulate your thoughts. You can use a single action, which has the concentrate trait, to suppress the effects of the mine for 1 round to allow someone to safely use a mental effect on you. You can Dismiss the spell. The first creature that uses a magical mental effect against you triggers the animus mine , causing the spell to end. The animus mine deals 4d8 mental damage to the triggering creature, which must attempt a Will save. Critical Success The creature is unaffected. Success The creature takes half damage. Failure The creature takes full damage and is stunned 1. Critical Failure The creature takes double damage and is stunned 1. You are unaffected by the triggering mental effect. --- Heightened (+1) The damage increases by 2d8.",
+ "spell_type": "Spell",
+ "summary": "You implant a mental mine within your psyche that detonates against anyone attempting to magically manipulate your thoughts.",
+ "summary_markdown": "You implant a mental mine within your psyche that detonates against anyone attempting to magically manipulate your thoughts.",
+ "text": "\nAnimus Mine Two Actions Source Divine Mysteries pg. 256 Tradition Occult Deities Arazni, Lissala, Nyarlathotep (The Faceless Sphinx) Defense Will Duration 1 hour --- You implant a mental mine within your psyche that detonates against anyone attempting to magically manipulate your thoughts. You can Sustain the spell to suppress the effects of the mine for 1 round to allow someone to safely use a mental effect on you. You can Dismiss the spell. The first creature that uses a magical mental effect against you triggers the animus mine, causing the spell to end. The animus mine deals 4d8 mental damage to the triggering creature, which must attempt a Will save. Critical Success The creature is unaffected. Success The creature takes half damage. Failure The creature takes full damage and is stunned 1. Critical Failure The creature takes double damage and is stunned 1. You’re unaffected by the triggering mental effect. --- Heightened (+1) The damage increases by 2d8.",
  "tradition": [
   "Occult"
  ],
  "tradition_markdown": "[Occult](/SpellLists.aspx?Tradition=3)",
  "trait": [
-  "Abjuration",
+  "Concentrate",
+  "Manipulate",
   "Mental"
  ],
- "trait_markdown": "[Abjuration](/Traits.aspx?ID=2), [Mental](/Traits.aspx?ID=106)",
+ "trait_group": [
+  "Mechanics"
+ ],
+ "trait_markdown": "[Concentrate](/Traits.aspx?ID=32), [Manipulate](/Traits.aspx?ID=104), [Mental](/Traits.aspx?ID=106)",
  "trait_raw": [
-  "Abjuration",
+  "Concentrate",
+  "Manipulate",
   "Mental"
  ],
  "type": "Spell",
- "url": "/Spells.aspx?ID=567",
+ "url": "/Spells.aspx?ID=2342",
  "weakness": {}
 }

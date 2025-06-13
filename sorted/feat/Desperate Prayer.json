@@ -1,6 +1,6 @@
 {
  "actions": "Free Action",
- "breadcrumbs_spa": [],
+ "actions_number": 0,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
@@ -8,37 +8,50 @@
  ],
  "feat_markdown": "Desperate Prayer",
  "frequency": "once per day",
- "id": "feat-1664",
+ "id": "feat-5884",
+ "legacy_id": [
+  "feat-1664"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Desperate Prayer](/Feats.aspx?ID=1664) <actions string=\"Free Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 118 <sup>2.0</sup></row>\n\n**Frequency**\r\nonce per day\n\n**Trigger**\r\nYou begin your turn and have no Focus Points in your pool.\n\n</column>\r\n\r\n---\r\n\r\nYou call out to your deity in a plea for their aid. You instantly recover 1 Focus Point.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Desperate Prayer](/Feats.aspx?ID=5884) <actions string=\"Free Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 93 <sup>1.1</sup>\n\n**Frequency**\r\nonce per day\n\n**Trigger**\r\nYou begin your turn and have no Focus Points.\n\n</column>\r\n\r\n---\r\n\r\nYou call out to your deity in a plea for their aid. You gain 1 Focus Point, which you can spend only to cast a devotion spell. If you don't spend this Focus Point by the end of this turn, it is lost.\n\n<title level=\"2\">Desperate Prayer leads to...</title>\r\n[Retributive Focus](/Feats.aspx?ID=7527)",
  "name": "Desperate Prayer",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 93",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 118 <sup>2.0</sup></row>\r\n\r\n**Frequency**\r\nonce per day\n\n**Trigger**\r\nYou begin your turn and have no Focus Points in your pool.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou call out to your deity in a plea for their aid.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 93 <sup>1.1</sup>\n\n**Frequency**\r\nonce per day\n\n**Trigger**\r\nYou begin your turn and have no Focus Points.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou call out to your deity in a plea for their aid.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 118"
+  "Player Core 2 pg. 93"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 118 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 93 <sup>1.1</sup>",
  "speed": {},
  "summary": "You call out to your deity in a plea for their aid.",
  "summary_markdown": "You call out to your deity in a plea for their aid.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Desperate Prayer Free Action Source Advanced Player's Guide pg. 118 2.0 Frequency once per day Trigger You begin your turn and have no Focus Points in your pool. --- You call out to your deity in a plea for their aid. You instantly recover 1 Focus Point.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Desperate Prayer Free Action Source Player Core 2 pg. 93 1.1 Frequency once per day Trigger You begin your turn and have no Focus Points. --- You call out to your deity in a plea for their aid. You gain 1 Focus Point, which you can spend only to cast a devotion spell. If you don't spend this Focus Point by the end of this turn, it is lost. Desperate Prayer leads to... Retributive Focus",
  "trait": [
   "Champion"
  ],
- "trait_markdown": "[Champion](/Traits.aspx?ID=24)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Champion](/Traits.aspx?ID=811)",
  "trait_raw": [
   "Champion"
  ],
- "trigger": "You begin your turn and have no Focus Points in your pool.",
- "trigger_markdown": "You begin your turn and have no Focus Points in your pool.",
+ "trigger": "You begin your turn and have no Focus Points.",
+ "trigger_markdown": "You begin your turn and have no Focus Points.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=1664",
+ "url": "/Feats.aspx?ID=5884",
  "weakness": {}
 }

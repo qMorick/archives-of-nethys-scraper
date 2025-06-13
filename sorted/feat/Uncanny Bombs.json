@@ -1,42 +1,54 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Uncanny Bombs"
  ],
  "feat_markdown": "Uncanny Bombs",
- "id": "feat-115",
+ "id": "feat-5793",
+ "legacy_id": [
+  "feat-115"
+ ],
  "level": 12,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Uncanny Bombs](/Feats.aspx?ID=115) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 79 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Far Lobber](/Feats.aspx?ID=94)\n\n</column>\r\n\r\n---\r\n\r\nYou lob bombs unerringly, despite obstructions or distance. When you throw an alchemical item with the [bomb](/Traits.aspx?ID=21) trait, its range increment increases to 60 feet, you reduce any circumstance bonus to the target’s AC from cover by 1, and you automatically succeed at the flat check when targeting a concealed creature.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Uncanny Bombs](/Feats.aspx?ID=5793) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=812\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 68 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Far Lobber](/Feats.aspx?ID=5763)\n\n</column>\r\n\r\n---\r\n\r\nYou lob bombs unerringly, despite obstructions or distance. When you throw an [alchemical](/Traits.aspx?ID=528) item with the [bomb](/Traits.aspx?ID=548) trait, its [range increment](/Rules.aspx?ID=2195) increases to 60 feet, you reduce any circumstance bonus to the target's AC from [cover](/Rules.aspx?ID=2372) by 1, and you automatically succeed at the [flat check](/Rules.aspx?ID=333) when targeting a [concealed](/Conditions.aspx?ID=62) creature.",
  "name": "Uncanny Bombs",
  "pfs": "Standard",
  "prerequisite": "Far Lobber",
- "prerequisite_markdown": "[Far Lobber](/Feats.aspx?ID=94)",
+ "prerequisite_markdown": "[Far Lobber](/Feats.aspx?ID=5763)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 68",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 79 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Far Lobber](/Feats.aspx?ID=94)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou lob bombs unerringly, despite obstructions or distance.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=812\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 68 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Far Lobber](/Feats.aspx?ID=5763)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou lob bombs unerringly, despite obstructions or distance.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 79"
+  "Player Core 2 pg. 68"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 79 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 68 <sup>1.1</sup>",
  "speed": {},
  "summary": "You lob bombs unerringly, despite obstructions or distance.",
  "summary_markdown": "You lob bombs unerringly, despite obstructions or distance.",
- "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Uncanny Bombs Source Core Rulebook pg. 79 4.0 Prerequisites Far Lobber --- You lob bombs unerringly, despite obstructions or distance. When you throw an alchemical item with the bomb trait, its range increment increases to 60 feet, you reduce any circumstance bonus to the target’s AC from cover by 1, and you automatically succeed at the flat check when targeting a concealed creature.",
+ "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Uncanny Bombs Source Player Core 2 pg. 68 1.1 Prerequisites Far Lobber --- You lob bombs unerringly, despite obstructions or distance. When you throw an alchemical item with the bomb trait, its range increment increases to 60 feet, you reduce any circumstance bonus to the target's AC from cover by 1, and you automatically succeed at the flat check when targeting a concealed creature.",
  "trait": [
   "Alchemist"
  ],
- "trait_markdown": "[Alchemist](/Traits.aspx?ID=7)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Alchemist](/Traits.aspx?ID=812)",
  "trait_raw": [
   "Alchemist"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=115",
+ "url": "/Feats.aspx?ID=5793",
  "weakness": {}
 }

@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Symphony of Blood"
  ],
  "feat_markdown": "Symphony of Blood",
- "id": "feat-1347",
+ "id": "feat-5725",
+ "legacy_id": [
+  "feat-1347"
+ ],
  "level": 17,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 17\"\r\n    pfs=\"Standard\"\r\n>\r\n[Symphony of Blood](/Feats.aspx?ID=1347) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Dhampir\" url=\"/Traits.aspx?ID=215\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 33 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou call forth the blood of your foes to grant you vigor. Once per day, you can cast [_vampiric exsanguination_](/Spells.aspx?ID=353) as a 7th-level divine innate spell.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 17\"\r\n    pfs=\"Standard\"\r\n>\r\n[Symphony of Blood](/Feats.aspx?ID=5725) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Dhampir\" url=\"/Traits.aspx?ID=750\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 45 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou call forth the blood of your foes to grant you vigor. You can cast [_vampiric exsanguination_](/Spells.aspx?ID=1735) as a 7th-rank divine innate spell once per day",
  "name": "Symphony of Blood",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 45",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Dhampir\" url=\"/Traits.aspx?ID=215\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 33 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou call forth the blood of your foes to grant you vigor.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Dhampir\" url=\"/Traits.aspx?ID=750\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 45 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou call forth the blood of your foes to grant you vigor.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 33"
+  "Player Core 2 pg. 45"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 33 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 45 <sup>1.1</sup>",
  "speed": {},
  "summary": "You call forth the blood of your foes to grant you vigor.",
  "summary_markdown": "You call forth the blood of your foes to grant you vigor.",
- "text": "<title level=\"1\" right=\"Feat 17\" pfs=\"Standard\" > Symphony of Blood Source Advanced Player's Guide pg. 33 2.0 --- You call forth the blood of your foes to grant you vigor. Once per day, you can cast vampiric exsanguination as a 7th-level divine innate spell.",
+ "text": "<title level=\"1\" right=\"Feat 17\" pfs=\"Standard\" > Symphony of Blood Source Player Core 2 pg. 45 1.1 --- You call forth the blood of your foes to grant you vigor. You can cast vampiric exsanguination as a 7th-rank divine innate spell once per day",
  "trait": [
   "Dhampir"
  ],
- "trait_markdown": "[Dhampir](/Traits.aspx?ID=215)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Dhampir](/Traits.aspx?ID=750)",
  "trait_raw": [
   "Dhampir"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1347",
+ "url": "/Feats.aspx?ID=5725",
  "weakness": {}
 }

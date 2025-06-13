@@ -1,34 +1,46 @@
 {
- "breadcrumbs_spa": [],
  "category": "trait",
  "exclude_from_search": false,
- "id": "trait-41",
- "markdown": "<title level=\"1\" right=\"Trait\">[Dedication](/Traits.aspx?ID=41)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 630 <sup>4.0</sup></row>\n\nYou must select a feat with this trait to apply an archetype to your character.",
+ "id": "trait-572",
+ "legacy_id": [
+  "trait-41"
+ ],
+ "markdown": "<title level=\"1\" right=\"Trait\">[Dedication](/Traits.aspx?ID=572)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 215 <sup>2.0</sup>\n\nEach archetype’s dedication feat represents your character’s dedicated effort learning a new set of abilities, making it impossible to split your focus and pursue another archetype at the same time. Once you take a dedication feat, you can’t select a different dedication feat until you complete your dedication by taking two other feats from your current archetype. You can’t retrain a dedication feat as long as you have any other feats from that archetype.",
  "name": "Dedication",
+ "primary_source": "Player Core",
+ "primary_source_raw": "Player Core pg. 215",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 630 <sup>4.0</sup></row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou must select a feat with this trait to apply an archetype to your character.\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 215 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nEach archetype’s dedication feat represents your character’s dedicated effort learning a new set of abilities, making it impossible to split your …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 630"
+  "Player Core pg. 215"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 630 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 215 <sup>2.0</sup>",
  "speed": {},
- "summary": "You must select a feat with this trait to apply an archetype to your character.",
- "summary_markdown": "You must select a feat with this trait to apply an archetype to your character.",
- "text": " Dedication Source Core Rulebook pg. 630 4.0 You must select a feat with this trait to apply an archetype to your character.",
+ "summary": "Each archetype’s dedication feat represents your character’s dedicated effort learning a new set of abilities, making it impossible to split your …",
+ "summary_markdown": "Each archetype’s dedication feat represents your character’s dedicated effort learning a new set of abilities, making it impossible to split your …",
+ "text": " Dedication Source Player Core pg. 215 2.0 Each archetype’s dedication feat represents your character’s dedicated effort learning a new set of abilities, making it impossible to split your focus and pursue another archetype at the same time. Once you take a dedication feat, you can’t select a different dedication feat until you complete your dedication by taking two other feats from your current archetype. You can’t retrain a dedication feat as long as you have any other feats from that archetype.",
  "trait": [
   "Dedication"
+ ],
+ "trait_group": [
+  "Feat"
  ],
  "trait_markdown": "Dedication",
  "trait_raw": [
   "Dedication"
  ],
  "type": "Trait",
- "url": "/Traits.aspx?ID=41",
+ "url": "/Traits.aspx?ID=572",
  "weakness": {}
 }

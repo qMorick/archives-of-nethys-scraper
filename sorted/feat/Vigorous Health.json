@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Vigorous Health"
  ],
  "feat_markdown": "Vigorous Health",
- "id": "feat-1029",
+ "id": "feat-5576",
+ "legacy_id": [
+  "feat-1029"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Vigorous Health](/Feats.aspx?ID=1029) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=268\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 50 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYour physique is robust and can withstand blood loss startlingly well. Whenever you would gain the [drained](/Conditions.aspx?ID=10) condition, you can attempt a DC 17 flat check. On a success, you don’t gain the drained condition.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Vigorous Health](/Feats.aspx?ID=5576) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=757\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 14 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou can withstand blood loss startlingly well. Whenever you would gain the [drained](/Conditions.aspx?ID=68) condition, you can attempt a DC 17 flat check. On a success, you don't gain the drained condition.",
  "name": "Vigorous Health",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 14",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-10-16",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=268\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 50 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour physique is robust and can withstand blood loss startlingly well.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=757\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 14 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can withstand blood loss startlingly well.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Character Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Character Guide pg. 50"
+  "Player Core 2 pg. 14"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Character Guide](/Sources.aspx?ID=12) pg. 50 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 14 <sup>1.1</sup>",
  "speed": {},
- "summary": "Your physique is robust and can withstand blood loss startlingly well.",
- "summary_markdown": "Your physique is robust and can withstand blood loss startlingly well.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Vigorous Health Source Character Guide pg. 50 2.0 --- Your physique is robust and can withstand blood loss startlingly well. Whenever you would gain the drained condition, you can attempt a DC 17 flat check. On a success, you don’t gain the drained condition.",
+ "summary": "You can withstand blood loss startlingly well.",
+ "summary_markdown": "You can withstand blood loss startlingly well.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Vigorous Health Source Player Core 2 pg. 14 1.1 --- You can withstand blood loss startlingly well. Whenever you would gain the drained condition, you can attempt a DC 17 flat check. On a success, you don't gain the drained condition.",
  "trait": [
   "Hobgoblin"
  ],
- "trait_markdown": "[Hobgoblin](/Traits.aspx?ID=268)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Hobgoblin](/Traits.aspx?ID=757)",
  "trait_raw": [
   "Hobgoblin"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1029",
+ "url": "/Feats.aspx?ID=5576",
  "weakness": {}
 }

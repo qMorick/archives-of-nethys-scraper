@@ -1,29 +1,37 @@
 {
  "actions": "Two Actions",
+ "actions_number": 4,
  "bloodline_markdown": "",
- "breadcrumbs_spa": [],
  "category": "spell",
- "component": [
-  "somatic",
-  "verbal"
- ],
  "deity": [
   "Alseta",
+  "Apsu",
+  "Emmeton Galardaria",
   "Erecura",
   "Grundinnar",
   "Irez",
   "Magdh",
   "Shyka",
   "The Freeing Flame",
-  "Urban Prosperity"
+  "The Readied Strike",
+  "The Spirit Wall",
+  "Urban Prosperity",
+  "Varg"
  ],
- "deity_markdown": "[Alseta](/Deities.aspx?ID=30), [Erecura](/Deities.aspx?ID=151), [Grundinnar](/Deities.aspx?ID=88), [Irez](/Deities.aspx?ID=121), [Magdh](/Deities.aspx?ID=97), [Shyka](/Deities.aspx?ID=100), [The Freeing Flame](/Deities.aspx?ID=231), [Urban Prosperity](/Deities.aspx?ID=256)",
+ "deity_markdown": "[Alseta](/Deities.aspx?ID=329), [Apsu](/Deities.aspx?ID=330), [Emmeton Galardaria](/Deities.aspx?ID=341), [Erecura](/Deities.aspx?ID=564), [Grundinnar](/Deities.aspx?ID=514), [Irez](/Deities.aspx?ID=472), [Magdh](/Deities.aspx?ID=457), [Shyka](/Deities.aspx?ID=460), [The Freeing Flame](/Deities.aspx?ID=231), [The Readied Strike](/Deities.aspx?ID=371), [The Spirit Wall](/Deities.aspx?ID=363), [Urban Prosperity](/Deities.aspx?ID=256), [Varg](/Deities.aspx?ID=561)",
  "domain_markdown": "",
  "duration": 600,
  "duration_raw": "10 minutes",
  "exclude_from_search": false,
  "heighten": [
   "+2"
+ ],
+ "heighten_group": [
+  "1st rank",
+  "Heightened 3rd rank",
+  "Heightened 5th rank",
+  "Heightened 7th rank",
+  "Heightened 9th rank"
  ],
  "heighten_level": [
   1,
@@ -32,48 +40,62 @@
   7,
   9
  ],
- "id": "spell-568",
+ "id": "spell-2343",
+ "legacy_id": [
+  "spell-568"
+ ],
  "level": 1,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Spell 1\" pfs=\"Standard\">[Anticipate Peril](/Spells.aspx?ID=568)</title>\n\n<traits>\r\n<trait label=\"Divination\" url=\"/Traits.aspx?ID=47\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 107 <sup>2.0</sup></row>\n\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Occult](/SpellLists.aspx?Tradition=3)\n\n**Deities**\r\n[Alseta](/Deities.aspx?ID=30), [Erecura](/Deities.aspx?ID=151), [Grundinnar](/Deities.aspx?ID=88), [Irez](/Deities.aspx?ID=121), [Magdh](/Deities.aspx?ID=97), [Shyka](/Deities.aspx?ID=100), [The Freeing Flame](/Deities.aspx?ID=231), [Urban Prosperity](/Deities.aspx?ID=256)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 30 feet\n\n**Target** 1 creature\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 10 minutes\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou grant the target brief foresight. The target gains a +1 status bonus to its next initiative roll, after which the spell ends.\n\n---\r\n**Heightened (+2)** The status bonus increases by 1, to a maximum of +4 at 7th level.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Spell 1\" pfs=\"Standard\">\r\n[Anticipate Peril](/Spells.aspx?ID=2343)\r\n<actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n<trait label=\"Prediction\" url=\"/Traits.aspx?ID=132\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 256\n\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Occult](/SpellLists.aspx?Tradition=3)\n\n**Deities**\r\n[Alseta](/Deities.aspx?ID=329), [Apsu](/Deities.aspx?ID=330), [Emmeton Galardaria](/Deities.aspx?ID=341), [Erecura](/Deities.aspx?ID=564), [Grundinnar](/Deities.aspx?ID=514), [Irez](/Deities.aspx?ID=472), [Magdh](/Deities.aspx?ID=457), [Shyka](/Deities.aspx?ID=460), [The Freeing Flame](/Deities.aspx?ID=231), [The Readied Strike](/Deities.aspx?ID=371), [The Spirit Wall](/Deities.aspx?ID=363), [Urban Prosperity](/Deities.aspx?ID=256), [Varg](/Deities.aspx?ID=561)\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 30 feet\n\n**Target** 1 creature\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 10 minutes\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou grant the target brief foresight. The target gains a +1 status bonus to its next [initiative](/Rules.aspx?ID=3300) roll, after which the spell ends.\n\n---\r\n**Heightened (+2)** The status bonus increases by 1, to a maximum of +4 at 7th rank.",
  "name": "Anticipate Peril",
- "patron_theme_markdown": "",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 256",
+ "primary_source_category": "Lost Omens",
  "range": 30,
  "range_raw": "30 feet",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
  "resistance": {},
- "school": "divination",
- "search_markdown": "<traits>\r\n<trait label=\"Divination\" url=\"/Traits.aspx?ID=47\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 107 <sup>2.0</sup></row>\r\n\r\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Occult](/SpellLists.aspx?Tradition=3)\n\n**Deities**\r\n[Alseta](/Deities.aspx?ID=30), [Erecura](/Deities.aspx?ID=151), [Grundinnar](/Deities.aspx?ID=88), [Irez](/Deities.aspx?ID=121), [Magdh](/Deities.aspx?ID=97), [Shyka](/Deities.aspx?ID=100), [The Freeing Flame](/Deities.aspx?ID=231), [Urban Prosperity](/Deities.aspx?ID=256)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 30 feet\r\n\r\n \r\n\r\n**Target** 1 creature\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Duration** 10 minutes\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou grant the target brief foresight.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n<trait label=\"Prediction\" url=\"/Traits.aspx?ID=132\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 256\r\n\r\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Occult](/SpellLists.aspx?Tradition=3)\n\n**Deities**\r\n[Alseta](/Deities.aspx?ID=329), [Apsu](/Deities.aspx?ID=330), [Emmeton Galardaria](/Deities.aspx?ID=341), [Erecura](/Deities.aspx?ID=564), [Grundinnar](/Deities.aspx?ID=514), [Irez](/Deities.aspx?ID=472), [Magdh](/Deities.aspx?ID=457), [Shyka](/Deities.aspx?ID=460), [The Freeing Flame](/Deities.aspx?ID=231), [The Readied Strike](/Deities.aspx?ID=371), [The Spirit Wall](/Deities.aspx?ID=363), [Urban Prosperity](/Deities.aspx?ID=256), [Varg](/Deities.aspx?ID=561)\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 30 feet\r\n\r\n \r\n\r\n**Target** 1 creature\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 10 minutes\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou grant the target brief foresight.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 107"
+  "Divine Mysteries pg. 256"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 107 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 256",
  "speed": {},
+ "spell_type": "Spell",
  "summary": "You grant the target brief foresight.",
  "summary_markdown": "You grant the target brief foresight.",
  "target": "1 creature",
  "target_markdown": "1 creature",
- "text": " Anticipate Peril Source Gods &amp; Magic pg. 107 2.0 Traditions Arcane, Occult Deities Alseta, Erecura, Grundinnar, Irez, Magdh, Shyka, The Freeing Flame, Urban Prosperity Cast Two Actions somatic, verbal Range 30 feet Target 1 creature Duration 10 minutes --- You grant the target brief foresight. The target gains a +1 status bonus to its next initiative roll, after which the spell ends. --- Heightened (+2) The status bonus increases by 1, to a maximum of +4 at 7th level.",
+ "text": "\nAnticipate Peril Two Actions Source Divine Mysteries pg. 256 Traditions Arcane, Occult Deities Alseta, Apsu, Emmeton Galardaria, Erecura, Grundinnar, Irez, Magdh, Shyka, The Freeing Flame, The Readied Strike, The Spirit Wall, Urban Prosperity, Varg Range 30 feet Target 1 creature Duration 10 minutes --- You grant the target brief foresight. The target gains a +1 status bonus to its next initiative roll, after which the spell ends. --- Heightened (+2) The status bonus increases by 1, to a maximum of +4 at 7th rank.",
  "tradition": [
   "Arcane",
   "Occult"
  ],
  "tradition_markdown": "[Arcane](/SpellLists.aspx?Tradition=1), [Occult](/SpellLists.aspx?Tradition=3)",
  "trait": [
-  "Divination"
+  "Concentrate",
+  "Manipulate",
+  "Prediction"
  ],
- "trait_markdown": "[Divination](/Traits.aspx?ID=47)",
+ "trait_group": [
+  "Mechanics"
+ ],
+ "trait_markdown": "[Concentrate](/Traits.aspx?ID=32), [Manipulate](/Traits.aspx?ID=104), [Prediction](/Traits.aspx?ID=132)",
  "trait_raw": [
-  "Divination"
+  "Concentrate",
+  "Manipulate",
+  "Prediction"
  ],
  "type": "Spell",
- "url": "/Spells.aspx?ID=568",
+ "url": "/Spells.aspx?ID=2343",
  "weakness": {}
 }

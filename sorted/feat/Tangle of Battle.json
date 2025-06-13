@@ -1,38 +1,52 @@
 {
  "actions": "Reaction",
- "breadcrumbs_spa": [],
+ "actions_number": 1,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Tangle of Battle"
  ],
  "feat_markdown": "Tangle of Battle",
- "id": "feat-1622",
+ "id": "feat-5852",
+ "legacy_id": [
+  "feat-1622"
+ ],
  "level": 10,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Tangle of Battle](/Feats.aspx?ID=1622) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 111 <sup>2.0</sup></row>\n\n**Trigger**\r\nYou critically hit an adjacent enemy.\n\n</column>\r\n\r\n---\r\n\r\nYour incredibly vicious Strike pulls you right in close, giving you the opportunity to grab your foe. Attempt to [Grapple](/Actions.aspx?ID=35) the triggering enemy.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Tangle of Battle](/Feats.aspx?ID=5852) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 82 <sup>1.1</sup>\n\n**Trigger**\r\nYou critically hit an adjacent enemy.\n\n</column>\r\n\r\n---\r\n\r\nYour vicious strike pulls your foe closer, giving you the opportunity to grab them. Attempt to [Grapple](/Actions.aspx?ID=2376) the triggering enemy.",
  "name": "Tangle of Battle",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 82",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 111 <sup>2.0</sup></row>\n\n**Trigger**\r\nYou critically hit an adjacent enemy.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour incredibly vicious Strike pulls you right in close, giving you the opportunity to grab your foe.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 82 <sup>1.1</sup>\n\n**Trigger**\r\nYou critically hit an adjacent enemy.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour vicious strike pulls your foe closer, giving you the opportunity to grab them.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 111"
+  "Player Core 2 pg. 82"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 111 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 82 <sup>1.1</sup>",
  "speed": {},
- "summary": "Your incredibly vicious Strike pulls you right in close, giving you the opportunity to grab your foe.",
- "summary_markdown": "Your incredibly vicious Strike pulls you right in close, giving you the opportunity to grab your foe.",
- "text": "<title level=\"1\" right=\"Feat 10\" pfs=\"Standard\" > Tangle of Battle Reaction Source Advanced Player's Guide pg. 111 2.0 Trigger You critically hit an adjacent enemy. --- Your incredibly vicious Strike pulls you right in close, giving you the opportunity to grab your foe. Attempt to Grapple the triggering enemy.",
+ "summary": "Your vicious strike pulls your foe closer, giving you the opportunity to grab them.",
+ "summary_markdown": "Your vicious strike pulls your foe closer, giving you the opportunity to grab them.",
+ "text": "<title level=\"1\" right=\"Feat 10\" pfs=\"Standard\" > Tangle of Battle Reaction Source Player Core 2 pg. 82 1.1 Trigger You critically hit an adjacent enemy. --- Your vicious strike pulls your foe closer, giving you the opportunity to grab them. Attempt to Grapple the triggering enemy.",
  "trait": [
   "Barbarian",
   "Rage"
  ],
- "trait_markdown": "[Barbarian](/Traits.aspx?ID=18), [Rage](/Traits.aspx?ID=135)",
+ "trait_group": [
+  "Class",
+  "Class-Specific"
+ ],
+ "trait_markdown": "[Barbarian](/Traits.aspx?ID=813), [Rage](/Traits.aspx?ID=680)",
  "trait_raw": [
   "Barbarian",
   "Rage"
@@ -40,6 +54,6 @@
  "trigger": "You critically hit an adjacent enemy.",
  "trigger_markdown": "You critically hit an adjacent enemy.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=1622",
+ "url": "/Feats.aspx?ID=5852",
  "weakness": {}
 }

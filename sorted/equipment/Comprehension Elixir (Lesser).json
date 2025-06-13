@@ -1,44 +1,64 @@
 {
  "actions": "Single Action",
+ "actions_number": 2,
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
  "bulk": 0.1,
  "bulk_raw": "L",
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-88-138",
+ "id": "equipment-3303-3178",
  "item_category": "Alchemical Items",
+ "item_parent_id": "equipment-3303",
  "item_subcategory": "Alchemical Elixirs",
+ "legacy_id": [
+  "equipment-88"
+ ],
+ "legacy_name": [
+  "Comprehension Elixir"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 2+\"\r\n    pfs=\"\"\r\n>\r\n[Comprehension Elixir](/Equipment.aspx?ID=88)\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=6\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Elixir\" url=\"/Traits.aspx?ID=59\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 547 <sup>4.0</sup></row>\n\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>Interact</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis bitter draught opens your mind to the potential of the written word. For the listed duration after drinking this elixir, you can understand any words you read, so long as they are written in a common language. This elixir doesn’t automatically allow you to understand codes or extremely esoteric passages—you still need to attempt a skill check to Decipher Writing.\n\n<column gap=\"tiny\">\n\n</column>\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 2\"\r\npfs=\"Standard\"\r\n>\r\nComprehension Elixir (Lesser)\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 547 <sup>4.0</sup></row>\n\n**Price** 7 gp\r\n\r\n<row gap=\"medium\">\n\n</row>\n\n</column>\r\n\r\n---\r\n\r\nThe duration is 1 minute.\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 7\"\r\npfs=\"Standard\"\r\n>\r\nComprehension Elixir (Greater)\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 547 <sup>4.0</sup></row>\n\n**Price** 54 gp\r\n\r\n<row gap=\"medium\">\n\n</row>\n\n</column>\r\n\r\n---\r\n\r\nThe duration is 10 minutes.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 2+\"\r\n    pfs=\"Standard\"\r\n>\r\n[Comprehension Elixir](/Equipment.aspx?ID=3303)\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=528\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Elixir\" url=\"/Traits.aspx?ID=589\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=647\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 287 <sup>1.1</sup>\n\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([manipulate](/Traits.aspx?ID=104))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis bitter draft opens your mind to the potential of the written word. For the listed duration after drinking this elixir, you can understand any words you read, as long as they're written in a common language. This elixir doesn't automatically allow you to understand codes or extremely esoteric passages—you still need to attempt a skill check to [Decipher Writing](/Actions.aspx?ID=2363).\n\n<column gap=\"tiny\">\n\n</column>\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 2\"\r\npfs=\"Standard\"\r\n>\r\nComprehension Elixir (Lesser)\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 287 <sup>1.1</sup>, [Core Rulebook](/Sources.aspx?ID=1) pg. 547 <sup>4.0</sup>\n\n**Price** 7 gp\r\n\r\n<row gap=\"medium\">\n\n**Bulk** L\r\n\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\nThe duration is 1 minute.\r\n\r\n<title\r\nlevel=\"2\"\r\nright=\"Item 7\"\r\npfs=\"Standard\"\r\n>\r\nComprehension Elixir (Greater)\r\n</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 287 <sup>1.1</sup>, [Core Rulebook](/Sources.aspx?ID=1) pg. 547 <sup>4.0</sup>\n\n**Price** 54 gp\r\n\r\n<row gap=\"medium\">\n\n**Bulk** L\r\n\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\nThe duration is 10 minutes.",
  "name": "Comprehension Elixir (Lesser)",
  "pfs": "Standard",
  "price": 700,
  "price_raw": "7 gp",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 287",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=6\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Elixir\" url=\"/Traits.aspx?ID=59\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 547 <sup>4.0</sup></row>\r\n\r\n**Price** 7 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>Interact</row></row>\r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe duration is 1 minute.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=528\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Elixir\" url=\"/Traits.aspx?ID=589\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=647\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 287 <sup>1.1</sup>\r\n\r\n**Price** 7 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([manipulate](/Traits.aspx?ID=104))</row></row>\r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe duration is 1 minute.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 547"
+  "Player Core 2 pg. 287"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 547 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 287 <sup>1.1</sup>",
  "speed": {},
  "spell_markdown": "",
  "summary": "The duration is 1 minute.",
  "summary_markdown": "The duration is 1 minute.",
- "text": "<title level=\"1\" right=\"Item 2+\" pfs=\"\" > Comprehension Elixir Source Core Rulebook pg. 547 4.0 Usage held in 1 hand Bulk L Activate Single Action Interact --- This bitter draught opens your mind to the potential of the written word. For the listed duration after drinking this elixir, you can understand any words you read, so long as they are written in a common language. This elixir doesn’t automatically allow you to understand codes or extremely esoteric passages—you still need to attempt a skill check to Decipher Writing. <title level=\"2\" right=\"Item 2\" pfs=\"Standard\" > Comprehension Elixir (Lesser) Source Core Rulebook pg. 547 4.0 Price 7 gp --- The duration is 1 minute. <title level=\"2\" right=\"Item 7\" pfs=\"Standard\" > Comprehension Elixir (Greater) Source Core Rulebook pg. 547 4.0 Price 54 gp --- The duration is 10 minutes.",
+ "text": "<title level=\"1\" right=\"Item 2+\" pfs=\"Standard\" > Comprehension Elixir Source Player Core 2 pg. 287 1.1 Usage held in 1 hand Bulk L Activate Single Action (manipulate) --- This bitter draft opens your mind to the potential of the written word. For the listed duration after drinking this elixir, you can understand any words you read, as long as they're written in a common language. This elixir doesn't automatically allow you to understand codes or extremely esoteric passages—you still need to attempt a skill check to Decipher Writing. <title level=\"2\" right=\"Item 2\" pfs=\"Standard\" > Comprehension Elixir (Lesser) Source Player Core 2 pg. 287 1.1 , Core Rulebook pg. 547 4.0 Price 7 gp Bulk L --- The duration is 1 minute. <title level=\"2\" right=\"Item 7\" pfs=\"Standard\" > Comprehension Elixir (Greater) Source Player Core 2 pg. 287 1.1 , Core Rulebook pg. 547 4.0 Price 54 gp Bulk L --- The duration is 10 minutes.",
  "trait": [
   "Alchemical",
   "Consumable",
   "Elixir",
   "Mental"
  ],
- "trait_markdown": "[Alchemical](/Traits.aspx?ID=6), [Consumable](/Traits.aspx?ID=36), [Elixir](/Traits.aspx?ID=59), [Mental](/Traits.aspx?ID=106)",
+ "trait_group": [
+  "Monster",
+  "Equipment",
+  "Weapon",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Alchemical](/Traits.aspx?ID=528), [Consumable](/Traits.aspx?ID=564), [Elixir](/Traits.aspx?ID=589), [Mental](/Traits.aspx?ID=647)",
  "trait_raw": [
   "Alchemical",
   "Consumable",
@@ -46,7 +66,7 @@
   "Mental"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=88",
+ "url": "/Equipment.aspx?ID=3303",
  "usage": "held in 1 hand",
  "usage_markdown": "held in 1 hand",
  "weakness": {}

@@ -1,47 +1,79 @@
 {
  "actions": "Reaction",
- "breadcrumbs_spa": [],
+ "actions_number": 1,
  "category": "feat",
+ "element": [
+  "Water"
+ ],
  "exclude_from_search": false,
  "feat": [
   "Rippling Spin"
  ],
  "feat_markdown": "Rippling Spin",
- "id": "feat-2983",
+ "id": "feat-7499",
+ "legacy_id": [
+  "feat-2983"
+ ],
  "level": 8,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Rippling Spin](/Feats.aspx?ID=2983) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 202 <sup>1.1</sup></row>\n\n**Prerequisites**\r\n[Reflective Ripple Stance](/Feats.aspx?ID=2980)\n\n**Trigger**\r\nYou are hit by a physical melee attack by an attacker you can see that's in reach.\r\n\r\n**Requirements**\r\nYou're in Reflective Ripple Stance.\r\n\r\n</column>\r\n\r\n---\r\n\r\nAfter the triggering attack is done, Step. You must end this Step within the attacker's reach. Then, you can attempt an [Athletics](/Skills.aspx?ID=3) check to [Disarm](/Actions.aspx?ID=41) or [Trip](/Actions.aspx?ID=40) the attacker.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Rippling Spin](/Feats.aspx?ID=7499) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Flourish\" url=\"/Traits.aspx?ID=606\" />\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n<trait label=\"Occult\" url=\"/Traits.aspx?ID=662\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=732\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Rival Academies](/Sources.aspx?ID=235) pg. 80\n\n**Prerequisites**\r\n[Reflective Ripple Stance](/Feats.aspx?ID=7493)\n\n**Trigger**\r\nYou’re hit by a physical melee attack by an attacker you can see that’s in reach.\r\n\r\n**Requirements**\r\nYou’re in Reflective Ripple Stance\n\n</column>\r\n\r\n---\r\n\r\nAfter the triggering attack is done, [Step](/Actions.aspx?ID=2304). You must end this Step within the attacker’s reach. Then, you can attempt an Athletics check to [Disarm](/Actions.aspx?ID=2383) or [Trip](/Actions.aspx?ID=2382) the attacker.",
  "name": "Rippling Spin",
  "pfs": "Standard",
  "prerequisite": "Reflective Ripple Stance",
- "prerequisite_markdown": "[Reflective Ripple Stance](/Feats.aspx?ID=2980)",
+ "prerequisite_markdown": "[Reflective Ripple Stance](/Feats.aspx?ID=7493)",
+ "primary_source": "Rival Academies",
+ "primary_source_raw": "Rival Academies pg. 80",
+ "primary_source_category": "Lost Omens",
+ "primary_source_group": "Convocation",
  "rarity": "common",
- "release_date": "2021-09-01",
- "requirement": "You're in Reflective Ripple Stance.",
- "requirement_markdown": "You're in Reflective Ripple Stance.",
+ "rarity_id": 1,
+ "release_date": "2025-02-26",
+ "requirement": "You’re in Reflective Ripple Stance",
+ "requirement_markdown": "You’re in Reflective Ripple Stance",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 202 <sup>1.1</sup></row>\n\n**Prerequisites**\r\n[Reflective Ripple Stance](/Feats.aspx?ID=2980)\n\n**Trigger**\r\nYou are hit by a physical melee attack by an attacker you can see that's in reach.\r\n\r\n**Requirements**\r\nYou're in Reflective Ripple Stance.\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAfter the triggering attack is done, Step.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Flourish\" url=\"/Traits.aspx?ID=606\" />\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n<trait label=\"Occult\" url=\"/Traits.aspx?ID=662\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=732\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Rival Academies](/Sources.aspx?ID=235) pg. 80\n\n**Prerequisites**\r\n[Reflective Ripple Stance](/Feats.aspx?ID=7493)\n\n**Trigger**\r\nYou’re hit by a physical melee attack by an attacker you can see that’s in reach.\r\n\r\n**Requirements**\r\nYou’re in Reflective Ripple Stance\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAfter the triggering attack is done, Step\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Secrets of Magic"
+  "Rival Academies"
  ],
  "source_raw": [
-  "Secrets of Magic pg. 202"
+  "Rival Academies pg. 80"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Secrets of Magic](/Sources.aspx?ID=96) pg. 202 <sup>1.1</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_group": [
+  "Convocation"
+ ],
+ "source_markdown": "[Rival Academies](/Sources.aspx?ID=235) pg. 80",
  "speed": {},
- "summary": "After the triggering attack is done, Step.",
- "summary_markdown": "After the triggering attack is done, Step.",
- "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Rippling Spin Reaction Source Secrets of Magic pg. 202 1.1 Prerequisites Reflective Ripple Stance Trigger You are hit by a physical melee attack by an attacker you can see that's in reach. Requirements You're in Reflective Ripple Stance. --- After the triggering attack is done, Step. You must end this Step within the attacker's reach. Then, you can attempt an Athletics check to Disarm or Trip the attacker.",
+ "summary": "After the triggering attack is done, Step",
+ "summary_markdown": "After the triggering attack is done, Step",
+ "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Rippling Spin Reaction Source Rival Academies pg. 80 Prerequisites Reflective Ripple Stance Trigger You’re hit by a physical melee attack by an attacker you can see that’s in reach. Requirements You’re in Reflective Ripple Stance --- After the triggering attack is done, Step. You must end this Step within the attacker’s reach. Then, you can attempt an Athletics check to Disarm or Trip the attacker.",
  "trait": [
-  "Monk"
+  "Flourish",
+  "Monk",
+  "Occult",
+  "Water"
  ],
- "trait_markdown": "[Monk](/Traits.aspx?ID=112)",
+ "trait_group": [
+  "Mechanics",
+  "Class",
+  "Weapon",
+  "Tradition",
+  "Monster",
+  "Elemental",
+  "Planar"
+ ],
+ "trait_markdown": "[Flourish](/Traits.aspx?ID=606), [Monk](/Traits.aspx?ID=656), [Occult](/Traits.aspx?ID=662), [Water](/Traits.aspx?ID=732)",
  "trait_raw": [
-  "Monk"
+  "Flourish",
+  "Monk",
+  "Occult",
+  "Water"
  ],
- "trigger": "You are hit by a physical melee attack by an attacker you can see that's in reach.",
- "trigger_markdown": "You are hit by a physical melee attack by an attacker you can see that's in reach.",
+ "trigger": "You’re hit by a physical melee attack by an attacker you can see that’s in reach.",
+ "trigger_markdown": "You’re hit by a physical melee attack by an attacker you can see that’s in reach.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=2983",
+ "url": "/Feats.aspx?ID=7499",
  "weakness": {}
 }

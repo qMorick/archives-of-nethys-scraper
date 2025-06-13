@@ -2,48 +2,60 @@
  "archetype": [
   "Oracle"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Master Oracle Spellcasting"
  ],
  "feat_markdown": "Master Oracle Spellcasting",
- "id": "feat-1858",
+ "id": "feat-6224",
+ "legacy_id": [
+  "feat-1858"
+ ],
  "level": 18,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 18\"\r\n    pfs=\"Standard\"\r\n>\r\n[Master Oracle Spellcasting](/Feats.aspx?ID=1858) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 152 <sup>2.0</sup></row>\n\n**Archetype** [Oracle](/Archetypes.aspx?ID=42)\n\n**Prerequisites**\r\n[Expert Oracle Spellcasting](/Feats.aspx?ID=1857); Legendary in [Religion](/Skills.aspx?ID=13)\n\n</column>\r\n\r\n---\r\n\r\nYou gain the [master spellcasting benefits](/Rules.aspx?ID=170).",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 18\"\r\n    pfs=\"Standard\"\r\n>\r\n[Master Oracle Spellcasting](/Feats.aspx?ID=6224) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 180 <sup>1.1</sup>\n\n**Archetype** [Oracle](/Archetypes.aspx?ID=233)\n\n**Prerequisites**\r\n[Expert Oracle Spellcasting](/Feats.aspx?ID=6223); Legendary in [Religion](/Skills.aspx?ID=46)\n\n</column>\r\n\r\n---\r\n\r\nYou gain the master spellcasting benefits.",
  "name": "Master Oracle Spellcasting",
  "pfs": "Standard",
  "prerequisite": "Expert Oracle Spellcasting; Legendary in Religion",
- "prerequisite_markdown": "[Expert Oracle Spellcasting](/Feats.aspx?ID=1857); Legendary in [Religion](/Skills.aspx?ID=13)",
+ "prerequisite_markdown": "[Expert Oracle Spellcasting](/Feats.aspx?ID=6223); Legendary in [Religion](/Skills.aspx?ID=46)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 180",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 152 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Expert Oracle Spellcasting](/Feats.aspx?ID=1857); Legendary in [Religion](/Skills.aspx?ID=13)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain the master spellcasting benefits.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 180 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Expert Oracle Spellcasting](/Feats.aspx?ID=6223); Legendary in [Religion](/Skills.aspx?ID=46)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain the master spellcasting benefits.\r\n</summary>",
  "skill": [
   "Religion",
   "Religion"
  ],
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 152"
+  "Player Core 2 pg. 180"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 152 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 180 <sup>1.1</sup>",
  "speed": {},
  "summary": "You gain the master spellcasting benefits.",
  "summary_markdown": "You gain the master spellcasting benefits.",
- "text": "<title level=\"1\" right=\"Feat 18\" pfs=\"Standard\" > Master Oracle Spellcasting Source Advanced Player's Guide pg. 152 2.0 Archetype Oracle Prerequisites Expert Oracle Spellcasting; Legendary in Religion --- You gain the master spellcasting benefits.",
+ "text": "<title level=\"1\" right=\"Feat 18\" pfs=\"Standard\" > Master Oracle Spellcasting Source Player Core 2 pg. 180 1.1 Archetype Oracle Prerequisites Expert Oracle Spellcasting; Legendary in Religion --- You gain the master spellcasting benefits.",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1858",
+ "url": "/Feats.aspx?ID=6224",
  "weakness": {}
 }

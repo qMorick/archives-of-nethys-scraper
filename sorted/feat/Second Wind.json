@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Second Wind"
  ],
  "feat_markdown": "Second Wind",
- "id": "feat-138",
+ "id": "feat-5816",
+ "legacy_id": [
+  "feat-138"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Second Wind](/Feats.aspx?ID=138) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 89 <sup>4.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou can enter a second rage, but afterward you need to catch your breath. You can Rage without waiting for 1 minute after the previous Rage (or 1 round, with quick rage), but when you end this second Rage, you’re fatigued until you rest for 10 minutes.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Second Wind](/Feats.aspx?ID=5816) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 77 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou can enter a second rage, but afterward you need to catch your breath. When you [Rage](/Actions.aspx?ID=2802), you can choose to gain  temporary HP from the Rage even if 1 minute hasn't passed (or a full turn if you have the [revitalizing rage class feature](/Classes.aspx?ID=2)). If you do, once this Rage ends you become [fatigued](/Conditions.aspx?ID=73) until you rest for 10 minutes.",
  "name": "Second Wind",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 77",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 89 <sup>4.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can enter a second rage, but afterward you need to catch your breath.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 77 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can enter a second rage, but afterward you need to catch your breath.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 89"
+  "Player Core 2 pg. 77"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 89 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 77 <sup>1.1</sup>",
  "speed": {},
  "summary": "You can enter a second rage, but afterward you need to catch your breath.",
  "summary_markdown": "You can enter a second rage, but afterward you need to catch your breath.",
- "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Second Wind Source Core Rulebook pg. 89 4.0 --- You can enter a second rage, but afterward you need to catch your breath. You can Rage without waiting for 1 minute after the previous Rage (or 1 round, with quick rage), but when you end this second Rage, you’re fatigued until you rest for 10 minutes.",
+ "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Second Wind Source Player Core 2 pg. 77 1.1 --- You can enter a second rage, but afterward you need to catch your breath. When you Rage, you can choose to gain temporary HP from the Rage even if 1 minute hasn't passed (or a full turn if you have the revitalizing rage class feature). If you do, once this Rage ends you become fatigued until you rest for 10 minutes.",
  "trait": [
   "Barbarian"
  ],
- "trait_markdown": "[Barbarian](/Traits.aspx?ID=18)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Barbarian](/Traits.aspx?ID=813)",
  "trait_raw": [
   "Barbarian"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=138",
+ "url": "/Feats.aspx?ID=5816",
  "weakness": {}
 }

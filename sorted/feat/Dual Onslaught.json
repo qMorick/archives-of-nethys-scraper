@@ -2,44 +2,56 @@
  "archetype": [
   "Dual-Weapon Warrior"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Dual Onslaught"
  ],
  "feat_markdown": "Dual Onslaught",
- "id": "feat-1955",
+ "id": "feat-6312",
+ "legacy_id": [
+  "feat-1955"
+ ],
  "level": 14,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 14\"\r\n    pfs=\"Standard\"\r\n>\r\n[Dual Onslaught](/Feats.aspx?ID=1955) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 170 <sup>2.0</sup></row>\n\n**Archetype** [Dual-Weapon Warrior](/Archetypes.aspx?ID=57)\n\n**Prerequisites**\r\n[Dual-Weapon Warrior Dedication](/Feats.aspx?ID=1950)\n\n</column>\r\n\r\n---\r\n\r\nWhen you lash out with both weapons, you leave no room for the target to escape your attack. When you use [Double Slice](/Feats.aspx?ID=356), if you miss with both Strikes, choose one of the two weapons and apply the effects of a hit with that weapon. You can't choose a weapon if your attack roll with that weapon was a critical failure, meaning you still miss entirely if both attack rolls were critical failures.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 14\"\r\n    pfs=\"Standard\"\r\n>\r\n[Dual Onslaught](/Feats.aspx?ID=6312) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 196 <sup>1.1</sup>\n\n**Archetype** [Dual-Weapon Warrior](/Archetypes.aspx?ID=247)\n\n**Prerequisites**\r\n[Dual-Weapon Warrior Dedication](/Feats.aspx?ID=6307)\n\n</column>\r\n\r\n---\r\n\r\nWhen you lash out with both weapons, you leave no room for the target to escape your attack. When you use [Double Slice](/Feats.aspx?ID=4769), if you miss with both Strikes, choose one of the two weapons and apply the effects of a hit with that weapon. You can't choose a weapon if your attack roll with that weapon was a critical failure, meaning you still miss entirely if both attack rolls were critical failures.",
  "name": "Dual Onslaught",
  "pfs": "Standard",
  "prerequisite": "Dual-Weapon Warrior Dedication",
- "prerequisite_markdown": "[Dual-Weapon Warrior Dedication](/Feats.aspx?ID=1950)",
+ "prerequisite_markdown": "[Dual-Weapon Warrior Dedication](/Feats.aspx?ID=6307)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 196",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 170 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Dual-Weapon Warrior Dedication](/Feats.aspx?ID=1950)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen you lash out with both weapons, you leave no room for the target to escape your attack.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 196 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Dual-Weapon Warrior Dedication](/Feats.aspx?ID=6307)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen you lash out with both weapons, you leave no room for the target to escape your attack.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 170"
+  "Player Core 2 pg. 196"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 170 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 196 <sup>1.1</sup>",
  "speed": {},
  "summary": "When you lash out with both weapons, you leave no room for the target to escape your attack.",
  "summary_markdown": "When you lash out with both weapons, you leave no room for the target to escape your attack.",
- "text": "<title level=\"1\" right=\"Feat 14\" pfs=\"Standard\" > Dual Onslaught Source Advanced Player's Guide pg. 170 2.0 Archetype Dual-Weapon Warrior Prerequisites Dual-Weapon Warrior Dedication --- When you lash out with both weapons, you leave no room for the target to escape your attack. When you use Double Slice, if you miss with both Strikes, choose one of the two weapons and apply the effects of a hit with that weapon. You can't choose a weapon if your attack roll with that weapon was a critical failure, meaning you still miss entirely if both attack rolls were critical failures.",
+ "text": "<title level=\"1\" right=\"Feat 14\" pfs=\"Standard\" > Dual Onslaught Source Player Core 2 pg. 196 1.1 Archetype Dual-Weapon Warrior Prerequisites Dual-Weapon Warrior Dedication --- When you lash out with both weapons, you leave no room for the target to escape your attack. When you use Double Slice, if you miss with both Strikes, choose one of the two weapons and apply the effects of a hit with that weapon. You can't choose a weapon if your attack roll with that weapon was a critical failure, meaning you still miss entirely if both attack rolls were critical failures.",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1955",
+ "url": "/Feats.aspx?ID=6312",
  "weakness": {}
 }

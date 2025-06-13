@@ -1,6 +1,6 @@
 {
  "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions_number": 2,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
@@ -8,35 +8,49 @@
  ],
  "feat_markdown": "Winding Flow",
  "frequency": "once per round",
- "id": "feat-467",
+ "id": "feat-6023",
+ "legacy_id": [
+  "feat-467"
+ ],
  "level": 10,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Winding Flow](/Feats.aspx?ID=467) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 163 <sup>4.0</sup></row>\n\n**Frequency**\r\nonce per round\n\n</column>\r\n\r\n---\r\n\r\nAny journey consists of more than simply reaching your destination. You use two of the following actions in any order: Stand, Step, and Stride. You can’t use the same action twice.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Winding Flow](/Feats.aspx?ID=6023) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 124 <sup>1.1</sup>\n\n**Frequency**\r\nonce per round\n\n</column>\r\n\r\n---\r\n\r\nAny journey consists of more than simply reaching your destination. You use two of the following actions in any order: Stand, Step, and Stride. You can't use the same action twice.",
  "name": "Winding Flow",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 124",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 163 <sup>4.0</sup></row>\r\n\r\n**Frequency**\r\nonce per round\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAny journey consists of more than simply reaching your destination.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 124 <sup>1.1</sup>\n\n**Frequency**\r\nonce per round\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAny journey consists of more than simply reaching your destination.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 163"
+  "Player Core 2 pg. 124"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 163 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 124 <sup>1.1</sup>",
  "speed": {},
  "summary": "Any journey consists of more than simply reaching your destination.",
  "summary_markdown": "Any journey consists of more than simply reaching your destination.",
- "text": "<title level=\"1\" right=\"Feat 10\" pfs=\"Standard\" > Winding Flow Single Action Source Core Rulebook pg. 163 4.0 Frequency once per round --- Any journey consists of more than simply reaching your destination. You use two of the following actions in any order: Stand, Step, and Stride. You can’t use the same action twice.",
+ "text": "<title level=\"1\" right=\"Feat 10\" pfs=\"Standard\" > Winding Flow Single Action Source Player Core 2 pg. 124 1.1 Frequency once per round --- Any journey consists of more than simply reaching your destination. You use two of the following actions in any order: Stand, Step, and Stride. You can't use the same action twice.",
  "trait": [
   "Monk"
  ],
- "trait_markdown": "[Monk](/Traits.aspx?ID=112)",
+ "trait_group": [
+  "Class",
+  "Weapon"
+ ],
+ "trait_markdown": "[Monk](/Traits.aspx?ID=656)",
  "trait_raw": [
   "Monk"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=467",
+ "url": "/Feats.aspx?ID=6023",
  "weakness": {}
 }

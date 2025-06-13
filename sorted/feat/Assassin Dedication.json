@@ -2,54 +2,64 @@
  "archetype": [
   "Assassin"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Assassin Dedication"
  ],
  "feat_markdown": "Assassin Dedication",
- "id": "feat-1890",
+ "id": "feat-6257",
+ "legacy_id": [
+  "feat-1890"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Assassin Dedication](/Feats.aspx?ID=1890) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=41\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 158 <sup>2.0</sup></row>\n\n**Archetype** [Assassin](/Archetypes.aspx?ID=48)\n\n**Prerequisites**\r\n[Alchemical Crafting](/Feats.aspx?ID=752); Trained in [Crafting](/Skills.aspx?ID=4); Trained in [Deception](/Skills.aspx?ID=5); Trained in [Stealth](/Skills.aspx?ID=15)\n\n</column>\r\n\r\n---\r\n\r\nYou've trained to assassinate your foes, and you do so with tenacity and precision. You gain the Mark for Death activity.\n\n<document level=\"2\" id=\"action-565\" />\n\n**Special** You can't select another dedication feat until you've gained two other feats from the assassin archetype.\n\n<title level=\"2\">Assassin Dedication leads to...</title>\r\n[Angel of Death](/Feats.aspx?ID=1893), [Angel of Vindication](/Feats.aspx?ID=3612), [Assassinate](/Feats.aspx?ID=1894), [Eclipsed Vitality](/Feats.aspx?ID=3613), [Expert Backstabber](/Feats.aspx?ID=1891), [Public Execution](/Feats.aspx?ID=4143), [Surprise Attack](/Feats.aspx?ID=1892)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Assassin Dedication](/Feats.aspx?ID=6257) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=572\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 186 <sup>1.1</sup>\n\n**Archetype** [Assassin](/Archetypes.aspx?ID=239)\n\n**Prerequisites**\r\nTrained in [Deception](/Skills.aspx?ID=38); Trained in [Stealth](/Skills.aspx?ID=48)\n\n</column>\r\n\r\n---\r\n\r\nYou've trained to assassinate your foes, and you do so with tenacity and precision. You gain the Mark for Death activity. \n\n ** Mark for Death** <actions string=\"Three Actions\" /> ([concentrate](/Traits.aspx?ID=561)) **Requirements** The creature you intend to mark is [observed](/Conditions.aspx?ID=84) by you; **Effect** You designate a single creature as your mark. Using Mark for Death while hidden or undetected doesn't make you observed. Mark for Death lasts until the mark dies or you use Mark for Death again. You gain a +2 circumstance bonus to Perception checks to Seek your mark, as well as to Deception checks to Feint against your mark. Your mark takes a –2 circumstance penalty to all Perception checks to Seek you.\n\n In addition, when attacking your mark, you have the [sneak attack](/Classes.aspx?ID=37) class feature, except it deals 1d4 precision damage and you don't increase the number of dice as you gain levels. At 6th level, the damage increases to 1d6. If you already have the sneak attack class feature, you instead deal an additional 1 precision damage with your sneak attacks made against your mark, increasing to 2 precision damage at 6th level.\n\n<title level=\"2\">Assassin Dedication leads to...</title>\r\n[Angel of Death](/Feats.aspx?ID=6260), [Assassinate](/Feats.aspx?ID=6261), [Expert Backstabber](/Feats.aspx?ID=6258), [Surprise Attack](/Feats.aspx?ID=6259)",
  "name": "Assassin Dedication",
  "pfs": "Standard",
- "prerequisite": "Alchemical Crafting; Trained in Crafting; Trained in Deception; Trained in Stealth",
- "prerequisite_markdown": "[Alchemical Crafting](/Feats.aspx?ID=752); Trained in [Crafting](/Skills.aspx?ID=4); Trained in [Deception](/Skills.aspx?ID=5); Trained in [Stealth](/Skills.aspx?ID=15)",
+ "prerequisite": "Trained in Deception; Trained in Stealth",
+ "prerequisite_markdown": "Trained in [Deception](/Skills.aspx?ID=38); Trained in [Stealth](/Skills.aspx?ID=48)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 186",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=41\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 158 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Alchemical Crafting](/Feats.aspx?ID=752); Trained in [Crafting](/Skills.aspx?ID=4); Trained in [Deception](/Skills.aspx?ID=5); Trained in [Stealth](/Skills.aspx?ID=15)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou've trained to assassinate your foes, and you do so with tenacity and precision.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=572\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 186 <sup>1.1</sup>\n\n**Prerequisites**\r\nTrained in [Deception](/Skills.aspx?ID=38); Trained in [Stealth](/Skills.aspx?ID=48)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou've trained to assassinate your foes, and you do so with tenacity and precision.\r\n</summary>",
  "skill": [
-  "Crafting",
   "Deception",
   "Stealth",
-  "Crafting",
   "Deception",
   "Stealth"
  ],
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 158"
+  "Player Core 2 pg. 186"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 158 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 186 <sup>1.1</sup>",
  "speed": {},
  "summary": "You've trained to assassinate your foes, and you do so with tenacity and precision.",
  "summary_markdown": "You've trained to assassinate your foes, and you do so with tenacity and precision.",
- "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Assassin Dedication Source Advanced Player's Guide pg. 158 2.0 Archetype Assassin Prerequisites Alchemical Crafting; Trained in Crafting; Trained in Deception; Trained in Stealth --- You've trained to assassinate your foes, and you do so with tenacity and precision. You gain the Mark for Death activity. Special You can't select another dedication feat until you've gained two other feats from the assassin archetype. Assassin Dedication leads to... Angel of Death, Angel of Vindication, Assassinate, Eclipsed Vitality, Expert Backstabber, Public Execution, Surprise Attack",
+ "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Assassin Dedication Source Player Core 2 pg. 186 1.1 Archetype Assassin Prerequisites Trained in Deception; Trained in Stealth --- You've trained to assassinate your foes, and you do so with tenacity and precision. You gain the Mark for Death activity. Mark for Death Three Actions (concentrate) Requirements The creature you intend to mark is observed by you; Effect You designate a single creature as your mark. Using Mark for Death while hidden or undetected doesn't make you observed. Mark for Death lasts until the mark dies or you use Mark for Death again. You gain a +2 circumstance bonus to Perception checks to Seek your mark, as well as to Deception checks to Feint against your mark. Your mark takes a –2 circumstance penalty to all Perception checks to Seek you. In addition, when attacking your mark, you have the sneak attack class feature, except it deals 1d4 precision damage and you don't increase the number of dice as you gain levels. At 6th level, the damage increases to 1d6. If you already have the sneak attack class feature, you instead deal an additional 1 precision damage with your sneak attacks made against your mark, increasing to 2 precision damage at 6th level. Assassin Dedication leads to... Angel of Death, Assassinate, Expert Backstabber, Surprise Attack",
  "trait": [
   "Archetype",
   "Dedication"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Dedication](/Traits.aspx?ID=41)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535), [Dedication](/Traits.aspx?ID=572)",
  "trait_raw": [
   "Archetype",
   "Dedication"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1890",
+ "url": "/Feats.aspx?ID=6257",
  "weakness": {}
 }

@@ -2,46 +2,58 @@
  "archetype": [
   "Gladiator"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Gladiator Dedication"
  ],
  "feat_markdown": "Gladiator Dedication",
- "id": "feat-1976",
+ "id": "feat-6333",
+ "legacy_id": [
+  "feat-1976"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Gladiator Dedication](/Feats.aspx?ID=1976) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=41\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 175 <sup>2.0</sup></row>\n\n**Archetype** [Gladiator](/Archetypes.aspx?ID=61)\n\n**Prerequisites**\r\n[Impressive Performance](/Feats.aspx?ID=793)\n\n</column>\r\n\r\n---\r\n\r\nYou know how to turn combat into a form of entertainment. You become trained in [Gladiatorial Lore](/Skills.aspx?ID=8); if already trained in Gladiatorial Lore, you instead become trained in another Lore skill of your choice. \n\nAt the start of a combat encounter, if you have spectators, you gain a number of temporary HP equal to your character level for 1 minute and you can roll [Performance](/Skills.aspx?ID=12) for your initiative.\n\n**Special** You can't select another dedication feat until you have gained two other feats from the gladiator archetype.\n\n<title level=\"2\">Gladiator Dedication leads to...</title>\r\n[Big Debut](/Feats.aspx?ID=4146), [Fancy Moves](/Feats.aspx?ID=1977), [Living for the Applause](/Feats.aspx?ID=4142), [Performative Weapons Training](/Feats.aspx?ID=1980), [Play to the Crowd](/Feats.aspx?ID=1978), [Stage Fighting](/Feats.aspx?ID=1979)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Gladiator Dedication](/Feats.aspx?ID=6333) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=572\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 200 <sup>1.1</sup>\n\n**Archetype** [Gladiator](/Archetypes.aspx?ID=251)\n\n**Prerequisites**\r\n[Impressive Performance](/Feats.aspx?ID=5159)\n\n</column>\r\n\r\n---\r\n\r\nYou know how to turn combat into a form of entertainment. You gain the [Additional Lore](/Feats.aspx?ID=5114) general feat for [Gladiatorial Lore](/Skills.aspx?ID=41). If you were already trained in Gladiatorial Lore, you also become trained in a Lore skill of your choice.\n\n At the start of a combat encounter, if you have spectators, you gain a number of temporary HP equal to your character level for 1 minute and you can roll Performance for your initiative. If there are sapient creatures observing a combat encounter, and these onlookers are neither engaged in the combat themselves nor directly assisting any participants, the combatants have spectators. The GM is the final arbiter of whether or not a combat has spectators.\n\n<title level=\"2\">Gladiator Dedication leads to...</title>\r\n[Costume Change](/Feats.aspx?ID=7640), [Fancy Moves](/Feats.aspx?ID=6334), [Fight Choreography](/Feats.aspx?ID=7644), [Gladiator's Roar](/Feats.aspx?ID=7634), [It's Not Over](/Feats.aspx?ID=7642), [More Real than Real](/Feats.aspx?ID=7646), [Operatic Adventurer](/Feats.aspx?ID=7635), [Performative Weapons Training](/Feats.aspx?ID=6337), [Play to the Crowd](/Feats.aspx?ID=6335), [Stage Fighting](/Feats.aspx?ID=6336), [Tempo Shift](/Feats.aspx?ID=7643), [Tragic Lament](/Feats.aspx?ID=7645)",
  "name": "Gladiator Dedication",
  "pfs": "Standard",
  "prerequisite": "Impressive Performance",
- "prerequisite_markdown": "[Impressive Performance](/Feats.aspx?ID=793)",
+ "prerequisite_markdown": "[Impressive Performance](/Feats.aspx?ID=5159)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 200",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=41\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 175 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Impressive Performance](/Feats.aspx?ID=793)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou know how to turn combat into a form of entertainment.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=572\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 200 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Impressive Performance](/Feats.aspx?ID=5159)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou know how to turn combat into a form of entertainment.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 175"
+  "Player Core 2 pg. 200"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 175 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 200 <sup>1.1</sup>",
  "speed": {},
  "summary": "You know how to turn combat into a form of entertainment.",
  "summary_markdown": "You know how to turn combat into a form of entertainment.",
- "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Gladiator Dedication Source Advanced Player's Guide pg. 175 2.0 Archetype Gladiator Prerequisites Impressive Performance --- You know how to turn combat into a form of entertainment. You become trained in Gladiatorial Lore; if already trained in Gladiatorial Lore, you instead become trained in another Lore skill of your choice. At the start of a combat encounter, if you have spectators, you gain a number of temporary HP equal to your character level for 1 minute and you can roll Performance for your initiative. Special You can't select another dedication feat until you have gained two other feats from the gladiator archetype. Gladiator Dedication leads to... Big Debut, Fancy Moves, Living for the Applause, Performative Weapons Training, Play to the Crowd, Stage Fighting",
+ "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Gladiator Dedication Source Player Core 2 pg. 200 1.1 Archetype Gladiator Prerequisites Impressive Performance --- You know how to turn combat into a form of entertainment. You gain the Additional Lore general feat for Gladiatorial Lore. If you were already trained in Gladiatorial Lore, you also become trained in a Lore skill of your choice. At the start of a combat encounter, if you have spectators, you gain a number of temporary HP equal to your character level for 1 minute and you can roll Performance for your initiative. If there are sapient creatures observing a combat encounter, and these onlookers are neither engaged in the combat themselves nor directly assisting any participants, the combatants have spectators. The GM is the final arbiter of whether or not a combat has spectators. Gladiator Dedication leads to... Costume Change, Fancy Moves, Fight Choreography, Gladiator's Roar, It's Not Over, More Real than Real, Operatic Adventurer, Performative Weapons Training, Play to the Crowd, Stage Fighting, Tempo Shift, Tragic Lament",
  "trait": [
   "Archetype",
   "Dedication"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Dedication](/Traits.aspx?ID=41)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535), [Dedication](/Traits.aspx?ID=572)",
  "trait_raw": [
   "Archetype",
   "Dedication"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1976",
+ "url": "/Feats.aspx?ID=6333",
  "weakness": {}
 }

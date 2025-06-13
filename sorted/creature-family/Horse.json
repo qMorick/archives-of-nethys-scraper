@@ -1,29 +1,38 @@
 {
- "breadcrumbs_spa": [],
  "category": "creature-family",
  "creature_family": "Horse",
  "creature_family_markdown": "Horse",
  "exclude_from_search": false,
- "id": "creature-family-62",
- "markdown": "<title level=\"1\" right=\"Creature Family\">[Horse](/MonsterFamilies.aspx?ID=62)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 209</row>\n\nHorses serve as mounts and beasts of burden in many societies. They are loyal and typically gentle creatures, and they are invaluable to those looking to travel long distances. Smaller folk, like gnomes and halflings, often utilize ponies as mounts, while horses are the favored steeds for humans and other Medium humanoids. Most horses that the average humanoid encounters are domesticated, though large herds of these powerful animals can be found in the wild.\r\n\r\n<title level=\"2\">Members</title>\r\n[Riding Horse](/Monsters.aspx?ID=266) (Creature 1), [Riding Pony](/Monsters.aspx?ID=265) (Creature 0), [War Horse](/Monsters.aspx?ID=268) (Creature 2), [War Pony](/Monsters.aspx?ID=267) (Creature 1)\n\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Goblins and Horses</title>\r\n\r\nGoblins have many superstitions and quirks, but few of them are stronger than their fear and hatred of horses. This isn’t a one-sided affair. Horses also fear and hate goblins, and some have been known to go out of their way to harm a goblin. A goblin trying to mount a horse is nearly always subject to a torrent of violent bucking, as the horse does everything in its power to fling the goblin to the ground and within reach of its hooves.\r\n</aside>",
+ "id": "creature-family-431",
+ "legacy_id": [
+  "creature-family-62"
+ ],
+ "markdown": "<title level=\"1\" right=\"Creature Family\">[Horse](/MonsterFamilies.aspx?ID=431)</title>\r\n\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 201 <sup>1.1</sup>\n\nHorses serve as mounts and beasts of burden in many societies. They are loyal and typically gentle creatures, and they are invaluable to those looking to travel long distances. Smaller folk, like [gnomes](/Ancestries.aspx?ID=3) and [halflings](/Ancestries.aspx?ID=5), often utilize ponies as mounts, while horses are the favored steeds for [humans](/Ancestries.aspx?ID=1) and other Medium humanoids. Most horses that the average humanoid encounters are domesticated, though large herds can be found in the wild.\r\n\r\n<title level=\"2\">Members</title>\r\n[Riding Horse](/Monsters.aspx?ID=3058) (Creature 1), [Riding Pony](/Monsters.aspx?ID=3057) (Creature 0), [War Horse](/Monsters.aspx?ID=3060) (Creature 2), [War Pony](/Monsters.aspx?ID=3059) (Creature 1)\n\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Goblins and Horses</title>\r\n\r\n[Goblins](/MonsterFamilies.aspx?ID=422) have many superstitions and quirks, but few of them are stronger than their fear and hatred of horses. This isn't a one-sided affair. Horses also fear and hate goblins, and some have been known to go out of their way to harm a goblin. A goblin trying to mount a horse is nearly always subject to a torrent of violent bucking, as the horse does everything in its power to fling the goblin to the ground and within reach of its hooves.\r\n</aside>",
  "name": "Horse",
+ "primary_source": "Monster Core",
+ "primary_source_raw": "Monster Core pg. 201",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-03-27",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 209</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHorses serve as mounts and beasts of burden in many societies. They are loyal and typically gentle creatures, and they are invaluable to those …\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 201 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHorses serve as mounts and beasts of burden in many societies. They are loyal and typically gentle creatures, and they are invaluable to those …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Bestiary"
+  "Monster Core"
  ],
  "source_raw": [
-  "Bestiary pg. 209"
+  "Monster Core pg. 201"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 209</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Monster Core](/Sources.aspx?ID=221) pg. 201 <sup>1.1</sup>",
  "speed": {},
  "summary": "Horses serve as mounts and beasts of burden in many societies. They are loyal and typically gentle creatures, and they are invaluable to those …",
  "summary_markdown": "Horses serve as mounts and beasts of burden in many societies. They are loyal and typically gentle creatures, and they are invaluable to those …",
- "text": " Horse Source Bestiary pg. 209 Horses serve as mounts and beasts of burden in many societies. They are loyal and typically gentle creatures, and they are invaluable to those looking to travel long distances. Smaller folk, like gnomes and halflings, often utilize ponies as mounts, while horses are the favored steeds for humans and other Medium humanoids. Most horses that the average humanoid encounters are domesticated, though large herds of these powerful animals can be found in the wild. Members Riding Horse (Creature 1), Riding Pony (Creature 0), War Horse (Creature 2), War Pony (Creature 1) Goblins and Horses Goblins have many superstitions and quirks, but few of them are stronger than their fear and hatred of horses. This isn’t a one-sided affair. Horses also fear and hate goblins, and some have been known to go out of their way to harm a goblin. A goblin trying to mount a horse is nearly always subject to a torrent of violent bucking, as the horse does everything in its power to fling the goblin to the ground and within reach of its hooves. ",
+ "text": " Horse Source Monster Core pg. 201 1.1 Horses serve as mounts and beasts of burden in many societies. They are loyal and typically gentle creatures, and they are invaluable to those looking to travel long distances. Smaller folk, like gnomes and halflings, often utilize ponies as mounts, while horses are the favored steeds for humans and other Medium humanoids. Most horses that the average humanoid encounters are domesticated, though large herds can be found in the wild. Members Riding Horse (Creature 1), Riding Pony (Creature 0), War Horse (Creature 2), War Pony (Creature 1) Goblins and Horses Goblins have many superstitions and quirks, but few of them are stronger than their fear and hatred of horses. This isn't a one-sided affair. Horses also fear and hate goblins, and some have been known to go out of their way to harm a goblin. A goblin trying to mount a horse is nearly always subject to a torrent of violent bucking, as the horse does everything in its power to fling the goblin to the ground and within reach of its hooves. ",
  "type": "Creature Family",
- "url": "/MonsterFamilies.aspx?ID=62",
+ "url": "/MonsterFamilies.aspx?ID=431",
  "weakness": {}
 }

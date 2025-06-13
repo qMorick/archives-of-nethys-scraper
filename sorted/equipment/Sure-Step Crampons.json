@@ -1,6 +1,5 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
  "bulk": 1,
  "bulk_raw": "1",
  "category": "equipment",
@@ -9,40 +8,54 @@
  "item_category": "Worn Items",
  "item_subcategory": "Other Worn Items",
  "level": 6,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Sure-Step Crampons](/Equipment.aspx?ID=2312)\r\n</title>\n\n<traits>\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 146 <sup>1.1</sup>, [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 81</row>\n\n**Price** 210 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** worn shoes\r\n\r\n**Bulk** 1\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nSure-step crampons are sturdy leather boots with warm fur lining and magically augmented steel crampons that offer the wearer better purchase on ice. They allow you to walk across ice without difficulty, ignoring the uneven ground and difficult terrain caused by ice, and reducing greater difficult terrain caused by ice to difficult terrain.\n\n<document level=\"2\" id=\"action-1861\" />\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Sure-Step Crampons](/Equipment.aspx?ID=2312)\r\n</title>\n\n<traits>\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 146 <sup>2.0</sup>, [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 81\n\n**Price** 210 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** worn shoes\r\n\r\n**Bulk** 1\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nSure-step crampons are sturdy leather boots with warm fur lining and magically augmented steel crampons that offer the wearer better purchase on ice. They allow you to walk across ice without difficulty, ignoring the uneven ground and difficult terrain caused by ice, and reducing greater difficult terrain caused by ice to difficult terrain.\n\n**Activate** <actions string=\"Single Action\" /> ([manipulate](/Traits.aspx?ID=645))   **Requirements** You're standing on an earthen, icy, or wooden surface; **Effect** You dig the crampons into the spot where you're standing, offering additional support until the next time you move. You gain a +2 circumstance bonus to your Fortitude and Reflex DCs against attempts to [Shove](/Actions.aspx?ID=38) or [Trip](/Actions.aspx?ID=40) you. This bonus also applies to saving throws against spells or effects that attempt to [move you](/Rules.aspx?ID=451) or knock you [prone](/Conditions.aspx?ID=31). The bonus lasts until you move from your current spot.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Sure-Step Crampons",
  "pfs": "Standard",
  "price": 21000,
  "price_raw": "210 gp",
+ "primary_source": "Treasure Vault",
+ "primary_source_raw": "Treasure Vault pg. 146",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
+ "rarity_id": 1,
  "release_date": "2023-02-22",
  "resistance": {},
- "school": "transmutation",
- "search_markdown": "<traits>\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Sources** [Treasure Vault](/Sources.aspx?ID=191) pg. 146 <sup>1.1</sup>, [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 81</row>\r\n\r\n**Price** 210 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** worn shoes\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSure-step crampons are sturdy leather boots with warm fur lining and magically augmented steel crampons that offer the wearer better purchase on ice. …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 146 <sup>2.0</sup>, [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 81\r\n\r\n**Price** 210 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** worn shoes\r\n\r\n**Bulk** 1\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSure-step crampons are sturdy leather boots with warm fur lining and magically augmented steel crampons that offer the wearer better purchase on ice. …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Treasure Vault"
+  "Treasure Vault",
+  "Pathfinder #176: Lost Mammoth Valley"
  ],
  "source_raw": [
-  "Treasure Vault pg. 146"
+  "Treasure Vault pg. 146",
+  "Pathfinder #176: Lost Mammoth Valley pg. 81"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Treasure Vault](/Sources.aspx?ID=191) pg. 146 <sup>1.1</sup>, [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 81</row>",
+ "source_category": [
+  "Rulebooks",
+  "Adventure Paths"
+ ],
+ "source_group": [
+  "Quest for the Frozen Flame"
+ ],
+ "source_markdown": "[Treasure Vault](/Sources.aspx?ID=191) pg. 146 <sup>2.0</sup>, [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 81",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
  "summary": "Sure-step crampons are sturdy leather boots with warm fur lining and magically augmented steel crampons that offer the wearer better purchase on ice. …",
  "summary_markdown": "Sure-step crampons are sturdy leather boots with warm fur lining and magically augmented steel crampons that offer the wearer better purchase on ice. …",
- "text": "<title level=\"1\" right=\"Item 6\" pfs=\"Standard\" > Sure-Step Crampons Source Treasure Vault pg. 146 1.1 , Pathfinder #176: Lost Mammoth Valley pg. 81 Price 210 gp Usage worn shoes Bulk 1 --- Sure-step crampons are sturdy leather boots with warm fur lining and magically augmented steel crampons that offer the wearer better purchase on ice. They allow you to walk across ice without difficulty, ignoring the uneven ground and difficult terrain caused by ice, and reducing greater difficult terrain caused by ice to difficult terrain.\n",
+ "text": "<title level=\"1\" right=\"Item 6\" pfs=\"Standard\" > Sure-Step Crampons Source Treasure Vault pg. 146 2.0 , Pathfinder #176: Lost Mammoth Valley pg. 81 Price 210 gp Usage worn shoes Bulk 1 --- Sure-step crampons are sturdy leather boots with warm fur lining and magically augmented steel crampons that offer the wearer better purchase on ice. They allow you to walk across ice without difficulty, ignoring the uneven ground and difficult terrain caused by ice, and reducing greater difficult terrain caused by ice to difficult terrain. Activate Single Action (manipulate) Requirements You're standing on an earthen, icy, or wooden surface; Effect You dig the crampons into the spot where you're standing, offering additional support until the next time you move. You gain a +2 circumstance bonus to your Fortitude and Reflex DCs against attempts to Shove or Trip you. This bonus also applies to saving throws against spells or effects that attempt to move you or knock you prone. The bonus lasts until you move from your current spot.\n",
  "trait": [
   "Invested",
-  "Magical",
-  "Transmutation"
+  "Magical"
  ],
- "trait_markdown": "[Invested](/Traits.aspx?ID=98), [Magical](/Traits.aspx?ID=103), [Transmutation](/Traits.aspx?ID=157)",
+ "trait_group": [
+  "Equipment",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Invested](/Traits.aspx?ID=98), [Magical](/Traits.aspx?ID=103)",
  "trait_raw": [
   "Invested",
-  "Magical",
-  "Transmutation"
+  "Magical"
  ],
  "type": "Item",
  "url": "/Equipment.aspx?ID=2312",

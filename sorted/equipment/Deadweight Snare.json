@@ -1,34 +1,44 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
+ "bulk": 0,
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-1251",
+ "id": "equipment-3368",
  "item_category": "Snares",
+ "legacy_id": [
+  "equipment-1251"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Deadweight Snare](/Equipment.aspx?ID=1251)\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=224\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Snare\" url=\"/Traits.aspx?ID=146\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Grand Bazaar](/Sources.aspx?ID=100) pg. 14</row>\n\n**Price** 6 gp\r\n\r\n<row gap=\"medium\">\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis snare is made of magnetized weights and heavy ropes rigged to a trip wire or pressure plate. When a creature enters the square, the magnets and ropes deploy, weighing down the creature's weapons and limbs. The creature must attempt a DC 18 Reflex save.\n\n**Critical Success** The creature is unaffected.<br />\r\n**Success** The creature takes a –1 status penalty to attack rolls for 1 round or until it [Escapes](/Actions.aspx?ID=79) (DC 18).<br />\r\n**Failure** The creature takes a –2 status penalty to attack rolls for 1 minute or until it Escapes (DC 18).<br />\r\n**Critical Failure** As failure, but the creature drops any metallic items it's holding.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Deadweight Snare](/Equipment.aspx?ID=3368)\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=759\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=646\" />\r\n<trait label=\"Snare\" url=\"/Traits.aspx?ID=809\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=715\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 298 <sup>1.1</sup>\n\n**Price** 6 gp\r\n\r\n<row gap=\"medium\">\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis snare is made of magnetized weights and heavy ropes rigged to a trip wire or pressure plate. When a creature enters the square, the magnets and ropes deploy, weighing down the creature's weapons and limbs. The creature must attempt a DC 18 Reflex save.\n\n**Critical Success** The creature is unaffected.<br />\r\n**Success** The creature takes a -1 status penalty to attack rolls for 1 round or until it [Escapes](/Actions.aspx?ID=2296) (DC 18).<br />\r\n**Failure** The creature takes a –2 status penalty to attack rolls for 1 minute or until it Escapes (DC 18).<br />\r\n**Critical Failure** As failure, but the creature drops any metallic items it's holding.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Deadweight Snare",
  "pfs": "Standard",
  "price": 600,
  "price_raw": "6 gp",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 298",
+ "primary_source_category": "Rulebooks",
  "rarity": "uncommon",
- "release_date": "2021-10-13",
+ "rarity_id": 2,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=224\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Snare\" url=\"/Traits.aspx?ID=146\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Grand Bazaar](/Sources.aspx?ID=100) pg. 14</row>\r\n\r\n**Price** 6 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis snare is made of magnetized weights and heavy ropes rigged to a trip wire or pressure plate. When a creature enters the square, the magnets and …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=759\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=646\" />\r\n<trait label=\"Snare\" url=\"/Traits.aspx?ID=809\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=715\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 298 <sup>1.1</sup>\r\n\r\n**Price** 6 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis snare is made of magnetized weights and heavy ropes rigged to a trip wire or pressure plate. When a creature enters the square, the magnets and …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Grand Bazaar"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Grand Bazaar pg. 14"
+  "Player Core 2 pg. 298"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Grand Bazaar](/Sources.aspx?ID=100) pg. 14</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 298 <sup>1.1</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
  "summary": "This snare is made of magnetized weights and heavy ropes rigged to a trip wire or pressure plate. When a creature enters the square, the magnets and …",
  "summary_markdown": "This snare is made of magnetized weights and heavy ropes rigged to a trip wire or pressure plate. When a creature enters the square, the magnets and …",
- "text": "<title level=\"1\" right=\"Item 2\" pfs=\"Standard\" > Deadweight Snare Source Grand Bazaar pg. 14 Price 6 gp --- This snare is made of magnetized weights and heavy ropes rigged to a trip wire or pressure plate. When a creature enters the square, the magnets and ropes deploy, weighing down the creature's weapons and limbs. The creature must attempt a DC 18 Reflex save. Critical Success The creature is unaffected. Success The creature takes a –1 status penalty to attack rolls for 1 round or until it Escapes (DC 18). Failure The creature takes a –2 status penalty to attack rolls for 1 minute or until it Escapes (DC 18). Critical Failure As failure, but the creature drops any metallic items it's holding.\n",
+ "text": "<title level=\"1\" right=\"Item 2\" pfs=\"Standard\" > Deadweight Snare Source Player Core 2 pg. 298 1.1 Price 6 gp --- This snare is made of magnetized weights and heavy ropes rigged to a trip wire or pressure plate. When a creature enters the square, the magnets and ropes deploy, weighing down the creature's weapons and limbs. The creature must attempt a DC 18 Reflex save. Critical Success The creature is unaffected. Success The creature takes a -1 status penalty to attack rolls for 1 round or until it Escapes (DC 18). Failure The creature takes a –2 status penalty to attack rolls for 1 minute or until it Escapes (DC 18). Critical Failure As failure, but the creature drops any metallic items it's holding.\n",
  "trait": [
   "Consumable",
   "Kobold",
@@ -37,7 +47,13 @@
   "Trap",
   "Uncommon"
  ],
- "trait_markdown": "[Consumable](/Traits.aspx?ID=36), [Kobold](/Traits.aspx?ID=224), [Mechanical](/Traits.aspx?ID=105), [Snare](/Traits.aspx?ID=146), [Trap](/Traits.aspx?ID=158), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Equipment",
+  "Monster",
+  "Hazard",
+  "Rarity"
+ ],
+ "trait_markdown": "[Consumable](/Traits.aspx?ID=564), [Kobold](/Traits.aspx?ID=759), [Mechanical](/Traits.aspx?ID=646), [Snare](/Traits.aspx?ID=809), [Trap](/Traits.aspx?ID=715), [Uncommon](/Traits.aspx?ID=721)",
  "trait_raw": [
   "Consumable",
   "Kobold",
@@ -47,6 +63,6 @@
   "Uncommon"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=1251",
+ "url": "/Equipment.aspx?ID=3368",
  "weakness": {}
 }

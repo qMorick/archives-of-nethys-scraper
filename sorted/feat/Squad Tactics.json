@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Squad Tactics"
  ],
  "feat_markdown": "Squad Tactics",
- "id": "feat-2374",
+ "id": "feat-5584",
+ "legacy_id": [
+  "feat-2374"
+ ],
  "level": 9,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 9\"\r\n    pfs=\"Standard\"\r\n>\r\n[Squad Tactics](/Feats.aspx?ID=2374) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=268\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 35 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou are adept at working with your allies to surround a foe. If an enemy is within reach of you and at least two of your allies, that enemy is [flat-footed](/Conditions.aspx?ID=16) against you.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 9\"\r\n    pfs=\"Standard\"\r\n>\r\n[Squad Tactics](/Feats.aspx?ID=5584) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=757\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 15 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou are adept at working with your allies to surround an enemy. If an enemy is within reach of you and at least two of your allies, that enemy is [off-guard](/Conditions.aspx?ID=58) to you.",
  "name": "Squad Tactics",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 15",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2021-02-24",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=268\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 35 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou are adept at working with your allies to surround a foe.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=757\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 15 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou are adept at working with your allies to surround an enemy.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Ancestry Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Ancestry Guide pg. 35"
+  "Player Core 2 pg. 15"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Ancestry Guide](/Sources.aspx?ID=74) pg. 35 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 15 <sup>1.1</sup>",
  "speed": {},
- "summary": "You are adept at working with your allies to surround a foe.",
- "summary_markdown": "You are adept at working with your allies to surround a foe.",
- "text": "<title level=\"1\" right=\"Feat 9\" pfs=\"Standard\" > Squad Tactics Source Ancestry Guide pg. 35 2.0 --- You are adept at working with your allies to surround a foe. If an enemy is within reach of you and at least two of your allies, that enemy is flat-footed against you.",
+ "summary": "You are adept at working with your allies to surround an enemy.",
+ "summary_markdown": "You are adept at working with your allies to surround an enemy.",
+ "text": "<title level=\"1\" right=\"Feat 9\" pfs=\"Standard\" > Squad Tactics Source Player Core 2 pg. 15 1.1 --- You are adept at working with your allies to surround an enemy. If an enemy is within reach of you and at least two of your allies, that enemy is off-guard to you.",
  "trait": [
   "Hobgoblin"
  ],
- "trait_markdown": "[Hobgoblin](/Traits.aspx?ID=268)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Hobgoblin](/Traits.aspx?ID=757)",
  "trait_raw": [
   "Hobgoblin"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2374",
+ "url": "/Feats.aspx?ID=5584",
  "weakness": {}
 }

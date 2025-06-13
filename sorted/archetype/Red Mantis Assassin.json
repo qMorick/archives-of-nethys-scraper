@@ -5,42 +5,59 @@
  ],
  "archetype_category": [
   "Faction",
-  "Mystical"
+  "Combat Style"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-17",
+ "id": "archetype-271",
+ "legacy_id": [
+  "archetype-17"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Restricted\">[Red Mantis Assassin](/Archetypes.aspx?ID=17)</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n</traits>\n\n<row gap=\"tiny\">**Source** [World Guide](/Sources.aspx?ID=6) pg. 71 <sup>2.0</sup></row>\n\nYou are a Red Mantis assassin, inducted by the mantis god and sworn to chase your prey to the end of the world and beyond.\n\n<document level=\"2\" id=\"feat-895\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-896\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-897\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-898\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2162\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-899\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2163\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2165\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2164\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Limited\">[Red Mantis Assassin](/Archetypes.aspx?ID=271)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<spoilers>May contain spoilers from Prey for Death</spoilers>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n</traits>\n\n**Source** [Prey for Death](/Sources.aspx?ID=231) pg. 108\n\nYou are a Red Mantis assassin, inducted by [Achaekek](/Deities.aspx?ID=325), He Who, and sworn to chase your prey to the end of the world and beyond. While many Red Mantis assassins hail from the city of Ilizmagorti and regard it as their hometown, the Red Mantis has agents throughout the world, some of whom have yet to visit their so- called capital city. Still, those who have never been to Ilizmagorti eventually realize that they should at least pay a the city visit at some point in their lives.\n\n As a Red Mantis assassin, you'll periodically be asked to perform assassinations—but the organization is not without rules. The information presented on the previous page is important to understand if you choose to play a Red Mantis assassin as a result. This, plus the fact that the pursuit of murder-for-hire is generally seen as a criminal act that draws the interest of society's less-reputable and more sadistic members, means that this archetype may not be appropriate for all groups. More than most archetypes, this one requires the consent and permission of not just the GM, but of your fellow players. For an adventure like Prey for Death, though, this archetype can be considered to be unlocked for all who wish to join.\n\n The rare feats presented in the archetype are typically available only for assassins who have received permission from the Blood Mistress to undergo the appropriate training.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-6519\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4921\"\r\noverride-title-right=\"Feat 2*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6520\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4869\"\r\noverride-title-right=\"Feat 4*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4929\"\r\noverride-title-right=\"Feat 4*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6521\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4933\"\r\noverride-title-right=\"Feat 6*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6522\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4939\"\r\noverride-title-right=\"Feat 6*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6523\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4943\"\r\noverride-title-right=\"Feat 8*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6524\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-5036\"\r\noverride-title-right=\"Feat 10*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6525\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4954\"\r\noverride-title-right=\"Feat 10*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6526\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6527\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6528\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6529\"\n\n/>",
  "name": "Red Mantis Assassin",
- "pfs": "Restricted",
- "prerequisite": "trained in sawtooth sabers; worshipper of Achaekek; lawful evil alignment; member of the Red Mantis assassins",
- "prerequisite_markdown": "trained in [sawtooth sabers](/Weapons.aspx?ID=65); worshipper of [Achaekek](/Deities.aspx?ID=29); lawful evil alignment; member of the Red Mantis assassins",
+ "pfs": "Limited",
+ "prerequisite": "trained in sawtooth sabers; worshipper of Achaekek; member of the Red Mantis assassins",
+ "prerequisite_markdown": "trained in [sawtooth sabers](/Weapons.aspx?ID=423); worshipper of [Achaekek](/Deities.aspx?ID=325); member of the Red Mantis assassins",
+ "primary_source": "Prey for Death",
+ "primary_source_raw": "Prey for Death pg. 108",
+ "primary_source_category": "Adventures",
+ "primary_source_group": "Prey for Death",
  "rarity": "uncommon",
- "release_date": "2019-08-31",
+ "rarity_id": 2,
+ "release_date": "2024-07-31",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [World Guide](/Sources.aspx?ID=6) pg. 71 <sup>2.0</sup></row>\r\n\r\n**Prerequisites**\r\ntrained in [sawtooth sabers](/Weapons.aspx?ID=65); worshipper of [Achaekek](/Deities.aspx?ID=29); lawful evil alignment; member of the Red Mantis assassins\r\n\r\n**Access**\r\nYou are from Mediogalti Island.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou are a Red Mantis assassin, inducted by the mantis god and sworn to chase your prey to the end of the world and beyond.\r\n</summary>",
+ "search_markdown": "<spoilers>May contain spoilers from Prey for Death</spoilers>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Prey for Death](/Sources.aspx?ID=231) pg. 108\r\n\r\n**Prerequisites**\r\ntrained in [sawtooth sabers](/Weapons.aspx?ID=423); worshipper of [Achaekek](/Deities.aspx?ID=325); member of the Red Mantis assassins\r\n\r\n**Access**\r\nYou are from Mediogalti Island.\n\n**Archetype Categories**\r\nFaction, Combat Style\r\n\r\n**Number of Feats** 19\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou are a Red Mantis assassin, inducted by  Achaekek , He Who, and sworn to chase your prey to the end of the world and beyond. While many Red Mantis …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "World Guide"
+  "Prey for Death"
  ],
  "source_raw": [
-  "World Guide pg. 71"
+  "Prey for Death pg. 108"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[World Guide](/Sources.aspx?ID=6) pg. 71 <sup>2.0</sup></row>",
+ "source_category": [
+  "Adventures"
+ ],
+ "source_group": [
+  "Prey for Death"
+ ],
+ "source_markdown": "[Prey for Death](/Sources.aspx?ID=231) pg. 108",
  "speed": {},
- "summary": "You are a Red Mantis assassin, inducted by the mantis god and sworn to chase your prey to the end of the world and beyond.",
- "summary_markdown": "You are a Red Mantis assassin, inducted by the mantis god and sworn to chase your prey to the end of the world and beyond.",
- "text": " Red Mantis Assassin Source World Guide pg. 71 2.0 You are a Red Mantis assassin, inducted by the mantis god and sworn to chase your prey to the end of the world and beyond. <document level=\"2\" id=\"feat-896\" /> <document level=\"2\" id=\"feat-897\" /> <document level=\"2\" id=\"feat-898\" /> <document level=\"2\" id=\"feat-2162\" /> <document level=\"2\" id=\"feat-899\" /> <document level=\"2\" id=\"feat-2163\" /> <document level=\"2\" id=\"feat-2165\" /> <document level=\"2\" id=\"feat-2164\" />",
+ "spoilers": "Prey for Death",
+ "summary": "You are a Red Mantis assassin, inducted by  Achaekek , He Who, and sworn to chase your prey to the end of the world and beyond. While many Red Mantis …",
+ "summary_markdown": "You are a Red Mantis assassin, inducted by  Achaekek , He Who, and sworn to chase your prey to the end of the world and beyond. While many Red Mantis …",
+ "text": " Red Mantis Assassin May contain spoilers from Prey for Death Source Prey for Death pg. 108 You are a Red Mantis assassin, inducted by Achaekek, He Who, and sworn to chase your prey to the end of the world and beyond. While many Red Mantis assassins hail from the city of Ilizmagorti and regard it as their hometown, the Red Mantis has agents throughout the world, some of whom have yet to visit their so- called capital city. Still, those who have never been to Ilizmagorti eventually realize that they should at least pay a the city visit at some point in their lives. As a Red Mantis assassin, you'll periodically be asked to perform assassinations—but the organization is not without rules. The information presented on the previous page is important to understand if you choose to play a Red Mantis assassin as a result. This, plus the fact that the pursuit of murder-for-hire is generally seen as a criminal act that draws the interest of society's less-reputable and more sadistic members, means that this archetype may not be appropriate for all groups. More than most archetypes, this one requires the consent and permission of not just the GM, but of your fellow players. For an adventure like Prey for Death, though, this archetype can be considered to be unlocked for all who wish to join. The rare feats presented in the archetype are typically available only for assassins who have received permission from the Blood Mistress to undergo the appropriate training. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-4921\" override-title-right=\"Feat 2 \" /> <document level=\"2\" id=\"feat-6520\" /> <document level=\"2\" id=\"feat-4869\" override-title-right=\"Feat 4 \" /> <document level=\"2\" id=\"feat-4929\" override-title-right=\"Feat 4 \" /> <document level=\"2\" id=\"feat-6521\" /> <document level=\"2\" id=\"feat-4933\" override-title-right=\"Feat 6 \" /> <document level=\"2\" id=\"feat-6522\" /> <document level=\"2\" id=\"feat-4939\" override-title-right=\"Feat 6 \" /> <document level=\"2\" id=\"feat-6523\" /> <document level=\"2\" id=\"feat-4943\" override-title-right=\"Feat 8 \" /> <document level=\"2\" id=\"feat-6524\" /> <document level=\"2\" id=\"feat-5036\" override-title-right=\"Feat 10 \" /> <document level=\"2\" id=\"feat-6525\" /> <document level=\"2\" id=\"feat-4954\" override-title-right=\"Feat 10 \" /> <document level=\"2\" id=\"feat-6526\" /> <document level=\"2\" id=\"feat-6527\" /> <document level=\"2\" id=\"feat-6528\" /> <document level=\"2\" id=\"feat-6529\" />",
  "trait": [
   "Uncommon"
  ],
- "trait_markdown": "[Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Rarity"
+ ],
+ "trait_markdown": "[Uncommon](/Traits.aspx?ID=721)",
  "trait_raw": [
   "Uncommon"
  ],
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=17",
+ "url": "/Archetypes.aspx?ID=271",
  "weakness": {}
 }

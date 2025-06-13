@@ -1,17 +1,26 @@
 {
- "actions": "Single Action or Two Actions",
+ "actions": "Single Action",
+ "actions_number": 2,
  "bloodline_markdown": "",
- "breadcrumbs_spa": [],
  "category": "spell",
- "component": [
-  "somatic",
-  "verbal"
- ],
- "deity_markdown": "",
  "domain_markdown": "",
+ "duration": 60,
+ "duration_raw": "1 minute",
  "exclude_from_search": false,
  "heighten": [
   "+1"
+ ],
+ "heighten_group": [
+  "1st rank",
+  "Heightened 2nd rank",
+  "Heightened 3rd rank",
+  "Heightened 4th rank",
+  "Heightened 5th rank",
+  "Heightened 6th rank",
+  "Heightened 7th rank",
+  "Heightened 8th rank",
+  "Heightened 9th rank",
+  "Heightened 10th rank"
  ],
  "heighten_level": [
   1,
@@ -25,55 +34,69 @@
   9,
   10
  ],
- "id": "spell-810",
+ "id": "spell-2437",
+ "legacy_id": [
+  "spell-810"
+ ],
  "level": 1,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Cantrip 1\" pfs=\"Standard\">[Spirit Object](/Spells.aspx?ID=810)</title>\n\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Cantrip\" url=\"/Traits.aspx?ID=22\" />\r\n<trait label=\"Hex\" url=\"/Traits.aspx?ID=324\" />\r\n<trait label=\"Necromancy\" url=\"/Traits.aspx?ID=117\" />\r\n<trait label=\"Witch\" url=\"/Traits.aspx?ID=323\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Legends](/Sources.aspx?ID=40) pg. 32</row>\r\n\r\n_[**PFS Note**](/pathfinder-society) Per design team clarification, an item animated by the spirit object hex uses the spellcaster’s spell DC as its AC. Its Hardness and Hit Points remain unchanged from their normal values as listed on page 577 of the Core Rulebook._\n\n**Patron Theme**\r\n[Baba Yaga](/Patrons.aspx?ID=9)\r\n\r\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Single Action or Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 30 feet\n\n**Target** 1 unattended object up to 1 Bulk\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nUsing a sliver of Baba Yaga's power, you briefly bring an object to life. The object gains a means of locomotion, such as sprouting chicken legs, and Strides up to 25 feet to a space you decide within range. If you spent 2 actions Casting the Spell, the object then attacks one creature of your choice adjacent to its new space. Make a melee spell attack roll against the creature. On a success, the creature takes bludgeoning, piercing, or slashing damage (as appropriate for the object) equal to 1d4 plus your spellcasting ability modifier, and on a critical success, it takes double damage.\n\n---\r\n**Heightened (+1)** Increase the maximum Bulk of the target by 1 and the damage by 1d4.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Cantrip 1\" pfs=\"Standard\">\r\n[Spirit Object](/Spells.aspx?ID=2437)\r\n<actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Cantrip\" url=\"/Traits.aspx?ID=22\" />\r\n<trait label=\"Hex\" url=\"/Traits.aspx?ID=324\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n<trait label=\"Witch\" url=\"/Traits.aspx?ID=323\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 299\n\n**Patron Theme**\r\n[Baba Yaga](/Patrons.aspx?ID=27)\r\n\r\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 30 feet\n\n**Target** 1 unattended object up to 1 Bulk\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nUsing a sliver of [Baba Yaga](/Patrons.aspx?ID=9)’s power, you briefly bring a nearby object to life. The object gains a means of locomotion if it does not already have one, such as sprouting chicken legs, and [Strides](/Actions.aspx?ID=2305) up to 25 feet to a space you decide within range. Once per round, you can [Sustain](/Actions.aspx?ID=2317) the spell to command the object further, either prompting it to move again or to [Strike](/Actions.aspx?ID=2306). If prompted to move, the object Strides up to 25 feet again to a space within 30 feet of you. If prompted to Strike, the object attacks one creature of your choice adjacent to its space. Make a melee [spell attack](/Rules.aspx?ID=2248) roll against the creature. On a success, the creature takes 2d4 damage. The damage is either bludgeoning, piercing, or slashing damage, as appropriate for the object. The object doesn’t do anything if it doesn’t receive further commands from you. If you cast _spirit object_ again, any previously affected object reverts back to normal. You can [Dismiss](/Actions.aspx?ID=2311) the spell.\n\n---\r\n**Heightened (+1)** Increase the maximum Bulk of the target by 1 and the damage by 2d4.",
  "name": "Spirit Object",
  "patron_theme": [
   "Baba Yaga"
  ],
- "patron_theme_markdown": "[Baba Yaga](/Patrons.aspx?ID=9)",
+ "patron_theme_markdown": "[Baba Yaga](/Patrons.aspx?ID=27)",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 299",
+ "primary_source_category": "Lost Omens",
  "range": 30,
  "range_raw": "30 feet",
  "rarity": "rare",
- "release_date": "2020-07-30",
+ "rarity_id": 3,
+ "release_date": "2025-01-30",
  "resistance": {},
- "school": "necromancy",
- "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Cantrip\" url=\"/Traits.aspx?ID=22\" />\r\n<trait label=\"Hex\" url=\"/Traits.aspx?ID=324\" />\r\n<trait label=\"Necromancy\" url=\"/Traits.aspx?ID=117\" />\r\n<trait label=\"Witch\" url=\"/Traits.aspx?ID=323\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Legends](/Sources.aspx?ID=40) pg. 32</row>\n\n**Patron Theme**\r\n[Baba Yaga](/Patrons.aspx?ID=9)\r\n\r\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Single Action or Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 30 feet\r\n\r\n \r\n\r\n**Target** 1 unattended object up to 1 Bulk\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nUsing a sliver of Baba Yaga's power, you briefly bring an object to life.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Cantrip\" url=\"/Traits.aspx?ID=22\" />\r\n<trait label=\"Hex\" url=\"/Traits.aspx?ID=324\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n<trait label=\"Witch\" url=\"/Traits.aspx?ID=323\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 299\n\n**Patron Theme**\r\n[Baba Yaga](/Patrons.aspx?ID=27)\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 30 feet\r\n\r\n \r\n\r\n**Target** 1 unattended object up to 1 Bulk\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nUsing a sliver of [Baba Yaga](/Patrons.aspx?ID=9)’s power, you briefly bring a nearby object to life.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Legends"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Legends pg. 32"
+  "Divine Mysteries pg. 299"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Legends](/Sources.aspx?ID=40) pg. 32</row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 299",
  "speed": {},
- "summary": "Using a sliver of Baba Yaga's power, you briefly bring an object to life.",
- "summary_markdown": "Using a sliver of Baba Yaga's power, you briefly bring an object to life.",
+ "spell_type": "Cantrip",
+ "summary": "Using a sliver of  Baba Yaga ’s power, you briefly bring a nearby object to life.",
+ "summary_markdown": "Using a sliver of [Baba Yaga](/Patrons.aspx?ID=9)’s power, you briefly bring a nearby object to life.",
  "target": "1 unattended object up to 1 Bulk",
  "target_markdown": "1 unattended object up to 1 Bulk",
- "text": " Spirit Object Source Legends pg. 32 PFS Note Per design team clarification, an item animated by the spirit object hex uses the spellcaster’s spell DC as its AC. Its Hardness and Hit Points remain unchanged from their normal values as listed on page 577 of the Core Rulebook. Patron Theme Baba Yaga Cast Single Action or Two Actions somatic, verbal Range 30 feet Target 1 unattended object up to 1 Bulk --- Using a sliver of Baba Yaga's power, you briefly bring an object to life. The object gains a means of locomotion, such as sprouting chicken legs, and Strides up to 25 feet to a space you decide within range. If you spent 2 actions Casting the Spell, the object then attacks one creature of your choice adjacent to its new space. Make a melee spell attack roll against the creature. On a success, the creature takes bludgeoning, piercing, or slashing damage (as appropriate for the object) equal to 1d4 plus your spellcasting ability modifier, and on a critical success, it takes double damage. --- Heightened (+1) Increase the maximum Bulk of the target by 1 and the damage by 1d4.",
+ "text": "\nSpirit Object Single Action Source Divine Mysteries pg. 299 Patron Theme Baba Yaga Range 30 feet Target 1 unattended object up to 1 Bulk Duration 1 minute --- Using a sliver of Baba Yaga’s power, you briefly bring a nearby object to life. The object gains a means of locomotion if it does not already have one, such as sprouting chicken legs, and Strides up to 25 feet to a space you decide within range. Once per round, you can Sustain the spell to command the object further, either prompting it to move again or to Strike. If prompted to move, the object Strides up to 25 feet again to a space within 30 feet of you. If prompted to Strike, the object attacks one creature of your choice adjacent to its space. Make a melee spell attack roll against the creature. On a success, the creature takes 2d4 damage. The damage is either bludgeoning, piercing, or slashing damage, as appropriate for the object. The object doesn’t do anything if it doesn’t receive further commands from you. If you cast spirit object again, any previously affected object reverts back to normal. You can Dismiss the spell. --- Heightened (+1) Increase the maximum Bulk of the target by 1 and the damage by 2d4.",
  "tradition_markdown": "",
  "trait": [
   "Cantrip",
   "Hex",
-  "Necromancy",
+  "Manipulate",
   "Rare",
   "Witch"
  ],
- "trait_markdown": "[Cantrip](/Traits.aspx?ID=22), [Hex](/Traits.aspx?ID=324), [Necromancy](/Traits.aspx?ID=117), [Rare](/Traits.aspx?ID=137), [Witch](/Traits.aspx?ID=323)",
+ "trait_group": [
+  "Mechanics",
+  "Class-Specific",
+  "Rarity",
+  "Class"
+ ],
+ "trait_markdown": "[Cantrip](/Traits.aspx?ID=22), [Hex](/Traits.aspx?ID=324), [Manipulate](/Traits.aspx?ID=104), [Rare](/Traits.aspx?ID=137), [Witch](/Traits.aspx?ID=323)",
  "trait_raw": [
   "Cantrip",
   "Hex",
-  "Necromancy",
+  "Manipulate",
   "Rare",
   "Witch"
  ],
- "type": "Cantrip",
- "url": "/Spells.aspx?ID=810",
+ "type": "Spell",
+ "url": "/Spells.aspx?ID=2437",
  "weakness": {}
 }

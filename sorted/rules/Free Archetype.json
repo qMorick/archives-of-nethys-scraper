@@ -1,37 +1,45 @@
 {
  "breadcrumbs": [
-  "Chapter 4: Variant Rules",
-  "Feats and Features"
+  "Mythic Variant Rules",
+  "Mixed Play"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1333",
- "markdown": "<title level=\"1\" right=\"Rules\">[Free Archetype](/Rules.aspx?ID=1333)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 194</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nSometimes the story of your game calls for a group where everyone is a pirate or an apprentice at a magic school. The free archetype variant introduces a shared aspect to every character without taking away any of that character’s existing choices. It can also provide a lighter version of dual-class characters by giving everyone a free multiclass archetype.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-1334\" />\r\n\r\n<document level=\"2\" id=\"rules-1335\" />",
+ "id": "rules-3345",
+ "markdown": "<title level=\"1\" right=\"Rules\">[Free Archetype](/Rules.aspx?ID=3345)</title>\r\n\r\n**Source** [War of Immortals Alternate Mythic Rules](/Sources.aspx?ID=233) pg. 2\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nCharacters gain extra feats from mythic progression at the same levels as extra feats from the [free archetype variant rules](/Rules.aspx?ID=2751). It's usually best to avoid using the free archetype variant if you're using mythic progression in your campaign. However, sometimes you can use the two side-by-side. If you're running a campaign where only some characters are mythic, one step you can take to help avoid creating a situation where only some characters feel like the heroes of the story is to allow the non-mythic characters to use the free archetype variant. This won't completely close the gap between mythic and non-mythic characters, but it will allow both sets of characters to achieve an equal depth of options and opportunities. Just like how mythic characters have a calling and a mythic destiny, it can be beneficial to plan out what archetype or archetypes the non-mythic characters are taking via the free archetype variant rules.\n\n Since free archetypes are being used here to help level the playing field between mythic and non-mythic characters, it's also useful to track them as a separate progression. If a character takes an archetype using their normal class feats, this shouldn't prevent them from taking other dedications with their free archetype feats. Normal restrictions should still apply within each grouping. For example, a rogue using free archetype instead of having mythic power should be allowed to take the fighter multiclass archetype with their normal 2nd-level feat and also take the [blessed one](/Archetypes.aspx?ID=242) archetype with their free archetype feats. They should still need to take two more fighter archetype feats before selecting another dedication with their normal class feat progression, and two or more blessed one archetype feats before selecting another dedication with the feats granted to them by their free archetype.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Free Archetype",
  "next_link": {
-  "label": "Ancestry Paragon",
-  "url": "/Rules.aspx?ID=1336"
+  "label": "Hero Points",
+  "url": "/Rules.aspx?ID=3346"
  },
  "previous_link": {
-  "label": "Dual-Class PCs",
-  "url": "/Rules.aspx?ID=1328"
+  "label": "Mythic Rules",
+  "url": "/Rules.aspx?ID=3320"
  },
+ "primary_source": "War of Immortals Alternate Mythic Rules",
+ "primary_source_raw": "War of Immortals Alternate Mythic Rules pg. 2",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2024-10-30",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 194</row>\r\n\r\nChapter 4: Variant Rules / Feats and Features\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [War of Immortals Alternate Mythic Rules](/Sources.aspx?ID=233) pg. 2\r\n\r\nMythic Variant Rules / Mixed Play\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCharacters gain extra feats from mythic progression at the same levels as extra feats from the  free archetype variant rules . It's usually best to …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "War of Immortals Alternate Mythic Rules"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 194"
+  "War of Immortals Alternate Mythic Rules pg. 2"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 194</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[War of Immortals Alternate Mythic Rules](/Sources.aspx?ID=233) pg. 2",
  "speed": {},
- "text": " Free Archetype Source Gamemastery Guide pg. 194 Sometimes the story of your game calls for a group where everyone is a pirate or an apprentice at a magic school. The free archetype variant introduces a shared aspect to every character without taking away any of that character’s existing choices. It can also provide a lighter version of dual-class characters by giving everyone a free multiclass archetype. ",
+ "summary": "Characters gain extra feats from mythic progression at the same levels as extra feats from the  free archetype variant rules . It's usually best to …",
+ "summary_markdown": "Characters gain extra feats from mythic progression at the same levels as extra feats from the  free archetype variant rules . It's usually best to …",
+ "text": " Free Archetype Source War of Immortals Alternate Mythic Rules pg. 2 Characters gain extra feats from mythic progression at the same levels as extra feats from the free archetype variant rules. It's usually best to avoid using the free archetype variant if you're using mythic progression in your campaign. However, sometimes you can use the two side-by-side. If you're running a campaign where only some characters are mythic, one step you can take to help avoid creating a situation where only some characters feel like the heroes of the story is to allow the non-mythic characters to use the free archetype variant. This won't completely close the gap between mythic and non-mythic characters, but it will allow both sets of characters to achieve an equal depth of options and opportunities. Just like how mythic characters have a calling and a mythic destiny, it can be beneficial to plan out what archetype or archetypes the non-mythic characters are taking via the free archetype variant rules. Since free archetypes are being used here to help level the playing field between mythic and non-mythic characters, it's also useful to track them as a separate progression. If a character takes an archetype using their normal class feats, this shouldn't prevent them from taking other dedications with their free archetype feats. Normal restrictions should still apply within each grouping. For example, a rogue using free archetype instead of having mythic power should be allowed to take the fighter multiclass archetype with their normal 2nd-level feat and also take the blessed one archetype with their free archetype feats. They should still need to take two more fighter archetype feats before selecting another dedication with their normal class feat progression, and two or more blessed one archetype feats before selecting another dedication with the feats granted to them by their free archetype. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1333",
+ "url": "/Rules.aspx?ID=3345",
  "weakness": {}
 }

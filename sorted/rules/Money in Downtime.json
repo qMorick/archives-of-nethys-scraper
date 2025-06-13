@@ -1,37 +1,48 @@
 {
  "breadcrumbs": [
-  "Chapter 1: Gamemastery Basics",
+  "Chapter 1: Running the Game",
   "Running Downtime"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-878",
- "markdown": "<title level=\"1\" right=\"Rules\">[Money in Downtime](/Rules.aspx?ID=878)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 26</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nWhile the amount of money the PCs can earn during short periods of downtime is significantly less than the value of the loot they gain adventuring, it can still serve as a satisfying bonus. The PCs might use their money to outfit themselves better, donate it toward a good cause, or pool it together to save for a major purchase. If you find that a PC tends to forget about their money or save it up more cautiously than they really need to, offer them rewarding opportunities to spend it. For instance, they might be approached to contribute to a charity in desperate need or sponsor an artist looking for a patron.\n\n The downtime system includes a guide for calculating the cost of living, using the [values found in the _Core Rulebook_](/equipment/services). Tracking cost of living is usually best reserved for months or years of downtime since that’s when someone might earn a substantial amount of money from downtime activities and find that costs really add up. You can usually ignore it if there are only a few days of downtime, though if a PC is roleplaying a fine or extravagant lifestyle, you might charge them during even short periods of downtime to reinforce the story they’re telling.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-879\" />\r\n\r\n<document level=\"2\" id=\"rules-880\" />",
+ "id": "rules-2618",
+ "legacy_id": [
+  "rules-878"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Money in Downtime](/Rules.aspx?ID=2618)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 49 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nWhile the amount of money the PCs can earn during short periods of downtime is significantly less than the value of the loot they gain while adventuring, it can still serve as a satisfying bonus. The PCs might use their money to outfit themselves better, donate it toward a good cause, or pool it together to save for a major purchase. If you find that a PC tends to forget about their money or save it up more cautiously than they really need to, offer them rewarding opportunities to spend it. For instance, they might be approached to contribute to a charity in desperate need or sponsor an artist looking for a patron.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-2619\" />\r\n\r\n<document level=\"2\" id=\"rules-2620\" />\r\n\r\n<document level=\"2\" id=\"rules-2621\" />",
  "name": "Money in Downtime",
  "next_link": {
-  "label": "Retraining",
-  "url": "/Rules.aspx?ID=881"
+  "label": "Long-Term Rest",
+  "url": "/Rules.aspx?ID=2622"
  },
  "previous_link": {
-  "label": "Tasks and Events",
-  "url": "/Rules.aspx?ID=877"
+  "label": "Buying and Selling Items",
+  "url": "/Rules.aspx?ID=2617"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 49",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 26</row>\r\n\r\nChapter 1: Gamemastery Basics / Running Downtime\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 49 <sup>2.0</sup>\r\n\r\nChapter 1: Running the Game / Running Downtime\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile the amount of money the PCs can earn during short periods of downtime is significantly less than the value of the loot they gain while …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 26"
+  "GM Core pg. 49"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 26</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 49 <sup>2.0</sup>",
  "speed": {},
- "text": " Money in Downtime Source Gamemastery Guide pg. 26 While the amount of money the PCs can earn during short periods of downtime is significantly less than the value of the loot they gain adventuring, it can still serve as a satisfying bonus. The PCs might use their money to outfit themselves better, donate it toward a good cause, or pool it together to save for a major purchase. If you find that a PC tends to forget about their money or save it up more cautiously than they really need to, offer them rewarding opportunities to spend it. For instance, they might be approached to contribute to a charity in desperate need or sponsor an artist looking for a patron. The downtime system includes a guide for calculating the cost of living, using the values found in the Core Rulebook . Tracking cost of living is usually best reserved for months or years of downtime since that’s when someone might earn a substantial amount of money from downtime activities and find that costs really add up. You can usually ignore it if there are only a few days of downtime, though if a PC is roleplaying a fine or extravagant lifestyle, you might charge them during even short periods of downtime to reinforce the story they’re telling. ",
+ "summary": "While the amount of money the PCs can earn during short periods of downtime is significantly less than the value of the loot they gain while …",
+ "summary_markdown": "While the amount of money the PCs can earn during short periods of downtime is significantly less than the value of the loot they gain while …",
+ "text": " Money in Downtime Source GM Core pg. 49 2.0 While the amount of money the PCs can earn during short periods of downtime is significantly less than the value of the loot they gain while adventuring, it can still serve as a satisfying bonus. The PCs might use their money to outfit themselves better, donate it toward a good cause, or pool it together to save for a major purchase. If you find that a PC tends to forget about their money or save it up more cautiously than they really need to, offer them rewarding opportunities to spend it. For instance, they might be approached to contribute to a charity in desperate need or sponsor an artist looking for a patron. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=878",
+ "url": "/Rules.aspx?ID=2618",
  "weakness": {}
 }

@@ -1,44 +1,58 @@
 {
  "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions_number": 2,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Envenom Fangs"
  ],
  "feat_markdown": "Envenom Fangs",
- "frequency": "a number of times per day equal to your level",
- "id": "feat-1057",
+ "frequency": "once per hour",
+ "id": "feat-5638",
+ "legacy_id": [
+  "feat-1057"
+ ],
  "level": 5,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Envenom Fangs](/Feats.aspx?ID=1057) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 59 <sup>2.0</sup></row>\n\n**Frequency**\r\na number of times per day equal to your level\r\n\r\n**Prerequisites**\r\n[Sharp Fangs](/Feats.aspx?ID=1055)\n\n</column>\r\n\r\n---\r\n\r\nYou envenom your fangs. If the next fangs Strike you make before the end of your next turn hits and deals damage, the Strike deals an additional 1d6 poison damage. On a critical failure, the poison is wasted as normal.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Envenom Fangs](/Feats.aspx?ID=5638) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=760\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 26 <sup>1.1</sup>\n\n**Frequency**\r\nonce per hour\r\n\r\n**Prerequisites**\r\n[Iruxi Armaments](/Feats.aspx?ID=5633)\n\n</column>\r\n\r\n---\r\n\r\nYou envenom your fangs. If the next fangs Strike you make before the end of your next turn hits and deals damage, the Strike deals an additional 1d6 [persistent poison damage](/Conditions.aspx?ID=29). The poison becomes inert after you hit, or at the end of your next turn, whichever comes first.",
  "name": "Envenom Fangs",
  "pfs": "Standard",
- "prerequisite": "Sharp Fangs",
- "prerequisite_markdown": "[Sharp Fangs](/Feats.aspx?ID=1055)",
+ "prerequisite": "Iruxi Armaments",
+ "prerequisite_markdown": "[Iruxi Armaments](/Feats.aspx?ID=5633)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 26",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-10-16",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 59 <sup>2.0</sup></row>\r\n\r\n**Frequency**\r\na number of times per day equal to your level\r\n\r\n**Prerequisites**\r\n[Sharp Fangs](/Feats.aspx?ID=1055)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou envenom your fangs.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=760\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 26 <sup>1.1</sup>\n\n**Frequency**\r\nonce per hour\r\n\r\n**Prerequisites**\r\n[Iruxi Armaments](/Feats.aspx?ID=5633)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou envenom your fangs.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Character Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Character Guide pg. 59"
+  "Player Core 2 pg. 26"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Character Guide](/Sources.aspx?ID=12) pg. 59 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 26 <sup>1.1</sup>",
  "speed": {},
  "summary": "You envenom your fangs.",
  "summary_markdown": "You envenom your fangs.",
- "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Envenom Fangs Single Action Source Character Guide pg. 59 2.0 Frequency a number of times per day equal to your level Prerequisites Sharp Fangs --- You envenom your fangs. If the next fangs Strike you make before the end of your next turn hits and deals damage, the Strike deals an additional 1d6 poison damage. On a critical failure, the poison is wasted as normal.",
+ "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Envenom Fangs Single Action Source Player Core 2 pg. 26 1.1 Frequency once per hour Prerequisites Iruxi Armaments --- You envenom your fangs. If the next fangs Strike you make before the end of your next turn hits and deals damage, the Strike deals an additional 1d6 persistent poison damage. The poison becomes inert after you hit, or at the end of your next turn, whichever comes first.",
  "trait": [
   "Lizardfolk"
  ],
- "trait_markdown": "[Lizardfolk](/Traits.aspx?ID=226)",
+ "trait_group": [
+  "Monster",
+  "Ancestry"
+ ],
+ "trait_markdown": "[Lizardfolk](/Traits.aspx?ID=760)",
  "trait_raw": [
   "Lizardfolk"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1057",
+ "url": "/Feats.aspx?ID=5638",
  "weakness": {}
 }

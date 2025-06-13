@@ -1,54 +1,64 @@
 {
  "actions": "Two Actions",
+ "actions_number": 4,
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
+ "bulk": 0,
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-218",
+ "id": "equipment-2980",
  "item_category": "Consumables",
  "item_subcategory": "Talismans",
+ "legacy_id": [
+  "equipment-218"
+ ],
  "level": 6,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Iron Cube](/Equipment.aspx?ID=218)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=155\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 567 <sup>4.0</sup></row>\n\n**Price** 50 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** affixed to a weapon\n\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Two Actions\" /><row>Knockdown</row></row>\r\n\r\n \r\n\r\n \r\n\r\n**Requirement** You are an expert with the affixed weapon\r\n</row>\n\n</column>\r\n\r\n---\n\nThis cube of blackened iron is affixed to a weapon with an iron chain. When you activate the cube, you use [Knockdown](/Feats.aspx?ID=372), as the fighter feat.\n\n If you have the Knockdown feat, ignore its normal size restrictions.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Iron Cube](/Equipment.aspx?ID=2980)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=709\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 265 <sup>2.0</sup>\n\n**Price** 50 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** affixed to a weapon\n\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Two Actions\" /><row>([concentrate](/Traits.aspx?ID=32))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis cube of blackened iron is affixed to a weapon with an iron chain. When you activate the cube, make a melee Strike. If it hits and deals damage, you can attempt an [Athletics](/Skills.aspx?ID=36) check to [Trip](/Actions.aspx?ID=2382) the creature you hit. If this knocks the target prone, the target takes 2d6 bludgeoning damage from the force of the impact. If you're wielding a two-handed melee weapon, you can ignore Trip's requirement that you have a free hand. Both attacks count toward your multiple attack penalty, but the penalty doesn't increase until after you've made both of them.<br /> If you have the [Knockdown](/Feats.aspx?ID=372) feat, ignore the normal size restrictions for the Trip and increase the damage dice if you knock the target [prone](/Conditions.aspx?ID=88) to the damage die of your weapon if it's higher than d6.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Iron Cube",
  "pfs": "Standard",
  "price": 5000,
  "price_raw": "50 gp",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 265",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
- "requirement": "You are an expert with the affixed weapon",
- "requirement_markdown": "You are an expert with the affixed weapon",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "school": "evocation",
- "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=155\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 567 <sup>4.0</sup></row>\r\n\r\n**Price** 50 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** affixed to a weapon\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Two Actions\" /><row>Knockdown</row></row>\r\n\r\n \r\n\r\n \r\n\r\n**Requirement** You are an expert with the affixed weapon\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis cube of blackened iron is affixed to a weapon with an iron chain. When you activate the cube, you use  Knockdown , as the fighter feat.   If you …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=709\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 265 <sup>2.0</sup>\r\n\r\n**Price** 50 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** affixed to a weapon\r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Two Actions\" /><row>([concentrate](/Traits.aspx?ID=32))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis cube of blackened iron is affixed to a weapon with an iron chain. When you activate the cube, make a melee Strike. If it hits and deals damage, …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 567"
+  "GM Core pg. 265"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 567 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 265 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "This cube of blackened iron is affixed to a weapon with an iron chain. When you activate the cube, you use  Knockdown , as the fighter feat.   If you …",
- "summary_markdown": "This cube of blackened iron is affixed to a weapon with an iron chain. When you activate the cube, you use  Knockdown , as the fighter feat.   If you …",
- "text": "<title level=\"1\" right=\"Item 6\" pfs=\"Standard\" > Iron Cube Source Core Rulebook pg. 567 4.0 Price 50 gp Usage affixed to a weapon Activate Two Actions Knockdown Requirement You are an expert with the affixed weapon --- This cube of blackened iron is affixed to a weapon with an iron chain. When you activate the cube, you use Knockdown, as the fighter feat. If you have the Knockdown feat, ignore its normal size restrictions.\n",
+ "summary": "This cube of blackened iron is affixed to a weapon with an iron chain. When you activate the cube, make a melee Strike. If it hits and deals damage, …",
+ "summary_markdown": "This cube of blackened iron is affixed to a weapon with an iron chain. When you activate the cube, make a melee Strike. If it hits and deals damage, …",
+ "text": "<title level=\"1\" right=\"Item 6\" pfs=\"Standard\" > Iron Cube Source GM Core pg. 265 2.0 Price 50 gp Usage affixed to a weapon Activate Two Actions (concentrate) --- This cube of blackened iron is affixed to a weapon with an iron chain. When you activate the cube, make a melee Strike. If it hits and deals damage, you can attempt an Athletics check to Trip the creature you hit. If this knocks the target prone, the target takes 2d6 bludgeoning damage from the force of the impact. If you're wielding a two-handed melee weapon, you can ignore Trip's requirement that you have a free hand. Both attacks count toward your multiple attack penalty, but the penalty doesn't increase until after you've made both of them. If you have the Knockdown feat, ignore the normal size restrictions for the Trip and increase the damage dice if you knock the target prone to the damage die of your weapon if it's higher than d6.\n",
  "trait": [
   "Consumable",
-  "Evocation",
   "Magical",
   "Talisman"
  ],
- "trait_markdown": "[Consumable](/Traits.aspx?ID=36), [Evocation](/Traits.aspx?ID=65), [Magical](/Traits.aspx?ID=103), [Talisman](/Traits.aspx?ID=155)",
+ "trait_group": [
+  "Equipment",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Consumable](/Traits.aspx?ID=564), [Magical](/Traits.aspx?ID=644), [Talisman](/Traits.aspx?ID=709)",
  "trait_raw": [
   "Consumable",
-  "Evocation",
   "Magical",
   "Talisman"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=218",
+ "url": "/Equipment.aspx?ID=2980",
  "usage": "affixed to a weapon",
  "usage_markdown": "affixed to a weapon",
  "weakness": {}

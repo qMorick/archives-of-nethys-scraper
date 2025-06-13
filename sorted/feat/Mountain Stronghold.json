@@ -1,48 +1,62 @@
 {
  "actions": "Single Action",
+ "actions_number": 2,
  "archetype": [
   "Martial Artist"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Mountain Stronghold"
  ],
  "feat_markdown": "Mountain Stronghold",
- "id": "feat-453",
+ "id": "feat-6002",
+ "legacy_id": [
+  "feat-453"
+ ],
  "level": 6,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Mountain Stronghold](/Feats.aspx?ID=453) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 161 <sup>4.0</sup></row>\n\n**Archetype** [Martial Artist](/Archetypes.aspx?ID=67) (Level 8)\n\n**Prerequisites**\r\n[Mountain Stance](/Feats.aspx?ID=435)\n\n**Requirements**\r\nYou are in Mountain Stance.\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou focus on your connection to the earth and call upon the mountain to block attacks against you. You gain a +2 circumstance bonus to AC until the beginning of your next turn.\n\n**Special** If you have this feat, the Dexterity modifier cap to your AC while you’re in Mountain Stance increases from +0 to +1.\n\n<title level=\"2\">Mountain Stronghold leads to...</title>\r\n[Mountain Quake](/Feats.aspx?ID=474)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 6\"\r\n    pfs=\"Standard\"\r\n>\r\n[Mountain Stronghold](/Feats.aspx?ID=6002) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 122 <sup>1.1</sup>\n\n**Archetypes** [Martial Artist](/Archetypes.aspx?ID=67) (Level 8), [Martial Artist](/Archetypes.aspx?ID=255) (Level 8)\n\n**Prerequisites**\r\n[Mountain Stance](/Feats.aspx?ID=5980)\n\n**Requirements**\r\nYou are in Mountain Stance.\n\n</column>\r\n\r\n---\r\n\r\nYou focus on your connection to the earth and call upon the mountain to block attacks against you. You gain a +2 circumstance bonus to AC until the beginning of your next turn.\n\n**Special** If you have this feat, the Dexterity modifier cap to your AC while you're in Mountain Stance increases from +0 to +1.\n\n<title level=\"2\">Mountain Stronghold leads to...</title>\r\n[Mountain Quake](/Feats.aspx?ID=6033)",
  "name": "Mountain Stronghold",
  "pfs": "Standard",
  "prerequisite": "Mountain Stance",
- "prerequisite_markdown": "[Mountain Stance](/Feats.aspx?ID=435)",
+ "prerequisite_markdown": "[Mountain Stance](/Feats.aspx?ID=5980)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 122",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "requirement": "You are in Mountain Stance.",
  "requirement_markdown": "You are in Mountain Stance.",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=112\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 161 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Mountain Stance](/Feats.aspx?ID=435)\n\n**Requirements**\r\nYou are in Mountain Stance.\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou focus on your connection to the earth and call upon the mountain to block attacks against you.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Monk\" url=\"/Traits.aspx?ID=656\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 122 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Mountain Stance](/Feats.aspx?ID=5980)\n\n**Requirements**\r\nYou are in Mountain Stance.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou focus on your connection to the earth and call upon the mountain to block attacks against you.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 161"
+  "Player Core 2 pg. 122"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 161 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 122 <sup>1.1</sup>",
  "speed": {},
  "summary": "You focus on your connection to the earth and call upon the mountain to block attacks against you.",
  "summary_markdown": "You focus on your connection to the earth and call upon the mountain to block attacks against you.",
- "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Mountain Stronghold Single Action Source Core Rulebook pg. 161 4.0 Archetype Martial Artist (Level 8) Prerequisites Mountain Stance Requirements You are in Mountain Stance. --- You focus on your connection to the earth and call upon the mountain to block attacks against you. You gain a +2 circumstance bonus to AC until the beginning of your next turn. Special If you have this feat, the Dexterity modifier cap to your AC while you’re in Mountain Stance increases from +0 to +1. Mountain Stronghold leads to... Mountain Quake",
+ "text": "<title level=\"1\" right=\"Feat 6\" pfs=\"Standard\" > Mountain Stronghold Single Action Source Player Core 2 pg. 122 1.1 Archetypes Martial Artist (Level 8), Martial Artist (Level 8) Prerequisites Mountain Stance Requirements You are in Mountain Stance. --- You focus on your connection to the earth and call upon the mountain to block attacks against you. You gain a +2 circumstance bonus to AC until the beginning of your next turn. Special If you have this feat, the Dexterity modifier cap to your AC while you're in Mountain Stance increases from +0 to +1. Mountain Stronghold leads to... Mountain Quake",
  "trait": [
   "Monk"
  ],
- "trait_markdown": "[Monk](/Traits.aspx?ID=112)",
+ "trait_group": [
+  "Class",
+  "Weapon"
+ ],
+ "trait_markdown": "[Monk](/Traits.aspx?ID=656)",
  "trait_raw": [
   "Monk"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=453",
+ "url": "/Feats.aspx?ID=6002",
  "weakness": {}
 }

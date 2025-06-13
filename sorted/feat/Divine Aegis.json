@@ -1,48 +1,60 @@
 {
  "actions": "Reaction",
- "breadcrumbs_spa": [],
+ "actions_number": 1,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Divine Aegis"
  ],
  "feat_markdown": "Divine Aegis",
- "id": "feat-1487",
+ "id": "feat-6058",
+ "legacy_id": [
+  "feat-1487"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Divine Aegis](/Feats.aspx?ID=1487) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Abjuration\" url=\"/Traits.aspx?ID=2\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=48\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 79 <sup>2.0</sup></row>\n\n**Trigger**\r\nYou attempt a saving throw against a magical effect, but you haven't rolled yet.\n\n</column>\r\n\r\n---\r\n\r\nYou summon divine energy to shield yourself, offering protection against other traditions but leaving you exposed to other divine effects. Until the beginning of your next turn, you gain a +1 circumstance bonus to saving throws against non-divine magical effects, but you also take a –1 circumstance penalty to saves against divine effects.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Divine Aegis](/Feats.aspx?ID=6058) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=579\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 138 <sup>1.1</sup>\n\n**Trigger**\r\nYou attempt a saving throw against a [magical](/Traits.aspx?ID=644) effect, but you haven’t rolled yet.\n\n</column>\r\n\r\n---\r\n\r\nA barrier offers protection against other magic but leaves you exposed to divine energy. Until the beginning of your next turn, you gain a +1 circumstance bonus to saving throws against nondivine magical effects, but you also take a –1 circumstance penalty to saves against [divine](/Traits.aspx?ID=579) effects.",
  "name": "Divine Aegis",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 138",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "school": "abjuration",
- "search_markdown": "<traits>\r\n<trait label=\"Abjuration\" url=\"/Traits.aspx?ID=2\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=48\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 79 <sup>2.0</sup></row>\n\n**Trigger**\r\nYou attempt a saving throw against a magical effect, but you haven't rolled yet.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou summon divine energy to shield yourself, offering protection against other traditions but leaving you exposed to other divine effects.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=579\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 138 <sup>1.1</sup>\n\n**Trigger**\r\nYou attempt a saving throw against a [magical](/Traits.aspx?ID=644) effect, but you haven’t rolled yet.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA barrier offers protection against other magic but leaves you exposed to divine energy.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 79"
+  "Player Core 2 pg. 138"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 79 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 138 <sup>1.1</sup>",
  "speed": {},
- "summary": "You summon divine energy to shield yourself, offering protection against other traditions but leaving you exposed to other divine effects.",
- "summary_markdown": "You summon divine energy to shield yourself, offering protection against other traditions but leaving you exposed to other divine effects.",
- "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Divine Aegis Reaction Source Advanced Player's Guide pg. 79 2.0 Trigger You attempt a saving throw against a magical effect, but you haven't rolled yet. --- You summon divine energy to shield yourself, offering protection against other traditions but leaving you exposed to other divine effects. Until the beginning of your next turn, you gain a +1 circumstance bonus to saving throws against non-divine magical effects, but you also take a –1 circumstance penalty to saves against divine effects.",
+ "summary": "A barrier offers protection against other magic but leaves you exposed to divine energy.",
+ "summary_markdown": "A barrier offers protection against other magic but leaves you exposed to divine energy.",
+ "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Divine Aegis Reaction Source Player Core 2 pg. 138 1.1 Trigger You attempt a saving throw against a magical effect, but you haven’t rolled yet. --- A barrier offers protection against other magic but leaves you exposed to divine energy. Until the beginning of your next turn, you gain a +1 circumstance bonus to saving throws against nondivine magical effects, but you also take a –1 circumstance penalty to saves against divine effects.",
  "trait": [
-  "Abjuration",
   "Divine",
   "Oracle"
  ],
- "trait_markdown": "[Abjuration](/Traits.aspx?ID=2), [Divine](/Traits.aspx?ID=48), [Oracle](/Traits.aspx?ID=319)",
+ "trait_group": [
+  "Tradition",
+  "Monster",
+  "Class"
+ ],
+ "trait_markdown": "[Divine](/Traits.aspx?ID=579), [Oracle](/Traits.aspx?ID=817)",
  "trait_raw": [
-  "Abjuration",
   "Divine",
   "Oracle"
  ],
- "trigger": "You attempt a saving throw against a magical effect, but you haven't rolled yet.",
- "trigger_markdown": "You attempt a saving throw against a magical effect, but you haven't rolled yet.",
+ "trigger": "You attempt a saving throw against a  magical  effect, but you haven’t rolled yet.",
+ "trigger_markdown": "You attempt a saving throw against a [magical](/Traits.aspx?ID=644) effect, but you haven’t rolled yet.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=1487",
+ "url": "/Feats.aspx?ID=6058",
  "weakness": {}
 }

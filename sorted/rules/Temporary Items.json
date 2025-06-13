@@ -1,36 +1,48 @@
 {
  "breadcrumbs": [
-  "Chapter 3: Archetypes"
+  "Chapter 3: Classes",
+  "Archetypes"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1436",
- "markdown": "<title level=\"1\" right=\"Rules\">[Temporary Items](/Rules.aspx?ID=1436)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 150 <sup>2.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nSeveral archetypes allow you to prepare temporary items. Much like the infused items created by alchemists, these temporary items last only a short time before becoming useless. Examples include temporary scrolls created by the scroll trickster and temporary weapons, armor, or adventuring gear created by the scrounger.\n\n Temporary items are clearly not up to the same quality as other items, so they typically can't be sold. If an ability doesn't list how long a temporary item lasts, the item lasts until the next time you make your daily preparations. Any effect created by a temporary item also ends at that time if it hasn't already (unless it's a permanent effect).\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-3283",
+ "legacy_id": [
+  "rules-1436"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Temporary Items](/Rules.aspx?ID=3283)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 174 <sup>1.1</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nSeveral archetypes allow you to prepare temporary items. Much like the [infused](/Traits.aspx?ID=797) items created by [alchemists](/Classes.aspx?ID=56), these temporary items last only a short time before becoming useless. Examples include temporary scrolls created by the [scroll trickster](/Archetypes.aspx?ID=262) and temporary weapons, armor, or adventuring gear created by the [scrounger](/Archetypes.aspx?ID=263).\n\nTemporary items are clearly not up to the same quality as other items, so they typically can’t be sold. If an ability doesn’t list how long a temporary item lasts, the item lasts until the next time you make your [daily preparations](/Rules.aspx?ID=2575). Any effect created by a temporary item also ends at that time if it hasn’t already (unless it’s a permanent effect).\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Temporary Items",
  "next_link": {
-  "label": "Chapter 4: Feats",
-  "url": "/Rules.aspx?ID=1437"
+  "label": "Chapter 4: Skills",
+  "url": "/Rules.aspx?ID=2134"
  },
  "previous_link": {
   "label": "Alchemical Archetypes",
-  "url": "/Rules.aspx?ID=1435"
+  "url": "/Rules.aspx?ID=3282"
  },
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 174",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 150 <sup>2.0</sup></row>\r\n\r\nChapter 3: Archetypes\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 174 <sup>1.1</sup>\r\n\r\nChapter 3: Classes / Archetypes\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSeveral archetypes allow you to prepare temporary items. Much like the  infused  items created by  alchemists , these temporary items last only a …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 150"
+  "Player Core 2 pg. 174"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 150 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 174 <sup>1.1</sup>",
  "speed": {},
- "text": " Temporary Items Source Advanced Player's Guide pg. 150 2.0 Several archetypes allow you to prepare temporary items. Much like the infused items created by alchemists, these temporary items last only a short time before becoming useless. Examples include temporary scrolls created by the scroll trickster and temporary weapons, armor, or adventuring gear created by the scrounger. Temporary items are clearly not up to the same quality as other items, so they typically can't be sold. If an ability doesn't list how long a temporary item lasts, the item lasts until the next time you make your daily preparations. Any effect created by a temporary item also ends at that time if it hasn't already (unless it's a permanent effect). ",
+ "summary": "Several archetypes allow you to prepare temporary items. Much like the  infused  items created by  alchemists , these temporary items last only a …",
+ "summary_markdown": "Several archetypes allow you to prepare temporary items. Much like the  infused  items created by  alchemists , these temporary items last only a …",
+ "text": " Temporary Items Source Player Core 2 pg. 174 1.1 Several archetypes allow you to prepare temporary items. Much like the infused items created by alchemists, these temporary items last only a short time before becoming useless. Examples include temporary scrolls created by the scroll trickster and temporary weapons, armor, or adventuring gear created by the scrounger. Temporary items are clearly not up to the same quality as other items, so they typically can’t be sold. If an ability doesn’t list how long a temporary item lasts, the item lasts until the next time you make your daily preparations. Any effect created by a temporary item also ends at that time if it hasn’t already (unless it’s a permanent effect). ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1436",
+ "url": "/Rules.aspx?ID=3283",
  "weakness": {}
 }

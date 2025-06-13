@@ -1,55 +1,75 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
+ "bulk": 0,
  "category": "equipment",
+ "element": [
+  "Fire"
+ ],
  "exclude_from_search": false,
- "id": "equipment-732",
+ "id": "equipment-3433",
  "item_category": "Worn Items",
- "item_subcategory": "Other Worn Items",
+ "legacy_id": [
+  "equipment-732"
+ ],
  "level": 10,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Fire-Jump Ring](/Equipment.aspx?ID=732)\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Conjuration\" url=\"/Traits.aspx?ID=33\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Teleportation\" url=\"/Traits.aspx?ID=156\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 260 <sup>2.0</sup></row>\n\n**Price** 940 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** worn\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis dark-red ring is engraved with ashen symbols and smells faintly of smoke.\n\n<document level=\"2\" id=\"action-578\" />\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Fire-Jump Ring](/Equipment.aspx?ID=3433)\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=604\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=637\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 310 <sup>1.1</sup>\n\n**Price** 940 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** worn\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis black, metal ring is inset with rubies that occasionally give off wisps of smoke. It grants you a +2 item bonus to [Athletics](/Skills.aspx?ID=36) checks.\n\n**Activate—Fire Jump** <actions string=\"Two Actions\" /> ([concentrate](/Traits.aspx?ID=561), [manipulate](/Actions.aspx?ID=2229), [teleportation](/Traits.aspx?ID=710)) **Frequency** once per day;   **Effect** You Stride (or Burrow or Fly, if you have the corresponding Speed) into any fire large enough to contain you, including magical fires. You vanish into the fire and take no damage from it. You can sense all sufficiently large fires within 100 feet of where you vanish, and you reemerge from any of those fires, either within the fire or adjacent to it. If you end your movement in the fire, it affects you as normal.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Fire-Jump Ring",
  "pfs": "Standard",
  "price": 94000,
  "price_raw": "940 gp",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 310",
+ "primary_source_category": "Rulebooks",
  "rarity": "uncommon",
- "release_date": "2020-07-30",
+ "rarity_id": 2,
+ "release_date": "2024-08-01",
  "resistance": {},
- "school": "conjuration",
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Conjuration\" url=\"/Traits.aspx?ID=33\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Teleportation\" url=\"/Traits.aspx?ID=156\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 260 <sup>2.0</sup></row>\r\n\r\n**Price** 940 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** worn\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis dark-red ring is engraved with ashen symbols and smells faintly of smoke. \r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=604\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=637\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 310 <sup>1.1</sup>\r\n\r\n**Price** 940 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** worn\r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis black, metal ring is inset with rubies that occasionally give off wisps of smoke. It grants you a +2 item bonus to  Athletics  checks. \r\n</summary>",
+ "skill": [
+  "Athletics"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=36)",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 260"
+  "Player Core 2 pg. 310"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 260 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 310 <sup>1.1</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "This dark-red ring is engraved with ashen symbols and smells faintly of smoke. ",
- "summary_markdown": "This dark-red ring is engraved with ashen symbols and smells faintly of smoke. ",
- "text": "<title level=\"1\" right=\"Item 10\" pfs=\"Standard\" > Fire-Jump Ring Source Advanced Player's Guide pg. 260 2.0 Price 940 gp Usage worn --- This dark-red ring is engraved with ashen symbols and smells faintly of smoke.\n",
+ "summary": "This black, metal ring is inset with rubies that occasionally give off wisps of smoke. It grants you a +2 item bonus to  Athletics  checks. ",
+ "summary_markdown": "This black, metal ring is inset with rubies that occasionally give off wisps of smoke. It grants you a +2 item bonus to  Athletics  checks. ",
+ "text": "<title level=\"1\" right=\"Item 10\" pfs=\"Standard\" > Fire-Jump Ring Source Player Core 2 pg. 310 1.1 Price 940 gp Usage worn --- This black, metal ring is inset with rubies that occasionally give off wisps of smoke. It grants you a +2 item bonus to Athletics checks. Activate—Fire Jump Two Actions (concentrate, manipulate, teleportation) Frequency once per day; Effect You Stride (or Burrow or Fly, if you have the corresponding Speed) into any fire large enough to contain you, including magical fires. You vanish into the fire and take no damage from it. You can sense all sufficiently large fires within 100 feet of where you vanish, and you reemerge from any of those fires, either within the fire or adjacent to it. If you end your movement in the fire, it affects you as normal.\n",
  "trait": [
-  "Conjuration",
   "Fire",
   "Invested",
   "Magical",
-  "Teleportation",
   "Uncommon"
  ],
- "trait_markdown": "[Conjuration](/Traits.aspx?ID=33), [Fire](/Traits.aspx?ID=72), [Invested](/Traits.aspx?ID=98), [Magical](/Traits.aspx?ID=103), [Teleportation](/Traits.aspx?ID=156), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Energy",
+  "Elemental",
+  "Planar",
+  "Monster",
+  "Equipment",
+  "Mechanics",
+  "Rarity"
+ ],
+ "trait_markdown": "[Fire](/Traits.aspx?ID=604), [Invested](/Traits.aspx?ID=637), [Magical](/Traits.aspx?ID=644), [Uncommon](/Traits.aspx?ID=721)",
  "trait_raw": [
-  "Conjuration",
   "Fire",
   "Invested",
   "Magical",
-  "Teleportation",
   "Uncommon"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=732",
+ "url": "/Equipment.aspx?ID=3433",
  "usage": "worn",
  "usage_markdown": "worn",
  "weakness": {}

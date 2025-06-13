@@ -2,44 +2,56 @@
  "archetype": [
   "Barbarian"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Juggernaut's Fortitude"
  ],
  "feat_markdown": "Juggernaut's Fortitude",
- "id": "feat-676",
+ "id": "feat-6195",
+ "legacy_id": [
+  "feat-676"
+ ],
  "level": 12,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Juggernaut's Fortitude](/Feats.aspx?ID=676) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 221 <sup>4.0</sup></row>\n\n**Archetype** [Barbarian](/Archetypes.aspx?ID=2)\n\n**Prerequisites**\r\n[Barbarian Dedication](/Feats.aspx?ID=671); expert in Fortitude Saves\n\n</column>\r\n\r\n---\r\n\r\nYour proficiency rank in Fortitude saves increases to master.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Juggernaut's Fortitude](/Feats.aspx?ID=6195) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 176 <sup>1.1</sup>\n\n**Archetype** [Barbarian](/Archetypes.aspx?ID=229)\n\n**Prerequisites**\r\n[Barbarian Dedication](/Feats.aspx?ID=6190); expert in Fortitude saves\n\n</column>\r\n\r\n---\r\n\r\nYour proficiency rank in Fortitude saves increases to master.",
  "name": "Juggernaut's Fortitude",
  "pfs": "Standard",
- "prerequisite": "Barbarian Dedication; expert in Fortitude Saves",
- "prerequisite_markdown": "[Barbarian Dedication](/Feats.aspx?ID=671); expert in Fortitude Saves",
+ "prerequisite": "Barbarian Dedication; expert in Fortitude saves",
+ "prerequisite_markdown": "[Barbarian Dedication](/Feats.aspx?ID=6190); expert in Fortitude saves",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 176",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 221 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Barbarian Dedication](/Feats.aspx?ID=671); expert in Fortitude Saves\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour proficiency rank in Fortitude saves increases to master.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 176 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Barbarian Dedication](/Feats.aspx?ID=6190); expert in Fortitude saves\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour proficiency rank in Fortitude saves increases to master.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 221"
+  "Player Core 2 pg. 176"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 221 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 176 <sup>1.1</sup>",
  "speed": {},
  "summary": "Your proficiency rank in Fortitude saves increases to master.",
  "summary_markdown": "Your proficiency rank in Fortitude saves increases to master.",
- "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Juggernaut's Fortitude Source Core Rulebook pg. 221 4.0 Archetype Barbarian Prerequisites Barbarian Dedication; expert in Fortitude Saves --- Your proficiency rank in Fortitude saves increases to master.",
+ "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Juggernaut's Fortitude Source Player Core 2 pg. 176 1.1 Archetype Barbarian Prerequisites Barbarian Dedication; expert in Fortitude saves --- Your proficiency rank in Fortitude saves increases to master.",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=676",
+ "url": "/Feats.aspx?ID=6195",
  "weakness": {}
 }

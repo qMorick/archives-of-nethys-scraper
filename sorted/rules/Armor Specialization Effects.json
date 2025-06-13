@@ -1,38 +1,48 @@
 {
  "breadcrumbs": [
   "Chapter 6: Equipment",
-  "Armor",
-  "Armor Statistics"
+  "Armor"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-211",
- "markdown": "<title level=\"1\" right=\"Rules\">[Armor Specialization Effects](/Rules.aspx?ID=211)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 275 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nCertain class features can grant you additional benefits with certain armors. This is called an armor specialization effect. The exact effect depends on which armor group your armor belongs to, as listed below. Only medium and heavy armors have armor specialization effects. See [here](/equipment/armor/specializations) for details on each armor specialization effect.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2179",
+ "legacy_id": [
+  "rules-211"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Armor Specialization Effects](/Rules.aspx?ID=2179)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 272 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nCertain class features can grant you additional benefits with certain armors. This is called an armor specialization effect. The exact effect depends on which armor group your armor belongs to, as [listed here.](ArmorGroups.aspx)\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Armor Specialization Effects",
  "next_link": {
   "label": "Shields",
-  "url": "/Rules.aspx?ID=212"
+  "url": "/Rules.aspx?ID=2180"
  },
  "previous_link": {
-  "label": "Armor Traits",
-  "url": "/Rules.aspx?ID=210"
+  "label": "Armor Statistics",
+  "url": "/Rules.aspx?ID=2169"
  },
+ "primary_source": "Player Core",
+ "primary_source_raw": "Player Core pg. 272",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 275 <sup>4.0</sup></row>\r\n\r\nChapter 6: Equipment / Armor / Armor Statistics\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 272 <sup>2.0</sup>\r\n\r\nChapter 6: Equipment / Armor\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCertain class features can grant you additional benefits with certain armors. This is called an armor specialization effect. The exact effect depends …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 275"
+  "Player Core pg. 272"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 275 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 272 <sup>2.0</sup>",
  "speed": {},
- "text": " Armor Specialization Effects Source Core Rulebook pg. 275 4.0 Certain class features can grant you additional benefits with certain armors. This is called an armor specialization effect. The exact effect depends on which armor group your armor belongs to, as listed below. Only medium and heavy armors have armor specialization effects. See here for details on each armor specialization effect. ",
+ "summary": "Certain class features can grant you additional benefits with certain armors. This is called an armor specialization effect. The exact effect depends …",
+ "summary_markdown": "Certain class features can grant you additional benefits with certain armors. This is called an armor specialization effect. The exact effect depends …",
+ "text": " Armor Specialization Effects Source Player Core pg. 272 2.0 Certain class features can grant you additional benefits with certain armors. This is called an armor specialization effect. The exact effect depends on which armor group your armor belongs to, as listed here. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=211",
+ "url": "/Rules.aspx?ID=2179",
  "weakness": {}
 }

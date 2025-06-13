@@ -1,48 +1,57 @@
 {
- "actions": "Single Action",
  "archetype": [
   "Blessed One"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Mercy"
  ],
  "feat_markdown": "Mercy",
- "id": "feat-225",
+ "id": "feat-5897",
+ "legacy_id": [
+  "feat-225"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Mercy](/Feats.aspx?ID=225) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Metamagic\" url=\"/Traits.aspx?ID=107\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 111 <sup>4.0</sup></row>\n\n**Archetype** [Blessed One](/Archetypes.aspx?ID=51) (Level 6)\n\n</column>\r\n\r\n---\r\n\r\nYour touch relieves fear and restores movement. If the next action you use is to cast [_lay on hands_](/Spells.aspx?ID=395), you can attempt to counteract a fear effect or an effect imposing the paralyzed condition on the target, in addition to the other benefits of _lay on hands_.\n\n<title level=\"2\">Mercy leads to...</title>\r\n[Affliction Mercy](/Feats.aspx?ID=242), [Blessed Spell](/Feats.aspx?ID=1912), [Elucidating Mercy](/Feats.aspx?ID=1680), [Greater Mercy](/Feats.aspx?ID=232), [Invigorating Mercy](/Feats.aspx?ID=1675), [Ultimate Mercy](/Feats.aspx?ID=260)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Mercy](/Feats.aspx?ID=5897) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 95 <sup>1.1</sup>\n\n**Archetypes** [Blessed One](/Archetypes.aspx?ID=51) (Level 6), [Blessed One](/Archetypes.aspx?ID=242) (Level 6)\n\n**Prerequisites**\r\n[_lay on hands_](/Spells.aspx?ID=2047)\n\n</column>\r\n\r\n---\r\n\r\nYour touch soothes the body or mind. You can cast [_lay on hands_](/Spells.aspx?ID=2047) targeting a living creature using 2 actions instead of 1. If you do, you can attempt to [counteract](/Rules.aspx?ID=371) one condition of your choice affecting the target. When you select this feat, choose one of the following options, which determines the conditions you can choose: **Mercy of the Body** [blinded](/Conditions.aspx?ID=59), [dazzled](/Conditions.aspx?ID=65), [deafened](/Conditions.aspx?ID=66), [enfeebled](/Conditions.aspx?ID=71), [sickened](/Conditions.aspx?ID=91); **Mercy of Grace** [clumsy](/Conditions.aspx?ID=61), [grabbed](/Conditions.aspx?ID=77), [paralyzed](/Conditions.aspx?ID=85); **Mercy of the Mind** [fleeing](/Conditions.aspx?ID=74), [frightened](/Conditions.aspx?ID=76), [stupefied](/Conditions.aspx?ID=94).\n\n**Special** You can select this feat up to three times. Each time, choose a different type of mercy and add its options to those you can choose when you cast a 2-action _lay on hands_.\n\n<title level=\"2\">Mercy leads to...</title>\r\n[Affliction Mercy](/Feats.aspx?ID=5912), [Blessed Spell](/Feats.aspx?ID=6279), [Greater Mercy](/Feats.aspx?ID=5904), [Ultimate Mercy](/Feats.aspx?ID=5929)",
  "name": "Mercy",
  "pfs": "Standard",
+ "prerequisite": "_lay on hands_",
+ "prerequisite_markdown": "[_lay on hands_](/Spells.aspx?ID=2047)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 95",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Metamagic\" url=\"/Traits.aspx?ID=107\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 111 <sup>4.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour touch relieves fear and restores movement.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 95 <sup>1.1</sup>\n\n**Prerequisites**\r\n[_lay on hands_](/Spells.aspx?ID=2047)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour touch soothes the body or mind.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 111"
+  "Player Core 2 pg. 95"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 111 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 95 <sup>1.1</sup>",
  "speed": {},
- "summary": "Your touch relieves fear and restores movement.",
- "summary_markdown": "Your touch relieves fear and restores movement.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Mercy Single Action Source Core Rulebook pg. 111 4.0 Archetype Blessed One (Level 6) --- Your touch relieves fear and restores movement. If the next action you use is to cast lay on hands , you can attempt to counteract a fear effect or an effect imposing the paralyzed condition on the target, in addition to the other benefits of lay on hands . Mercy leads to... Affliction Mercy, Blessed Spell, Elucidating Mercy, Greater Mercy, Invigorating Mercy, Ultimate Mercy",
+ "summary": "Your touch soothes the body or mind.",
+ "summary_markdown": "Your touch soothes the body or mind.",
+ "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Mercy Source Player Core 2 pg. 95 1.1 Archetypes Blessed One (Level 6), Blessed One (Level 6) Prerequisites lay on hands --- Your touch soothes the body or mind. You can cast lay on hands targeting a living creature using 2 actions instead of 1. If you do, you can attempt to counteract one condition of your choice affecting the target. When you select this feat, choose one of the following options, which determines the conditions you can choose: Mercy of the Body blinded, dazzled, deafened, enfeebled, sickened; Mercy of Grace clumsy, grabbed, paralyzed; Mercy of the Mind fleeing, frightened, stupefied. Special You can select this feat up to three times. Each time, choose a different type of mercy and add its options to those you can choose when you cast a 2-action lay on hands . Mercy leads to... Affliction Mercy, Blessed Spell, Greater Mercy, Ultimate Mercy",
  "trait": [
-  "Champion",
-  "Concentrate",
-  "Metamagic"
+  "Champion"
  ],
- "trait_markdown": "[Champion](/Traits.aspx?ID=24), [Concentrate](/Traits.aspx?ID=32), [Metamagic](/Traits.aspx?ID=107)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Champion](/Traits.aspx?ID=811)",
  "trait_raw": [
-  "Champion",
-  "Concentrate",
-  "Metamagic"
+  "Champion"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=225",
+ "url": "/Feats.aspx?ID=5897",
  "weakness": {}
 }

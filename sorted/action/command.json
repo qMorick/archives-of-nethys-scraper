@@ -1,33 +1,39 @@
 {
- "actions": "Reaction",
- "breadcrumbs_spa": [],
+ "actions": "Free Action",
+ "actions_number": 0,
  "category": "action",
  "exclude_from_search": true,
- "frequency": "once per day",
- "id": "action-2057",
- "markdown": "**Activate** <actions string=\"Reaction\" />command;  **Frequency** once per day; **Trigger** A creature you can sense within 60 feet would die or be destroyed;  **Effect** You prevent the target from dying or being destroyed and restore to the target 6d8+24 Hit Points. This effect can prevent a [death](/Traits.aspx?ID=40) effect or [_disintegrate_](/Spells.aspx?ID=76) from slaying a target. The amount of healing granted increases to 7d8+28 if you're at least 15th level, 8d8+32 if you're at least 17th level, and 9d8+36 if you're at least 19th level.",
+ "frequency": "once per minute",
+ "id": "action-250",
+ "markdown": "**Activate** <actions string=\"Free Action\" /> command;  **Frequency** once per minute; **Trigger** You damage a creature with a Strike;  **Effect** Your target is gripped by intense fear. This has the effect of a DC 37 [_phantasmal killer_](/Spells.aspx?ID=219)\t spell, but it is an enchantment instead of an illusion. The creature is then temporarily immune for 24 hours.",
  "name": "command",
+ "primary_source": "Core Rulebook",
+ "primary_source_raw": "Core Rulebook pg. 610",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2023-05-24",
+ "rarity_id": 1,
+ "release_date": "2019-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #191: The Destiny War](/Sources.aspx?ID=199) pg. 76</row>\r\n\r\n**Frequency**\r\nonce per day\r\n\r\n**Trigger**\r\nA creature you can sense within 60 feet would die or be destroyed\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou prevent the target from dying or being destroyed and restore to the target 6d8+24 Hit Points. This effect can prevent a  death  effect or   …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 610 <sup>4.0</sup>\r\n\r\n**Frequency**\r\nonce per minute\r\n\r\n**Trigger**\r\nYou damage a creature with a Strike\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour target is gripped by intense fear. This has the effect of a DC 37   phantasmal killer  \t spell, but it is an enchantment instead of an illusion. …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Pathfinder #191: The Destiny War"
+  "Core Rulebook"
  ],
  "source_raw": [
-  "Pathfinder #191: The Destiny War pg. 76"
+  "Core Rulebook pg. 610"
  ],
- "source_category": "Adventure Paths",
- "source_group": "Stolen Fate",
- "source_markdown": "<row gap=\"tiny\">[Pathfinder #191: The Destiny War](/Sources.aspx?ID=199) pg. 76</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 610 <sup>4.0</sup>",
  "speed": {},
- "summary": "You prevent the target from dying or being destroyed and restore to the target 6d8+24 Hit Points. This effect can prevent a  death  effect or   …",
- "summary_markdown": "You prevent the target from dying or being destroyed and restore to the target 6d8+24 Hit Points. This effect can prevent a  death  effect or   …",
- "text": " Activate Reactioncommand; Frequency once per day; Trigger A creature you can sense within 60 feet would die or be destroyed; Effect You prevent the target from dying or being destroyed and restore to the target 6d8+24 Hit Points. This effect can prevent a death effect or disintegrate from slaying a target. The amount of healing granted increases to 7d8+28 if you're at least 15th level, 8d8+32 if you're at least 17th level, and 9d8+36 if you're at least 19th level.",
+ "summary": "Your target is gripped by intense fear. This has the effect of a DC 37   phantasmal killer  \t spell, but it is an enchantment instead of an illusion. …",
+ "summary_markdown": "Your target is gripped by intense fear. This has the effect of a DC 37   phantasmal killer  \t spell, but it is an enchantment instead of an illusion. …",
+ "text": " Activate Free Action command; Frequency once per minute; Trigger You damage a creature with a Strike; Effect Your target is gripped by intense fear. This has the effect of a DC 37 phantasmal killer spell, but it is an enchantment instead of an illusion. The creature is then temporarily immune for 24 hours.",
  "trait_markdown": "",
- "trigger": "A creature you can sense within 60 feet would die or be destroyed",
- "trigger_markdown": "A creature you can sense within 60 feet would die or be destroyed",
+ "trigger": "You damage a creature with a Strike",
+ "trigger_markdown": "You damage a creature with a Strike",
  "type": "Action",
- "url": "/Actions.aspx?ID=2057",
+ "url": "/Actions.aspx?ID=250",
  "weakness": {}
 }

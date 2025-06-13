@@ -1,45 +1,59 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
+ "bulk": 0,
  "category": "equipment",
  "exclude_from_search": false,
  "id": "equipment-2332",
  "item_category": "Worn Items",
  "item_subcategory": "Other Worn Items",
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Candlecap](/Equipment.aspx?ID=2332)\r\n</title>\n\n<traits>\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=100\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 151 <sup>1.1</sup>, [Pathfinder #175: Broken Tusk Moon](/Sources.aspx?ID=112) pg. 76</row>\n\n**Price** 12 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** worn headwear\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThe crown of a _candlecap_ is stitched leather sewn in the shape of a small bowl. Fixed inside the bowl is a melted nub of wax with a small black wick.\n\n<document level=\"2\" id=\"action-1887\" />\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Candlecap](/Equipment.aspx?ID=2332)\r\n</title>\n\n<traits>\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=100\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 151 <sup>2.0</sup>, [Pathfinder #175: Broken Tusk Moon](/Sources.aspx?ID=112) pg. 76\n\n**Price** 12 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** worn headwear\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThe crown of a _candlecap_ is stitched leather sewn in the shape of a small bowl. Fixed inside the bowl is a melted nub of wax with a small black wick.\n\n**Activate** <actions string=\"Single Action\" /> ([manipulate](/Traits.aspx?ID=645))    **Effect** You shake your head, and the candle wick ignites. The _candlecap_ sheds [dim light](/Rules.aspx?ID=408) in a 20-foot radius. The candle doesn't require oxygen and can't be smothered or quenched. Activating the _candlecap_ again douses the light.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Candlecap",
  "pfs": "Standard",
  "price": 1200,
  "price_raw": "12 gp",
+ "primary_source": "Treasure Vault",
+ "primary_source_raw": "Treasure Vault pg. 151",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
+ "rarity_id": 1,
  "release_date": "2023-02-22",
  "resistance": {},
- "school": "evocation",
- "search_markdown": "<traits>\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=100\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Sources** [Treasure Vault](/Sources.aspx?ID=191) pg. 151 <sup>1.1</sup>, [Pathfinder #175: Broken Tusk Moon](/Sources.aspx?ID=112) pg. 76</row>\r\n\r\n**Price** 12 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** worn headwear\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe crown of a  candlecap  is stitched leather sewn in the shape of a small bowl. Fixed inside the bowl is a melted nub of wax with a small black …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=100\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 151 <sup>2.0</sup>, [Pathfinder #175: Broken Tusk Moon](/Sources.aspx?ID=112) pg. 76\r\n\r\n**Price** 12 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** worn headwear\r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe crown of a  candlecap  is stitched leather sewn in the shape of a small bowl. Fixed inside the bowl is a melted nub of wax with a small black …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Treasure Vault"
+  "Treasure Vault",
+  "Pathfinder #175: Broken Tusk Moon"
  ],
  "source_raw": [
-  "Treasure Vault pg. 151"
+  "Treasure Vault pg. 151",
+  "Pathfinder #175: Broken Tusk Moon pg. 76"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Treasure Vault](/Sources.aspx?ID=191) pg. 151 <sup>1.1</sup>, [Pathfinder #175: Broken Tusk Moon](/Sources.aspx?ID=112) pg. 76</row>",
+ "source_category": [
+  "Rulebooks",
+  "Adventure Paths"
+ ],
+ "source_group": [
+  "Quest for the Frozen Flame"
+ ],
+ "source_markdown": "[Treasure Vault](/Sources.aspx?ID=191) pg. 151 <sup>2.0</sup>, [Pathfinder #175: Broken Tusk Moon](/Sources.aspx?ID=112) pg. 76",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
  "summary": "The crown of a  candlecap  is stitched leather sewn in the shape of a small bowl. Fixed inside the bowl is a melted nub of wax with a small black …",
  "summary_markdown": "The crown of a  candlecap  is stitched leather sewn in the shape of a small bowl. Fixed inside the bowl is a melted nub of wax with a small black …",
- "text": "<title level=\"1\" right=\"Item 1\" pfs=\"Standard\" > Candlecap Source Treasure Vault pg. 151 1.1 , Pathfinder #175: Broken Tusk Moon pg. 76 Price 12 gp Usage worn headwear --- The crown of a candlecap is stitched leather sewn in the shape of a small bowl. Fixed inside the bowl is a melted nub of wax with a small black wick.\n",
+ "text": "<title level=\"1\" right=\"Item 1\" pfs=\"Standard\" > Candlecap Source Treasure Vault pg. 151 2.0 , Pathfinder #175: Broken Tusk Moon pg. 76 Price 12 gp Usage worn headwear --- The crown of a candlecap is stitched leather sewn in the shape of a small bowl. Fixed inside the bowl is a melted nub of wax with a small black wick. Activate Single Action (manipulate) Effect You shake your head, and the candle wick ignites. The candlecap sheds dim light in a 20-foot radius. The candle doesn't require oxygen and can't be smothered or quenched. Activating the candlecap again douses the light.\n",
  "trait": [
-  "Evocation",
   "Invested",
   "Light",
   "Magical"
  ],
- "trait_markdown": "[Evocation](/Traits.aspx?ID=65), [Invested](/Traits.aspx?ID=98), [Light](/Traits.aspx?ID=100), [Magical](/Traits.aspx?ID=103)",
+ "trait_group": [
+  "Equipment",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Invested](/Traits.aspx?ID=98), [Light](/Traits.aspx?ID=100), [Magical](/Traits.aspx?ID=103)",
  "trait_raw": [
-  "Evocation",
   "Invested",
   "Light",
   "Magical"

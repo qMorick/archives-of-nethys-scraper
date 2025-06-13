@@ -5,34 +5,46 @@
  "archetype_category": [
   "Multiclass"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-42",
+ "id": "archetype-233",
+ "image": [
+  "/Images/Archetypes/Archetype_Oracle.webp"
+ ],
+ "legacy_id": [
+  "archetype-42"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Oracle](/Archetypes.aspx?ID=42)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 152 <sup>2.0</sup></row>\n\nA mysterious force granted you divine magic and a curse.\n\n<document level=\"2\" id=\"feat-1851\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1852\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1853\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1854\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1855\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1856\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1857\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1858\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Oracle](/Archetypes.aspx?ID=233)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 180 <sup>1.1</sup>\r\n\r\n_[**PFS Note**](/pathfinder-society) Characters with the Oracle archetype can still take 10 minutes of refocusing to reduce their cursebound condition, even if they do not have a focus pool._\r\n\r\nA mysterious force granted you divine magic and a curse.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Oracle.webp\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"3\">Multiclass Oracle Characters</title>\r\n\r\nThe oracle archetype is a great choice for characters who want to use powerful cursebound abilities that come at a cost. It's especially good for characters looking to add some high-risk, high-reward options. \n<ul><li>Martial oracles can use powerful cursebound abilities to access unique magical effects.</li><li>Spellcaster oracles can further flex their diverse pool of options at the cost of a curse.</li></ul>\n\n<document level=\"2\" id=\"feat-6217\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6218\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6219\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6220\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6221\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6222\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6223\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6224\"\n\n/>",
  "name": "Oracle",
  "pfs": "Standard",
- "prerequisite": "Charisma 14",
- "prerequisite_markdown": "Charisma 14",
+ "prerequisite": "Charisma +2",
+ "prerequisite_markdown": "Charisma +2",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 180",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 152 <sup>2.0</sup></row>\r\n\r\n**Prerequisites**\r\nCharisma 14\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA mysterious force granted you divine magic and a curse.\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 180 <sup>1.1</sup>\r\n\r\n**Prerequisites**\r\nCharisma +2\n\n**Archetype Category**\r\nMulticlass\r\n\r\n**Number of Feats** 8\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA mysterious force granted you divine magic and a curse.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 152"
+  "Player Core 2 pg. 180"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 152 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 180 <sup>1.1</sup>",
  "speed": {},
  "summary": "A mysterious force granted you divine magic and a curse.",
  "summary_markdown": "A mysterious force granted you divine magic and a curse.",
- "text": " Oracle Source Advanced Player's Guide pg. 152 2.0 A mysterious force granted you divine magic and a curse. <document level=\"2\" id=\"feat-1852\" /> <document level=\"2\" id=\"feat-1853\" /> <document level=\"2\" id=\"feat-1854\" /> <document level=\"2\" id=\"feat-1855\" /> <document level=\"2\" id=\"feat-1856\" /> <document level=\"2\" id=\"feat-1857\" /> <document level=\"2\" id=\"feat-1858\" />",
+ "text": " Oracle Source Player Core 2 pg. 180 1.1 PFS Note Characters with the Oracle archetype can still take 10 minutes of refocusing to reduce their cursebound condition, even if they do not have a focus pool. A mysterious force granted you divine magic and a curse. Multiclass Oracle Characters The oracle archetype is a great choice for characters who want to use powerful cursebound abilities that come at a cost. It's especially good for characters looking to add some high-risk, high-reward options. Martial oracles can use powerful cursebound abilities to access unique magical effects. Spellcaster oracles can further flex their diverse pool of options at the cost of a curse. <document level=\"2\" id=\"feat-6218\" /> <document level=\"2\" id=\"feat-6219\" /> <document level=\"2\" id=\"feat-6220\" /> <document level=\"2\" id=\"feat-6221\" /> <document level=\"2\" id=\"feat-6222\" /> <document level=\"2\" id=\"feat-6223\" /> <document level=\"2\" id=\"feat-6224\" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=42",
+ "url": "/Archetypes.aspx?ID=233",
  "weakness": {}
 }

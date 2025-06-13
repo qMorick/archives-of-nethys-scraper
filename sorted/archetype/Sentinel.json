@@ -6,32 +6,44 @@
   "Profession",
   "Core"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-76",
+ "id": "archetype-264",
+ "image": [
+  "/Images/Archetypes/Archetype_Sentinel.webp"
+ ],
+ "legacy_id": [
+  "archetype-76"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Sentinel](/Archetypes.aspx?ID=76)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 191 <sup>2.0</sup></row>\n\nArmor offers solid, reassuring protection in combat, and as someone who faces danger on a regular basis, you have made it your business to get the most out of your defenses. You stand solid on any battlefield, encased in the sturdiest armor you can find. When danger threatens, your solid defenses will safely get you, and possibly your companions, home again. As a sentinel, you might be a member of an order of knights or bodyguards that trained you how best to take advantage of heavy armor. On the other hand, you might just be an adventurer who took one too many scrapes and decided that enough was enough, so you trained yourself to wear the heaviest plate you could get your hands on. Some witches or sorcerers have chosen to follow the path of the sentinel to increase their survivability.\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-2062\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2063\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2064\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2065\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2066\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1678\"\r\noverride-title-right=\"Feat 10*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1688\"\r\noverride-title-right=\"Feat 16*\"\r\n\r\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Sentinel](/Archetypes.aspx?ID=264)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 215 <sup>1.1</sup>\n\nArmor offers solid, reassuring protection in combat, and as someone who faces danger on a regular basis, you have made it your business to get the most out of your defenses. You stand solid on any battlefield, encased in the sturdiest armor you can find. When danger threatens, your solid defenses will safely get you, and hopefully your companions, home again. As a sentinel, you might be part of an order of knights or bodyguards who trained you how best to take advantage of heavy armor. On the other hand, you might just be an adventurer who took one too many grievous injuries and decided enough was enough, so you trained yourself to wear the heaviest plate you could get your hands on. Some witches or sorcerers have chosen to follow the path of the sentinel to increase their survivability. While this is less common, it's not less effective. Few will argue against stronger, heavier armor leading to a longer life, and as every turtle knows, it's always nice to have a nice hard shell to fall back on when threatened. No one has a tougher shell than a sentinel. Even in the midst of great battles, you know that your armor is your greatest ally. It won't abandon you, break, or falter as things get tough. You can rely on your armor to see you through whatever tough fights lie ahead, and the odds always seem better when you're protected.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Sentinel.webp\" />\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"feat-6409\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6410\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6411\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6412\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6413\"\n\n/>",
  "name": "Sentinel",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 215",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 191 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nArmor offers solid, reassuring protection in combat, and as someone who faces danger on a regular basis, you have made it your business to get the …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 215 <sup>1.1</sup>\n\n**Archetype Categories**\r\nProfession, Core\r\n\r\n**Number of Feats** 5\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nArmor offers solid, reassuring protection in combat, and as someone who faces danger on a regular basis, you have made it your business to get the …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 191"
+  "Player Core 2 pg. 215"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 191 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 215 <sup>1.1</sup>",
  "speed": {},
  "summary": "Armor offers solid, reassuring protection in combat, and as someone who faces danger on a regular basis, you have made it your business to get the …",
  "summary_markdown": "Armor offers solid, reassuring protection in combat, and as someone who faces danger on a regular basis, you have made it your business to get the …",
- "text": " Sentinel Source Advanced Player's Guide pg. 191 2.0 Armor offers solid, reassuring protection in combat, and as someone who faces danger on a regular basis, you have made it your business to get the most out of your defenses. You stand solid on any battlefield, encased in the sturdiest armor you can find. When danger threatens, your solid defenses will safely get you, and possibly your companions, home again. As a sentinel, you might be a member of an order of knights or bodyguards that trained you how best to take advantage of heavy armor. On the other hand, you might just be an adventurer who took one too many scrapes and decided that enough was enough, so you trained yourself to wear the heaviest plate you could get your hands on. Some witches or sorcerers have chosen to follow the path of the sentinel to increase their survivability. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-2063\" /> <document level=\"2\" id=\"feat-2064\" /> <document level=\"2\" id=\"feat-2065\" /> <document level=\"2\" id=\"feat-2066\" /> <document level=\"2\" id=\"feat-1678\" override-title-right=\"Feat 10 \" /> <document level=\"2\" id=\"feat-1688\" override-title-right=\"Feat 16 \" />",
+ "text": " Sentinel Source Player Core 2 pg. 215 1.1 Armor offers solid, reassuring protection in combat, and as someone who faces danger on a regular basis, you have made it your business to get the most out of your defenses. You stand solid on any battlefield, encased in the sturdiest armor you can find. When danger threatens, your solid defenses will safely get you, and hopefully your companions, home again. As a sentinel, you might be part of an order of knights or bodyguards who trained you how best to take advantage of heavy armor. On the other hand, you might just be an adventurer who took one too many grievous injuries and decided enough was enough, so you trained yourself to wear the heaviest plate you could get your hands on. Some witches or sorcerers have chosen to follow the path of the sentinel to increase their survivability. While this is less common, it's not less effective. Few will argue against stronger, heavier armor leading to a longer life, and as every turtle knows, it's always nice to have a nice hard shell to fall back on when threatened. No one has a tougher shell than a sentinel. Even in the midst of great battles, you know that your armor is your greatest ally. It won't abandon you, break, or falter as things get tough. You can rely on your armor to see you through whatever tough fights lie ahead, and the odds always seem better when you're protected. <document level=\"2\" id=\"feat-6410\" /> <document level=\"2\" id=\"feat-6411\" /> <document level=\"2\" id=\"feat-6412\" /> <document level=\"2\" id=\"feat-6413\" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=76",
+ "url": "/Archetypes.aspx?ID=264",
  "weakness": {}
 }

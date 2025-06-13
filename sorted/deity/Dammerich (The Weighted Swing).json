@@ -1,23 +1,27 @@
 {
- "ability": [
+ "attribute": [
   "Constitution",
   "Wisdom"
  ],
- "alignment": "LG",
- "breadcrumbs_spa": [],
+ "anathema": "Kill without thought, execute the innocent, mock the condemned, falsely incriminate another",
+ "area_of_concern": [
+  "Executions",
+  "judiciousness",
+  "responsibility"
+ ],
+ "area_of_concern_raw": "Executions, judiciousness, responsibility",
  "category": "deity",
  "cleric_spell": [
-  "True Strike",
+  "Sure Strike",
   "Paralyze",
-  "Stoneskin"
+  "Mountain Resilience"
  ],
  "deity": [
   "Dammerich"
  ],
- "deity_markdown": "[Dammerich](/Deities.aspx?ID=117)",
  "deity_category": "Empyreal Lords",
- "deity_category_markdown": "[Empyreal Lords\r\n](/DeityCategories.aspx?ID=10)",
- "deity_category_order": "2Empyreal Lords\r\n",
+ "deity_category_markdown": "[Empyreal Lords](/DeityCategories.aspx?ID=10)",
+ "deity_category_order": "2Empyreal Lords",
  "divine_font": [
   "Harm",
   "Heal"
@@ -29,7 +33,7 @@
   "Truth",
   "Vigil"
  ],
- "domain_markdown": "[Death](/Domains.aspx?ID=7), [Duty](/Domains.aspx?ID=45), [Truth](/Domains.aspx?ID=32), [Vigil](/Domains.aspx?ID=55)",
+ "domain_markdown": "[Death](/Domains.aspx?ID=70), [Duty](/Domains.aspx?ID=108), [Truth](/Domains.aspx?ID=95), [Vigil](/Domains.aspx?ID=123)",
  "domain_alternate_markdown": "",
  "domain_primary": [
   "Death",
@@ -37,46 +41,64 @@
   "Truth",
   "Vigil"
  ],
- "domain_primary_markdown": "[Death](/Domains.aspx?ID=7), [Duty](/Domains.aspx?ID=45), [Truth](/Domains.aspx?ID=32), [Vigil](/Domains.aspx?ID=55)",
+ "domain_primary_markdown": "[Death](/Domains.aspx?ID=70), [Duty](/Domains.aspx?ID=108), [Truth](/Domains.aspx?ID=95), [Vigil](/Domains.aspx?ID=123)",
+ "edict": "Perform just executions, study local laws, oppose corrupt or bloodthirsty government officials",
  "exclude_from_search": false,
  "favored_weapon": [
   "Greataxe"
  ],
- "favored_weapon_markdown": "[Greataxe](/Weapons.aspx?ID=21)",
- "follower_alignment": [
-  "LG"
+ "favored_weapon_markdown": "[Greataxe](/Weapons.aspx?ID=376)",
+ "id": "deity-646",
+ "legacy_id": [
+  "deity-117"
  ],
- "id": "deity-117",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Dammerich (The Weighted Swing)](/Deities.aspx?ID=117)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"LG\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 128 <sup>2.0</sup></row>\n\n_Nethys Note: no description has been provided of this deity_\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Empyreal Lords\r\n](/DeityCategories.aspx?ID=10)\r\n\r\n**Edicts** Perform just executions, study local laws, oppose corrupt or bloodthirsty government officials\r\n\r\n**Anathema** Kill without thought, execute the innocent, mock the condemned, falsely incriminate another\n\n**Follower Alignments**\r\nLG\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nConstitution or Wisdom\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Athletics](/Skills.aspx?ID=3)\r\n\r\n**Favored Weapon** [Greataxe](/Weapons.aspx?ID=21)\r\n\r\n**Domains** [Death](/Domains.aspx?ID=7), [Duty](/Domains.aspx?ID=45), [Truth](/Domains.aspx?ID=32), [Vigil](/Domains.aspx?ID=55)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[True Strike](/Spells.aspx?ID=345)\n\n- **3rd**\r\n[Paralyze](/Spells.aspx?ID=213)\n\n- **4th**\r\n[Stoneskin](/Spells.aspx?ID=312)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Dammerich (The Weighted Swing)](/Deities.aspx?ID=646)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries Web Supplement](/Sources.aspx?ID=237) pg. 11\n\n_Nethys Note: no description has been provided of this deity_\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Empyreal Lords](/DeityCategories.aspx?ID=10)\r\n\r\n**Edicts** Perform just executions, study local laws, oppose corrupt or bloodthirsty government officials\r\n\r\n**Anathema** Kill without thought, execute the innocent, mock the condemned, falsely incriminate another\r\n\r\n**Area of Concern**\r\nExecutions, judiciousness, responsibility\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nConstitution or Wisdom\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** can choose holy\r\n\r\n**Divine Skill** [Nature](/Skills.aspx?ID=43)\r\n\r\n**Favored Weapon** [Greataxe](/Weapons.aspx?ID=376)\r\n\r\n**Domains** [Death](/Domains.aspx?ID=70), [Duty](/Domains.aspx?ID=108), [Truth](/Domains.aspx?ID=95), [Vigil](/Domains.aspx?ID=123)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Sure Strike](/Spells.aspx?ID=1709)\n\n- **3rd**\r\n[Paralyze](/Spells.aspx?ID=1622)\n\n- **4th**\r\n[Mountain Resilience](/Spells.aspx?ID=1610)\n\n</column>",
  "name": "Dammerich (The Weighted Swing)",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries Web Supplement",
+ "primary_source_raw": "Divine Mysteries Web Supplement pg. 11",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "Dove perched on axe",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 128 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Harm or Heal\r\n\r\n**Divine Skill** [Athletics](/Skills.aspx?ID=3)\r\n\r\n**Favored Weapon** [Greataxe](/Weapons.aspx?ID=21)\r\n\r\n**Domains** [Death](/Domains.aspx?ID=7), [Duty](/Domains.aspx?ID=45), [Truth](/Domains.aspx?ID=32), [Vigil](/Domains.aspx?ID=55)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Nethys Note: no description has been provided of this deity \r\n</summary>",
- "skill": [
-  "Athletics"
+ "sacred_animal": "Dove",
+ "sacred_color": [
+  "gray",
+  "white"
  ],
- "skill_markdown": "[Athletics](/Skills.aspx?ID=3)",
+ "sanctification": [
+  "holy"
+ ],
+ "sanctification_raw": "can choose holy",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries Web Supplement](/Sources.aspx?ID=237) pg. 11\r\n\r\n**Divine Font** Harm or Heal\r\n\r\n**Divine Skill** [Nature](/Skills.aspx?ID=43)\r\n\r\n**Favored Weapon** [Greataxe](/Weapons.aspx?ID=376)\r\n\r\n**Domains** [Death](/Domains.aspx?ID=70), [Duty](/Domains.aspx?ID=108), [Truth](/Domains.aspx?ID=95), [Vigil](/Domains.aspx?ID=123)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Nethys Note: no description has been provided of this deity \r\n</summary>",
+ "skill": [
+  "Nature"
+ ],
+ "skill_markdown": "[Nature](/Skills.aspx?ID=43)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries Web Supplement"
  ],
  "source_raw": [
-  "Gods & Magic pg. 128"
+  "Divine Mysteries Web Supplement pg. 11"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 128 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries Web Supplement](/Sources.aspx?ID=237) pg. 11",
  "speed": {},
+ "spell": [
+  "Sure Strike",
+  "Paralyze",
+  "Mountain Resilience"
+ ],
+ "spell_markdown": "[Mountain Resilience](/Spells.aspx?ID=1610), [Paralyze](/Spells.aspx?ID=1622), [Sure Strike](/Spells.aspx?ID=1709)",
  "summary": " Nethys Note: no description has been provided of this deity ",
  "summary_markdown": " Nethys Note: no description has been provided of this deity ",
- "text": " Dammerich (The Weighted Swing) Source Gods &amp; Magic pg. 128 2.0 Nethys Note: no description has been provided of this deity Category [Empyreal Lords ](/DeityCategories.aspx?ID=10) Edicts Perform just executions, study local laws, oppose corrupt or bloodthirsty government officials Anathema Kill without thought, execute the innocent, mock the condemned, falsely incriminate another Follower Alignments LG Devotee Benefits Divine Ability Constitution or Wisdom Divine Font Harm or Heal Divine Skill Athletics Favored Weapon Greataxe Domains Death, Duty, Truth, Vigil Alternate Domains Cleric Spells - 1st True Strike - 3rd Paralyze - 4th Stoneskin\n",
- "trait": [
-  "LG"
- ],
- "trait_raw": [
-  "LG"
- ],
+ "text": " Dammerich (The Weighted Swing) Source Divine Mysteries Web Supplement pg. 11 Nethys Note: no description has been provided of this deity Category Empyreal Lords Edicts Perform just executions, study local laws, oppose corrupt or bloodthirsty government officials Anathema Kill without thought, execute the innocent, mock the condemned, falsely incriminate another Area of Concern Executions, judiciousness, responsibility Devotee Benefits Divine Attribute Constitution or Wisdom Divine Font Harm or Heal Divine Sanctification can choose holy Divine Skill Nature Favored Weapon Greataxe Domains Death, Duty, Truth, Vigil Alternate Domains Cleric Spells - 1st Sure Strike - 3rd Paralyze - 4th Mountain Resilience\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=117",
+ "url": "/Deities.aspx?ID=646",
  "weakness": {}
 }

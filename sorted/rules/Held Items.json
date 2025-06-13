@@ -1,38 +1,48 @@
 {
  "breadcrumbs": [
-  "Chapter 2: Tools\r\n",
-  "Building Items",
-  "Designing by Type"
+  "Chapter 5: Treasure Trove",
+  "Trappings of Power"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1067",
- "markdown": "<title level=\"1\" right=\"Rules\">[Held Items](/Rules.aspx?ID=1067)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 84</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nUsually, held items should require manipulation to use, with Interact activations. They are most often tools, implements, items that can be thrown, and the like. Imagine a PC physically using the item and what that looks like.\n\n Remember that held items are more challenging for martial characters to use, compared to spellcasters or hands-free characters, like monks. A barbarian might have to give up a two-handed weapon to use a held item, and so is less likely to use one. This means you might want to design held items specifically for non-martial characters, or have them be items a martial character uses outside of combat.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-3210",
+ "legacy_id": [
+  "rules-1067"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Held Items](/Rules.aspx?ID=3210)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 273 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThese items need to be held to use them. Weapons, wands, and staves follow special rules and have their own sections.\n\n[Click here for the Held Items category page](/Equipment.aspx?Category=21).\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">The Structure Trait</title>\r\n\r\nAn item with the [structure](/Traits.aspx?ID=704) trait creates a magical building or other structure when activated. The item must be activated on a plot of land free of other structures. The structure adapts to the natural terrain, adopting the structural requirements for being built there. The structure adjusts around small features such as ponds or spires of rock, but it can't be created on water or other nonsolid surfaces. If activated on snow, sand dunes, or other soft surfaces with a solid surface underneath, the structure's foundation (if any) reaches the solid ground. If an item with this trait is activated on a solid but unstable surface, such as a swamp or an area plagued by tremors, roll a DC 3 flat check each day; on a failure, the structure begins to sink or collapse.\n\nThe structure doesn't harm creatures within the area when it appears, and it can't be created within a crowd or in a densely populated area. Any creature inadvertently caught inside the structure when the item is activated ends up unharmed inside the complete structure and always has a clear path of escape. A creature inside the structure when the activation ends isn't harmed, and it lands harmlessly on the ground if it was on an upper level of the structure.\r\n</aside>",
  "name": "Held Items",
  "next_link": {
-  "label": "Oils",
-  "url": "/Rules.aspx?ID=1068"
+  "label": "Staves",
+  "url": "/Rules.aspx?ID=3211"
  },
  "previous_link": {
-  "label": "Armor and Weapons",
-  "url": "/Rules.aspx?ID=1066"
+  "label": "Companion Items",
+  "url": "/Rules.aspx?ID=3209"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 273",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 84</row>\r\n\r\nChapter 2: Tools\r\n/ Building Items / Designing by Type\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 273 <sup>2.0</sup>\r\n\r\nChapter 5: Treasure Trove / Trappings of Power\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese items need to be held to use them. Weapons, wands, and staves follow special rules and have their own sections.   Click here for the Held Items …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 84"
+  "GM Core pg. 273"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 84</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 273 <sup>2.0</sup>",
  "speed": {},
- "text": " Held Items Source Gamemastery Guide pg. 84 Usually, held items should require manipulation to use, with Interact activations. They are most often tools, implements, items that can be thrown, and the like. Imagine a PC physically using the item and what that looks like. Remember that held items are more challenging for martial characters to use, compared to spellcasters or hands-free characters, like monks. A barbarian might have to give up a two-handed weapon to use a held item, and so is less likely to use one. This means you might want to design held items specifically for non-martial characters, or have them be items a martial character uses outside of combat. ",
+ "summary": "These items need to be held to use them. Weapons, wands, and staves follow special rules and have their own sections.   Click here for the Held Items …",
+ "summary_markdown": "These items need to be held to use them. Weapons, wands, and staves follow special rules and have their own sections.   Click here for the Held Items …",
+ "text": " Held Items Source GM Core pg. 273 2.0 These items need to be held to use them. Weapons, wands, and staves follow special rules and have their own sections. Click here for the Held Items category page. The Structure Trait An item with the structure trait creates a magical building or other structure when activated. The item must be activated on a plot of land free of other structures. The structure adapts to the natural terrain, adopting the structural requirements for being built there. The structure adjusts around small features such as ponds or spires of rock, but it can't be created on water or other nonsolid surfaces. If activated on snow, sand dunes, or other soft surfaces with a solid surface underneath, the structure's foundation (if any) reaches the solid ground. If an item with this trait is activated on a solid but unstable surface, such as a swamp or an area plagued by tremors, roll a DC 3 flat check each day; on a failure, the structure begins to sink or collapse. The structure doesn't harm creatures within the area when it appears, and it can't be created within a crowd or in a densely populated area. Any creature inadvertently caught inside the structure when the item is activated ends up unharmed inside the complete structure and always has a clear path of escape. A creature inside the structure when the activation ends isn't harmed, and it lands harmlessly on the ground if it was on an upper level of the structure. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1067",
+ "url": "/Rules.aspx?ID=3210",
  "weakness": {}
 }

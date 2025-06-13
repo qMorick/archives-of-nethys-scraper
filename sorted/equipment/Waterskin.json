@@ -1,39 +1,48 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
  "bulk": 0.1,
  "bulk_raw": "L",
  "category": "equipment",
  "exclude_from_search": false,
  "hands": "1",
- "id": "equipment-62",
+ "id": "equipment-2761",
  "item_category": "Adventuring Gear",
+ "legacy_id": [
+  "equipment-62"
+ ],
  "level": 0,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 0\"\r\n    pfs=\"Standard\"\r\n>\r\n[Waterskin](/Equipment.aspx?ID=62)\r\n</title>\n\n<traits>\r\n\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 292 <sup>4.0</sup></row>\n\n**Price** 5 cp\r\n\r\n<row gap=\"medium\">\n\n**Hands** 1\n\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nWhen it’s full, a waterskin contains roughly 1 day’s worth of water for a Small or Medium creature.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 0\"\r\n    pfs=\"Standard\"\r\n>\r\n[Waterskin](/Equipment.aspx?ID=2761)\r\n</title>\n\n<traits>\r\n\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 292 <sup>2.0</sup>\n\n**Price** 5 cp\r\n\r\n<row gap=\"medium\">\n\n**Hands** 1\n\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nWhen it's full, a waterskin contains roughly 1 day's worth of water for a Small or Medium creature.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Waterskin",
  "pfs": "Standard",
  "price": 5,
  "price_raw": "5 cp",
+ "primary_source": "Player Core",
+ "primary_source_raw": "Player Core pg. 292",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 292 <sup>4.0</sup></row>\r\n\r\n**Price** 5 cp\r\n\r\n<row gap=\"medium\">\r\n**Hands** 1\r\n\r\n \r\n\r\n**Bulk** L\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen it’s full, a waterskin contains roughly 1 day’s worth of water for a Small or Medium creature.\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 292 <sup>2.0</sup>\r\n\r\n**Price** 5 cp\r\n\r\n<row gap=\"medium\">\r\n**Hands** 1\r\n\r\n \r\n\r\n**Bulk** L\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen it's full, a waterskin contains roughly 1 day's worth of water for a Small or Medium creature.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 292"
+  "Player Core pg. 292"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 292 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 292 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "When it’s full, a waterskin contains roughly 1 day’s worth of water for a Small or Medium creature.",
- "summary_markdown": "When it’s full, a waterskin contains roughly 1 day’s worth of water for a Small or Medium creature.",
- "text": "<title level=\"1\" right=\"Item 0\" pfs=\"Standard\" > Waterskin Source Core Rulebook pg. 292 4.0 Price 5 cp Hands 1 Bulk L --- When it’s full, a waterskin contains roughly 1 day’s worth of water for a Small or Medium creature.\n",
+ "summary": "When it's full, a waterskin contains roughly 1 day's worth of water for a Small or Medium creature.",
+ "summary_markdown": "When it's full, a waterskin contains roughly 1 day's worth of water for a Small or Medium creature.",
+ "text": "<title level=\"1\" right=\"Item 0\" pfs=\"Standard\" > Waterskin Source Player Core pg. 292 2.0 Price 5 cp Hands 1 Bulk L --- When it's full, a waterskin contains roughly 1 day's worth of water for a Small or Medium creature.\n",
  "trait_markdown": "",
  "type": "Item",
- "url": "/Equipment.aspx?ID=62",
+ "url": "/Equipment.aspx?ID=2761",
  "weakness": {}
 }

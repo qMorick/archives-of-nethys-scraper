@@ -1,52 +1,65 @@
 {
  "actions": "Free Action",
+ "actions_number": 0,
  "archetype": [
   "Bastion"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Disarming Block"
  ],
  "feat_markdown": "Disarming Block",
- "id": "feat-1896",
+ "id": "feat-6263",
+ "legacy_id": [
+  "feat-1896"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Disarming Block](/Feats.aspx?ID=1896) <actions string=\"Free Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 159 <sup>2.0</sup></row>\n\n**Archetype** [Bastion](/Archetypes.aspx?ID=49)\n\n**Prerequisites**\r\n[Bastion Dedication](/Feats.aspx?ID=1895); Trained in [Athletics](/Skills.aspx?ID=3)\n\n**Trigger**\r\nYou [Shield Block](/Feats.aspx?ID=839) a melee Strike made with a held weapon.\n\n</column>\r\n\r\n---\r\n\r\nYou attempt to [Disarm](/Actions.aspx?ID=41) the creature whose attack you blocked of the weapon they attacked you with. You can do so even if you don't have a hand free.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Disarming Block](/Feats.aspx?ID=6263) <actions string=\"Free Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 187 <sup>1.1</sup>\n\n**Archetype** [Bastion](/Archetypes.aspx?ID=240)\n\n**Prerequisites**\r\n[Bastion Dedication](/Feats.aspx?ID=6262); Trained in [Athletics](/Skills.aspx?ID=36)\n\n**Trigger**\r\nYou [Shield Block](/Feats.aspx?ID=5212) a melee [Strike](/Actions.aspx?ID=2306) made with a held weapon.\n\n</column>\r\n\r\n---\r\n\r\nWith deft and practiced movement, you block at an angle to potentially dislodge the weapon. You attempt to [Disarm](/Actions.aspx?ID=2383) the creature whose attack you blocked of the weapon they attacked you with. You can do so even if you don’t have a hand free.",
  "name": "Disarming Block",
  "pfs": "Standard",
  "prerequisite": "Bastion Dedication; Trained in Athletics",
- "prerequisite_markdown": "[Bastion Dedication](/Feats.aspx?ID=1895); Trained in [Athletics](/Skills.aspx?ID=3)",
+ "prerequisite_markdown": "[Bastion Dedication](/Feats.aspx?ID=6262); Trained in [Athletics](/Skills.aspx?ID=36)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 187",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 159 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Bastion Dedication](/Feats.aspx?ID=1895); Trained in [Athletics](/Skills.aspx?ID=3)\n\n**Trigger**\r\nYou [Shield Block](/Feats.aspx?ID=839) a melee Strike made with a held weapon.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou attempt to Disarm the creature whose attack you blocked of the weapon they attacked you with.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 187 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Bastion Dedication](/Feats.aspx?ID=6262); Trained in [Athletics](/Skills.aspx?ID=36)\n\n**Trigger**\r\nYou [Shield Block](/Feats.aspx?ID=5212) a melee [Strike](/Actions.aspx?ID=2306) made with a held weapon.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWith deft and practiced movement, you block at an angle to potentially dislodge the weapon.\r\n</summary>",
  "skill": [
   "Athletics",
   "Athletics"
  ],
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 159"
+  "Player Core 2 pg. 187"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 159 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 187 <sup>1.1</sup>",
  "speed": {},
- "summary": "You attempt to Disarm the creature whose attack you blocked of the weapon they attacked you with.",
- "summary_markdown": "You attempt to Disarm the creature whose attack you blocked of the weapon they attacked you with.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Disarming Block Free Action Source Advanced Player's Guide pg. 159 2.0 Archetype Bastion Prerequisites Bastion Dedication; Trained in Athletics Trigger You Shield Block a melee Strike made with a held weapon. --- You attempt to Disarm the creature whose attack you blocked of the weapon they attacked you with. You can do so even if you don't have a hand free.",
+ "summary": "With deft and practiced movement, you block at an angle to potentially dislodge the weapon.",
+ "summary_markdown": "With deft and practiced movement, you block at an angle to potentially dislodge the weapon.",
+ "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Disarming Block Free Action Source Player Core 2 pg. 187 1.1 Archetype Bastion Prerequisites Bastion Dedication; Trained in Athletics Trigger You Shield Block a melee Strike made with a held weapon. --- With deft and practiced movement, you block at an angle to potentially dislodge the weapon. You attempt to Disarm the creature whose attack you blocked of the weapon they attacked you with. You can do so even if you don’t have a hand free.",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
- "trigger": "You  Shield Block  a melee Strike made with a held weapon.",
- "trigger_markdown": "You [Shield Block](/Feats.aspx?ID=839) a melee Strike made with a held weapon.",
+ "trigger": "You  Shield Block  a melee  Strike  made with a held weapon.",
+ "trigger_markdown": "You [Shield Block](/Feats.aspx?ID=5212) a melee [Strike](/Actions.aspx?ID=2306) made with a held weapon.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=1896",
+ "url": "/Feats.aspx?ID=6263",
  "weakness": {}
 }

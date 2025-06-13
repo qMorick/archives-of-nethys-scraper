@@ -1,23 +1,27 @@
 {
- "ability": [
-  "Intelligence",
-  "Charisma"
+ "attribute": [
+  "Charisma",
+  "Intelligence"
  ],
- "alignment": "CG",
- "breadcrumbs_spa": [],
+ "anathema": "Break the laws of hospitality, allow a guest to bring harm to your family",
+ "area_of_concern": [
+  "Architecture",
+  "art",
+  "twilight"
+ ],
+ "area_of_concern_raw": "Architecture, art, twilight",
  "category": "deity",
  "cleric_spell": [
-  "Illusory Object",
-  "Creation",
-  "Magnificent Mansion"
+  "Temporary Tool",
+  "Shape Stone",
+  "Planar Palace"
  ],
  "deity": [
   "Findeladlara"
  ],
- "deity_markdown": "[Findeladlara](/Deities.aspx?ID=109)",
  "deity_category": "Elven Gods",
- "deity_category_markdown": "[Elven Gods\r\n](/DeityCategories.aspx?ID=9)",
- "deity_category_order": "2Elven Gods\r\n",
+ "deity_category_markdown": "[Elven Gods](/DeityCategories.aspx?ID=9)",
+ "deity_category_order": "2Elven Gods",
  "divine_font": [
   "Heal"
  ],
@@ -26,59 +30,78 @@
   "Cities",
   "Creation",
   "Family",
+  "Protection",
   "Star"
  ],
- "domain_markdown": "[Cities](/Domains.aspx?ID=3), [Creation](/Domains.aspx?ID=5), [Family](/Domains.aspx?ID=11), [Star](/Domains.aspx?ID=52)",
- "domain_alternate_markdown": "",
+ "domain_markdown": "[Cities](/Domains.aspx?ID=66), [Creation](/Domains.aspx?ID=68), [Family](/Domains.aspx?ID=74), [Protection](/Domains.aspx?ID=90), [Star](/Domains.aspx?ID=119)",
+ "domain_alternate": [
+  "Protection"
+ ],
+ "domain_alternate_markdown": "[Protection](/Domains.aspx?ID=90)",
  "domain_primary": [
   "Cities",
   "Creation",
   "Family",
   "Star"
  ],
- "domain_primary_markdown": "[Cities](/Domains.aspx?ID=3), [Creation](/Domains.aspx?ID=5), [Family](/Domains.aspx?ID=11), [Star](/Domains.aspx?ID=52)",
+ "domain_primary_markdown": "[Cities](/Domains.aspx?ID=66), [Creation](/Domains.aspx?ID=68), [Family](/Domains.aspx?ID=74), [Star](/Domains.aspx?ID=119)",
+ "edict": "Preserve elven art and architecture, bless and secure households, inspire and aid others with your works",
  "exclude_from_search": false,
  "favored_weapon": [
   "Staff"
  ],
- "favored_weapon_markdown": "[Staff](/Weapons.aspx?ID=12)",
- "follower_alignment": [
-  "NG",
-  "N",
-  "CG",
-  "CN"
+ "favored_weapon_markdown": "[Staff](/Weapons.aspx?ID=367)",
+ "id": "deity-461",
+ "legacy_id": [
+  "deity-109"
  ],
- "id": "deity-109",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"\">[Findeladlara (The Guiding Hand)](/Deities.aspx?ID=109)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"CG\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #189: Dreamers of the Nameless Spires](/Sources.aspx?ID=195) pg. 73, [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 128 <sup>2.0</sup></row>\n\nFindeladlara is the ancient elven goddess of art and architecture, who teaches the value of preservation, art, buildings and, most importantly, life. She assumed the twilight portfolio to guide her most fervent worshippers to safety in the wake of Earthfall, after they remained on Golarion to build shelters in her name for the survivors of the cataclysm.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Elven Gods\r\n](/DeityCategories.aspx?ID=9)\r\n\r\n**Edicts** Preserve art and architecture, bless and secure households, inspire and aid others with your works\r\n\r\n**Anathema** Break laws of hospitality, knowingly allow a guest to bring harm to your family\r\n\r\n**Area of Concern**\r\ntwilight and traditional art and architecture\r\n\r\n**Follower Alignments**\r\nNG, N, CG, CN\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nIntelligence or Charisma\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Crafting](/Skills.aspx?ID=4)\r\n\r\n**Favored Weapon** [Staff](/Weapons.aspx?ID=12)\r\n\r\n**Domains** [Cities](/Domains.aspx?ID=3), [Creation](/Domains.aspx?ID=5), [Family](/Domains.aspx?ID=11), [Star](/Domains.aspx?ID=52)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Illusory Object](/Spells.aspx?ID=160)\n\n- **4th**\r\n[Creation](/Spells.aspx?ID=54)\n\n- **7th**\r\n[Magnificent Mansion](/Spells.aspx?ID=183)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Findeladlara (The Guiding Hand)](/Deities.aspx?ID=461)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 308\n\n_Nethys Note: no description has been provided of this deity_\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Elven Gods](/DeityCategories.aspx?ID=9)\r\n\r\n**Edicts** Preserve elven art and architecture, bless and secure households, inspire and aid others with your works\r\n\r\n**Anathema** Break the laws of hospitality, allow a guest to bring harm to your family\r\n\r\n**Area of Concern**\r\nArchitecture, art, twilight\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nCharisma or Intelligence\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** can choose holy\r\n\r\n**Divine Skill** [Crafting](/Skills.aspx?ID=37)\r\n\r\n**Favored Weapon** [Staff](/Weapons.aspx?ID=367)\r\n\r\n**Domains** [Cities](/Domains.aspx?ID=66), [Creation](/Domains.aspx?ID=68), [Family](/Domains.aspx?ID=74), [Star](/Domains.aspx?ID=119)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** [Protection](/Domains.aspx?ID=90)\r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Temporary Tool](/Spells.aspx?ID=2369)\n\n- **4th**\r\n[Shape Stone](/Spells.aspx?ID=1667)\n\n- **7th**\r\n[Planar Palace](/Spells.aspx?ID=1634)\n\n</column>",
  "name": "Findeladlara (The Guiding Hand)",
+ "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 308",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2023-03-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "Finger pointing at gold star",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #189: Dreamers of the Nameless Spires](/Sources.aspx?ID=195) pg. 73</row>\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Crafting](/Skills.aspx?ID=4)\r\n\r\n**Favored Weapon** [Staff](/Weapons.aspx?ID=12)\r\n\r\n**Domains** [Cities](/Domains.aspx?ID=3), [Creation](/Domains.aspx?ID=5), [Family](/Domains.aspx?ID=11), [Star](/Domains.aspx?ID=52)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFindeladlara is the ancient elven goddess of art and architecture, who teaches the value of preservation, art, buildings and, most importantly, life. …\r\n</summary>",
+ "sacred_animal": "Stag",
+ "sacred_color": [
+  "blue",
+  "gold"
+ ],
+ "sanctification": [
+  "holy"
+ ],
+ "sanctification_raw": "can choose holy",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 308\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Crafting](/Skills.aspx?ID=37)\r\n\r\n**Favored Weapon** [Staff](/Weapons.aspx?ID=367)\r\n\r\n**Domains** [Cities](/Domains.aspx?ID=66), [Creation](/Domains.aspx?ID=68), [Family](/Domains.aspx?ID=74), [Protection](/Domains.aspx?ID=90), [Star](/Domains.aspx?ID=119)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Nethys Note: no description has been provided of this deity \r\n</summary>",
  "skill": [
   "Crafting"
  ],
- "skill_markdown": "[Crafting](/Skills.aspx?ID=4)",
+ "skill_markdown": "[Crafting](/Skills.aspx?ID=37)",
+ "skill_mod": {},
  "source": [
-  "Pathfinder #189: Dreamers of the Nameless Spires"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Pathfinder #189: Dreamers of the Nameless Spires pg. 73"
+  "Divine Mysteries pg. 308"
  ],
- "source_category": "Adventure Paths",
- "source_group": "Gatewalkers",
- "source_markdown": "<row gap=\"tiny\">[Pathfinder #189: Dreamers of the Nameless Spires](/Sources.aspx?ID=195) pg. 73, [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 128 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 308",
  "speed": {},
- "summary": "Findeladlara is the ancient elven goddess of art and architecture, who teaches the value of preservation, art, buildings and, most importantly, life. …",
- "summary_markdown": "Findeladlara is the ancient elven goddess of art and architecture, who teaches the value of preservation, art, buildings and, most importantly, life. …",
- "text": " Findeladlara (The Guiding Hand) Source Pathfinder #189: Dreamers of the Nameless Spires pg. 73, Gods &amp; Magic pg. 128 2.0 Findeladlara is the ancient elven goddess of art and architecture, who teaches the value of preservation, art, buildings and, most importantly, life. She assumed the twilight portfolio to guide her most fervent worshippers to safety in the wake of Earthfall, after they remained on Golarion to build shelters in her name for the survivors of the cataclysm. Category [Elven Gods ](/DeityCategories.aspx?ID=9) Edicts Preserve art and architecture, bless and secure households, inspire and aid others with your works Anathema Break laws of hospitality, knowingly allow a guest to bring harm to your family Area of Concern twilight and traditional art and architecture Follower Alignments NG, N, CG, CN Devotee Benefits Divine Ability Intelligence or Charisma Divine Font Heal Divine Skill Crafting Favored Weapon Staff Domains Cities, Creation, Family, Star Alternate Domains Cleric Spells - 1st Illusory Object - 4th Creation - 7th Magnificent Mansion\n",
- "trait": [
-  "CG"
+ "spell": [
+  "Temporary Tool",
+  "Shape Stone",
+  "Planar Palace"
  ],
- "trait_raw": [
-  "CG"
- ],
+ "spell_markdown": "[Planar Palace](/Spells.aspx?ID=1634), [Shape Stone](/Spells.aspx?ID=1667), [Temporary Tool](/Spells.aspx?ID=2369)",
+ "summary": " Nethys Note: no description has been provided of this deity ",
+ "summary_markdown": " Nethys Note: no description has been provided of this deity ",
+ "text": " Findeladlara (The Guiding Hand) Source Divine Mysteries pg. 308 Nethys Note: no description has been provided of this deity Category Elven Gods Edicts Preserve elven art and architecture, bless and secure households, inspire and aid others with your works Anathema Break the laws of hospitality, allow a guest to bring harm to your family Area of Concern Architecture, art, twilight Devotee Benefits Divine Attribute Charisma or Intelligence Divine Font Heal Divine Sanctification can choose holy Divine Skill Crafting Favored Weapon Staff Domains Cities, Creation, Family, Star Alternate Domains Protection Cleric Spells - 1st Temporary Tool - 4th Shape Stone - 7th Planar Palace\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=109",
+ "url": "/Deities.aspx?ID=461",
  "weakness": {}
 }

@@ -1,13 +1,15 @@
 {
  "actions": "Two Actions",
- "area": "30-foot-radius burst",
- "bloodline_markdown": "",
- "breadcrumbs_spa": [],
- "category": "spell",
- "component": [
-  "somatic",
-  "verbal"
+ "actions_number": 4,
+ "area": [
+  30
  ],
+ "area_raw": "30-foot burst",
+ "area_type": [
+  "burst"
+ ],
+ "bloodline_markdown": "",
+ "category": "spell",
  "deity": [
   "Otolmens",
   "The Path of the Heavens"
@@ -15,51 +17,66 @@
  "deity_markdown": "[Otolmens](/Deities.aspx?ID=145), [The Path of the Heavens](/Deities.aspx?ID=213)",
  "domain_markdown": "",
  "exclude_from_search": false,
+ "heighten_group": [
+  "3rd rank"
+ ],
  "heighten_level": [
   3
  ],
- "id": "spell-577",
+ "id": "spell-1997",
+ "legacy_id": [
+  "spell-577"
+ ],
  "level": 3,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Spell 3\" pfs=\"Standard\">[Gravity Well](/Spells.aspx?ID=577)</title>\n\n<traits>\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 109 <sup>1.1</sup>, [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 108 <sup>2.0</sup></row>\n\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Occult](/SpellLists.aspx?Tradition=3)\n\n**Deities**\r\n[Otolmens](/Deities.aspx?ID=145), [The Path of the Heavens](/Deities.aspx?ID=213)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 120 feet\r\n\r\n**Area** 30-foot-radius burst\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** Reflex\n\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou create a sphere of altered gravity. All creatures and unsecured objects in the area move towards the center, depending on their Reflex saving throws. This follows the rules for [forced movement](/Rules.aspx?ID=451). If there’s not enough space near the center of the sphere, creatures and objects nearer to the center move first, and others move as far as they can without being blocked, up to the amount set by their saving throw outcomes.\r\n\r\n**Critical Success** The creature is unaffected.<br />\r\n**Success** The creature moves 5 feet toward the center.<br />\r\n**Failure** The creature moves 15 feet toward the center.<br />\r\n**Critical Failure** The creature moves 30 feet toward the center.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Spell 3\" pfs=\"Standard\">\r\n[Gravity Well](/Spells.aspx?ID=1997)\r\n<actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=645\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 246 <sup>1.1</sup>\n\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Occult](/SpellLists.aspx?Tradition=3)\n\n**Deities**\r\n[Otolmens](/Deities.aspx?ID=145), [The Path of the Heavens](/Deities.aspx?ID=213)\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 120 feet\r\n\r\n**Area** 30-foot burst\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\nReflex\n\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou create a sphere of altered gravity. All creatures and unsecured objects in the area move toward the center, depending on their Reflex saving throws. This follows the rules for [forced movement](/Rules.aspx?ID=451). If there's not enough space near the center of the sphere, creatures and objects nearer to the center move first, and others move as far as they can without being blocked, up to the amount set by their saving throw outcomes.\r\n\r\n**Critical Success** The creature is unaffected.<br />\r\n**Success** The creature moves 5 feet toward the center.<br />\r\n**Failure** The creature moves 15 feet toward the center.<br />\r\n**Critical Failure** The creature moves 30 feet toward the center.",
  "name": "Gravity Well",
- "patron_theme_markdown": "",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 246",
+ "primary_source_category": "Rulebooks",
  "range": 120,
  "range_raw": "120 feet",
  "rarity": "common",
- "release_date": "2021-09-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
  "saving_throw": "Reflex",
  "saving_throw_markdown": "Reflex",
- "school": "evocation",
- "search_markdown": "<traits>\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 109 <sup>1.1</sup></row>\r\n\r\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Occult](/SpellLists.aspx?Tradition=3)\n\n**Deities**\r\n[Otolmens](/Deities.aspx?ID=145), [The Path of the Heavens](/Deities.aspx?ID=213)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 120 feet\r\n\r\n**Area** 30-foot-radius burst\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** Reflex\r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nPull all creatures towards the center of a sphere of altered gravity.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=645\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 246 <sup>1.1</sup>\r\n\r\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Occult](/SpellLists.aspx?Tradition=3)\n\n**Deities**\r\n[Otolmens](/Deities.aspx?ID=145), [The Path of the Heavens](/Deities.aspx?ID=213)\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 120 feet\r\n\r\n**Area** 30-foot burst\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\nReflex\r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nPull all creatures towards the center of a sphere of altered gravity.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Secrets of Magic"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Secrets of Magic pg. 109"
+  "Player Core 2 pg. 246"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Secrets of Magic](/Sources.aspx?ID=96) pg. 109 <sup>1.1</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 246 <sup>1.1</sup>",
  "speed": {},
+ "spell_type": "Spell",
  "summary": "Pull all creatures towards the center of a sphere of altered gravity.",
  "summary_markdown": "Pull all creatures towards the center of a sphere of altered gravity.",
- "text": " Gravity Well Source Secrets of Magic pg. 109 1.1 , Gods &amp; Magic pg. 108 2.0 Traditions Arcane, Occult Deities Otolmens, The Path of the Heavens Cast Two Actions somatic, verbal Range 120 feet Area 30-foot-radius burst Saving Throw Reflex --- You create a sphere of altered gravity. All creatures and unsecured objects in the area move towards the center, depending on their Reflex saving throws. This follows the rules for forced movement. If there’s not enough space near the center of the sphere, creatures and objects nearer to the center move first, and others move as far as they can without being blocked, up to the amount set by their saving throw outcomes. Critical Success The creature is unaffected. Success The creature moves 5 feet toward the center. Failure The creature moves 15 feet toward the center. Critical Failure The creature moves 30 feet toward the center.",
+ "text": "\nGravity Well Two Actions Source Player Core 2 pg. 246 1.1 Traditions Arcane, Occult Deities Otolmens, The Path of the Heavens Range 120 feet Area 30-foot burst Defense Reflex --- You create a sphere of altered gravity. All creatures and unsecured objects in the area move toward the center, depending on their Reflex saving throws. This follows the rules for forced movement. If there's not enough space near the center of the sphere, creatures and objects nearer to the center move first, and others move as far as they can without being blocked, up to the amount set by their saving throw outcomes. Critical Success The creature is unaffected. Success The creature moves 5 feet toward the center. Failure The creature moves 15 feet toward the center. Critical Failure The creature moves 30 feet toward the center.",
  "tradition": [
   "Arcane",
   "Occult"
  ],
  "tradition_markdown": "[Arcane](/SpellLists.aspx?Tradition=1), [Occult](/SpellLists.aspx?Tradition=3)",
  "trait": [
-  "Evocation"
+  "Concentrate",
+  "Manipulate"
  ],
- "trait_markdown": "[Evocation](/Traits.aspx?ID=65)",
+ "trait_group": [
+  "Mechanics"
+ ],
+ "trait_markdown": "[Concentrate](/Traits.aspx?ID=561), [Manipulate](/Traits.aspx?ID=645)",
  "trait_raw": [
-  "Evocation"
+  "Concentrate",
+  "Manipulate"
  ],
  "type": "Spell",
- "url": "/Spells.aspx?ID=577",
+ "url": "/Spells.aspx?ID=1997",
  "weakness": {}
 }

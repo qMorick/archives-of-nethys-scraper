@@ -1,44 +1,54 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Instrument of Slaughter"
  ],
  "feat_markdown": "Instrument of Slaughter",
- "id": "feat-1691",
+ "id": "feat-5924",
+ "legacy_id": [
+  "feat-1691"
+ ],
  "level": 16,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 16\"\r\n    pfs=\"Standard\"\r\n>\r\n[Instrument of Slaughter](/Feats.aspx?ID=1691) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 121 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[divine ally (blade)](/Classes.aspx?ID=4); [tenets of evil](/Tenets.aspx?ID=2)\n\n</column>\r\n\r\n---\r\n\r\nYour blade ally thirsts for the blood of your foes. Whenever you critically hit an enemy with the weapon inhabited by your blade ally while dealing extra damage from your champion's reaction, the target takes [persistent bleed damage](/Conditions.aspx?ID=29) equal to two of the weapon's damage dice.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 16\"\r\n    pfs=\"Standard\"\r\n>\r\n[Instrument of Slaughter](/Feats.aspx?ID=5924) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 99 <sup>1.1</sup>\n\n**Prerequisites**\r\nchampion’s reaction that grants extra damage with your Strikes (including the desecration, iniquity, and obedience causes)\n\n</column>\r\n\r\n---\r\n\r\nYour blessed armament thirsts for the blood of your foes. Whenever you critically hit an enemy with a Strike that has the extra damage from your champion's reaction, the target also takes [persistent bleed damage](/Conditions.aspx?ID=29) equal to two of the weapon's damage dice.",
  "name": "Instrument of Slaughter",
  "pfs": "Standard",
- "prerequisite": "divine ally (blade); tenets of evil",
- "prerequisite_markdown": "[divine ally (blade)](/Classes.aspx?ID=4); [tenets of evil](/Tenets.aspx?ID=2)",
- "rarity": "uncommon",
- "release_date": "2020-07-30",
+ "prerequisite": "champion’s reaction that grants extra damage with your Strikes (including the desecration, iniquity, and obedience causes)",
+ "prerequisite_markdown": "champion’s reaction that grants extra damage with your Strikes (including the desecration, iniquity, and obedience causes)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 99",
+ "primary_source_category": "Rulebooks",
+ "rarity": "common",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 121 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[divine ally (blade)](/Classes.aspx?ID=4); [tenets of evil](/Tenets.aspx?ID=2)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour blade ally thirsts for the blood of your foes.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 99 <sup>1.1</sup>\n\n**Prerequisites**\r\nchampion’s reaction that grants extra damage with your Strikes (including the desecration, iniquity, and obedience causes)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour blessed armament thirsts for the blood of your foes.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 121"
+  "Player Core 2 pg. 99"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 121 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 99 <sup>1.1</sup>",
  "speed": {},
- "summary": "Your blade ally thirsts for the blood of your foes.",
- "summary_markdown": "Your blade ally thirsts for the blood of your foes.",
- "text": "<title level=\"1\" right=\"Feat 16\" pfs=\"Standard\" > Instrument of Slaughter Source Advanced Player's Guide pg. 121 2.0 Prerequisites divine ally (blade); tenets of evil --- Your blade ally thirsts for the blood of your foes. Whenever you critically hit an enemy with the weapon inhabited by your blade ally while dealing extra damage from your champion's reaction, the target takes persistent bleed damage equal to two of the weapon's damage dice.",
+ "summary": "Your blessed armament thirsts for the blood of your foes.",
+ "summary_markdown": "Your blessed armament thirsts for the blood of your foes.",
+ "text": "<title level=\"1\" right=\"Feat 16\" pfs=\"Standard\" > Instrument of Slaughter Source Player Core 2 pg. 99 1.1 Prerequisites champion’s reaction that grants extra damage with your Strikes (including the desecration, iniquity, and obedience causes) --- Your blessed armament thirsts for the blood of your foes. Whenever you critically hit an enemy with a Strike that has the extra damage from your champion's reaction, the target also takes persistent bleed damage equal to two of the weapon's damage dice.",
  "trait": [
-  "Champion",
-  "Uncommon"
+  "Champion"
  ],
- "trait_markdown": "[Champion](/Traits.aspx?ID=24), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Champion](/Traits.aspx?ID=811)",
  "trait_raw": [
-  "Champion",
-  "Uncommon"
+  "Champion"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1691",
+ "url": "/Feats.aspx?ID=5924",
  "weakness": {}
 }

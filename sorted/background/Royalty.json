@@ -1,41 +1,60 @@
 {
- "ability": [
+ "attribute": [
   "Intelligence",
   "Charisma"
  ],
- "breadcrumbs_spa": [],
  "category": "background",
  "exclude_from_search": false,
- "id": "background-189",
+ "feat": [
+  "Courtly Graces"
+ ],
+ "feat_markdown": "[Courtly Graces](/Feats.aspx?ID=5138)",
+ "id": "background-470",
  "is_general_background": true,
- "markdown": "<title level=\"1\" right=\"Background \" pfs=\"Standard\">[Royalty](/Backgrounds.aspx?ID=189)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 51 <sup>2.0</sup></row>\n\n</column>\r\n\r\nYou are a prominent member of a royal family. You have taken up the life of an adventurer—perhaps you're a deposed queen hoping to regain her throne, a prince seeking a more exciting life, or a princess on a secret mission.\n\n Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.\n\n You are trained in [Society](/Skills.aspx?ID=14). You gain the [Courtly Graces](/Feats.aspx?ID=772) skill feat and can influence commoners in your family's territory, as well as nobility anywhere. If you later gain the [Connections](/Feats.aspx?ID=770) skill feat, you automatically have common and noble connections within any community in your royal family's territory and have noble connections in large communities outside your territory.",
+ "legacy_id": [
+  "background-189"
+ ],
+ "markdown": "<title level=\"1\" right=\"Background \" pfs=\"Standard\">[Royalty](/Backgrounds.aspx?ID=470)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 53 <sup>1.1</sup>\r\n\r\n \n\n</column>\r\n\r\nYou are a prominent member of a royal family. You have eschewed the daily routines of royal life and taken up an adventurous quest—perhaps you're a deposed queen hoping to regain her throne, a prince seeking a more exciting life, or a sovereign's heir on a secret mission.\n\n Choose two attribute boosts. One must be to **Intelligence** or **Charisma**, and one is a free attribute boost.\n\n You are trained in [Society](/Skills.aspx?ID=47). You gain the [Courtly Graces](/Feats.aspx?ID=5138) skill feat and can influence commoners in your family's territory, as well as nobility anywhere. If you later gain the [Leverage Connections](/Feats.aspx?ID=6493) skill feat you automatically have common and noble connections within any community in your royal family's territory and have noble connections in large communities outside your territory.",
  "name": "Royalty",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 53",
+ "primary_source_category": "Rulebooks",
  "rarity": "rare",
- "release_date": "2020-07-30",
+ "rarity_id": 3,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 51 <sup>2.0</sup></row>\r\n\r\n**Abilities**\r\nIntelligence, Charisma\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou are a prominent member of a royal family. You have taken up the life of an adventurer—perhaps you're a deposed queen hoping to regain her throne, …\r\n</summary>",
- "skill_markdown": "",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 53 <sup>1.1</sup>\r\n\r\n**Attributes**\r\nIntelligence, Charisma\r\n\r\n**Skill**\r\n[Society](/Skills.aspx?ID=14)\r\n\r\n**Feat**\r\n[Courtly Graces](/Feats.aspx?ID=5138)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou are a prominent member of a royal family. You have eschewed the daily routines of royal life and taken up an adventurous quest—perhaps you're a …\r\n</summary>",
+ "skill": [
+  "Society"
+ ],
+ "skill_markdown": "[Society](/Skills.aspx?ID=14)",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 51"
+  "Player Core 2 pg. 53"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 51 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 53 <sup>1.1</sup>",
  "speed": {},
- "summary": "You are a prominent member of a royal family. You have taken up the life of an adventurer—perhaps you're a deposed queen hoping to regain her throne, …",
- "summary_markdown": "You are a prominent member of a royal family. You have taken up the life of an adventurer—perhaps you're a deposed queen hoping to regain her throne, …",
- "text": " Royalty Source Advanced Player's Guide pg. 51 2.0 You are a prominent member of a royal family. You have taken up the life of an adventurer—perhaps you're a deposed queen hoping to regain her throne, a prince seeking a more exciting life, or a princess on a secret mission. Choose two ability boosts. One must be to Intelligence or Charisma , and one is a free ability boost. You are trained in Society. You gain the Courtly Graces skill feat and can influence commoners in your family's territory, as well as nobility anywhere. If you later gain the Connections skill feat, you automatically have common and noble connections within any community in your royal family's territory and have noble connections in large communities outside your territory.",
+ "summary": "You are a prominent member of a royal family. You have eschewed the daily routines of royal life and taken up an adventurous quest—perhaps you're a …",
+ "summary_markdown": "You are a prominent member of a royal family. You have eschewed the daily routines of royal life and taken up an adventurous quest—perhaps you're a …",
+ "text": " Royalty Source Player Core 2 pg. 53 1.1 You are a prominent member of a royal family. You have eschewed the daily routines of royal life and taken up an adventurous quest—perhaps you're a deposed queen hoping to regain her throne, a prince seeking a more exciting life, or a sovereign's heir on a secret mission. Choose two attribute boosts. One must be to Intelligence or Charisma , and one is a free attribute boost. You are trained in Society. You gain the Courtly Graces skill feat and can influence commoners in your family's territory, as well as nobility anywhere. If you later gain the Leverage Connections skill feat you automatically have common and noble connections within any community in your royal family's territory and have noble connections in large communities outside your territory.",
  "trait": [
   "Rare"
+ ],
+ "trait_group": [
+  "Rarity"
  ],
  "trait_markdown": "[Rare](/Traits.aspx?ID=137)",
  "trait_raw": [
   "Rare"
  ],
  "type": "Background",
- "url": "/Backgrounds.aspx?ID=189",
+ "url": "/Backgrounds.aspx?ID=470",
  "weakness": {}
 }

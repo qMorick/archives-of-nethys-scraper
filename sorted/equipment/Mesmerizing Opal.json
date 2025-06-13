@@ -1,54 +1,64 @@
 {
- "actions": "Free Action",
+ "actions": "Single Action",
+ "actions_number": 2,
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
+ "bulk": 0,
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-225",
+ "id": "equipment-2984",
  "item_category": "Consumables",
  "item_subcategory": "Talismans",
+ "legacy_id": [
+  "equipment-225"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Mesmerizing Opal](/Equipment.aspx?ID=225)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Enchantment\" url=\"/Traits.aspx?ID=61\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=155\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 568 <sup>4.0</sup></row>\n\n**Price** 7 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** affixed to armor\n\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Free Action\" /><row>envision</row></row>\r\n\r\n \r\n\r\n**Trigger** You attempt a Deception check to Feint, but you haven't rolled yet\r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis silver-bound opal pendant is afire with iridescence. When you activate it, if the outcome of your triggering Deception check is a critical failure, you get a failure instead (or if the outcome is a success, you get a critical success instead).\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Mesmerizing Opal](/Equipment.aspx?ID=2984)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=709\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 266 <sup>2.0</sup>\n\n**Price** 7 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** affixed to armor\n\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([concentrate](/Traits.aspx?ID=32))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis silver-bound opal pendant is afire with iridescence. When you activate it, attempt a Deception check to [Feint](/Actions.aspx?ID=48). If the outcome is a success, you get a critical success instead. If the outcome is a critical failure, you get a failure instead.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Mesmerizing Opal",
  "pfs": "Standard",
  "price": 700,
  "price_raw": "7 gp",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 266",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "school": "enchantment",
- "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Enchantment\" url=\"/Traits.aspx?ID=61\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=155\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 568 <sup>4.0</sup></row>\r\n\r\n**Price** 7 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** affixed to armor\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Free Action\" /><row>envision</row></row>\r\n\r\n \r\n\r\n**Trigger** You attempt a Deception check to Feint, but you haven't rolled yet\r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis silver-bound opal pendant is afire with iridescence. When you activate it, if the outcome of your triggering Deception check is a critical …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=709\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 266 <sup>2.0</sup>\r\n\r\n**Price** 7 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** affixed to armor\r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([concentrate](/Traits.aspx?ID=32))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis silver-bound opal pendant is afire with iridescence. When you activate it, attempt a Deception check to  Feint . If the outcome is a success, …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 568"
+  "GM Core pg. 266"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 568 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 266 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "This silver-bound opal pendant is afire with iridescence. When you activate it, if the outcome of your triggering Deception check is a critical …",
- "summary_markdown": "This silver-bound opal pendant is afire with iridescence. When you activate it, if the outcome of your triggering Deception check is a critical …",
- "text": "<title level=\"1\" right=\"Item 2\" pfs=\"Standard\" > Mesmerizing Opal Source Core Rulebook pg. 568 4.0 Price 7 gp Usage affixed to armor Activate Free Action envision Trigger You attempt a Deception check to Feint, but you haven't rolled yet --- This silver-bound opal pendant is afire with iridescence. When you activate it, if the outcome of your triggering Deception check is a critical failure, you get a failure instead (or if the outcome is a success, you get a critical success instead).\n",
+ "summary": "This silver-bound opal pendant is afire with iridescence. When you activate it, attempt a Deception check to  Feint . If the outcome is a success, …",
+ "summary_markdown": "This silver-bound opal pendant is afire with iridescence. When you activate it, attempt a Deception check to  Feint . If the outcome is a success, …",
+ "text": "<title level=\"1\" right=\"Item 2\" pfs=\"Standard\" > Mesmerizing Opal Source GM Core pg. 266 2.0 Price 7 gp Usage affixed to armor Activate Single Action (concentrate) --- This silver-bound opal pendant is afire with iridescence. When you activate it, attempt a Deception check to Feint. If the outcome is a success, you get a critical success instead. If the outcome is a critical failure, you get a failure instead.\n",
  "trait": [
   "Consumable",
-  "Enchantment",
   "Magical",
   "Talisman"
  ],
- "trait_markdown": "[Consumable](/Traits.aspx?ID=36), [Enchantment](/Traits.aspx?ID=61), [Magical](/Traits.aspx?ID=103), [Talisman](/Traits.aspx?ID=155)",
+ "trait_group": [
+  "Equipment",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Consumable](/Traits.aspx?ID=564), [Magical](/Traits.aspx?ID=644), [Talisman](/Traits.aspx?ID=709)",
  "trait_raw": [
   "Consumable",
-  "Enchantment",
   "Magical",
   "Talisman"
  ],
- "trigger": "You attempt a Deception check to Feint, but you haven't rolled yet",
- "trigger_markdown": "You attempt a Deception check to Feint, but you haven't rolled yet",
  "type": "Item",
- "url": "/Equipment.aspx?ID=225",
+ "url": "/Equipment.aspx?ID=2984",
  "usage": "affixed to armor",
  "usage_markdown": "affixed to armor",
  "weakness": {}

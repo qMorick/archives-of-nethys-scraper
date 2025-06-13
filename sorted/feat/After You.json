@@ -1,43 +1,56 @@
 {
  "actions": "Free Action",
- "breadcrumbs_spa": [],
+ "actions_number": 0,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "After You"
  ],
  "feat_markdown": "After You",
- "id": "feat-1521",
+ "id": "feat-6135",
+ "legacy_id": [
+  "feat-1521"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[After You](/Feats.aspx?ID=1521) <actions string=\"Free Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=321\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 88 <sup>2.0</sup></row>\n\n**Trigger**\r\nYou're about to roll initiative.\n\n</column>\r\n\r\n---\r\n\r\nYou allow your foes to make the first move in a show of incredible confidence. You don't roll initiative; instead you voluntarily go last. You gain panache. If more than one character uses this ability or another ability to go last, use the normal rules for resolving a tie: NPCs and monsters act before PCs, and within those groups, the creatures can choose whichever order they want.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[After You](/Feats.aspx?ID=6135) <actions string=\"Free Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=825\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 164 <sup>1.1</sup>\n\n**Trigger**\r\nYou’re about to roll initiative.\n\n</column>\r\n\r\n---\r\n\r\nYou allow your foes to make the first move in a show of incredible confidence. You don't roll initiative; instead you voluntarily go last. You gain panache. If more than one character uses this ability or another ability to go last, use the normal rules for resolving a tie: NPCs and monsters act before PCs, and within those groups, the creatures can choose whichever order they want.",
  "name": "After You",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 164",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=321\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 88 <sup>2.0</sup></row>\n\n**Trigger**\r\nYou're about to roll initiative.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou allow your foes to make the first move in a show of incredible confidence.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Swashbuckler\" url=\"/Traits.aspx?ID=825\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 164 <sup>1.1</sup>\n\n**Trigger**\r\nYou’re about to roll initiative.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou allow your foes to make the first move in a show of incredible confidence.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 88"
+  "Player Core 2 pg. 164"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 88 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 164 <sup>1.1</sup>",
  "speed": {},
  "summary": "You allow your foes to make the first move in a show of incredible confidence.",
  "summary_markdown": "You allow your foes to make the first move in a show of incredible confidence.",
- "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > After You Free Action Source Advanced Player's Guide pg. 88 2.0 Trigger You're about to roll initiative. --- You allow your foes to make the first move in a show of incredible confidence. You don't roll initiative; instead you voluntarily go last. You gain panache. If more than one character uses this ability or another ability to go last, use the normal rules for resolving a tie: NPCs and monsters act before PCs, and within those groups, the creatures can choose whichever order they want.",
+ "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > After You Free Action Source Player Core 2 pg. 164 1.1 Trigger You’re about to roll initiative. --- You allow your foes to make the first move in a show of incredible confidence. You don't roll initiative; instead you voluntarily go last. You gain panache. If more than one character uses this ability or another ability to go last, use the normal rules for resolving a tie: NPCs and monsters act before PCs, and within those groups, the creatures can choose whichever order they want.",
  "trait": [
   "Swashbuckler"
  ],
- "trait_markdown": "[Swashbuckler](/Traits.aspx?ID=321)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Swashbuckler](/Traits.aspx?ID=825)",
  "trait_raw": [
   "Swashbuckler"
  ],
- "trigger": "You're about to roll initiative.",
- "trigger_markdown": "You're about to roll initiative.",
+ "trigger": "You’re about to roll initiative.",
+ "trigger_markdown": "You’re about to roll initiative.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=1521",
+ "url": "/Feats.aspx?ID=6135",
  "weakness": {}
 }

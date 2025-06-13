@@ -1,51 +1,64 @@
 {
  "archetype": [
-  "Vigilante"
+  "Vigilante",
+  "Venture-Gossip"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Subjective Truth"
  ],
  "feat_markdown": "Subjective Truth",
- "id": "feat-2090",
+ "id": "feat-6431",
+ "legacy_id": [
+  "feat-2090"
+ ],
  "level": 7,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 7\"\r\n    pfs=\"Standard\"\r\n>\r\n[Subjective Truth](/Feats.aspx?ID=2090) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=144\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 197 <sup>2.0</sup></row>\n\n**Archetype** [Vigilante](/Archetypes.aspx?ID=80)\n\n**Prerequisites**\r\nMaster in [Deception](/Skills.aspx?ID=5); [Vigilante Dedication](/Feats.aspx?ID=2083)\n\n</column>\r\n\r\n---\r\n\r\nYour disparate identities allow you to defeat magic that detects lies. As long as what you say is true from the point of view of your current identity, you can say it even under effects like [_zone of truth_](/Spells.aspx?ID=379) that force you to speak the truth.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 7\"\r\n    pfs=\"Standard\"\r\n>\r\n[Subjective Truth](/Feats.aspx?ID=6431) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=695\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 219 <sup>1.1</sup>\n\n**Archetypes** [Vigilante](/Archetypes.aspx?ID=267), [Venture-Gossip](/Archetypes.aspx?ID=311) (Level 7)\n\n**Prerequisites**\r\n[Vigilante Dedication](/Feats.aspx?ID=6424); Master in [Deception](/Skills.aspx?ID=38)\n\n</column>\r\n\r\n---\r\n\r\nYour disparate identities allow you to defeat magic that detects lies. As long as what you say is true from the point of view of your current identity, you can deceive effects like [_ring of truth_](/Equipment.aspx?ID=607) that reveal lies. ",
  "name": "Subjective Truth",
  "pfs": "Standard",
- "prerequisite": "Master in Deception; Vigilante Dedication",
- "prerequisite_markdown": "Master in [Deception](/Skills.aspx?ID=5); [Vigilante Dedication](/Feats.aspx?ID=2083)",
+ "prerequisite": "Vigilante Dedication; Master in Deception",
+ "prerequisite_markdown": "[Vigilante Dedication](/Feats.aspx?ID=6424); Master in [Deception](/Skills.aspx?ID=38)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 219",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=144\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 197 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nMaster in [Deception](/Skills.aspx?ID=5); [Vigilante Dedication](/Feats.aspx?ID=2083)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour disparate identities allow you to defeat magic that detects lies.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=695\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 219 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Vigilante Dedication](/Feats.aspx?ID=6424); Master in [Deception](/Skills.aspx?ID=38)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour disparate identities allow you to defeat magic that detects lies.\r\n</summary>",
  "skill": [
   "Deception",
   "Deception"
  ],
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 197"
+  "Player Core 2 pg. 219"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 197 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 219 <sup>1.1</sup>",
  "speed": {},
  "summary": "Your disparate identities allow you to defeat magic that detects lies.",
  "summary_markdown": "Your disparate identities allow you to defeat magic that detects lies.",
- "text": "<title level=\"1\" right=\"Feat 7\" pfs=\"Standard\" > Subjective Truth Source Advanced Player's Guide pg. 197 2.0 Archetype Vigilante Prerequisites Master in Deception; Vigilante Dedication --- Your disparate identities allow you to defeat magic that detects lies. As long as what you say is true from the point of view of your current identity, you can say it even under effects like zone of truth that force you to speak the truth.",
+ "text": "<title level=\"1\" right=\"Feat 7\" pfs=\"Standard\" > Subjective Truth Source Player Core 2 pg. 219 1.1 Archetypes Vigilante, Venture-Gossip (Level 7) Prerequisites Vigilante Dedication; Master in Deception --- Your disparate identities allow you to defeat magic that detects lies. As long as what you say is true from the point of view of your current identity, you can deceive effects like ring of truth that reveal lies. ",
  "trait": [
   "Archetype",
   "Skill"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Skill](/Traits.aspx?ID=144)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535), [Skill](/Traits.aspx?ID=695)",
  "trait_raw": [
   "Archetype",
   "Skill"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2090",
+ "url": "/Feats.aspx?ID=6431",
  "weakness": {}
 }

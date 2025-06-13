@@ -1,72 +1,111 @@
 {
  "actions": "Single Action",
+ "actions_number": 2,
  "bloodline_markdown": "",
- "breadcrumbs_spa": [],
  "category": "spell",
- "component": [
-  "verbal"
- ],
- "deity_markdown": "",
  "domain_markdown": "",
  "duration": 60,
- "duration_raw": "sustained up to 1 minute",
+ "duration_raw": "<%ACTIONS%2317%%>sustained<%END> up to 1 minute",
  "exclude_from_search": false,
- "heighten_level": [
-  1
+ "heighten": [
+  "+1"
  ],
- "id": "spell-1180",
+ "heighten_group": [
+  "1st rank",
+  "Heightened 2nd rank",
+  "Heightened 3rd rank",
+  "Heightened 4th rank",
+  "Heightened 5th rank",
+  "Heightened 6th rank",
+  "Heightened 7th rank",
+  "Heightened 8th rank",
+  "Heightened 9th rank",
+  "Heightened 10th rank"
+ ],
+ "heighten_level": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "id": "spell-2436",
+ "legacy_id": [
+  "spell-1180"
+ ],
  "level": 1,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Cantrip 1\" pfs=\"Standard\">[Pact Broker](/Spells.aspx?ID=1180)</title>\n\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Cantrip\" url=\"/Traits.aspx?ID=22\" />\r\n<trait label=\"Enchantment\" url=\"/Traits.aspx?ID=61\" />\r\n<trait label=\"Hex\" url=\"/Traits.aspx?ID=324\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n<trait label=\"Witch\" url=\"/Traits.aspx?ID=323\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 159</row>\n\n**Patron Theme**\r\n[Pacts](/Patrons.aspx?ID=11)\r\n\r\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Single Action\" /></row>\r\n<row>[verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 30 feet\n\n**Target** 1 creature\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** Will\r\n\r\n**Duration** sustained up to 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou offer to broker a pact of peace. If the target accepts and doesn't take [hostile actions](/Rules.aspx?ID=300) against you and your allies, you take a –1 status penalty to [Deception](/Skills.aspx?ID=5) checks to [Lie](/Actions.aspx?ID=47) to them. If they refuse and take a hostile action against you or an ally, they must attempt a Will save. If they accepted the offer and then take a hostile action against you or an ally, they must attempt a Will save and treat the result as one category worse. Regardless of the outcome, the target is then temporarily immune for 1 minute.\r\n\r\n**Success** The target is unaffected.<br />\r\n**Failure** The target takes a –1 status penalty to attack and damage rolls against you and your allies.<br />\r\n**Critical Failure** The target takes a –2 status penalty to attack and damage rolls against you and your allies.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Cantrip 1\" pfs=\"Standard\">\r\n[Pact Broker](/Spells.aspx?ID=2436)\r\n<actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=16\" />\r\n<trait label=\"Cantrip\" url=\"/Traits.aspx?ID=22\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Hex\" url=\"/Traits.aspx?ID=324\" />\r\n<trait label=\"Linguistic\" url=\"/Traits.aspx?ID=101\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n<trait label=\"Witch\" url=\"/Traits.aspx?ID=323\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 298\n\n**Patron Theme**\r\n[The Unseen Broker](/Patrons.aspx?ID=26)\r\n\r\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 30 feet\n\n**Target** 1 creature\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\nWill\r\n\r\n**Duration** [sustained](/Actions.aspx?ID=2317) up to 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou offer to broker a pact of peace. If the target accepts and doesn’t take hostile actions against you and your allies during the hex’s duration, you take a –1 status penalty to [Deception](/Skills.aspx?ID=38) checks to [Lie](/Actions.aspx?ID=2389) to them. If they refuse and take a hostile action against you or an ally during the hex’s duration, they must first attempt a Will save. If they accepted the offer and then take a hostile action against you or an ally during the hex’s duration, they must first attempt a Will save and treat the result as one category worse. Regardless of the outcome, the target is then temporarily immune for 1 minute.\r\n\r\n**Success** The target is unaffected.<br />\r\n**Failure** The target takes 2d4 [mental](/Traits.aspx?ID=647) damage and a –1 status penalty to attack and damage rolls against you and your allies for the hex’s duration.<br />\r\n**Critical Failure** As failure, but the penalty is –2.\n\n---\r\n**Heightened (+1)** The damage increases by 1d4.",
  "name": "Pact Broker",
  "patron_theme": [
-  "Pacts"
+  "The Unseen Broker"
  ],
- "patron_theme_markdown": "[Pacts](/Patrons.aspx?ID=11)",
+ "patron_theme_markdown": "[The Unseen Broker](/Patrons.aspx?ID=26)",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 298",
+ "primary_source_category": "Lost Omens",
  "range": 30,
  "range_raw": "30 feet",
- "rarity": "rare",
- "release_date": "2022-07-27",
+ "rarity": "uncommon",
+ "rarity_id": 2,
+ "release_date": "2025-01-30",
  "resistance": {},
  "saving_throw": "Will",
  "saving_throw_markdown": "Will",
- "school": "enchantment",
- "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Cantrip\" url=\"/Traits.aspx?ID=22\" />\r\n<trait label=\"Enchantment\" url=\"/Traits.aspx?ID=61\" />\r\n<trait label=\"Hex\" url=\"/Traits.aspx?ID=324\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n<trait label=\"Witch\" url=\"/Traits.aspx?ID=323\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 159</row>\n\n**Patron Theme**\r\n[Pacts](/Patrons.aspx?ID=11)\r\n\r\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Single Action\" /></row>\r\n<row>[verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 30 feet\r\n\r\n \r\n\r\n**Target** 1 creature\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** Will\r\n\r\n**Duration** sustained up to 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou offer to broker a pact of peace.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=16\" />\r\n<trait label=\"Cantrip\" url=\"/Traits.aspx?ID=22\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Hex\" url=\"/Traits.aspx?ID=324\" />\r\n<trait label=\"Linguistic\" url=\"/Traits.aspx?ID=101\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n<trait label=\"Witch\" url=\"/Traits.aspx?ID=323\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 298\n\n**Patron Theme**\r\n[The Unseen Broker](/Patrons.aspx?ID=26)\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 30 feet\r\n\r\n \r\n\r\n**Target** 1 creature\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\nWill\r\n\r\n**Duration** [sustained](/Actions.aspx?ID=2317) up to 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou offer to broker a pact of peace.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Dark Archive"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Dark Archive pg. 159"
+  "Divine Mysteries pg. 298"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Dark Archive](/Sources.aspx?ID=129) pg. 159</row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 298",
  "speed": {},
+ "spell_type": "Cantrip",
  "summary": "You offer to broker a pact of peace.",
  "summary_markdown": "You offer to broker a pact of peace.",
  "target": "1 creature",
  "target_markdown": "1 creature",
- "text": " Pact Broker Source Dark Archive pg. 159 Patron Theme Pacts Cast Single Action verbal Range 30 feet Target 1 creature Saving Throw Will Duration sustained up to 1 minute --- You offer to broker a pact of peace. If the target accepts and doesn't take hostile actions against you and your allies, you take a –1 status penalty to Deception checks to Lie to them. If they refuse and take a hostile action against you or an ally, they must attempt a Will save. If they accepted the offer and then take a hostile action against you or an ally, they must attempt a Will save and treat the result as one category worse. Regardless of the outcome, the target is then temporarily immune for 1 minute. Success The target is unaffected. Failure The target takes a –1 status penalty to attack and damage rolls against you and your allies. Critical Failure The target takes a –2 status penalty to attack and damage rolls against you and your allies.",
+ "text": "\nPact Broker Single Action Source Divine Mysteries pg. 298 Patron Theme The Unseen Broker Range 30 feet Target 1 creature Defense Will Duration sustained up to 1 minute --- You offer to broker a pact of peace. If the target accepts and doesn’t take hostile actions against you and your allies during the hex’s duration, you take a –1 status penalty to Deception checks to Lie to them. If they refuse and take a hostile action against you or an ally during the hex’s duration, they must first attempt a Will save. If they accepted the offer and then take a hostile action against you or an ally during the hex’s duration, they must first attempt a Will save and treat the result as one category worse. Regardless of the outcome, the target is then temporarily immune for 1 minute. Success The target is unaffected. Failure The target takes 2d4 mental damage and a –1 status penalty to attack and damage rolls against you and your allies for the hex’s duration. Critical Failure As failure, but the penalty is –2. --- Heightened (+1) The damage increases by 1d4.",
  "tradition_markdown": "",
  "trait": [
+  "Auditory",
   "Cantrip",
-  "Enchantment",
+  "Concentrate",
   "Hex",
+  "Linguistic",
   "Mental",
-  "Rare",
+  "Uncommon",
   "Witch"
  ],
- "trait_markdown": "[Cantrip](/Traits.aspx?ID=22), [Enchantment](/Traits.aspx?ID=61), [Hex](/Traits.aspx?ID=324), [Mental](/Traits.aspx?ID=106), [Rare](/Traits.aspx?ID=137), [Witch](/Traits.aspx?ID=323)",
+ "trait_group": [
+  "Sense",
+  "Mechanics",
+  "Class-Specific",
+  "Rarity",
+  "Class"
+ ],
+ "trait_markdown": "[Auditory](/Traits.aspx?ID=16), [Cantrip](/Traits.aspx?ID=22), [Concentrate](/Traits.aspx?ID=32), [Hex](/Traits.aspx?ID=324), [Linguistic](/Traits.aspx?ID=101), [Mental](/Traits.aspx?ID=106), [Uncommon](/Traits.aspx?ID=159), [Witch](/Traits.aspx?ID=323)",
  "trait_raw": [
+  "Auditory",
   "Cantrip",
-  "Enchantment",
+  "Concentrate",
   "Hex",
+  "Linguistic",
   "Mental",
-  "Rare",
+  "Uncommon",
   "Witch"
  ],
- "type": "Cantrip",
- "url": "/Spells.aspx?ID=1180",
+ "type": "Spell",
+ "url": "/Spells.aspx?ID=2436",
  "weakness": {}
 }

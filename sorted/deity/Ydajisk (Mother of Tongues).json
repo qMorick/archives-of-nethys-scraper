@@ -1,20 +1,24 @@
 {
- "ability": [
+ "attribute": [
   "Intelligence",
   "Charisma"
  ],
- "alignment": "CN",
- "breadcrumbs_spa": [],
+ "anathema": "Ban or discourage a language, explain a secret language or slang to outsiders, destroy literary works",
+ "area_of_concern": [
+  "Language evolution",
+  "lost words",
+  "slang"
+ ],
+ "area_of_concern_raw": "Language evolution, lost words, slang",
  "category": "deity",
  "cleric_spell": [
   "Message Rune",
   "Blistering Invective",
-  "Glibness"
+  "Honeyed Words"
  ],
  "deity": [
   "Ydajisk"
  ],
- "deity_markdown": "[Ydajisk](/Deities.aspx?ID=148)",
  "deity_category": "Monitor Demigods",
  "deity_category_markdown": "[Monitor Demigods\r\n](/DeityCategories.aspx?ID=12)",
  "deity_category_order": "2Monitor Demigods\r\n",
@@ -27,59 +31,76 @@
   "Change",
   "Glyph",
   "Knowledge",
+  "Time",
   "Trickery"
  ],
- "domain_markdown": "[Change](/Domains.aspx?ID=40), [Glyph](/Domains.aspx?ID=46), [Knowledge](/Domains.aspx?ID=17), [Trickery](/Domains.aspx?ID=31)",
- "domain_alternate_markdown": "",
+ "domain_markdown": "[Change](/Domains.aspx?ID=102), [Glyph](/Domains.aspx?ID=109), [Knowledge](/Domains.aspx?ID=80), [Time](/Domains.aspx?ID=121), [Trickery](/Domains.aspx?ID=94)",
+ "domain_alternate": [
+  "Time"
+ ],
+ "domain_alternate_markdown": "[Time](/Domains.aspx?ID=121)",
  "domain_primary": [
   "Change",
   "Glyph",
   "Knowledge",
   "Trickery"
  ],
- "domain_primary_markdown": "[Change](/Domains.aspx?ID=40), [Glyph](/Domains.aspx?ID=46), [Knowledge](/Domains.aspx?ID=17), [Trickery](/Domains.aspx?ID=31)",
+ "domain_primary_markdown": "[Change](/Domains.aspx?ID=102), [Glyph](/Domains.aspx?ID=109), [Knowledge](/Domains.aspx?ID=80), [Trickery](/Domains.aspx?ID=94)",
+ "edict": "Create using words, chronicle languages and prevent them from dying, help language evolve",
  "exclude_from_search": false,
  "favored_weapon": [
-  "jaws",
+  "jaw",
   "Greatclub"
  ],
- "favored_weapon_markdown": "[jaws](/Weapons.aspx?ID=1) or [Greatclub](/Weapons.aspx?ID=22)",
- "follower_alignment": [
-  "CG",
-  "CN",
-  "CE"
+ "favored_weapon_markdown": "[jaw](/Weapons.aspx?ID=356) or [Greatclub](/Weapons.aspx?ID=377)",
+ "id": "deity-554",
+ "legacy_id": [
+  "deity-148"
  ],
- "id": "deity-148",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Ydajisk (Mother of Tongues)](/Deities.aspx?ID=148)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 130 <sup>2.0</sup></row>\n\nThe protean lord of language evolution, lost words, and slang, Ydajisk manifests as a protean with six arms and a cobra’s hood, surrounded by a cloud of drifting sounds, symbols, shapes, and myriad other sensory experiences that shift endlessly in and out of existence. Closer inspection reveals that their body is made from interlacing strands of poetic protean script. Ydajisk is also called the Mother of Tongues, though like all proteans, their gender changes as they will. Followers of Ydajisk are wanderers, reviving dead languages from ancient ruins, chronicling the dying tongues of cultures in decline, and discovering or inventing new words. All such knowledge acquired by agents of the Mother of Tongues passes into Ydajisk’s realm, the Library of Stolen Words, where it is transcribed into books or stored in magical containers, alongside scrolls and tomes considered long lost by mortal scholars.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Monitor Demigods\r\n](/DeityCategories.aspx?ID=12)\r\n\r\n**Edicts** Create using words, chronicle languages and prevent them from dying, help language evolve\r\n\r\n**Anathema** Ban or discourage a language, explain a secret language or slang to outsiders, destroy literary works\r\n\r\n**Area of Concern**\r\nlanguage evolution, lost words, and slang\r\n\r\n**Follower Alignments**\r\nCG, CN, CE\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nIntelligence or Charisma\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=14)\r\n\r\n**Favored Weapon** [jaws](/Weapons.aspx?ID=1) or [Greatclub](/Weapons.aspx?ID=22)\r\n\r\n**Domains** [Change](/Domains.aspx?ID=40), [Glyph](/Domains.aspx?ID=46), [Knowledge](/Domains.aspx?ID=17), [Trickery](/Domains.aspx?ID=31)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Message Rune](/Spells.aspx?ID=581)\n\n- **2nd**\r\n[Blistering Invective](/Spells.aspx?ID=674)\n\n- **4th**\r\n[Glibness](/Spells.aspx?ID=135)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Ydajisk (Mother of Tongues)](/Deities.aspx?ID=554)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 316\n\nThe [protean](/MonsterFamilies.aspx?ID=457) lord of language evolution, lost words, and slang, Ydajisk manifests as a protean with six arms and a cobra’s hood, surrounded by a cloud of drifting sounds, symbols, shapes, and myriad other sensory experiences that shift endlessly in and out of existence. Closer inspection reveals that their body is made from interlacing strands of poetic protean script. Ydajisk is also called the Mother of Tongues, though like all proteans, their gender changes as they will. Followers of Ydajisk are wanderers, reviving dead languages from ancient ruins, chronicling the dying tongues of cultures in decline, and discovering or inventing new words. All such knowledge acquired by agents of the Mother of Tongues passes into Ydajisk’s realm, the Library of Stolen Words, where it is transcribed into books or stored in magical containers, alongside scrolls and tomes considered long lost by mortal scholars.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Monitor Demigods\r\n](/DeityCategories.aspx?ID=12)\r\n\r\n**Edicts** Create using words, chronicle languages and prevent them from dying, help language evolve\r\n\r\n**Anathema** Ban or discourage a language, explain a secret language or slang to outsiders, destroy literary works\r\n\r\n**Area of Concern**\r\nLanguage evolution, lost words, slang\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nIntelligence or Charisma\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** none\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=47)\r\n\r\n**Favored Weapon** [jaw](/Weapons.aspx?ID=356) or [Greatclub](/Weapons.aspx?ID=377)\r\n\r\n**Domains** [Change](/Domains.aspx?ID=102), [Glyph](/Domains.aspx?ID=109), [Knowledge](/Domains.aspx?ID=80), [Trickery](/Domains.aspx?ID=94)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** [Time](/Domains.aspx?ID=121)\r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Message Rune](/Spells.aspx?ID=2356)\n\n- **2nd**\r\n[Blistering Invective](/Spells.aspx?ID=1970)\n\n- **4th**\r\n[Honeyed Words](/Spells.aspx?ID=1558)\n\n</column>",
  "name": "Ydajisk (Mother of Tongues)",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 316",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "Yawning maw drawn in lines of protean poetry",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 130 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Harm or Heal\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=14)\r\n\r\n**Favored Weapon** [jaws](/Weapons.aspx?ID=1) or [Greatclub](/Weapons.aspx?ID=22)\r\n\r\n**Domains** [Change](/Domains.aspx?ID=40), [Glyph](/Domains.aspx?ID=46), [Knowledge](/Domains.aspx?ID=17), [Trickery](/Domains.aspx?ID=31)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe protean lord of language evolution, lost words, and slang, Ydajisk manifests as a protean with six arms and a cobra’s hood, surrounded by a cloud …\r\n</summary>",
+ "sacred_animal": "Myna",
+ "sacred_color": [
+  "azure",
+  "ivory"
+ ],
+ "sanctification_raw": "none",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 316\r\n\r\n**Divine Font** Harm or Heal\r\n\r\n**Divine Skill** [Society](/Skills.aspx?ID=47)\r\n\r\n**Favored Weapon** [jaw](/Weapons.aspx?ID=356) or [Greatclub](/Weapons.aspx?ID=377)\r\n\r\n**Domains** [Change](/Domains.aspx?ID=102), [Glyph](/Domains.aspx?ID=109), [Knowledge](/Domains.aspx?ID=80), [Time](/Domains.aspx?ID=121), [Trickery](/Domains.aspx?ID=94)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe  protean  lord of language evolution, lost words, and slang, Ydajisk manifests as a protean with six arms and a cobra’s hood, surrounded by a …\r\n</summary>",
  "skill": [
   "Society"
  ],
- "skill_markdown": "[Society](/Skills.aspx?ID=14)",
+ "skill_markdown": "[Society](/Skills.aspx?ID=47)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 130"
+  "Divine Mysteries pg. 316"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 130 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 316",
  "speed": {},
- "summary": "The protean lord of language evolution, lost words, and slang, Ydajisk manifests as a protean with six arms and a cobra’s hood, surrounded by a cloud …",
- "summary_markdown": "The protean lord of language evolution, lost words, and slang, Ydajisk manifests as a protean with six arms and a cobra’s hood, surrounded by a cloud …",
- "text": " Ydajisk (Mother of Tongues) Source Gods &amp; Magic pg. 130 2.0 The protean lord of language evolution, lost words, and slang, Ydajisk manifests as a protean with six arms and a cobra’s hood, surrounded by a cloud of drifting sounds, symbols, shapes, and myriad other sensory experiences that shift endlessly in and out of existence. Closer inspection reveals that their body is made from interlacing strands of poetic protean script. Ydajisk is also called the Mother of Tongues, though like all proteans, their gender changes as they will. Followers of Ydajisk are wanderers, reviving dead languages from ancient ruins, chronicling the dying tongues of cultures in decline, and discovering or inventing new words. All such knowledge acquired by agents of the Mother of Tongues passes into Ydajisk’s realm, the Library of Stolen Words, where it is transcribed into books or stored in magical containers, alongside scrolls and tomes considered long lost by mortal scholars. Category [Monitor Demigods ](/DeityCategories.aspx?ID=12) Edicts Create using words, chronicle languages and prevent them from dying, help language evolve Anathema Ban or discourage a language, explain a secret language or slang to outsiders, destroy literary works Area of Concern language evolution, lost words, and slang Follower Alignments CG, CN, CE Devotee Benefits Divine Ability Intelligence or Charisma Divine Font Harm or Heal Divine Skill Society Favored Weapon jaws or Greatclub Domains Change, Glyph, Knowledge, Trickery Alternate Domains Cleric Spells - 1st Message Rune - 2nd Blistering Invective - 4th Glibness\n",
- "trait": [
-  "CN"
+ "spell": [
+  "Message Rune",
+  "Blistering Invective",
+  "Honeyed Words"
  ],
- "trait_raw": [
-  "CN"
- ],
+ "spell_markdown": "[Blistering Invective](/Spells.aspx?ID=1970), [Honeyed Words](/Spells.aspx?ID=1558), [Message Rune](/Spells.aspx?ID=2356)",
+ "summary": "The  protean  lord of language evolution, lost words, and slang, Ydajisk manifests as a protean with six arms and a cobra’s hood, surrounded by a …",
+ "summary_markdown": "The  protean  lord of language evolution, lost words, and slang, Ydajisk manifests as a protean with six arms and a cobra’s hood, surrounded by a …",
+ "text": " Ydajisk (Mother of Tongues) Source Divine Mysteries pg. 316 The protean lord of language evolution, lost words, and slang, Ydajisk manifests as a protean with six arms and a cobra’s hood, surrounded by a cloud of drifting sounds, symbols, shapes, and myriad other sensory experiences that shift endlessly in and out of existence. Closer inspection reveals that their body is made from interlacing strands of poetic protean script. Ydajisk is also called the Mother of Tongues, though like all proteans, their gender changes as they will. Followers of Ydajisk are wanderers, reviving dead languages from ancient ruins, chronicling the dying tongues of cultures in decline, and discovering or inventing new words. All such knowledge acquired by agents of the Mother of Tongues passes into Ydajisk’s realm, the Library of Stolen Words, where it is transcribed into books or stored in magical containers, alongside scrolls and tomes considered long lost by mortal scholars. Category [Monitor Demigods ](/DeityCategories.aspx?ID=12) Edicts Create using words, chronicle languages and prevent them from dying, help language evolve Anathema Ban or discourage a language, explain a secret language or slang to outsiders, destroy literary works Area of Concern Language evolution, lost words, slang Devotee Benefits Divine Attribute Intelligence or Charisma Divine Font Harm or Heal Divine Sanctification none Divine Skill Society Favored Weapon jaw or Greatclub Domains Change, Glyph, Knowledge, Trickery Alternate Domains Time Cleric Spells - 1st Message Rune - 2nd Blistering Invective - 4th Honeyed Words\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=148",
+ "url": "/Deities.aspx?ID=554",
  "weakness": {}
 }

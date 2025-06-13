@@ -1,39 +1,50 @@
 {
  "breadcrumbs": [
-  "Chapter 10: Game Mastering",
+  "Chapter 2: Building Games",
   "Hazards",
   "Disabling a Hazard",
   "Damaging a Hazard"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-676",
- "markdown": "<title level=\"1\" right=\"Rules\">[Attacking a Hazard](/Rules.aspx?ID=676)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 521 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nIf someone hits a hazard—especially if it’s a mechanical trap—they usually trigger it, though you might determine otherwise in some cases. An attack that breaks the hazard might prevent it from triggering, depending on the circumstances. If the hazard has multiple parts, breaking one part might still trigger the trap. For example, if a trap has a trip wire in one location and launches an attack from another location, severing the trip wire could still trigger the attack. Destroying a trap in one blow almost never triggers it. These rules also apply to most damaging spells or other effects in addition to attacks.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2854",
+ "legacy_id": [
+  "rules-676"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Attacking a Hazard](/Rules.aspx?ID=2854)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 99 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nIf someone hits a hazard—especially if it’s a mechanical trap—they usually trigger it, though you might determine otherwise in some cases. An attack that breaks the hazard might prevent it from triggering, depending on the circumstances. If the hazard has multiple parts, breaking one part might still trigger the trap. For example, if a trap has a trip wire in one location and launches an attack from another location, severing the trip wire could still trigger the attack. Destroying a trap in one blow almost never triggers it. These rules also apply to most damaging spells or other effects in addition to attacks.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Monsters and Hazards</title>\r\n\r\nThe statistics for NPCs and monsters usually don't list their proficiency ranks. Most of the time, they don't need to deal with detecting or disabling hazards the way PCs do, so you don't need this information. However, if a PC resets a trap in a monster's path or plans to lure a monster into a hazard, you can improvise this information.\n\nFor Perception, a monster is usually an expert at 3rd or 4th level, a master at 8th or 9th level, and legendary at 16th or 17th level. If the monster has Thievery listed in its skills, it has the highest proficiency possible for its level (trained at 1st, expert at 3rd, master at 7th, and legendary at 15th); otherwise, it's untrained. Of course, an individual monster might deviate from these guidelines, especially if it's mindless or not very perceptive.\r\n</aside>",
  "name": "Attacking a Hazard",
  "next_link": {
   "label": "Repairing a Hazard",
-  "url": "/Rules.aspx?ID=677"
+  "url": "/Rules.aspx?ID=2855"
  },
  "previous_link": {
   "label": "Triggering a Hazard",
-  "url": "/Rules.aspx?ID=670"
+  "url": "/Rules.aspx?ID=2848"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 99",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 521 <sup>4.0</sup></row>\r\n\r\nChapter 10: Game Mastering / Hazards / Disabling a Hazard / Damaging a Hazard\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 99 <sup>2.0</sup>\r\n\r\nChapter 2: Building Games / Hazards / Disabling a Hazard / Damaging a Hazard\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIf someone hits a hazard—especially if it’s a mechanical trap—they usually trigger it, though you might determine otherwise in some cases. An attack …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 521"
+  "GM Core pg. 99"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 521 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 99 <sup>2.0</sup>",
  "speed": {},
- "text": " Attacking a Hazard Source Core Rulebook pg. 521 4.0 If someone hits a hazard—especially if it’s a mechanical trap—they usually trigger it, though you might determine otherwise in some cases. An attack that breaks the hazard might prevent it from triggering, depending on the circumstances. If the hazard has multiple parts, breaking one part might still trigger the trap. For example, if a trap has a trip wire in one location and launches an attack from another location, severing the trip wire could still trigger the attack. Destroying a trap in one blow almost never triggers it. These rules also apply to most damaging spells or other effects in addition to attacks. ",
+ "summary": "If someone hits a hazard—especially if it’s a mechanical trap—they usually trigger it, though you might determine otherwise in some cases. An attack …",
+ "summary_markdown": "If someone hits a hazard—especially if it’s a mechanical trap—they usually trigger it, though you might determine otherwise in some cases. An attack …",
+ "text": " Attacking a Hazard Source GM Core pg. 99 2.0 If someone hits a hazard—especially if it’s a mechanical trap—they usually trigger it, though you might determine otherwise in some cases. An attack that breaks the hazard might prevent it from triggering, depending on the circumstances. If the hazard has multiple parts, breaking one part might still trigger the trap. For example, if a trap has a trip wire in one location and launches an attack from another location, severing the trip wire could still trigger the attack. Destroying a trap in one blow almost never triggers it. These rules also apply to most damaging spells or other effects in addition to attacks. Monsters and Hazards The statistics for NPCs and monsters usually don't list their proficiency ranks. Most of the time, they don't need to deal with detecting or disabling hazards the way PCs do, so you don't need this information. However, if a PC resets a trap in a monster's path or plans to lure a monster into a hazard, you can improvise this information. For Perception, a monster is usually an expert at 3rd or 4th level, a master at 8th or 9th level, and legendary at 16th or 17th level. If the monster has Thievery listed in its skills, it has the highest proficiency possible for its level (trained at 1st, expert at 3rd, master at 7th, and legendary at 15th); otherwise, it's untrained. Of course, an individual monster might deviate from these guidelines, especially if it's mindless or not very perceptive. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=676",
+ "url": "/Rules.aspx?ID=2854",
  "weakness": {}
 }

@@ -2,44 +2,56 @@
  "archetype": [
   "Alchemist"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Basic Concoction"
  ],
  "feat_markdown": "Basic Concoction",
- "id": "feat-666",
+ "id": "feat-6186",
+ "legacy_id": [
+  "feat-666"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Basic Concoction](/Feats.aspx?ID=666) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 220 <sup>4.0</sup></row>\n\n**Archetype** [Alchemist](/Archetypes.aspx?ID=1)\n\n**Prerequisites**\r\n[Alchemist Dedication](/Feats.aspx?ID=665)\n\n</column>\r\n\r\n---\r\n\r\nYou gain a 1st- or 2nd-level [alchemist feat](/Classes.aspx?ID=1/feats).\n\n<title level=\"2\">Basic Concoction leads to...</title>\r\n[Advanced Concoction](/Feats.aspx?ID=668)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Basic Concoction](/Feats.aspx?ID=6186) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 175 <sup>1.1</sup>\n\n**Archetype** [Alchemist](/Archetypes.aspx?ID=228)\n\n**Prerequisites**\r\n[Alchemist Dedication](/Feats.aspx?ID=6184)\n\n</column>\r\n\r\n---\r\n\r\nYou gain a 1st- or 2nd-level [alchemist feat](/Feats.aspx?Traits=7).\n\n<title level=\"2\">Basic Concoction leads to...</title>\r\n[Advanced Concoction](/Feats.aspx?ID=6187)",
  "name": "Basic Concoction",
  "pfs": "Standard",
  "prerequisite": "Alchemist Dedication",
- "prerequisite_markdown": "[Alchemist Dedication](/Feats.aspx?ID=665)",
+ "prerequisite_markdown": "[Alchemist Dedication](/Feats.aspx?ID=6184)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 175",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 220 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Alchemist Dedication](/Feats.aspx?ID=665)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain a 1st- or 2nd-level alchemist feat.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 175 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Alchemist Dedication](/Feats.aspx?ID=6184)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain a 1st- or 2nd-level alchemist feat.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 220"
+  "Player Core 2 pg. 175"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 220 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 175 <sup>1.1</sup>",
  "speed": {},
  "summary": "You gain a 1st- or 2nd-level alchemist feat.",
  "summary_markdown": "You gain a 1st- or 2nd-level alchemist feat.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Basic Concoction Source Core Rulebook pg. 220 4.0 Archetype Alchemist Prerequisites Alchemist Dedication --- You gain a 1st- or 2nd-level alchemist feat. Basic Concoction leads to... Advanced Concoction",
+ "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Basic Concoction Source Player Core 2 pg. 175 1.1 Archetype Alchemist Prerequisites Alchemist Dedication --- You gain a 1st- or 2nd-level alchemist feat. Basic Concoction leads to... Advanced Concoction",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=666",
+ "url": "/Feats.aspx?ID=6186",
  "weakness": {}
 }

@@ -1,29 +1,37 @@
 {
- "breadcrumbs_spa": [],
  "category": "action",
  "exclude_from_search": true,
- "id": "action-2006",
- "markdown": "**Activate** <actions string=\"\" />1 minute (envision, Interact);     **Effect** You use the _mindsponge_ to harvest the memories and mental energy of a specially prepared target as it dies. To prepare the target (who must be willing or helpless), you must perform a 10-minute surgery to expose a portion of the target's brain without killing them. This requires a successful DC 28 [Medicine](/Skills.aspx?ID=9) (master) check; if you fail this check, the target dies before you can use the _mindsponge_.\n\n Memories and psychic energy absorbed aren't taken from the target's soul but from energies temporarily infused within the body, so that a creature slain in this way who is later brought back to life retains their harvested memories and energy. The corpse of someone who has had their memories harvested is difficult to communicate with via [_talking corpse_](/Spells.aspx?ID=329)—treat the saving throw result against that spell as one degree of success lower than the actual result.\n\n A _mindsponge_ can store the memories and energy of up to four creatures at a time. Once full, it cannot be activated at all, other than to squeeze it as an Interact action with the envision trait, which causes all of the memories within to drip out as cold ectoplasm, which swiftly evaporates if not used or contained.",
+ "frequency": "once per day",
+ "id": "action-325",
+ "markdown": "**Activate** <actions string=\"\" /> 1 minute (envision, Interact);  **Frequency** once per day;  **Requirements** You are Impersonating someone else; **Effect** While conversing or otherwise casually interacting with other creatures, you can adjust the mantle’s clasp to modify those creatures’ recollections of the last 5 minutes of their interaction with you. Each creature must attempt a DC 25 Will save.\r\n\r\n**Critical Success** The creature recalls the interaction clearly and realizes you were trying to alter their memory.<br />\r\n**Success** The creature recalls the interaction clearly.<br />\r\n**Failure** You decide whether or not the creature recalls the interaction. You can also alter minor details the creature recalls about the interaction, such as the time, place, and whether the interaction was favorable, as determined by the GM.<br />\r\n**Critical Failure** You decide whether or not the creature recalls the interaction. You can also alter major details the creature recalls about the interaction, such as believing you to be another individual or that the creature agreed to a favor, as determined by the GM.",
  "name": "1 minute (envision, Interact)",
+ "primary_source": "Character Guide",
+ "primary_source_raw": "Character Guide pg. 73",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2023-03-29",
+ "rarity_id": 1,
+ "release_date": "2019-10-16",
+ "requirement": "You are Impersonating someone else",
+ "requirement_markdown": "You are Impersonating someone else",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #189: Dreamers of the Nameless Spires](/Sources.aspx?ID=195) pg. 77</row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou use the  mindsponge  to harvest the memories and mental energy of a specially prepared target as it dies. To prepare the target (who must be …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 73 <sup>2.0</sup>\r\n\r\n**Frequency**\r\nonce per day\n\n**Requirement**\r\nYou are Impersonating someone else\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile conversing or otherwise casually interacting with other creatures, you can adjust the mantle’s clasp to modify those creatures’ recollections …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Pathfinder #189: Dreamers of the Nameless Spires"
+  "Character Guide"
  ],
  "source_raw": [
-  "Pathfinder #189: Dreamers of the Nameless Spires pg. 77"
+  "Character Guide pg. 73"
  ],
- "source_category": "Adventure Paths",
- "source_group": "Gatewalkers",
- "source_markdown": "<row gap=\"tiny\">[Pathfinder #189: Dreamers of the Nameless Spires](/Sources.aspx?ID=195) pg. 77</row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 73 <sup>2.0</sup>",
  "speed": {},
- "summary": "You use the  mindsponge  to harvest the memories and mental energy of a specially prepared target as it dies. To prepare the target (who must be …",
- "summary_markdown": "You use the  mindsponge  to harvest the memories and mental energy of a specially prepared target as it dies. To prepare the target (who must be …",
- "text": " Activate 1 minute (envision, Interact); Effect You use the mindsponge to harvest the memories and mental energy of a specially prepared target as it dies. To prepare the target (who must be willing or helpless), you must perform a 10-minute surgery to expose a portion of the target's brain without killing them. This requires a successful DC 28 Medicine (master) check; if you fail this check, the target dies before you can use the mindsponge . Memories and psychic energy absorbed aren't taken from the target's soul but from energies temporarily infused within the body, so that a creature slain in this way who is later brought back to life retains their harvested memories and energy. The corpse of someone who has had their memories harvested is difficult to communicate with via talking corpse —treat the saving throw result against that spell as one degree of success lower than the actual result. A mindsponge can store the memories and energy of up to four creatures at a time. Once full, it cannot be activated at all, other than to squeeze it as an Interact action with the envision trait, which causes all of the memories within to drip out as cold ectoplasm, which swiftly evaporates if not used or contained.",
+ "summary": "While conversing or otherwise casually interacting with other creatures, you can adjust the mantle’s clasp to modify those creatures’ recollections …",
+ "summary_markdown": "While conversing or otherwise casually interacting with other creatures, you can adjust the mantle’s clasp to modify those creatures’ recollections …",
+ "text": " Activate 1 minute (envision, Interact); Frequency once per day; Requirements You are Impersonating someone else; Effect While conversing or otherwise casually interacting with other creatures, you can adjust the mantle’s clasp to modify those creatures’ recollections of the last 5 minutes of their interaction with you. Each creature must attempt a DC 25 Will save. Critical Success The creature recalls the interaction clearly and realizes you were trying to alter their memory. Success The creature recalls the interaction clearly. Failure You decide whether or not the creature recalls the interaction. You can also alter minor details the creature recalls about the interaction, such as the time, place, and whether the interaction was favorable, as determined by the GM. Critical Failure You decide whether or not the creature recalls the interaction. You can also alter major details the creature recalls about the interaction, such as believing you to be another individual or that the creature agreed to a favor, as determined by the GM.",
  "trait_markdown": "",
  "type": "Action",
- "url": "/Actions.aspx?ID=2006",
+ "url": "/Actions.aspx?ID=325",
  "weakness": {}
 }

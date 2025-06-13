@@ -1,38 +1,48 @@
 {
  "breadcrumbs": [
-  "Chapter 10: Game Mastering",
-  "Hazards",
-  "Hazard Format"
+  "Chapter 1: Running the Game",
+  "Difficulty Classes"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-681",
- "markdown": "<title level=\"1\" right=\"Rules\">[Level-Based DCs](/Rules.aspx?ID=681)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 522 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThe hazard’s level indicates what level of party it’s a good challenge for. If the hazard involves a toxin, curse, or other non-spell feature, that feature’s level is the hazard’s level.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2629",
+ "legacy_id": [
+  "rules-554"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Level-Based DCs](/Rules.aspx?ID=2629)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 52 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nWhen you're determining a skill DC based on something that has a level, use the table below to set the DC. Find the level of the subject, and assign the corresponding DC. Since spells use a 1–10 scale, use the Spell Rank column for them.\n\nUse these DCs when a PC needs to Identify a Spell or Recall Knowledge about a creature, attempts to Earn Income by performing a task of a certain level, and so on. You can also use the level-based DCs for obstacles instead of assigning a simple DC. For example, you might determine that a wall in a high-level dungeon was constructed of smooth metal and is hard to climb. You could simply say only someone with master proficiency could climb it and use the simple DC of 30. Or you might decide that the 15th-level villain who created the dungeon crafted the wall and use the 15th-level DC of 34. Either approach is reasonable!\n\nNote that PCs who invest in a skill become more likely to succeed at a DC of their level as they increase in level, and the listed DCs eventually pose very little challenge for them.\n\n## DCs by Level\n<row gap=\"tiny\"><table style=\"float: left\"> <tr><td>**Level**</td><td>**DC**</td></tr> <tr><td>0</td><td>14</td></tr> <tr><td>1</td><td>15</td></tr> <tr><td>2</td><td>16</td></tr> <tr><td>3</td><td>18</td></tr> <tr><td>4</td><td>19</td></tr> <tr><td>5</td><td>20</td></tr> <tr><td>6</td><td>22</td></tr> <tr><td>7</td><td>23</td></tr> <tr><td>8</td><td>24</td></tr> <tr><td>9</td><td>26</td></tr> <tr><td>10</td><td>27</td></tr> <tr><td>11</td><td>28</td></tr> <tr><td>12</td><td>30</td></tr> <tr><td>13</td><td>31</td></tr> <tr><td>14</td><td>32</td></tr> <tr><td>15</td><td>34</td></tr> <tr><td>16</td><td>35</td></tr> <tr><td>17</td><td>36</td></tr> <tr><td>18</td><td>38</td></tr> <tr><td>19</td><td>39</td></tr> <tr><td>20</td><td>40</td></tr> <tr><td>21</td><td>42</td></tr> <tr><td>22</td><td>44</td></tr> <tr><td>23</td><td>46</td></tr> <tr><td>24</td><td>48</td></tr> <tr><td>25</td><td>50</td></tr></table><table style=\"float: left\"><tr><td>**Spell Rank***</td><td>**DC**</td></tr> <tr><td>1st</td><td>15</td></tr> <tr><td>2nd</td><td>18</td></tr> <tr><td>3rd</td><td>20</td></tr> <tr><td>4th</td><td>23</td></tr> <tr><td>5th</td><td>26</td></tr> <tr><td>6th</td><td>28</td></tr> <tr><td>7th</td><td>31</td></tr> <tr><td>8th</td><td>34</td></tr> <tr><td>9th</td><td>36</td></tr> <tr><td>10th</td><td>39</td></tr><tfoot><tr><td colspan=\"2\">*If the spell is uncommon or rare, its<br />difficulty should be adjusted accordingly</td></tr></tfoot> </table>\n\n </row>\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Level-Based DCs",
  "next_link": {
-  "label": "Traits",
-  "url": "/Rules.aspx?ID=682"
+  "label": "Adjusting Difficulty",
+  "url": "/Rules.aspx?ID=2630"
  },
  "previous_link": {
-  "label": "Hazard Experience",
-  "url": "/Rules.aspx?ID=679"
+  "label": "Simple DCs",
+  "url": "/Rules.aspx?ID=2628"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 52",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 522 <sup>4.0</sup></row>\r\n\r\nChapter 10: Game Mastering / Hazards / Hazard Format\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 52 <sup>2.0</sup>\r\n\r\nChapter 1: Running the Game / Difficulty Classes\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen you're determining a skill DC based on something that has a level, use the table below to set the DC. Find the level of the subject, and assign …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 522"
+  "GM Core pg. 52"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 522 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 52 <sup>2.0</sup>",
  "speed": {},
- "text": " Level-Based DCs Source Core Rulebook pg. 522 4.0 The hazard’s level indicates what level of party it’s a good challenge for. If the hazard involves a toxin, curse, or other non-spell feature, that feature’s level is the hazard’s level. ",
+ "summary": "When you're determining a skill DC based on something that has a level, use the table below to set the DC. Find the level of the subject, and assign …",
+ "summary_markdown": "When you're determining a skill DC based on something that has a level, use the table below to set the DC. Find the level of the subject, and assign …",
+ "text": " Level-Based DCs Source GM Core pg. 52 2.0 When you're determining a skill DC based on something that has a level, use the table below to set the DC. Find the level of the subject, and assign the corresponding DC. Since spells use a 1–10 scale, use the Spell Rank column for them. Use these DCs when a PC needs to Identify a Spell or Recall Knowledge about a creature, attempts to Earn Income by performing a task of a certain level, and so on. You can also use the level-based DCs for obstacles instead of assigning a simple DC. For example, you might determine that a wall in a high-level dungeon was constructed of smooth metal and is hard to climb. You could simply say only someone with master proficiency could climb it and use the simple DC of 30. Or you might decide that the 15th-level villain who created the dungeon crafted the wall and use the 15th-level DC of 34. Either approach is reasonable! Note that PCs who invest in a skill become more likely to succeed at a DC of their level as they increase in level, and the listed DCs eventually pose very little challenge for them. ## DCs by Level Level DC 0 14 1 15 2 16 3 18 4 19 5 20 6 22 7 23 8 24 9 26 10 27 11 28 12 30 13 31 14 32 15 34 16 35 17 36 18 38 19 39 20 40 21 42 22 44 23 46 24 48 25 50 Spell Rank DC 1st 15 2nd 18 3rd 20 4th 23 5th 26 6th 28 7th 31 8th 34 9th 36 10th 39 If the spell is uncommon or rare, its difficulty should be adjusted accordingly ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=681",
+ "url": "/Rules.aspx?ID=2629",
  "weakness": {}
 }

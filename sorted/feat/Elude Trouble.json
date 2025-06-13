@@ -1,43 +1,56 @@
 {
  "actions": "Reaction",
- "breadcrumbs_spa": [],
+ "actions_number": 1,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Elude Trouble"
  ],
  "feat_markdown": "Elude Trouble",
- "id": "feat-2328",
+ "id": "feat-5565",
+ "legacy_id": [
+  "feat-2328"
+ ],
  "level": 17,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 17\"\r\n    pfs=\"Standard\"\r\n>\r\n[Elude Trouble](/Feats.aspx?ID=2328) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Catfolk\" url=\"/Traits.aspx?ID=211\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 19 <sup>2.0</sup></row>\n\n**Trigger**\r\nA creature misses you with a melee attack.\n\n</column>\r\n\r\n---\r\n\r\nYou slip through your foe's opening. Stride up to your Speed. This movement doesn't trigger movement-based reactions from the creature that missed you.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 17\"\r\n    pfs=\"Standard\"\r\n>\r\n[Elude Trouble](/Feats.aspx?ID=5565) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Catfolk\" url=\"/Traits.aspx?ID=746\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 11 <sup>1.1</sup>\n\n**Trigger**\r\nA creature missed you with a melee attack.\n\n</column>\r\n\r\n---\r\n\r\nStride up to your Speed. This movement doesn't trigger reactions from the creature that missed you.",
  "name": "Elude Trouble",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 11",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2021-02-24",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Catfolk\" url=\"/Traits.aspx?ID=211\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 19 <sup>2.0</sup></row>\n\n**Trigger**\r\nA creature misses you with a melee attack.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou slip through your foe's opening.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Catfolk\" url=\"/Traits.aspx?ID=746\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 11 <sup>1.1</sup>\n\n**Trigger**\r\nA creature missed you with a melee attack.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nStride up to your Speed.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Ancestry Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Ancestry Guide pg. 19"
+  "Player Core 2 pg. 11"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Ancestry Guide](/Sources.aspx?ID=74) pg. 19 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 11 <sup>1.1</sup>",
  "speed": {},
- "summary": "You slip through your foe's opening.",
- "summary_markdown": "You slip through your foe's opening.",
- "text": "<title level=\"1\" right=\"Feat 17\" pfs=\"Standard\" > Elude Trouble Reaction Source Ancestry Guide pg. 19 2.0 Trigger A creature misses you with a melee attack. --- You slip through your foe's opening. Stride up to your Speed. This movement doesn't trigger movement-based reactions from the creature that missed you.",
+ "summary": "Stride up to your Speed.",
+ "summary_markdown": "Stride up to your Speed.",
+ "text": "<title level=\"1\" right=\"Feat 17\" pfs=\"Standard\" > Elude Trouble Reaction Source Player Core 2 pg. 11 1.1 Trigger A creature missed you with a melee attack. --- Stride up to your Speed. This movement doesn't trigger reactions from the creature that missed you.",
  "trait": [
   "Catfolk"
  ],
- "trait_markdown": "[Catfolk](/Traits.aspx?ID=211)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Catfolk](/Traits.aspx?ID=746)",
  "trait_raw": [
   "Catfolk"
  ],
- "trigger": "A creature misses you with a melee attack.",
- "trigger_markdown": "A creature misses you with a melee attack.",
+ "trigger": "A creature missed you with a melee attack.",
+ "trigger_markdown": "A creature missed you with a melee attack.",
  "type": "Feat",
- "url": "/Feats.aspx?ID=2328",
+ "url": "/Feats.aspx?ID=5565",
  "weakness": {}
 }

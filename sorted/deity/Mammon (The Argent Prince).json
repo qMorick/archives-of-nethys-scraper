@@ -1,23 +1,27 @@
 {
- "ability": [
+ "attribute": [
   "Wisdom",
   "Charisma"
  ],
- "alignment": "LE",
- "breadcrumbs_spa": [],
+ "anathema": "Leave the cult of Mammon, allow those who steal from you to go unpunished",
+ "area_of_concern": [
+  "Avarice",
+  "watchfulness",
+  "wealth"
+ ],
+ "area_of_concern_raw": "Avarice, watchfulness, wealth",
  "category": "deity",
  "cleric_spell": [
   "Shattering Gem",
   "Creation",
-  "Magnificent Mansion"
+  "Planar Palace"
  ],
  "deity": [
   "Mammon"
  ],
- "deity_markdown": "[Mammon](/Deities.aspx?ID=68)",
  "deity_category": "Archdevils",
- "deity_category_markdown": "[Archdevils\r\n](/DeityCategories.aspx?ID=4)",
- "deity_category_order": "2Archdevils\r\n",
+ "deity_category_markdown": "[Archdevils](/DeityCategories.aspx?ID=4)",
+ "deity_category_order": "2Archdevils",
  "divine_font": [
   "Harm"
  ],
@@ -25,57 +29,81 @@
  "domain": [
   "Ambition",
   "Creation",
+  "Earth",
+  "Metal",
   "Toil",
   "Wealth"
  ],
- "domain_markdown": "[Ambition](/Domains.aspx?ID=1), [Creation](/Domains.aspx?ID=5), [Toil](/Domains.aspx?ID=39), [Wealth](/Domains.aspx?ID=36)",
- "domain_alternate_markdown": "",
+ "domain_markdown": "[Ambition](/Domains.aspx?ID=64), [Creation](/Domains.aspx?ID=68), [Earth](/Domains.aspx?ID=73), [Metal](/Domains.aspx?ID=112), [Toil](/Domains.aspx?ID=122), [Wealth](/Domains.aspx?ID=99)",
+ "domain_alternate": [
+  "Earth",
+  "Metal"
+ ],
+ "domain_alternate_markdown": "[Earth](/Domains.aspx?ID=73), [Metal](/Domains.aspx?ID=112)",
  "domain_primary": [
   "Ambition",
   "Creation",
   "Toil",
   "Wealth"
  ],
- "domain_primary_markdown": "[Ambition](/Domains.aspx?ID=1), [Creation](/Domains.aspx?ID=5), [Toil](/Domains.aspx?ID=39), [Wealth](/Domains.aspx?ID=36)",
+ "domain_primary_markdown": "[Ambition](/Domains.aspx?ID=64), [Creation](/Domains.aspx?ID=68), [Toil](/Domains.aspx?ID=122), [Wealth](/Domains.aspx?ID=99)",
+ "edict": "Gain financial control over others, gather new wealth, count your riches",
  "exclude_from_search": false,
  "favored_weapon": [
   "Spear"
  ],
- "favored_weapon_markdown": "[Spear](/Weapons.aspx?ID=10)",
- "follower_alignment": [
-  "LE"
+ "favored_weapon_markdown": "[Spear](/Weapons.aspx?ID=365)",
+ "id": "deity-399",
+ "legacy_id": [
+  "deity-68"
  ],
- "id": "deity-68",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Restricted\">[Mammon (The Argent Prince)](/Deities.aspx?ID=68)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 124 <sup>2.0</sup></row>\n\nMammon, the Grasping One, oversees the vast treasuries of Hell secured in the vaults of Erebus, Hell’s third layer. As his angelic form was slain, he has no form of his own, so instead he infuses the very wealth that he guards, taking forms composed of riches and extending his senses out through each nigh-uncountable coin—he knows well the exact sum held in Hell’s vaults and the greatest treasures among them. His worshippers are the greedy rich and poor alike, and he often arranges for such mortals to stumble across a “lucky copper” through which he whispers encouragements for the bearer to indulge in greater and greater vices, eventually claiming their soul as his own.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Archdevils\r\n](/DeityCategories.aspx?ID=4)\r\n\r\n**Edicts** Gain financial control over others, gather new wealth, count your riches\r\n\r\n**Anathema** Leave the cult of Mammon, allow those who steal from you to go unpunished\n\n**Follower Alignments**\r\nLE\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nWisdom or Charisma\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146)\r\n\r\n**Divine Skill** [Thievery](/Skills.aspx?ID=17)\r\n\r\n**Favored Weapon** [Spear](/Weapons.aspx?ID=10)\r\n\r\n**Domains** [Ambition](/Domains.aspx?ID=1), [Creation](/Domains.aspx?ID=5), [Toil](/Domains.aspx?ID=39), [Wealth](/Domains.aspx?ID=36)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Shattering Gem](/Spells.aspx?ID=585)\n\n- **4th**\r\n[Creation](/Spells.aspx?ID=54)\n\n- **7th**\r\n[Magnificent Mansion](/Spells.aspx?ID=183)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Restricted\">[Mammon (The Argent Prince)](/Deities.aspx?ID=399)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 300\n\nMammon, the Grasping One, oversees the vast treasuries of [Hell](/Planes.aspx?ID=42) secured in the vaults of Erebus, Hell’s third layer. As his [angelic](/MonsterFamilies.aspx?ID=359) form was slain, he has no form of his own, so instead he infuses the very wealth that he guards, taking forms composed of riches and extending his senses out through each nigh-uncountable coin—he knows well the exact sum held in Hell’s vaults and the greatest treasures among them. His worshippers are the greedy rich and poor alike, and he often arranges for such mortals to stumble across a “lucky copper” through which he whispers encouragements for the bearer to indulge in greater and greater vices, eventually claiming their soul as his own.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Archdevils](/DeityCategories.aspx?ID=4)\r\n\r\n**Edicts** Gain financial control over others, gather new wealth, count your riches\r\n\r\n**Anathema** Leave the cult of Mammon, allow those who steal from you to go unpunished\r\n\r\n**Area of Concern**\r\nAvarice, watchfulness, wealth\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nWisdom or Charisma\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146)\r\n\r\n**Divine Sanctification** must choose unholy\r\n\r\n**Divine Skill** [Thievery](/Skills.aspx?ID=50)\r\n\r\n**Favored Weapon** [Spear](/Weapons.aspx?ID=365)\r\n\r\n**Domains** [Ambition](/Domains.aspx?ID=64), [Creation](/Domains.aspx?ID=68), [Toil](/Domains.aspx?ID=122), [Wealth](/Domains.aspx?ID=99)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** [Earth](/Domains.aspx?ID=73), [Metal](/Domains.aspx?ID=112)\r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Shattering Gem](/Spells.aspx?ID=2364)\n\n- **4th**\r\n[Creation](/Spells.aspx?ID=1477)\n\n- **7th**\r\n[Planar Palace](/Spells.aspx?ID=1634)\n\n</column>",
  "name": "Mammon (The Argent Prince)",
  "pfs": "Restricted",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 300",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "Devil-faced coin",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 124 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Harm\r\n\r\n**Divine Skill** [Thievery](/Skills.aspx?ID=17)\r\n\r\n**Favored Weapon** [Spear](/Weapons.aspx?ID=10)\r\n\r\n**Domains** [Ambition](/Domains.aspx?ID=1), [Creation](/Domains.aspx?ID=5), [Toil](/Domains.aspx?ID=39), [Wealth](/Domains.aspx?ID=36)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMammon, the Grasping One, oversees the vast treasuries of Hell secured in the vaults of Erebus, Hell’s third layer. As his angelic form was slain, he …\r\n</summary>",
+ "sacred_animal": "Rat",
+ "sacred_color": [
+  "gold",
+  "silver"
+ ],
+ "sanctification": [
+  "unholy"
+ ],
+ "sanctification_raw": "must choose unholy",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 300\r\n\r\n**Divine Font** Harm\r\n\r\n**Divine Skill** [Thievery](/Skills.aspx?ID=50)\r\n\r\n**Favored Weapon** [Spear](/Weapons.aspx?ID=365)\r\n\r\n**Domains** [Ambition](/Domains.aspx?ID=64), [Creation](/Domains.aspx?ID=68), [Earth](/Domains.aspx?ID=73), [Metal](/Domains.aspx?ID=112), [Toil](/Domains.aspx?ID=122), [Wealth](/Domains.aspx?ID=99)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMammon, the Grasping One, oversees the vast treasuries of  Hell  secured in the vaults of Erebus, Hell’s third layer. As his  angelic  form was …\r\n</summary>",
  "skill": [
   "Thievery"
  ],
- "skill_markdown": "[Thievery](/Skills.aspx?ID=17)",
+ "skill_markdown": "[Thievery](/Skills.aspx?ID=50)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 124"
+  "Divine Mysteries pg. 300"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 124 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 300",
  "speed": {},
- "summary": "Mammon, the Grasping One, oversees the vast treasuries of Hell secured in the vaults of Erebus, Hell’s third layer. As his angelic form was slain, he …",
- "summary_markdown": "Mammon, the Grasping One, oversees the vast treasuries of Hell secured in the vaults of Erebus, Hell’s third layer. As his angelic form was slain, he …",
- "text": " Mammon (The Argent Prince) Source Gods &amp; Magic pg. 124 2.0 Mammon, the Grasping One, oversees the vast treasuries of Hell secured in the vaults of Erebus, Hell’s third layer. As his angelic form was slain, he has no form of his own, so instead he infuses the very wealth that he guards, taking forms composed of riches and extending his senses out through each nigh-uncountable coin—he knows well the exact sum held in Hell’s vaults and the greatest treasures among them. His worshippers are the greedy rich and poor alike, and he often arranges for such mortals to stumble across a “lucky copper” through which he whispers encouragements for the bearer to indulge in greater and greater vices, eventually claiming their soul as his own. Category [Archdevils ](/DeityCategories.aspx?ID=4) Edicts Gain financial control over others, gather new wealth, count your riches Anathema Leave the cult of Mammon, allow those who steal from you to go unpunished Follower Alignments LE Devotee Benefits Divine Ability Wisdom or Charisma Divine Font Harm Divine Skill Thievery Favored Weapon Spear Domains Ambition, Creation, Toil, Wealth Alternate Domains Cleric Spells - 1st Shattering Gem - 4th Creation - 7th Magnificent Mansion\n",
- "trait": [
-  "LE"
+ "spell": [
+  "Shattering Gem",
+  "Creation",
+  "Planar Palace"
  ],
- "trait_raw": [
-  "LE"
- ],
+ "spell_markdown": "[Creation](/Spells.aspx?ID=1477), [Planar Palace](/Spells.aspx?ID=1634), [Shattering Gem](/Spells.aspx?ID=2364)",
+ "summary": "Mammon, the Grasping One, oversees the vast treasuries of  Hell  secured in the vaults of Erebus, Hell’s third layer. As his  angelic  form was …",
+ "summary_markdown": "Mammon, the Grasping One, oversees the vast treasuries of  Hell  secured in the vaults of Erebus, Hell’s third layer. As his  angelic  form was …",
+ "text": " Mammon (The Argent Prince) Source Divine Mysteries pg. 300 Mammon, the Grasping One, oversees the vast treasuries of Hell secured in the vaults of Erebus, Hell’s third layer. As his angelic form was slain, he has no form of his own, so instead he infuses the very wealth that he guards, taking forms composed of riches and extending his senses out through each nigh-uncountable coin—he knows well the exact sum held in Hell’s vaults and the greatest treasures among them. His worshippers are the greedy rich and poor alike, and he often arranges for such mortals to stumble across a “lucky copper” through which he whispers encouragements for the bearer to indulge in greater and greater vices, eventually claiming their soul as his own. Category Archdevils Edicts Gain financial control over others, gather new wealth, count your riches Anathema Leave the cult of Mammon, allow those who steal from you to go unpunished Area of Concern Avarice, watchfulness, wealth Devotee Benefits Divine Attribute Wisdom or Charisma Divine Font Harm Divine Sanctification must choose unholy Divine Skill Thievery Favored Weapon Spear Domains Ambition, Creation, Toil, Wealth Alternate Domains Earth, Metal Cleric Spells - 1st Shattering Gem - 4th Creation - 7th Planar Palace\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=68",
+ "url": "/Deities.aspx?ID=399",
  "weakness": {}
 }

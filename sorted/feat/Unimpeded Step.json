@@ -1,42 +1,54 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Unimpeded Step"
  ],
  "feat_markdown": "Unimpeded Step",
- "id": "feat-216",
+ "id": "feat-5889",
+ "legacy_id": [
+  "feat-216"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Unimpeded Step](/Feats.aspx?ID=216) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 109 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[liberator cause](/Causes.aspx?ID=3)\n\n</column>\r\n\r\n---\r\n\r\nWith a burst of divine liberation, your ally’s movement from your [Liberating Step](/Actions.aspx?ID=7) is unaffected by difficult terrain, greater difficult terrain, narrow surfaces, and uneven ground.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Unimpeded Step](/Feats.aspx?ID=5889) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 94 <sup>1.1</sup>\n\n**Prerequisites**\r\n[liberation cause](/Causes.aspx?ID=12)\n\n</column>\r\n\r\n---\r\n\r\nWith a burst of divine liberation, your ally's movement from your [Liberating Step](/Actions.aspx?ID=2808) is unaffected by [difficult terrain](/Rules.aspx?ID=453), greater difficult terrain, [narrow surfaces](/Rules.aspx?ID=2369), and [uneven ground](/Rules.aspx?ID=2370). If you have the exalted reaction benefit, this applies to everyone who Steps.",
  "name": "Unimpeded Step",
  "pfs": "Standard",
- "prerequisite": "liberator cause",
- "prerequisite_markdown": "[liberator cause](/Causes.aspx?ID=3)",
+ "prerequisite": "liberation cause",
+ "prerequisite_markdown": "[liberation cause](/Causes.aspx?ID=12)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 94",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 109 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[liberator cause](/Causes.aspx?ID=3)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWith a burst of divine liberation, your spur your ally’s movement.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 94 <sup>1.1</sup>\n\n**Prerequisites**\r\n[liberation cause](/Causes.aspx?ID=12)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWith a burst of divine liberation, your ally's movement from your [Liberating Step](/Actions.aspx?ID=2808) is unaffected by [difficult terrain](/Rules.aspx?ID=453), greater difficult terrain, [narrow surfaces](/Rules.aspx?ID=2369), and [uneven ground](/Rules.aspx?ID=2370).\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 109"
+  "Player Core 2 pg. 94"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 109 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 94 <sup>1.1</sup>",
  "speed": {},
- "summary": "With a burst of divine liberation, your spur your ally’s movement.",
- "summary_markdown": "With a burst of divine liberation, your spur your ally’s movement.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Unimpeded Step Source Core Rulebook pg. 109 4.0 Prerequisites liberator cause --- With a burst of divine liberation, your ally’s movement from your Liberating Step is unaffected by difficult terrain, greater difficult terrain, narrow surfaces, and uneven ground.",
+ "summary": "With a burst of divine liberation, your ally's movement from your  Liberating Step  is unaffected by  difficult terrain , greater difficult terrain,  narrow surfaces , and  uneven ground .",
+ "summary_markdown": "With a burst of divine liberation, your ally's movement from your [Liberating Step](/Actions.aspx?ID=2808) is unaffected by [difficult terrain](/Rules.aspx?ID=453), greater difficult terrain, [narrow surfaces](/Rules.aspx?ID=2369), and [uneven ground](/Rules.aspx?ID=2370).",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Unimpeded Step Source Player Core 2 pg. 94 1.1 Prerequisites liberation cause --- With a burst of divine liberation, your ally's movement from your Liberating Step is unaffected by difficult terrain, greater difficult terrain, narrow surfaces, and uneven ground. If you have the exalted reaction benefit, this applies to everyone who Steps.",
  "trait": [
   "Champion"
  ],
- "trait_markdown": "[Champion](/Traits.aspx?ID=24)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Champion](/Traits.aspx?ID=811)",
  "trait_raw": [
   "Champion"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=216",
+ "url": "/Feats.aspx?ID=5889",
  "weakness": {}
 }

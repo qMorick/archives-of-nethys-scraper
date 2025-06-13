@@ -2,44 +2,56 @@
  "archetype": [
   "Monk"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Monk's Flurry"
  ],
  "feat_markdown": "Monk's Flurry",
- "id": "feat-720",
+ "id": "feat-6215",
+ "legacy_id": [
+  "feat-720"
+ ],
  "level": 10,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Monk's Flurry](/Feats.aspx?ID=720) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 227 <sup>4.0</sup></row>\n\n**Archetype** [Monk](/Archetypes.aspx?ID=8)\n\n**Prerequisites**\r\n[Monk Dedication](/Feats.aspx?ID=715)\n\n</column>\r\n\r\n---\r\n\r\nYou gain the Flurry of Blows action. \n\n<document level=\"2\" id=\"action-9\" />",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Monk's Flurry](/Feats.aspx?ID=6215) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 179 <sup>1.1</sup>\n\n**Archetype** [Monk](/Archetypes.aspx?ID=232)\n\n**Prerequisites**\r\n[Monk Dedication](/Feats.aspx?ID=6210)\n\n</column>\r\n\r\n---\r\n\r\nYou gain the [Flurry of Blows](/Actions.aspx?ID=2817) action. Your fists’ power, however, exceeds your conditioning; once you use Flurry of Blows, you can’t use it again for 1d4 rounds as your muscles recover.",
  "name": "Monk's Flurry",
  "pfs": "Standard",
  "prerequisite": "Monk Dedication",
- "prerequisite_markdown": "[Monk Dedication](/Feats.aspx?ID=715)",
+ "prerequisite_markdown": "[Monk Dedication](/Feats.aspx?ID=6210)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 179",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 227 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Monk Dedication](/Feats.aspx?ID=715)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain the Flurry of Blows action.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 179 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Monk Dedication](/Feats.aspx?ID=6210)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain the [Flurry of Blows](/Actions.aspx?ID=2817) action.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 227"
+  "Player Core 2 pg. 179"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 227 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 179 <sup>1.1</sup>",
  "speed": {},
- "summary": "You gain the Flurry of Blows action.",
- "summary_markdown": "You gain the Flurry of Blows action.",
- "text": "<title level=\"1\" right=\"Feat 10\" pfs=\"Standard\" > Monk's Flurry Source Core Rulebook pg. 227 4.0 Archetype Monk Prerequisites Monk Dedication --- You gain the Flurry of Blows action. ",
+ "summary": "You gain the  Flurry of Blows  action.",
+ "summary_markdown": "You gain the [Flurry of Blows](/Actions.aspx?ID=2817) action.",
+ "text": "<title level=\"1\" right=\"Feat 10\" pfs=\"Standard\" > Monk's Flurry Source Player Core 2 pg. 179 1.1 Archetype Monk Prerequisites Monk Dedication --- You gain the Flurry of Blows action. Your fists’ power, however, exceeds your conditioning; once you use Flurry of Blows, you can’t use it again for 1d4 rounds as your muscles recover.",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=720",
+ "url": "/Feats.aspx?ID=6215",
  "weakness": {}
 }

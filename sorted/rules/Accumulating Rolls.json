@@ -1,39 +1,50 @@
 {
  "breadcrumbs": [
-  "Chapter 3: Subsystems",
+  "Chapter 4: Subsystems",
   "Victory Points",
-  "Victory Point Subsystem Structure",
+  "Victory Point Subsystem Structures",
   "Accumulating Victory Points"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1193",
- "markdown": "<title level=\"1\" right=\"Rules\">[Accumulating Rolls](/Rules.aspx?ID=1193)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 148</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nIn cases where the PCs need to make checks to gain Victory Points, the amount they get for the degrees of success is up to you. The default scale detailed below works in most cases.\n\n**Critical Success** The PCs gain 2 Victory Points.<br />\n**Success** The PCs gain 1 Victory Point.<br />\n**Critical Failure** The PCs lose 1 Victory Point. This means that the result of a PC’s check usually results in the party gaining either 1 or no Victory Points. However, specialized PCs have a solid chance of earning the party 2 Victory Points, and hare‑brained schemes have a fair chance of losing the PCs 1 Victory Point.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-3032",
+ "legacy_id": [
+  "rules-1193"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Accumulating Rolls](/Rules.aspx?ID=3032)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 184 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nIn cases where the PCs need to make checks to gain Victory Points, the amount they get for the degrees of success is up to you. The default scale detailed below works in most cases.<br />**Critical Success** The PCs gain 2 Victory Points.<br />**Success** The PCs gain 1 Victory Point.<br />**Critical Failure** The PCs lose 1 Victory Point.\n\nThis means that the result of a PC's check usually results in the party gaining either 1 or no Victory Points. However, specialized PCs have a solid chance of earning the party 2 Victory Points, and hare-brained schemes have a fair chance of losing the PCs 1 Victory Point.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Accumulating Rolls",
  "next_link": {
   "label": "Diminishing Victory Points",
-  "url": "/Rules.aspx?ID=1194"
+  "url": "/Rules.aspx?ID=3033"
  },
  "previous_link": {
   "label": "Naming Your Victory Points",
-  "url": "/Rules.aspx?ID=1190"
+  "url": "/Rules.aspx?ID=3029"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 184",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 148</row>\r\n\r\nChapter 3: Subsystems / Victory Points / Victory Point Subsystem Structure / Accumulating Victory Points\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 184 <sup>2.0</sup>\r\n\r\nChapter 4: Subsystems / Victory Points / Victory Point Subsystem Structures / Accumulating Victory Points\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIn cases where the PCs need to make checks to gain Victory Points, the amount they get for the degrees of success is up to you. The default scale …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 148"
+  "GM Core pg. 184"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 148</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 184 <sup>2.0</sup>",
  "speed": {},
- "text": " Accumulating Rolls Source Gamemastery Guide pg. 148 In cases where the PCs need to make checks to gain Victory Points, the amount they get for the degrees of success is up to you. The default scale detailed below works in most cases. Critical Success The PCs gain 2 Victory Points. Success The PCs gain 1 Victory Point. Critical Failure The PCs lose 1 Victory Point. This means that the result of a PC’s check usually results in the party gaining either 1 or no Victory Points. However, specialized PCs have a solid chance of earning the party 2 Victory Points, and hare‑brained schemes have a fair chance of losing the PCs 1 Victory Point. ",
+ "summary": "In cases where the PCs need to make checks to gain Victory Points, the amount they get for the degrees of success is up to you. The default scale …",
+ "summary_markdown": "In cases where the PCs need to make checks to gain Victory Points, the amount they get for the degrees of success is up to you. The default scale …",
+ "text": " Accumulating Rolls Source GM Core pg. 184 2.0 In cases where the PCs need to make checks to gain Victory Points, the amount they get for the degrees of success is up to you. The default scale detailed below works in most cases. Critical Success The PCs gain 2 Victory Points. Success The PCs gain 1 Victory Point. Critical Failure The PCs lose 1 Victory Point. This means that the result of a PC's check usually results in the party gaining either 1 or no Victory Points. However, specialized PCs have a solid chance of earning the party 2 Victory Points, and hare-brained schemes have a fair chance of losing the PCs 1 Victory Point. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1193",
+ "url": "/Rules.aspx?ID=3032",
  "weakness": {}
 }

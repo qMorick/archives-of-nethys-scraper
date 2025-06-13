@@ -2,50 +2,62 @@
  "archetype": [
   "Poisoner"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Poisoner Dedication"
  ],
  "feat_markdown": "Poisoner Dedication",
- "id": "feat-2036",
+ "id": "feat-6382",
+ "legacy_id": [
+  "feat-2036"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Poisoner Dedication](/Feats.aspx?ID=2036) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=41\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 186 <sup>2.0</sup></row>\n\n**Archetype** [Poisoner](/Archetypes.aspx?ID=71)\n\n**Prerequisites**\r\nTrained in [Crafting](/Skills.aspx?ID=4)\n\n</column>\r\n\r\n---\r\n\r\nYou make a point of always having a few toxins near at hand—you never know when some arsenic or the like might prove useful. You gain the [basic alchemy benefits](/Rules.aspx?ID=1435), though they can be used only for [alchemical poisons](/equipment/alchemical-items/alchemical-poisons). You gain batches of infused reagents per day equal to your level. Your advanced alchemy level for creating these is 1 and doesn't increase on its own.\n\n**Special** You can't select another dedication feat until you have gained at least two other feats from the poisoner archetype.\n\n<title level=\"2\">Poisoner Dedication leads to...</title>\r\n[Acquired Tolerance](/Feats.aspx?ID=2040), [Expert Poisoner](/Feats.aspx?ID=2038), [Poison Coat](/Feats.aspx?ID=2039), [Poisoner's Twist](/Feats.aspx?ID=2037)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Poisoner Dedication](/Feats.aspx?ID=6382) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=572\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 210 <sup>1.1</sup>\n\n**Archetype** [Poisoner](/Archetypes.aspx?ID=259)\n\n**Prerequisites**\r\nTrained in [Crafting](/Skills.aspx?ID=37)\n\n</column>\r\n\r\n---\r\n\r\nYou make a point of always having a few toxins near at hand—you never know when some [arsenic](/Equipment.aspx?ID=3322) or the like might prove useful. You gain the [advanced alchemy benefits](/Rules.aspx?ID=1435). You can use advanced alchemy to create four [alchemical poison](/Equipment.aspx?Category=6&amp;Subcategory=9)  [consumables](/Traits.aspx?ID=564) each day. You remember alchemical poison formulas and don't need a formula book for them.\n\n<title level=\"2\">Poisoner Dedication leads to...</title>\r\n[Acquired Tolerance](/Feats.aspx?ID=6386), [Advanced Poisoncraft](/Feats.aspx?ID=6384), [Chemical Contagion](/Feats.aspx?ID=6387), [Poison Coat](/Feats.aspx?ID=6385), [Poisoner's Twist](/Feats.aspx?ID=6383)",
  "name": "Poisoner Dedication",
  "pfs": "Standard",
  "prerequisite": "Trained in Crafting",
- "prerequisite_markdown": "Trained in [Crafting](/Skills.aspx?ID=4)",
+ "prerequisite_markdown": "Trained in [Crafting](/Skills.aspx?ID=37)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 210",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=41\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 186 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nTrained in [Crafting](/Skills.aspx?ID=4)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou make a point of always having a few toxins near at hand—you never know when some arsenic or the like might prove useful.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=572\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 210 <sup>1.1</sup>\n\n**Prerequisites**\r\nTrained in [Crafting](/Skills.aspx?ID=37)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou make a point of always having a few toxins near at hand—you never know when some [arsenic](/Equipment.aspx?ID=3322) or the like might prove useful.\r\n</summary>",
  "skill": [
   "Crafting",
   "Crafting"
  ],
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 186"
+  "Player Core 2 pg. 210"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 186 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 210 <sup>1.1</sup>",
  "speed": {},
- "summary": "You make a point of always having a few toxins near at hand—you never know when some arsenic or the like might prove useful.",
- "summary_markdown": "You make a point of always having a few toxins near at hand—you never know when some arsenic or the like might prove useful.",
- "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Poisoner Dedication Source Advanced Player's Guide pg. 186 2.0 Archetype Poisoner Prerequisites Trained in Crafting --- You make a point of always having a few toxins near at hand—you never know when some arsenic or the like might prove useful. You gain the basic alchemy benefits, though they can be used only for alchemical poisons. You gain batches of infused reagents per day equal to your level. Your advanced alchemy level for creating these is 1 and doesn't increase on its own. Special You can't select another dedication feat until you have gained at least two other feats from the poisoner archetype. Poisoner Dedication leads to... Acquired Tolerance, Expert Poisoner, Poison Coat, Poisoner's Twist",
+ "summary": "You make a point of always having a few toxins near at hand—you never know when some  arsenic  or the like might prove useful.",
+ "summary_markdown": "You make a point of always having a few toxins near at hand—you never know when some [arsenic](/Equipment.aspx?ID=3322) or the like might prove useful.",
+ "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Poisoner Dedication Source Player Core 2 pg. 210 1.1 Archetype Poisoner Prerequisites Trained in Crafting --- You make a point of always having a few toxins near at hand—you never know when some arsenic or the like might prove useful. You gain the advanced alchemy benefits. You can use advanced alchemy to create four alchemical poison consumables each day. You remember alchemical poison formulas and don't need a formula book for them. Poisoner Dedication leads to... Acquired Tolerance, Advanced Poisoncraft, Chemical Contagion, Poison Coat, Poisoner's Twist",
  "trait": [
   "Archetype",
   "Dedication"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Dedication](/Traits.aspx?ID=41)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535), [Dedication](/Traits.aspx?ID=572)",
  "trait_raw": [
   "Archetype",
   "Dedication"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2036",
+ "url": "/Feats.aspx?ID=6382",
  "weakness": {}
 }

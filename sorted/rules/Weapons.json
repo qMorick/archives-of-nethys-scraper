@@ -1,36 +1,47 @@
 {
  "breadcrumbs": [
-  "Chapter 11: Crafting & Treasure"
+  "Chapter 6: Equipment"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-764",
- "markdown": "<title level=\"1\" right=\"Rules\">[Weapons](/Rules.aspx?ID=764)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 599 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nWeapons can be crafted from precious materials or infused with magic to grant them powerful and unusual abilities.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-765\" />\r\n\r\n<document level=\"2\" id=\"rules-766\" />\r\n\r\n<document level=\"2\" id=\"rules-767\" />",
+ "id": "rules-2186",
+ "legacy_id": [
+  "rules-218"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Weapons](/Rules.aspx?ID=2186)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 275 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nMost characters in Pathfinder carry weapons, ranging from mighty warhammers to graceful bows to even simple clubs. Full details on how you calculate the bonuses, modifiers, and penalties for attack rolls and damage rolls are given on pages 400–403 and 406–407, but they’re summarized here, followed by the rules for weapons and dozens of weapon choices.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-2187\" />\r\n\r\n<document level=\"2\" id=\"rules-2189\" />\r\n\r\n<document level=\"2\" id=\"rules-2190\" />\r\n\r\n<document level=\"2\" id=\"rules-2191\" />\r\n\r\n<document level=\"2\" id=\"rules-2192\" />\r\n\r\n<document level=\"2\" id=\"rules-2193\" />\r\n\r\n<document level=\"2\" id=\"rules-2202\" />\r\n\r\n<document level=\"2\" id=\"rules-2203\" />",
  "name": "Weapons",
  "next_link": {
-  "label": "Worn Items",
-  "url": "/Rules.aspx?ID=768"
+  "label": "Gear",
+  "url": "/Rules.aspx?ID=2204"
  },
  "previous_link": {
-  "label": "Wands",
-  "url": "/Rules.aspx?ID=756"
+  "label": "Shields",
+  "url": "/Rules.aspx?ID=2180"
  },
+ "primary_source": "Player Core",
+ "primary_source_raw": "Player Core pg. 275",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 599 <sup>4.0</sup></row>\r\n\r\nChapter 11: Crafting &amp; Treasure\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 275 <sup>2.0</sup>\r\n\r\nChapter 6: Equipment\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMost characters in Pathfinder carry weapons, ranging from mighty warhammers to graceful bows to even simple clubs. Full details on how you calculate …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 599"
+  "Player Core pg. 275"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 599 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 275 <sup>2.0</sup>",
  "speed": {},
- "text": " Weapons Source Core Rulebook pg. 599 4.0 Weapons can be crafted from precious materials or infused with magic to grant them powerful and unusual abilities. ",
+ "summary": "Most characters in Pathfinder carry weapons, ranging from mighty warhammers to graceful bows to even simple clubs. Full details on how you calculate …",
+ "summary_markdown": "Most characters in Pathfinder carry weapons, ranging from mighty warhammers to graceful bows to even simple clubs. Full details on how you calculate …",
+ "text": " Weapons Source Player Core pg. 275 2.0 Most characters in Pathfinder carry weapons, ranging from mighty warhammers to graceful bows to even simple clubs. Full details on how you calculate the bonuses, modifiers, and penalties for attack rolls and damage rolls are given on pages 400–403 and 406–407, but they’re summarized here, followed by the rules for weapons and dozens of weapon choices. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=764",
+ "url": "/Rules.aspx?ID=2186",
  "weakness": {}
 }

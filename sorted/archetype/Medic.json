@@ -6,34 +6,46 @@
   "Profession",
   "Core"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-69",
+ "id": "archetype-257",
+ "image": [
+  "/Images/Archetypes/Archetype_Medic.webp"
+ ],
+ "legacy_id": [
+  "archetype-69"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Medic](/Archetypes.aspx?ID=69)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 184 <sup>2.0</sup></row>\n\nYou've studied countless techniques for providing medical aid, making you a peerless doctor and healer.\n\n<document level=\"2\" id=\"feat-2027\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2028\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2029\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2030\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-3618\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2031\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Medic](/Archetypes.aspx?ID=257)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 208 <sup>1.1</sup>\n\nYou've studied countless techniques for providing medical aid, making you a peerless doctor and healer. While many healers happily practice the art of medicine in the safety and serenity of stationary buildings, few are in more dire need of medicinal aid than adventurers. Such an occupation comes with frequent injuries that need constant attention. Few parties would ever turn down help from a practicing medic. In fact, the need for medicine is so great that many medics started as adventurers and took up medicine as a necessity. While patching up injuries is the most common practice of medics, they are also invaluable for their ability to help fight diseases and ailments inflicted by all kinds of creatures and traps. The adaptability and utility of the medic are undeniable. Whether you studied medicine for most of your life or picked it up on the road, you are who people turn to for aid.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Medic.webp\" />\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"feat-6373\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6374\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6375\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6376\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6377\"\n\n/>",
  "name": "Medic",
  "pfs": "Standard",
- "prerequisite": "Trained in Medicine; Battle Medicine",
- "prerequisite_markdown": "Trained in [Medicine](/Skills.aspx?ID=9); [Battle Medicine](/Feats.aspx?ID=760)",
+ "prerequisite": "Battle Medicine; Trained in Medicine",
+ "prerequisite_markdown": "[Battle Medicine](/Feats.aspx?ID=5125); Trained in [Medicine](/Skills.aspx?ID=42)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 208",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 184 <sup>2.0</sup></row>\r\n\r\n**Prerequisites**\r\nTrained in [Medicine](/Skills.aspx?ID=9); [Battle Medicine](/Feats.aspx?ID=760)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou've studied countless techniques for providing medical aid, making you a peerless doctor and healer.\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 208 <sup>1.1</sup>\r\n\r\n**Prerequisites**\r\n[Battle Medicine](/Feats.aspx?ID=5125); Trained in [Medicine](/Skills.aspx?ID=42)\n\n**Archetype Categories**\r\nProfession, Core\r\n\r\n**Number of Feats** 5\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou've studied countless techniques for providing medical aid, making you a peerless doctor and healer. While many healers happily practice the art …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 184"
+  "Player Core 2 pg. 208"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 184 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 208 <sup>1.1</sup>",
  "speed": {},
- "summary": "You've studied countless techniques for providing medical aid, making you a peerless doctor and healer.",
- "summary_markdown": "You've studied countless techniques for providing medical aid, making you a peerless doctor and healer.",
- "text": " Medic Source Advanced Player's Guide pg. 184 2.0 You've studied countless techniques for providing medical aid, making you a peerless doctor and healer. <document level=\"2\" id=\"feat-2028\" /> <document level=\"2\" id=\"feat-2029\" /> <document level=\"2\" id=\"feat-2030\" /> <document level=\"2\" id=\"feat-3618\" /> <document level=\"2\" id=\"feat-2031\" />",
+ "summary": "You've studied countless techniques for providing medical aid, making you a peerless doctor and healer. While many healers happily practice the art …",
+ "summary_markdown": "You've studied countless techniques for providing medical aid, making you a peerless doctor and healer. While many healers happily practice the art …",
+ "text": " Medic Source Player Core 2 pg. 208 1.1 You've studied countless techniques for providing medical aid, making you a peerless doctor and healer. While many healers happily practice the art of medicine in the safety and serenity of stationary buildings, few are in more dire need of medicinal aid than adventurers. Such an occupation comes with frequent injuries that need constant attention. Few parties would ever turn down help from a practicing medic. In fact, the need for medicine is so great that many medics started as adventurers and took up medicine as a necessity. While patching up injuries is the most common practice of medics, they are also invaluable for their ability to help fight diseases and ailments inflicted by all kinds of creatures and traps. The adaptability and utility of the medic are undeniable. Whether you studied medicine for most of your life or picked it up on the road, you are who people turn to for aid. <document level=\"2\" id=\"feat-6374\" /> <document level=\"2\" id=\"feat-6375\" /> <document level=\"2\" id=\"feat-6376\" /> <document level=\"2\" id=\"feat-6377\" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=69",
+ "url": "/Archetypes.aspx?ID=257",
  "weakness": {}
 }

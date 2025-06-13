@@ -6,32 +6,44 @@
   "Mystical",
   "Core"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-79",
+ "id": "archetype-266",
+ "image": [
+  "/Images/Archetypes/Archetype_Talisman_Dabbler.webp"
+ ],
+ "legacy_id": [
+  "archetype-79"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Talisman Dabbler](/Archetypes.aspx?ID=79)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 195 <sup>2.0</sup></row>\n\nThe classic idea of magic is that of a hoary wizard, poring over a crumbling book of spells. But magic is so much more than that—it is thought, will, and action, and with the right [talismans](/equipment/consumables/talismans), you can make even the cut of a sword a deeply magical act. This all hinges on the small magical talismans you affix to your gear. You know how to make and use the perfect talismans for any job.\n\n<document level=\"2\" id=\"feat-2079\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2080\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2081\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2082\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Talisman Dabbler](/Archetypes.aspx?ID=266)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 217 <sup>1.1</sup>\n\nThe classic idea of magic is that of a hoary wizard, poring over a crumbling book of spells as years pass. But magic is so much more than that—it's thought, will, and action, and with the right talismans, you can make even the cut of a sword a deeply magical act. This all hinges on the small magical talismans you affix to your gear. You know how to make and use the perfect talisman for any job. The utility of talismans seems endless. They can help swords to swing harder, shields to block better, grant a burst of speed in a desperate situation, and even save one from a lethal fall. This all excites you, but no more than exploring just how far you can push your talent. What are the true limits of these baubles? You've heard rumors and tales of great dabblers like yourself mastering the art of creating and affixing fantastical magical memorabilia. Some say that these great sages have found a way to affix multiple talismans to a single object, circumventing the most fundamental limitation of the art. Whether you were formally trained or picked up the skill as a hobby, your talent is undeniable, and the usefulness of talismans is apparent. Take advantage of every ounce of magic you can manipulate and master these mystical trinkets.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Talisman_Dabbler.webp\" />\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"feat-6420\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6421\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6422\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6423\"\n\n/>",
  "name": "Talisman Dabbler",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 217",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 195 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe classic idea of magic is that of a hoary wizard, poring over a crumbling book of spells. But magic is so much more than that—it is thought, will, …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 217 <sup>1.1</sup>\n\n**Archetype Categories**\r\nMystical, Core\r\n\r\n**Number of Feats** 4\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe classic idea of magic is that of a hoary wizard, poring over a crumbling book of spells as years pass. But magic is so much more than that—it's …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 195"
+  "Player Core 2 pg. 217"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 195 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 217 <sup>1.1</sup>",
  "speed": {},
- "summary": "The classic idea of magic is that of a hoary wizard, poring over a crumbling book of spells. But magic is so much more than that—it is thought, will, …",
- "summary_markdown": "The classic idea of magic is that of a hoary wizard, poring over a crumbling book of spells. But magic is so much more than that—it is thought, will, …",
- "text": " Talisman Dabbler Source Advanced Player's Guide pg. 195 2.0 The classic idea of magic is that of a hoary wizard, poring over a crumbling book of spells. But magic is so much more than that—it is thought, will, and action, and with the right talismans, you can make even the cut of a sword a deeply magical act. This all hinges on the small magical talismans you affix to your gear. You know how to make and use the perfect talismans for any job. <document level=\"2\" id=\"feat-2080\" /> <document level=\"2\" id=\"feat-2081\" /> <document level=\"2\" id=\"feat-2082\" />",
+ "summary": "The classic idea of magic is that of a hoary wizard, poring over a crumbling book of spells as years pass. But magic is so much more than that—it's …",
+ "summary_markdown": "The classic idea of magic is that of a hoary wizard, poring over a crumbling book of spells as years pass. But magic is so much more than that—it's …",
+ "text": " Talisman Dabbler Source Player Core 2 pg. 217 1.1 The classic idea of magic is that of a hoary wizard, poring over a crumbling book of spells as years pass. But magic is so much more than that—it's thought, will, and action, and with the right talismans, you can make even the cut of a sword a deeply magical act. This all hinges on the small magical talismans you affix to your gear. You know how to make and use the perfect talisman for any job. The utility of talismans seems endless. They can help swords to swing harder, shields to block better, grant a burst of speed in a desperate situation, and even save one from a lethal fall. This all excites you, but no more than exploring just how far you can push your talent. What are the true limits of these baubles? You've heard rumors and tales of great dabblers like yourself mastering the art of creating and affixing fantastical magical memorabilia. Some say that these great sages have found a way to affix multiple talismans to a single object, circumventing the most fundamental limitation of the art. Whether you were formally trained or picked up the skill as a hobby, your talent is undeniable, and the usefulness of talismans is apparent. Take advantage of every ounce of magic you can manipulate and master these mystical trinkets. <document level=\"2\" id=\"feat-6421\" /> <document level=\"2\" id=\"feat-6422\" /> <document level=\"2\" id=\"feat-6423\" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=79",
+ "url": "/Archetypes.aspx?ID=266",
  "weakness": {}
 }

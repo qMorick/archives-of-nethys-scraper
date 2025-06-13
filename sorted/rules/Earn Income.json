@@ -1,38 +1,49 @@
 {
  "breadcrumbs": [
-  "Chapter 10: Game Mastering",
+  "Chapter 1: Running the Game",
   "Difficulty Classes",
   "Specific Actions"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-560",
- "markdown": "<title level=\"1\" right=\"Rules\">[Earn Income](/Rules.aspx?ID=560)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 504 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nYou set the task level when someone tries to Earn Income. The highest-level task available is usually the same as the level of the settlement where the character is located. If you don’t know the settlement’s level, it’s usually 0–1 for a village, 2–4 for a town, or 5–7 for a city. A PC might need to travel to a metropolis or capital to find tasks of levels 8-10, and to the largest cities in the world or another plane to routinely find tasks beyond that. Some locations might have higher-level tasks available based on the nature of the settlement. A major port might have higher-level tasks for Sailing Lore, a city with a vibrant arts scene might have higher-level tasks for Performance, and so on. If someone is trying to use a particularly obscure skill, they might have trouble finding tasks of an ideal level, or any at all—no one in most settlements is clamoring for the expertise of someone with Troll Lore.\n\n Once the PC has decided on a particular level of task from those available, use the DC for that level from Table 10–5. You might adjust the DC to be more difficult if there’s inclement weather during an outdoor job, a rowdy audience for a performance, or the like.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2635",
+ "legacy_id": [
+  "rules-560"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Earn Income](/Rules.aspx?ID=2635)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 53 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nYou set the task level when someone tries to Earn Income. The highest-level task available is usually the same as the level of the settlement where the character is located. If you don't know the settlement's level, it's usually 0–1 for a village, 2–4 for a town, or 5–7 for a city. A PC might need to travel to a metropolis or capital to find tasks of levels 8-10, and to the largest cities in the world or another plane to routinely find tasks beyond that. Some locations might have higher-level tasks available based on the nature of the settlement. A major port might have higher-level tasks for Sailing Lore, a city with a vibrant arts scene might have higher-level tasks for Performance, and so on. The Earn Income Tasks table on page 47 includes some ideas for suitable tasks. If someone is trying to use a particularly obscure skill, they might have trouble finding tasks of an ideal level, or any at all—no one in most settlements is clamoring for the expertise of someone with Troll Lore.\n\nOnce the PC has decided on a particular level of task from those available, use the DC for that level. You might adjust the DC to be more difficult if there's inclement weather during an outdoor job, a rowdy audience for a performance, or the like.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Determining the Scope of Lore</title>\r\n\r\nLore skills are one of the most specialized aspects of Pathfinder, but they require GM oversight, particularly in determining which Lore subcategories are acceptable for player characters to select. A Lore subcategory represents a narrow focus, and thus it shouldn’t replace all or even most of an entire skill, nor should it convey vast swaths of information. For example, a single Lore subcategory doesn’t cover all religions—that’s covered by the Religion skill—but a character could have a Lore subcategory that covers a single deity. One Lore subcategory won’t cover an entire country or all of history, but it could cover a city, an ancient civilization, or one aspect of a modern country, like Taldan History Lore. A single Lore subcategory couldn’t cover the entire multiverse, but it could cover a whole plane (other than the Universe).\r\n</aside>",
  "name": "Earn Income",
  "next_link": {
   "label": "Gather Information",
-  "url": "/Rules.aspx?ID=561"
+  "url": "/Rules.aspx?ID=2636"
  },
  "previous_link": {
   "label": "Craft",
-  "url": "/Rules.aspx?ID=559"
+  "url": "/Rules.aspx?ID=2634"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 53",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 504 <sup>4.0</sup></row>\r\n\r\nChapter 10: Game Mastering / Difficulty Classes / Specific Actions\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 53 <sup>2.0</sup>\r\n\r\nChapter 1: Running the Game / Difficulty Classes / Specific Actions\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou set the task level when someone tries to Earn Income. The highest-level task available is usually the same as the level of the settlement where …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 504"
+  "GM Core pg. 53"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 504 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 53 <sup>2.0</sup>",
  "speed": {},
- "text": " Earn Income Source Core Rulebook pg. 504 4.0 You set the task level when someone tries to Earn Income. The highest-level task available is usually the same as the level of the settlement where the character is located. If you don’t know the settlement’s level, it’s usually 0–1 for a village, 2–4 for a town, or 5–7 for a city. A PC might need to travel to a metropolis or capital to find tasks of levels 8-10, and to the largest cities in the world or another plane to routinely find tasks beyond that. Some locations might have higher-level tasks available based on the nature of the settlement. A major port might have higher-level tasks for Sailing Lore, a city with a vibrant arts scene might have higher-level tasks for Performance, and so on. If someone is trying to use a particularly obscure skill, they might have trouble finding tasks of an ideal level, or any at all—no one in most settlements is clamoring for the expertise of someone with Troll Lore. Once the PC has decided on a particular level of task from those available, use the DC for that level from Table 10–5. You might adjust the DC to be more difficult if there’s inclement weather during an outdoor job, a rowdy audience for a performance, or the like. ",
+ "summary": "You set the task level when someone tries to Earn Income. The highest-level task available is usually the same as the level of the settlement where …",
+ "summary_markdown": "You set the task level when someone tries to Earn Income. The highest-level task available is usually the same as the level of the settlement where …",
+ "text": " Earn Income Source GM Core pg. 53 2.0 You set the task level when someone tries to Earn Income. The highest-level task available is usually the same as the level of the settlement where the character is located. If you don't know the settlement's level, it's usually 0–1 for a village, 2–4 for a town, or 5–7 for a city. A PC might need to travel to a metropolis or capital to find tasks of levels 8-10, and to the largest cities in the world or another plane to routinely find tasks beyond that. Some locations might have higher-level tasks available based on the nature of the settlement. A major port might have higher-level tasks for Sailing Lore, a city with a vibrant arts scene might have higher-level tasks for Performance, and so on. The Earn Income Tasks table on page 47 includes some ideas for suitable tasks. If someone is trying to use a particularly obscure skill, they might have trouble finding tasks of an ideal level, or any at all—no one in most settlements is clamoring for the expertise of someone with Troll Lore. Once the PC has decided on a particular level of task from those available, use the DC for that level. You might adjust the DC to be more difficult if there's inclement weather during an outdoor job, a rowdy audience for a performance, or the like. Determining the Scope of Lore Lore skills are one of the most specialized aspects of Pathfinder, but they require GM oversight, particularly in determining which Lore subcategories are acceptable for player characters to select. A Lore subcategory represents a narrow focus, and thus it shouldn’t replace all or even most of an entire skill, nor should it convey vast swaths of information. For example, a single Lore subcategory doesn’t cover all religions—that’s covered by the Religion skill—but a character could have a Lore subcategory that covers a single deity. One Lore subcategory won’t cover an entire country or all of history, but it could cover a city, an ancient civilization, or one aspect of a modern country, like Taldan History Lore. A single Lore subcategory couldn’t cover the entire multiverse, but it could cover a whole plane (other than the Universe). ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=560",
+ "url": "/Rules.aspx?ID=2635",
  "weakness": {}
 }

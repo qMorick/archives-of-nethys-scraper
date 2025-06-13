@@ -1,29 +1,38 @@
 {
- "breadcrumbs_spa": [],
  "category": "creature-family",
  "creature_family": "Shark",
  "creature_family_markdown": "Shark",
  "exclude_from_search": false,
- "id": "creature-family-90",
- "markdown": "<title level=\"1\" right=\"Creature Family\">[Shark](/MonsterFamilies.aspx?ID=90)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 291</row>\n\nSharks of all shapes and sizes have stalked the oceans, largely unchanged, since primordial times. They are efficient, ruthless predators with multiple rows of razor-sharp teeth capable of rending prey in an instant. Their uncanny ability to smell blood in the water means sharks might show up at any scene of aquatic carnage.\r\n\r\n<title level=\"2\">Members</title>\r\n[Great White Shark](/Monsters.aspx?ID=365) (Creature 4), [Megalodon](/Monsters.aspx?ID=366) (Creature 9)\n\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Becoming Meateaters</title>\r\n\r\nContrary to popular belief, sharks are not particularly fond of humanoids as meals. Only under the right conditions—such as when food is scarce or the shark mistakes its victim for a seal—will a shark attack a swimmer or small boat. Such occasions are traumatic enough for survivors to perpetuate the myth of shark as maneater.\r\n</aside>",
+ "id": "creature-family-470",
+ "legacy_id": [
+  "creature-family-90"
+ ],
+ "markdown": "<title level=\"1\" right=\"Creature Family\">[Shark](/MonsterFamilies.aspx?ID=470)</title>\r\n\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 307 <sup>1.1</sup>\n\nSharks of all shapes and sizes have stalked the oceans, largely unchanged, since primordial times. They are efficient, ruthless predators with multiple rows of razor-sharp teeth capable of rending prey in an instant. Their uncanny ability to smell blood in the water means sharks might show up at any scene of aquatic carnage.\r\n\r\n<title level=\"2\">Members</title>\r\n[Goblin Shark](/Monsters.aspx?ID=3307) (Creature 5), [Great White Shark](/Monsters.aspx?ID=3188) (Creature 4), [Heliocoprion](/Monsters.aspx?ID=3308) (Creature 10), [Megalodon](/Monsters.aspx?ID=3189) (Creature 9)\n\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">When Sharks Attack</title>\r\n\r\nContrary to popular belief, sharks are not particularly fond of humanoids as meals. Only under the right conditions— such as when food is scarce or the shark mistakes its victim for a seal—will a shark attack a swimmer or small boat. Such occasions are traumatic enough for survivors to perpetuate the myth of sharks hunting people.\r\n</aside>",
  "name": "Shark",
+ "primary_source": "Monster Core",
+ "primary_source_raw": "Monster Core pg. 307",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-03-27",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 291</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSharks of all shapes and sizes have stalked the oceans, largely unchanged, since primordial times. They are efficient, ruthless predators with …\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 307 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSharks of all shapes and sizes have stalked the oceans, largely unchanged, since primordial times. They are efficient, ruthless predators with …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Bestiary"
+  "Monster Core"
  ],
  "source_raw": [
-  "Bestiary pg. 291"
+  "Monster Core pg. 307"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 291</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Monster Core](/Sources.aspx?ID=221) pg. 307 <sup>1.1</sup>",
  "speed": {},
  "summary": "Sharks of all shapes and sizes have stalked the oceans, largely unchanged, since primordial times. They are efficient, ruthless predators with …",
  "summary_markdown": "Sharks of all shapes and sizes have stalked the oceans, largely unchanged, since primordial times. They are efficient, ruthless predators with …",
- "text": " Shark Source Bestiary pg. 291 Sharks of all shapes and sizes have stalked the oceans, largely unchanged, since primordial times. They are efficient, ruthless predators with multiple rows of razor-sharp teeth capable of rending prey in an instant. Their uncanny ability to smell blood in the water means sharks might show up at any scene of aquatic carnage. Members Great White Shark (Creature 4), Megalodon (Creature 9) Becoming Meateaters Contrary to popular belief, sharks are not particularly fond of humanoids as meals. Only under the right conditions—such as when food is scarce or the shark mistakes its victim for a seal—will a shark attack a swimmer or small boat. Such occasions are traumatic enough for survivors to perpetuate the myth of shark as maneater. ",
+ "text": " Shark Source Monster Core pg. 307 1.1 Sharks of all shapes and sizes have stalked the oceans, largely unchanged, since primordial times. They are efficient, ruthless predators with multiple rows of razor-sharp teeth capable of rending prey in an instant. Their uncanny ability to smell blood in the water means sharks might show up at any scene of aquatic carnage. Members Goblin Shark (Creature 5), Great White Shark (Creature 4), Heliocoprion (Creature 10), Megalodon (Creature 9) When Sharks Attack Contrary to popular belief, sharks are not particularly fond of humanoids as meals. Only under the right conditions— such as when food is scarce or the shark mistakes its victim for a seal—will a shark attack a swimmer or small boat. Such occasions are traumatic enough for survivors to perpetuate the myth of sharks hunting people. ",
  "type": "Creature Family",
- "url": "/MonsterFamilies.aspx?ID=90",
+ "url": "/MonsterFamilies.aspx?ID=470",
  "weakness": {}
 }

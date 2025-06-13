@@ -1,50 +1,60 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
+ "bulk": 0,
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-299",
+ "id": "equipment-2842",
  "item_category": "Runes",
  "item_subcategory": "Weapon Property Runes",
+ "legacy_id": [
+  "equipment-299"
+ ],
  "level": 11,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 11\"\r\n    pfs=\"Standard\"\r\n>\r\n[Holy](/Equipment.aspx?ID=299)\r\n</title>\n\n<traits>\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Good\" url=\"/Traits.aspx?ID=83\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 584 <sup>4.0</sup></row>\n\n**Price** 1,400 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** etched onto a weapon without an   unholy  rune \n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\n_Holy_ weapons command powerful celestial energy. A weapon with this rune deals an extra 1d6 good damage against evil targets. If you are evil, you are enfeebled 2 while carrying or wielding this weapon.\n\n<document level=\"2\" id=\"action-184\" />\n\n**Craft Requirements** You are good.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 11\"\r\n    pfs=\"Standard\"\r\n>\r\n[Holy](/Equipment.aspx?ID=2842)\r\n</title>\n\n<traits>\r\n<trait label=\"Holy\" url=\"/Traits.aspx?ID=517\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 238 <sup>2.0</sup>\n\n**Price** 1,400 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** etched onto a weapon that isn't unholy\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nA _holy_ weapon commands powerful celestial energy. Strikes made with it gain the holy trait and deal an extra 1d4 spirit damage, or an extra 2d4 against an unholy target. If you are unholy, you are enfeebled 2 while carrying or wielding this weapon. \n\n**Activate—Holy Healing** <actions string=\"Reaction\" /> [concentrate](/Traits.aspx?ID=32), [healing](/Traits.aspx?ID=89), [vitality](/Traits.aspx?ID=509) **Frequency** once per day; **Trigger** You critically succeed at a Strike against an unholy creature with the weapon;  **Effect** You regain HP equal to double the unholy creature's level\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Holy",
  "pfs": "Standard",
  "price": 140000,
  "price_raw": "1,400 gp",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 238",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "school": "evocation",
- "search_markdown": "<traits>\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Good\" url=\"/Traits.aspx?ID=83\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 584 <sup>4.0</sup></row>\r\n\r\n**Price** 1,400 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** etched onto a weapon without an   unholy  rune \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Holy  weapons command powerful celestial energy. A weapon with this rune deals an extra 1d6 good damage against evil targets. If you are evil, you …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Holy\" url=\"/Traits.aspx?ID=517\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 238 <sup>2.0</sup>\r\n\r\n**Price** 1,400 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** etched onto a weapon that isn't unholy\r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA  holy  weapon commands powerful celestial energy. Strikes made with it gain the holy trait and deal an extra 1d4 spirit damage, or an extra 2d4 …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 584"
+  "GM Core pg. 238"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 584 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 238 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": " Holy  weapons command powerful celestial energy. A weapon with this rune deals an extra 1d6 good damage against evil targets. If you are evil, you …",
- "summary_markdown": " Holy  weapons command powerful celestial energy. A weapon with this rune deals an extra 1d6 good damage against evil targets. If you are evil, you …",
- "text": "<title level=\"1\" right=\"Item 11\" pfs=\"Standard\" > Holy Source Core Rulebook pg. 584 4.0 Price 1,400 gp Usage etched onto a weapon without an unholy rune --- Holy weapons command powerful celestial energy. A weapon with this rune deals an extra 1d6 good damage against evil targets. If you are evil, you are enfeebled 2 while carrying or wielding this weapon. Craft Requirements You are good.\n",
+ "summary": "A  holy  weapon commands powerful celestial energy. Strikes made with it gain the holy trait and deal an extra 1d4 spirit damage, or an extra 2d4 …",
+ "summary_markdown": "A  holy  weapon commands powerful celestial energy. Strikes made with it gain the holy trait and deal an extra 1d4 spirit damage, or an extra 2d4 …",
+ "text": "<title level=\"1\" right=\"Item 11\" pfs=\"Standard\" > Holy Source GM Core pg. 238 2.0 Price 1,400 gp Usage etched onto a weapon that isn't unholy --- A holy weapon commands powerful celestial energy. Strikes made with it gain the holy trait and deal an extra 1d4 spirit damage, or an extra 2d4 against an unholy target. If you are unholy, you are enfeebled 2 while carrying or wielding this weapon. Activate—Holy Healing Reaction concentrate, healing, vitality Frequency once per day; Trigger You critically succeed at a Strike against an unholy creature with the weapon; Effect You regain HP equal to double the unholy creature's level\n",
  "trait": [
-  "Evocation",
-  "Good",
+  "Holy",
   "Magical"
  ],
- "trait_markdown": "[Evocation](/Traits.aspx?ID=65), [Good](/Traits.aspx?ID=83), [Magical](/Traits.aspx?ID=103)",
+ "trait_group": [
+  "Mechanics"
+ ],
+ "trait_markdown": "[Holy](/Traits.aspx?ID=517), [Magical](/Traits.aspx?ID=644)",
  "trait_raw": [
-  "Evocation",
-  "Good",
+  "Holy",
   "Magical"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=299",
- "usage": "etched onto a weapon without an   unholy  rune ",
- "usage_markdown": "etched onto a weapon without an [_unholy_ rune](/Equipment.aspx?ID=307)",
+ "url": "/Equipment.aspx?ID=2842",
+ "usage": "etched onto a weapon that isn't unholy",
+ "usage_markdown": "etched onto a weapon that isn't unholy",
  "weakness": {}
 }

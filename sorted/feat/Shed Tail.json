@@ -1,47 +1,61 @@
 {
  "actions": "Reaction",
- "breadcrumbs_spa": [],
+ "actions_number": 1,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Shed Tail"
  ],
  "feat_markdown": "Shed Tail",
- "id": "feat-1060",
+ "id": "feat-5641",
+ "legacy_id": [
+  "feat-1060"
+ ],
  "level": 5,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Shed Tail](/Feats.aspx?ID=1060) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 59 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Tail Whip](/Feats.aspx?ID=1056)\n\n**Trigger**\r\nYou become [grabbed](/Conditions.aspx?ID=20).\r\n\r\n**Requirements**\r\nYou have a fully grown tail.\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou can shed your tail to escape. You cease being grabbed, then Stride without triggering any reactions from the creature that grabbed you. It takes 1 week for your tail to fully grow back. Until it does, you can’t use your tail unarmed attack, and you take a –2 circumstance penalty on checks to Balance.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Shed Tail](/Feats.aspx?ID=5641) <actions string=\"Reaction\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=760\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 26 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Iruxi Armaments](/Feats.aspx?ID=5633)\n\n**Trigger**\r\nYou become [grabbed](/Conditions.aspx?ID=77).\r\n\r\n**Requirements**\r\nYou have a fully grown tail.\n\n</column>\r\n\r\n---\r\n\r\nYou can shed a portion of your tail to escape. You cease being grabbed, then Stride without triggering any reactions from the creature that grabbed you. It takes 1 day for your tail to fully grow back. Until it does, you can't use your tail unarmed attack, and you take a –2 circumstance penalty on checks to [Balance](/Actions.aspx?ID=2369).",
  "name": "Shed Tail",
  "pfs": "Standard",
- "prerequisite": "Tail Whip",
- "prerequisite_markdown": "[Tail Whip](/Feats.aspx?ID=1056)",
+ "prerequisite": "Iruxi Armaments",
+ "prerequisite_markdown": "[Iruxi Armaments](/Feats.aspx?ID=5633)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 26",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-10-16",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "requirement": "You have a fully grown tail.",
  "requirement_markdown": "You have a fully grown tail.",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 59 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Tail Whip](/Feats.aspx?ID=1056)\n\n**Trigger**\r\nYou become [grabbed](/Conditions.aspx?ID=20).\r\n\r\n**Requirements**\r\nYou have a fully grown tail.\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can shed your tail to escape.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=760\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 26 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Iruxi Armaments](/Feats.aspx?ID=5633)\n\n**Trigger**\r\nYou become [grabbed](/Conditions.aspx?ID=77).\r\n\r\n**Requirements**\r\nYou have a fully grown tail.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can shed a portion of your tail to escape.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Character Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Character Guide pg. 59"
+  "Player Core 2 pg. 26"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Character Guide](/Sources.aspx?ID=12) pg. 59 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 26 <sup>1.1</sup>",
  "speed": {},
- "summary": "You can shed your tail to escape.",
- "summary_markdown": "You can shed your tail to escape.",
- "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Shed Tail Reaction Source Character Guide pg. 59 2.0 Prerequisites Tail Whip Trigger You become grabbed. Requirements You have a fully grown tail. --- You can shed your tail to escape. You cease being grabbed, then Stride without triggering any reactions from the creature that grabbed you. It takes 1 week for your tail to fully grow back. Until it does, you can’t use your tail unarmed attack, and you take a –2 circumstance penalty on checks to Balance.",
+ "summary": "You can shed a portion of your tail to escape.",
+ "summary_markdown": "You can shed a portion of your tail to escape.",
+ "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Shed Tail Reaction Source Player Core 2 pg. 26 1.1 Prerequisites Iruxi Armaments Trigger You become grabbed. Requirements You have a fully grown tail. --- You can shed a portion of your tail to escape. You cease being grabbed, then Stride without triggering any reactions from the creature that grabbed you. It takes 1 day for your tail to fully grow back. Until it does, you can't use your tail unarmed attack, and you take a –2 circumstance penalty on checks to Balance.",
  "trait": [
   "Lizardfolk"
  ],
- "trait_markdown": "[Lizardfolk](/Traits.aspx?ID=226)",
+ "trait_group": [
+  "Monster",
+  "Ancestry"
+ ],
+ "trait_markdown": "[Lizardfolk](/Traits.aspx?ID=760)",
  "trait_raw": [
   "Lizardfolk"
  ],
  "trigger": "You become  grabbed .",
- "trigger_markdown": "You become [grabbed](/Conditions.aspx?ID=20).",
+ "trigger_markdown": "You become [grabbed](/Conditions.aspx?ID=77).",
  "type": "Feat",
- "url": "/Feats.aspx?ID=1060",
+ "url": "/Feats.aspx?ID=5641",
  "weakness": {}
 }

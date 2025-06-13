@@ -2,44 +2,56 @@
  "archetype": [
   "Oracle"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Mysterious Breadth"
  ],
  "feat_markdown": "Mysterious Breadth",
- "id": "feat-1856",
+ "id": "feat-6222",
+ "legacy_id": [
+  "feat-1856"
+ ],
  "level": 8,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Mysterious Breadth](/Feats.aspx?ID=1856) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 152 <sup>2.0</sup></row>\n\n**Archetype** [Oracle](/Archetypes.aspx?ID=42)\n\n**Prerequisites**\r\n[Basic Oracle Spellcasting](/Feats.aspx?ID=1853)\n\n</column>\r\n\r\n---\r\n\r\nYour repertoire expands, and you can cast more divine spells each day. Increase the number of spells in your repertoire and the number of spell slots you gain from oracle archetype feats by 1 for each spell level other than your two highest oracle spell slots.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Mysterious Breadth](/Feats.aspx?ID=6222) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 180 <sup>1.1</sup>\n\n**Archetype** [Oracle](/Archetypes.aspx?ID=233)\n\n**Prerequisites**\r\n[Basic Oracle Spellcasting](/Feats.aspx?ID=6219)\n\n</column>\r\n\r\n---\r\n\r\nIncrease the spell slots you gain from oracle archetype feats by 1 for each spell rank other than your two highest spell ranks.",
  "name": "Mysterious Breadth",
  "pfs": "Standard",
  "prerequisite": "Basic Oracle Spellcasting",
- "prerequisite_markdown": "[Basic Oracle Spellcasting](/Feats.aspx?ID=1853)",
+ "prerequisite_markdown": "[Basic Oracle Spellcasting](/Feats.aspx?ID=6219)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 180",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 152 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Basic Oracle Spellcasting](/Feats.aspx?ID=1853)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIncrease the spell slots you gain from oracle archetype feats by 1 for each spell level other than your two highest spell levels.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 180 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Basic Oracle Spellcasting](/Feats.aspx?ID=6219)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIncrease the spell slots you gain from oracle archetype feats\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 152"
+  "Player Core 2 pg. 180"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 152 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 180 <sup>1.1</sup>",
  "speed": {},
- "summary": "Increase the spell slots you gain from oracle archetype feats by 1 for each spell level other than your two highest spell levels.",
- "summary_markdown": "Increase the spell slots you gain from oracle archetype feats by 1 for each spell level other than your two highest spell levels.",
- "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Mysterious Breadth Source Advanced Player's Guide pg. 152 2.0 Archetype Oracle Prerequisites Basic Oracle Spellcasting --- Your repertoire expands, and you can cast more divine spells each day. Increase the number of spells in your repertoire and the number of spell slots you gain from oracle archetype feats by 1 for each spell level other than your two highest oracle spell slots.",
+ "summary": "Increase the spell slots you gain from oracle archetype feats",
+ "summary_markdown": "Increase the spell slots you gain from oracle archetype feats",
+ "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Mysterious Breadth Source Player Core 2 pg. 180 1.1 Archetype Oracle Prerequisites Basic Oracle Spellcasting --- Increase the spell slots you gain from oracle archetype feats by 1 for each spell rank other than your two highest spell ranks.",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1856",
+ "url": "/Feats.aspx?ID=6222",
  "weakness": {}
 }

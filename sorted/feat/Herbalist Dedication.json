@@ -2,50 +2,62 @@
  "archetype": [
   "Herbalist"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Herbalist Dedication"
  ],
  "feat_markdown": "Herbalist Dedication",
- "id": "feat-1982",
+ "id": "feat-6339",
+ "legacy_id": [
+  "feat-1982"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Herbalist Dedication](/Feats.aspx?ID=1982) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=41\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 176 <sup>2.0</sup></row>\n\n**Archetype** [Herbalist](/Archetypes.aspx?ID=62)\n\n**Prerequisites**\r\nTrained in [Nature](/Skills.aspx?ID=10); [Natural Medicine](/Feats.aspx?ID=815)\n\n</column>\r\n\r\n---\r\n\r\nYou can create remedies and other herbal products. You gain the [basic alchemy benefits](/Rules.aspx?ID=1435), though they apply only for herbal items: alchemical items with the [healing](/Traits.aspx?ID=89) trait, plus [antidote](/Equipment.aspx?ID=80) and [antiplague](/Equipment.aspx?ID=81). You gain batches of infused reagents per day equal to your level or half your level if you didn't make your daily preparations in the wilderness. Your advanced alchemy level for creating these is 1 and doesn't increase on its own. You become an expert in [Nature](/Skills.aspx?ID=10) and can use Nature instead of [Crafting](/Skills.aspx?ID=4) to [Craft](/Actions.aspx?ID=43) herbal items. You don't need to be trained in Crafting or have the [Alchemical Crafting](/Feats.aspx?ID=752) feat to do so, and you can use [healer's tools](/Equipment.aspx?ID=25) instead of [alchemist's tools](/Equipment.aspx?ID=2).\n\n**Special** You can't select another dedication feat until you have gained two other feats from the herbalist archetype.\n\n<title level=\"2\">Herbalist Dedication leads to...</title>\r\n[Endemic Herbs](/Feats.aspx?ID=1985), [Expert Herbalism](/Feats.aspx?ID=1986), [Fresh Ingredients](/Feats.aspx?ID=1983), [Gravelands Herbalist](/Feats.aspx?ID=3614), [Poultice Preparation](/Feats.aspx?ID=1984)\r\n\r\n<title level=\"3\">Alchemical Plant Items</title> **Source** [_Lost Omens Travel Guide pg. 12_](https://paizo.com/products/btq02dv8)<br />[Alchemical plant items](/equipment/alchemical-items/alchemical-plants) are “herbal items,” meaning characters with the herbalist archetype can use their archetype abilities with them. ",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Herbalist Dedication](/Feats.aspx?ID=6339) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=572\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 202 <sup>1.1</sup>\n\n**Archetype** [Herbalist](/Archetypes.aspx?ID=252)\n\n**Prerequisites**\r\n[Natural Medicine](/Feats.aspx?ID=5182); Trained in [Nature](/Skills.aspx?ID=43)\n\n</column>\r\n\r\n---\r\n\r\nYou can create natural remedies. You gain the [advanced alchemy benefits](/Rules.aspx?ID=3282). You can use advanced alchemy to create 4 [alchemical](/Traits.aspx?ID=528) [consumables](/Traits.aspx?ID=564) with the [healing](/Traits.aspx?ID=623) trait, though the number is reduced by 2 if you didn’t make your [daily preparations](/Rules.aspx?ID=2575) in the wilderness. These consumables are called your herbal items. You remember herbal item [formulas](/Rules.aspx?ID=2214) and don’t need a [formula book](/Equipment.aspx?ID=2724) for them.\n\nYou become an expert in [Nature](/Skills.aspx?ID=43) and can use Nature instead of [Crafting](/Skills.aspx?ID=37) to [Craft](/Actions.aspx?ID=2385) alchemical consumables with the healing trait. You don’t need to be trained in Crafting to do so, and you can use [healer’s tools](/Equipment.aspx?ID=2727) instead of [alchemist’s tools](/Equipment.aspx?ID=2702).\n\n<title level=\"2\">Herbalist Dedication leads to...</title>\r\n[Advanced Herbalism](/Feats.aspx?ID=6342), [Endemic Herbs](/Feats.aspx?ID=6343), [Fresh Ingredients](/Feats.aspx?ID=6340), [Poultice Preparation](/Feats.aspx?ID=6341)",
  "name": "Herbalist Dedication",
  "pfs": "Standard",
- "prerequisite": "Trained in Nature; Natural Medicine",
- "prerequisite_markdown": "Trained in [Nature](/Skills.aspx?ID=10); [Natural Medicine](/Feats.aspx?ID=815)",
+ "prerequisite": "Natural Medicine; Trained in Nature",
+ "prerequisite_markdown": "[Natural Medicine](/Feats.aspx?ID=5182); Trained in [Nature](/Skills.aspx?ID=43)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 202",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=41\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 176 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nTrained in [Nature](/Skills.aspx?ID=10); [Natural Medicine](/Feats.aspx?ID=815)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can create remedies and other herbal products.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Dedication\" url=\"/Traits.aspx?ID=572\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 202 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Natural Medicine](/Feats.aspx?ID=5182); Trained in [Nature](/Skills.aspx?ID=43)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can create natural remedies.\r\n</summary>",
  "skill": [
   "Nature",
   "Nature"
  ],
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 176"
+  "Player Core 2 pg. 202"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 176 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 202 <sup>1.1</sup>",
  "speed": {},
- "summary": "You can create remedies and other herbal products.",
- "summary_markdown": "You can create remedies and other herbal products.",
- "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Herbalist Dedication Source Advanced Player's Guide pg. 176 2.0 Archetype Herbalist Prerequisites Trained in Nature; Natural Medicine --- You can create remedies and other herbal products. You gain the basic alchemy benefits, though they apply only for herbal items: alchemical items with the healing trait, plus antidote and antiplague. You gain batches of infused reagents per day equal to your level or half your level if you didn't make your daily preparations in the wilderness. Your advanced alchemy level for creating these is 1 and doesn't increase on its own. You become an expert in Nature and can use Nature instead of Crafting to Craft herbal items. You don't need to be trained in Crafting or have the Alchemical Crafting feat to do so, and you can use healer's tools instead of alchemist's tools. Special You can't select another dedication feat until you have gained two other feats from the herbalist archetype. Herbalist Dedication leads to... Endemic Herbs, Expert Herbalism, Fresh Ingredients, Gravelands Herbalist, Poultice Preparation Alchemical Plant Items Source Lost Omens Travel Guide pg. 12 Alchemical plant items are “herbal items,” meaning characters with the herbalist archetype can use their archetype abilities with them. ",
+ "summary": "You can create natural remedies.",
+ "summary_markdown": "You can create natural remedies.",
+ "text": "<title level=\"1\" right=\"Feat 2\" pfs=\"Standard\" > Herbalist Dedication Source Player Core 2 pg. 202 1.1 Archetype Herbalist Prerequisites Natural Medicine; Trained in Nature --- You can create natural remedies. You gain the advanced alchemy benefits. You can use advanced alchemy to create 4 alchemical consumables with the healing trait, though the number is reduced by 2 if you didn’t make your daily preparations in the wilderness. These consumables are called your herbal items. You remember herbal item formulas and don’t need a formula book for them. You become an expert in Nature and can use Nature instead of Crafting to Craft alchemical consumables with the healing trait. You don’t need to be trained in Crafting to do so, and you can use healer’s tools instead of alchemist’s tools. Herbalist Dedication leads to... Advanced Herbalism, Endemic Herbs, Fresh Ingredients, Poultice Preparation",
  "trait": [
   "Archetype",
   "Dedication"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Dedication](/Traits.aspx?ID=41)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535), [Dedication](/Traits.aspx?ID=572)",
  "trait_raw": [
   "Archetype",
   "Dedication"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1982",
+ "url": "/Feats.aspx?ID=6339",
  "weakness": {}
 }

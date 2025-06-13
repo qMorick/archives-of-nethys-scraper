@@ -6,32 +6,44 @@
   "Mystical",
   "Core"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-60",
+ "id": "archetype-250",
+ "image": [
+  "/Images/Archetypes/Archetype_Familiar_Master.webp"
+ ],
+ "legacy_id": [
+  "archetype-60"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Familiar Master](/Archetypes.aspx?ID=60)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 174 <sup>2.0</sup></row>\n\nFrom the wise owl perched on the wizard's shoulder to the crafty gremlin that serves the witch for their own reasons, the ghastly homunculus in the alchemist's lab to the clever monkey that picks the lock of the thief's cell, familiars have always served. Whether through rigorous training or a preternatural connection, yours serves better than most.\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-1970\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-318\"\r\noverride-title-right=\"Feat 4*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1972\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1971\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1973\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1974\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1975\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Familiar Master](/Archetypes.aspx?ID=250)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 200 <sup>1.1</sup>\n\nFrom the wise owl perched on the wizard's shoulder to the crafty gremlin that serves the witch for their own reasons, the ghastly homunculus in the alchemist's lab to the clever monkey that picks the lock of the thief's cell, familiars have always served. Yours serves better than most. This is often due to an unusually strong connection or rigorous intentional training. Regardless of the method, the extraordinary qualities of your familiar are undeniable.\n\n You and your familiar are a team in and of yourselves. In a tough situation, you know you have each other's back, and you are nigh inseparable. Some familiar masters, however, choose to keep familiars for only a short period. They will keep their ally for a time, then release them and forge a new bond. They form strong connections quickly and attract new familiars everywhere they go. This behavior is less common but is often done out of a high level of respect for the independence of both the adventurer and the familiar, or a strong connection to the ebb and flow of life and the cycle of change that touches all things. You are among these masters and can decide which practice best suits you.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Familiar_Master.webp\" />\r\n</column>\r\n\r\n</row>\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-6328\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4717\"\r\noverride-title-right=\"Feat 4*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6330\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6329\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6331\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6332\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-5004\"\r\noverride-title-right=\"Feat 10*\"\r\n\r\n/>",
  "name": "Familiar Master",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 200",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 174 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFrom the wise owl perched on the wizard's shoulder to the crafty gremlin that serves the witch for their own reasons, the ghastly homunculus in the …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 200 <sup>1.1</sup>\n\n**Archetype Categories**\r\nMystical, Core\r\n\r\n**Number of Feats** 7\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFrom the wise owl perched on the wizard's shoulder to the crafty gremlin that serves the witch for their own reasons, the ghastly homunculus in the …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 174"
+  "Player Core 2 pg. 200"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 174 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 200 <sup>1.1</sup>",
  "speed": {},
  "summary": "From the wise owl perched on the wizard's shoulder to the crafty gremlin that serves the witch for their own reasons, the ghastly homunculus in the …",
  "summary_markdown": "From the wise owl perched on the wizard's shoulder to the crafty gremlin that serves the witch for their own reasons, the ghastly homunculus in the …",
- "text": " Familiar Master Source Advanced Player's Guide pg. 174 2.0 From the wise owl perched on the wizard's shoulder to the crafty gremlin that serves the witch for their own reasons, the ghastly homunculus in the alchemist's lab to the clever monkey that picks the lock of the thief's cell, familiars have always served. Whether through rigorous training or a preternatural connection, yours serves better than most. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-318\" override-title-right=\"Feat 4 \" /> <document level=\"2\" id=\"feat-1972\" /> <document level=\"2\" id=\"feat-1971\" /> <document level=\"2\" id=\"feat-1973\" /> <document level=\"2\" id=\"feat-1974\" /> <document level=\"2\" id=\"feat-1975\" />",
+ "text": " Familiar Master Source Player Core 2 pg. 200 1.1 From the wise owl perched on the wizard's shoulder to the crafty gremlin that serves the witch for their own reasons, the ghastly homunculus in the alchemist's lab to the clever monkey that picks the lock of the thief's cell, familiars have always served. Yours serves better than most. This is often due to an unusually strong connection or rigorous intentional training. Regardless of the method, the extraordinary qualities of your familiar are undeniable. You and your familiar are a team in and of yourselves. In a tough situation, you know you have each other's back, and you are nigh inseparable. Some familiar masters, however, choose to keep familiars for only a short period. They will keep their ally for a time, then release them and forge a new bond. They form strong connections quickly and attract new familiars everywhere they go. This behavior is less common but is often done out of a high level of respect for the independence of both the adventurer and the familiar, or a strong connection to the ebb and flow of life and the cycle of change that touches all things. You are among these masters and can decide which practice best suits you. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-4717\" override-title-right=\"Feat 4 \" /> <document level=\"2\" id=\"feat-6330\" /> <document level=\"2\" id=\"feat-6329\" /> <document level=\"2\" id=\"feat-6331\" /> <document level=\"2\" id=\"feat-6332\" /> <document level=\"2\" id=\"feat-5004\" override-title-right=\"Feat 10 \" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=60",
+ "url": "/Archetypes.aspx?ID=250",
  "weakness": {}
 }

@@ -1,42 +1,54 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Sunder Enchantment"
  ],
  "feat_markdown": "Sunder Enchantment",
- "id": "feat-1627",
+ "id": "feat-5865",
+ "legacy_id": [
+  "feat-1627"
+ ],
  "level": 14,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 14\"\r\n    pfs=\"Standard\"\r\n>\r\n[Sunder Enchantment](/Feats.aspx?ID=1627) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 111 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Sunder Spell](/Feats.aspx?ID=1624)\n\n</column>\r\n\r\n---\r\n\r\nYou can focus your superstition to break the magic of an item, in addition to destroying freestanding spells and those active on creatures. When you Sunder a Spell, you can instead attempt to [counteract](/Rules.aspx?ID=371) either an unattended magic item or one of your target's magic items. If your counteract attempt succeeds, the item becomes a mundane item of its type for 10 minutes. If you target an [artifact, an  &lt;%TREASURE.CATEGORIES%48%%&gt; intelligent item](/equipment/artifacts), or a particularly powerful item, your counteract attempt automatically fails.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 14\"\r\n    pfs=\"Standard\"\r\n>\r\n[Sunder Enchantment](/Feats.aspx?ID=5865) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 83 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Sunder Spell](/Feats.aspx?ID=5859)\n\n</column>\r\n\r\n---\r\n\r\nYou can focus your superstition to break the magic of an item, in addition to destroying freestanding spells and those active on creatures. When you Sunder a Spell, you can instead attempt to [counteract](/Rules.aspx?ID=371) either an unattended magic item or one of your target's magic items. If your counteract attempt succeeds, the item becomes a mundane item of its type for 10 minutes. If you target an [artifact](/Traits.aspx?ID=537), an [intelligent item](/Traits.aspx?ID=636), or a similarly particularly powerful item, your counteract attempt automatically fails.",
  "name": "Sunder Enchantment",
  "pfs": "Standard",
  "prerequisite": "Sunder Spell",
- "prerequisite_markdown": "[Sunder Spell](/Feats.aspx?ID=1624)",
+ "prerequisite_markdown": "[Sunder Spell](/Feats.aspx?ID=5859)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 83",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 111 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Sunder Spell](/Feats.aspx?ID=1624)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can focus your superstition to break the magic of an item, in addition to destroying freestanding spells and those active on creatures.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 83 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Sunder Spell](/Feats.aspx?ID=5859)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can focus your superstition to break the magic of an item, in addition to destroying freestanding spells and those active on creatures.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 111"
+  "Player Core 2 pg. 83"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 111 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 83 <sup>1.1</sup>",
  "speed": {},
  "summary": "You can focus your superstition to break the magic of an item, in addition to destroying freestanding spells and those active on creatures.",
  "summary_markdown": "You can focus your superstition to break the magic of an item, in addition to destroying freestanding spells and those active on creatures.",
- "text": "<title level=\"1\" right=\"Feat 14\" pfs=\"Standard\" > Sunder Enchantment Source Advanced Player's Guide pg. 111 2.0 Prerequisites Sunder Spell --- You can focus your superstition to break the magic of an item, in addition to destroying freestanding spells and those active on creatures. When you Sunder a Spell, you can instead attempt to counteract either an unattended magic item or one of your target's magic items. If your counteract attempt succeeds, the item becomes a mundane item of its type for 10 minutes. If you target an artifact, an &lt;%TREASURE.CATEGORIES%48%%&gt; intelligent item, or a particularly powerful item, your counteract attempt automatically fails.",
+ "text": "<title level=\"1\" right=\"Feat 14\" pfs=\"Standard\" > Sunder Enchantment Source Player Core 2 pg. 83 1.1 Prerequisites Sunder Spell --- You can focus your superstition to break the magic of an item, in addition to destroying freestanding spells and those active on creatures. When you Sunder a Spell, you can instead attempt to counteract either an unattended magic item or one of your target's magic items. If your counteract attempt succeeds, the item becomes a mundane item of its type for 10 minutes. If you target an artifact, an intelligent item, or a similarly particularly powerful item, your counteract attempt automatically fails.",
  "trait": [
   "Barbarian"
  ],
- "trait_markdown": "[Barbarian](/Traits.aspx?ID=18)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Barbarian](/Traits.aspx?ID=813)",
  "trait_raw": [
   "Barbarian"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1627",
+ "url": "/Feats.aspx?ID=5865",
  "weakness": {}
 }

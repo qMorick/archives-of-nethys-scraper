@@ -1,17 +1,20 @@
 {
  "actions": "Two Actions",
+ "actions_number": 4,
  "bloodline_markdown": "",
- "breadcrumbs_spa": [],
  "category": "spell",
- "component": [
-  "somatic",
-  "verbal"
- ],
- "deity_markdown": "",
  "domain_markdown": "",
  "exclude_from_search": false,
  "heighten": [
   "+1"
+ ],
+ "heighten_group": [
+  "5th rank",
+  "Heightened 6th rank",
+  "Heightened 7th rank",
+  "Heightened 8th rank",
+  "Heightened 9th rank",
+  "Heightened 10th rank"
  ],
  "heighten_level": [
   5,
@@ -21,50 +24,62 @@
   9,
   10
  ],
- "id": "spell-693",
+ "id": "spell-1998",
+ "legacy_id": [
+  "spell-693"
+ ],
  "level": 5,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Spell 5\" pfs=\"Standard\">[Grisly Growths](/Spells.aspx?ID=693)</title>\n\n<traits>\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 220 <sup>2.0</sup></row>\n\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Primal](/SpellLists.aspx?Tradition=4)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 60 feet\n\n**Target** 1 corporeal creature\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** [basic](/Rules.aspx?ID=329) Fortitude\n\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nThis gruesome spell causes the target to grow excess limbs and organs, whether it be fingers multiplying until hands resemble bushes, eyes popping open in bizarre places, legs sprouting from the side of the body, or some other result. The target takes 10d6 piercing damage (basic Fortitude save) as the new features erupt. This spell has no effect on a target with a mutable anatomy or no limbs, such as an ooze or a protean. The growths rot rapidly and fall away after 1 round.\n\n In addition, unless the initial target critically succeeds, creatures within 30 feet of the target, including the target, must attempt Will saves, after which they are temporarily immune to this secondary effect of _grisly growths_ for 1 hour. This additional effect is a [mental](/Traits.aspx?ID=106) and [visual](/Traits.aspx?ID=163) effect.\r\n\r\n**Success** The creature is unaffected.<br />\r\n**Failure** The creature is [sickened 1](/Conditions.aspx?ID=34).<br />\r\n**Critical Failure** The character is sickened 2.\n\n---\r\n**Heightened (+1)** The damage increases by 2d6.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Spell 5\" pfs=\"Standard\">\r\n[Grisly Growths](/Spells.aspx?ID=1998)\r\n<actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=645\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 246 <sup>1.1</sup>\n\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Primal](/SpellLists.aspx?Tradition=4)\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 60 feet\n\n**Target** 1 corporeal creature\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\n[basic](/Rules.aspx?ID=2297) Fortitude\n\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nThis gruesome spell causes the target to grow excess limbs and organs, whether it be fingers multiplying until hands resemble bushes, eyes popping open in bizarre places, legs sprouting from the side of the body, or some other result. The target takes 10d6 piercing damage ([basic](/Rules.aspx?ID=329) Fortitude save) as the new features erupt. This spell has no effect on a target with a mutable anatomy or no limbs, such as an [ooze](/Traits.aspx?ID=665) or a [protean](/Traits.aspx?ID=678). The growths rot rapidly and fall away after 1 round.\n\n In addition, unless the initial target critically succeeds, creatures within 30 feet of the target, including the target, must attempt Will saves, after which they're temporarily immune to this secondary effect of _grisly growths_ for 1 hour. This additional effect is a [mental](/Traits.aspx?ID=647) and [visual](/Traits.aspx?ID=727) effect.\r\n\r\n**Success** The creature is unaffected.<br />\r\n**Failure** The creature is [sickened 1](/Conditions.aspx?ID=91).<br />\r\n**Critical Failure** The creature is sickened 2.\n\n---\r\n**Heightened (+1)** The damage increases by 2d6.",
  "name": "Grisly Growths",
- "patron_theme_markdown": "",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 246",
+ "primary_source_category": "Rulebooks",
  "range": 60,
  "range_raw": "60 feet",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
  "saving_throw": "basic  Fortitude",
- "saving_throw_markdown": "[basic](/Rules.aspx?ID=329) Fortitude",
- "school": "transmutation",
- "search_markdown": "<traits>\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 220 <sup>2.0</sup></row>\r\n\r\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Primal](/SpellLists.aspx?Tradition=4)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 60 feet\r\n\r\n \r\n\r\n**Target** 1 corporeal creature\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** [basic](/Rules.aspx?ID=329) Fortitude\r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA creature grows excess limbs and organs, sickening those who witness the transformation.\r\n</summary>",
+ "saving_throw_markdown": "[basic](/Rules.aspx?ID=2297) Fortitude",
+ "search_markdown": "<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=645\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 246 <sup>1.1</sup>\r\n\r\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Primal](/SpellLists.aspx?Tradition=4)\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 60 feet\r\n\r\n \r\n\r\n**Target** 1 corporeal creature\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\n[basic](/Rules.aspx?ID=2297) Fortitude\r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA creature grows sickening limbs and organs.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 220"
+  "Player Core 2 pg. 246"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 220 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 246 <sup>1.1</sup>",
  "speed": {},
- "summary": "A creature grows excess limbs and organs, sickening those who witness the transformation.",
- "summary_markdown": "A creature grows excess limbs and organs, sickening those who witness the transformation.",
+ "spell_type": "Spell",
+ "summary": "A creature grows sickening limbs and organs.",
+ "summary_markdown": "A creature grows sickening limbs and organs.",
  "target": "1 corporeal creature",
  "target_markdown": "1 corporeal creature",
- "text": " Grisly Growths Source Advanced Player's Guide pg. 220 2.0 Traditions Arcane, Primal Cast Two Actions somatic, verbal Range 60 feet Target 1 corporeal creature Saving Throw basic Fortitude --- This gruesome spell causes the target to grow excess limbs and organs, whether it be fingers multiplying until hands resemble bushes, eyes popping open in bizarre places, legs sprouting from the side of the body, or some other result. The target takes 10d6 piercing damage (basic Fortitude save) as the new features erupt. This spell has no effect on a target with a mutable anatomy or no limbs, such as an ooze or a protean. The growths rot rapidly and fall away after 1 round. In addition, unless the initial target critically succeeds, creatures within 30 feet of the target, including the target, must attempt Will saves, after which they are temporarily immune to this secondary effect of grisly growths for 1 hour. This additional effect is a mental and visual effect. Success The creature is unaffected. Failure The creature is sickened 1. Critical Failure The character is sickened 2. --- Heightened (+1) The damage increases by 2d6.",
+ "text": "\nGrisly Growths Two Actions Source Player Core 2 pg. 246 1.1 Traditions Arcane, Primal Range 60 feet Target 1 corporeal creature Defense basic Fortitude --- This gruesome spell causes the target to grow excess limbs and organs, whether it be fingers multiplying until hands resemble bushes, eyes popping open in bizarre places, legs sprouting from the side of the body, or some other result. The target takes 10d6 piercing damage (basic Fortitude save) as the new features erupt. This spell has no effect on a target with a mutable anatomy or no limbs, such as an ooze or a protean. The growths rot rapidly and fall away after 1 round. In addition, unless the initial target critically succeeds, creatures within 30 feet of the target, including the target, must attempt Will saves, after which they're temporarily immune to this secondary effect of grisly growths for 1 hour. This additional effect is a mental and visual effect. Success The creature is unaffected. Failure The creature is sickened 1. Critical Failure The creature is sickened 2. --- Heightened (+1) The damage increases by 2d6.",
  "tradition": [
   "Arcane",
   "Primal"
  ],
  "tradition_markdown": "[Arcane](/SpellLists.aspx?Tradition=1), [Primal](/SpellLists.aspx?Tradition=4)",
  "trait": [
-  "Transmutation"
+  "Concentrate",
+  "Manipulate"
  ],
- "trait_markdown": "[Transmutation](/Traits.aspx?ID=157)",
+ "trait_group": [
+  "Mechanics"
+ ],
+ "trait_markdown": "[Concentrate](/Traits.aspx?ID=561), [Manipulate](/Traits.aspx?ID=645)",
  "trait_raw": [
-  "Transmutation"
+  "Concentrate",
+  "Manipulate"
  ],
  "type": "Spell",
- "url": "/Spells.aspx?ID=693",
+ "url": "/Spells.aspx?ID=1998",
  "weakness": {}
 }

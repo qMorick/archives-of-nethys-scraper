@@ -6,34 +6,46 @@
   "Profession",
   "Core"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-55",
+ "id": "archetype-246",
+ "image": [
+  "/Images/Archetypes/Archetype_Dandy.webp"
+ ],
+ "legacy_id": [
+  "archetype-55"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Dandy](/Archetypes.aspx?ID=55)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 167 <sup>2.0</sup></row>\n\nYou are a genteel master of style, culture, and decorum, aware of even the subtlest rules of etiquette. Whether you were born into status, acquired it later in life, or merely pretend to possess it, you look and act your part to manicured perfection.\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-1935\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1936\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1937\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4136\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4138\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4139\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1938\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1939\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4145\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Dandy](/Archetypes.aspx?ID=246)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 195 <sup>1.1</sup>\n\nYou are a genteel master of style, culture, and decorum, aware of even the subtlest rules of etiquette.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Dandy.webp\" />\r\n</column>\r\n\r\n</row>\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-6302\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6303\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6304\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4136\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4138\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4139\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6305\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6306\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4145\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7635\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7636\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7637\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7640\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7641\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7645\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-7646\"\n\n/>",
  "name": "Dandy",
  "pfs": "Standard",
  "prerequisite": "Trained in Diplomacy",
- "prerequisite_markdown": "Trained in [Diplomacy](/Skills.aspx?ID=6)",
+ "prerequisite_markdown": "Trained in [Diplomacy](/Skills.aspx?ID=39)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 195",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 167 <sup>2.0</sup></row>\r\n\r\n**Prerequisites**\r\nTrained in [Diplomacy](/Skills.aspx?ID=6)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou are a genteel master of style, culture, and decorum, aware of even the subtlest rules of etiquette. Whether you were born into status, acquired …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 195 <sup>1.1</sup>\r\n\r\n**Prerequisites**\r\nTrained in [Diplomacy](/Skills.aspx?ID=39)\n\n**Archetype Categories**\r\nProfession, Core\r\n\r\n**Number of Feats** 16\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou are a genteel master of style, culture, and decorum, aware of even the subtlest rules of etiquette.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 167"
+  "Player Core 2 pg. 195"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 167 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 195 <sup>1.1</sup>",
  "speed": {},
- "summary": "You are a genteel master of style, culture, and decorum, aware of even the subtlest rules of etiquette. Whether you were born into status, acquired …",
- "summary_markdown": "You are a genteel master of style, culture, and decorum, aware of even the subtlest rules of etiquette. Whether you were born into status, acquired …",
- "text": " Dandy Source Advanced Player's Guide pg. 167 2.0 You are a genteel master of style, culture, and decorum, aware of even the subtlest rules of etiquette. Whether you were born into status, acquired it later in life, or merely pretend to possess it, you look and act your part to manicured perfection. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-1936\" /> <document level=\"2\" id=\"feat-1937\" /> <document level=\"2\" id=\"feat-4136\" /> <document level=\"2\" id=\"feat-4138\" /> <document level=\"2\" id=\"feat-4139\" /> <document level=\"2\" id=\"feat-1938\" /> <document level=\"2\" id=\"feat-1939\" /> <document level=\"2\" id=\"feat-4145\" />",
+ "summary": "You are a genteel master of style, culture, and decorum, aware of even the subtlest rules of etiquette.",
+ "summary_markdown": "You are a genteel master of style, culture, and decorum, aware of even the subtlest rules of etiquette.",
+ "text": " Dandy Source Player Core 2 pg. 195 1.1 You are a genteel master of style, culture, and decorum, aware of even the subtlest rules of etiquette. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-6303\" /> <document level=\"2\" id=\"feat-6304\" /> <document level=\"2\" id=\"feat-4136\" /> <document level=\"2\" id=\"feat-4138\" /> <document level=\"2\" id=\"feat-4139\" /> <document level=\"2\" id=\"feat-6305\" /> <document level=\"2\" id=\"feat-6306\" /> <document level=\"2\" id=\"feat-4145\" /> <document level=\"2\" id=\"feat-7635\" /> <document level=\"2\" id=\"feat-7636\" /> <document level=\"2\" id=\"feat-7637\" /> <document level=\"2\" id=\"feat-7640\" /> <document level=\"2\" id=\"feat-7641\" /> <document level=\"2\" id=\"feat-7645\" /> <document level=\"2\" id=\"feat-7646\" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=55",
+ "url": "/Archetypes.aspx?ID=246",
  "weakness": {}
 }

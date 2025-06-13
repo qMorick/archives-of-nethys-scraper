@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Ghost Hunter"
  ],
  "feat_markdown": "Ghost Hunter",
- "id": "feat-1368",
+ "id": "feat-5751",
+ "legacy_id": [
+  "feat-1368"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Ghost Hunter](/Feats.aspx?ID=1368) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Duskwalker\" url=\"/Traits.aspx?ID=257\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 38 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYour connection to the [Boneyard](/Planes.aspx?ID=15) ensures that your blows strike true against spectral beings. Your weapon and unarmed attack Strikes against [incorporeal](/Traits.aspx?ID=222) creatures become [magical](/Traits.aspx?ID=103). If they are already magical, they instead gain the effects of a [_ghost touch_](/Equipment.aspx?ID=297) property rune.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Ghost Hunter](/Feats.aspx?ID=5751) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Duskwalker\" url=\"/Traits.aspx?ID=751\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 49 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYour connection to the [Boneyard](/Planes.aspx?ID=39) ensures that your blows strike true against spectral beings. Your weapon and unarmed Strikes against [incorporeal](/Traits.aspx?ID=632) creatures become [magical](/Traits.aspx?ID=644). If they are already magical, they instead gain the effects of a [_ghost touch_](/Equipment.aspx?ID=2840) property rune.",
  "name": "Ghost Hunter",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 49",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Duskwalker\" url=\"/Traits.aspx?ID=257\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 38 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour connection to the Boneyard ensures that your blows strike true against spectral beings.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Duskwalker\" url=\"/Traits.aspx?ID=751\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 49 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour connection to the [Boneyard](/Planes.aspx?ID=39) ensures that your blows strike true against spectral beings.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 38"
+  "Player Core 2 pg. 49"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 38 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 49 <sup>1.1</sup>",
  "speed": {},
- "summary": "Your connection to the Boneyard ensures that your blows strike true against spectral beings.",
- "summary_markdown": "Your connection to the Boneyard ensures that your blows strike true against spectral beings.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Ghost Hunter Source Advanced Player's Guide pg. 38 2.0 --- Your connection to the Boneyard ensures that your blows strike true against spectral beings. Your weapon and unarmed attack Strikes against incorporeal creatures become magical. If they are already magical, they instead gain the effects of a ghost touch property rune.",
+ "summary": "Your connection to the  Boneyard  ensures that your blows strike true against spectral beings.",
+ "summary_markdown": "Your connection to the [Boneyard](/Planes.aspx?ID=39) ensures that your blows strike true against spectral beings.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Ghost Hunter Source Player Core 2 pg. 49 1.1 --- Your connection to the Boneyard ensures that your blows strike true against spectral beings. Your weapon and unarmed Strikes against incorporeal creatures become magical. If they are already magical, they instead gain the effects of a ghost touch property rune.",
  "trait": [
   "Duskwalker"
  ],
- "trait_markdown": "[Duskwalker](/Traits.aspx?ID=257)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Duskwalker](/Traits.aspx?ID=751)",
  "trait_raw": [
   "Duskwalker"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1368",
+ "url": "/Feats.aspx?ID=5751",
  "weakness": {}
 }

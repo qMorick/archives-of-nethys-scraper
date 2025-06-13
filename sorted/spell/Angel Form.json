@@ -1,13 +1,12 @@
 {
  "actions": "Two Actions",
+ "actions_number": 4,
  "bloodline_markdown": "",
- "breadcrumbs_spa": [],
  "category": "spell",
  "component": [
   "somatic",
   "verbal"
  ],
- "deity_markdown": "",
  "domain_markdown": "",
  "duration": 60,
  "duration_raw": "1 minute",
@@ -15,47 +14,60 @@
  "heighten": [
   "9th"
  ],
+ "heighten_group": [
+  "7th rank",
+  "Heightened 9th rank"
+ ],
  "heighten_level": [
   7,
   9
  ],
  "id": "spell-862",
  "level": 7,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Spell 7\" pfs=\"Standard\">[Angel Form](/Spells.aspx?ID=862)</title>\n\n<traits>\r\n<trait label=\"Good\" url=\"/Traits.aspx?ID=83\" />\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=127\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 89 <sup>1.1</sup></row>\n\n**Tradition**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nInvoking the celestial realms, you transform into a Medium angel battle form. When you cast this spell, choose balisse, choral, monadic deva, or movanic deva. The battle form is Small if you choose choral. While in this form, you gain the angel and celestial traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.\n\n You gain the following statistics and abilities regardless of the form that you choose: \n<ul><li>AC = 22 + your level. Ignore your armor check's penalty and Speed reduction.</li><li>40 temporary Hit Points and weakness 10 to evil damage.</li><li>[Darkvision](/Rules.aspx?ID=415).</li><li>One or more attacks specific to the battle form you choose. You're trained with them. Your attack modifier is +25, and you use the listed damage. Melee attacks are Strength based (for the purpose of the [enfeebled](/Conditions.aspx?ID=13) condition, for example), and ranged attacks are Dexterity based. If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead.</li><li>[Athletics](/Skills.aspx?ID=3) modifier of +25, unless your own modifier is higher.</li></ul> You also gain specific abilities based on the type of angel you choose:\n\n- **[Balisse](/Monsters.aspx?ID=15)** Speed 30 feet, fly 40 feet; Perception modifier of +26 to detect lies and [illusions](/Traits.aspx?ID=92) unless your own modifier is higher; **Melee** <actions string=\"Single Action\" /> scimitar ([forceful](/Traits.aspx?ID=180), [sweep](/Traits.aspx?ID=194)), **Damage** 2d6+12 slashing plus 1d6 fire and 1d6 good.\r\n- **[Choral](/Monsters.aspx?ID=14)** Speed 30 feet, fly 40 feet; +1 status bonus to AC and saves against [sonic](/Traits.aspx?ID=147) and [auditory](/Traits.aspx?ID=16); **Melee** <actions string=\"Single Action\" /> fist ([agile](/Traits.aspx?ID=170)), **Damage** 2d6+12 bludgeoning plus 1d6 good; **Ranged** <actions string=\"Single Action\" /> piercing hymn ([range 90 feet](/Traits.aspx?ID=248)), **Damage** 1d6+12 sonic plus 1d6 good, and [deafened](/Conditions.aspx?ID=8) for 1 round on a critical hit.\r\n- **[Monadic Deva](/Monsters.aspx?ID=543)** Speed 30 feet, fly 40 feet; +2 status bonus on saves against [death](/Traits.aspx?ID=40) effects and effects that manipulate souls; **Melee** <actions string=\"Single Action\" /> holy mace ([shove](/Traits.aspx?ID=193)), **Damage** 2d6+12 bludgeoning plus 1d6 force and 1d6 good.\r\n- **[Movanic Deva](/Monsters.aspx?ID=542)** Speed 30 feet, fly 40 feet; resistance 10 to negative; **Melee** <actions string=\"Single Action\" /> bastard sword ([two-hand d12](/Traits.aspx?ID=198)), **Damage** 1d8+12 slashing plus 1d6 fire and 1d6 good.\r\n\r\n---\r\n**Heightened (9th)** Your battle form is Large. You must have space to expand, or the spell is lost. You instead gain 60 temporary Hit Points, weakness 15 to evil damage, attack modifier +30, damage bonus +20, and Athletics +33.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Spell 7\" pfs=\"Standard\">\r\n[Angel Form](/Spells.aspx?ID=862)\r\n<actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Holy\" url=\"/Traits.aspx?ID=517\" />\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=127\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 89 <sup>2.0</sup>\n\n**Tradition**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n<row gap=\"medium\">\r\n\r\n**Cast** [somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)\r\n\r\n \n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nInvoking the celestial realms, you transform into a Medium angel battle form. When you cast this spell, choose [balisse](/Monsters.aspx?ID=2816), [choral](/Monsters.aspx?ID=2815), kuribu, or tennin. The battle form is Small if you choose choral or kuribu. While in this form, you gain the [angel](/Traits.aspx?ID=530) and [celestial](/Traits.aspx?ID=551) traits. You have hands in this battle form and can use [manipulate](/Traits.aspx?ID=645) actions. You can [Dismiss](/Actions.aspx?ID=2311) the spell.\n\n You gain the following statistics and abilities regardless of the form that you choose: \n<ul><li>AC = 22 + your level. Ignore your armor check's penalty and Speed reduction.</li><li>40 [temporary Hit Points](/Rules.aspx?ID=2321) and weakness 10 to [unholy](/Traits.aspx?ID=521).</li><li>[Darkvision](/Rules.aspx?ID=415).</li><li>One or more attacks specific to the battle form you choose. You're trained with them. Your attack modifier is +25, and you use the listed damage. Melee attacks are Strength based (for the purpose of the [enfeebled](/Conditions.aspx?ID=13) condition, for example), and ranged attacks are Dexterity based. If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead.</li><li>[Athletics](/Skills.aspx?ID=3) modifier of +25, unless your own modifier is higher.</li></ul> You also gain specific abilities based on the type of angel you choose:\n\n- **[Balisse](/Monsters.aspx?ID=2816)** Speed 30 feet, fly 40 feet; [Perception](/Rules.aspx?ID=2298) modifier of +26 to detect lies and [illusions](/Traits.aspx?ID=629) unless your own modifier is higher; **Melee** <actions string=\"Single Action\" /> [scimitar](/Weapons.aspx?ID=393) ([fire](/Traits.aspx?ID=604), [forceful](/Traits.aspx?ID=611), [holy](/Traits.aspx?ID=517), [magical](/Traits.aspx?ID=644), [sweep](/Traits.aspx?ID=708)), **Damage** 2d6+12 slashing plus 2d6 fire.\r\n- **[Choral](/Monsters.aspx?ID=2815)** Speed 30 feet, fly 40 feet; +1 status bonus to AC and saves against [sonic](/Traits.aspx?ID=697) and [auditory](/Traits.aspx?ID=541); **Melee** <actions string=\"Single Action\" /> [fist](/Weapons.aspx?ID=356) ([agile](/Traits.aspx?ID=526), [holy](/Traits.aspx?ID=517), [magical](/Traits.aspx?ID=644)), **Damage** 2d6+12 bludgeoning; **Ranged** <actions string=\"Single Action\" /> piercing hymn ([holy](/Traits.aspx?ID=517), [magical](/Traits.aspx?ID=644), [range 90 feet](/Rules.aspx?ID=2195), [sonic](/Traits.aspx?ID=697)), **Damage** 3d6+12 sonic, and [deafened](/Conditions.aspx?ID=66) for 1 round on a critical hit.\r\n- **Kuribu** Speed 25 feet, fly 40 feet; [resistance](/Rules.aspx?ID=2318) 10 to [electricity](/Traits.aspx?ID=586) and [fire](/Traits.aspx?ID=604); **Melee** <actions string=\"Single Action\" /> [fist](/Weapons.aspx?ID=356) ([agile](/Traits.aspx?ID=526), [holy](/Traits.aspx?ID=517), [magical](/Traits.aspx?ID=644)), **Damage** 3d4+12 bludgeoning; **Ranged** <actions string=\"Single Action\" /> [composite shortbow](/Weapons.aspx?ID=435) ([deadly 2d10](/Traits.aspx?ID=570), [holy](/Traits.aspx?ID=517), [magical](/Traits.aspx?ID=644), [propulsive](/Traits.aspx?ID=677), [range increment 60 feet](/Rules.aspx?ID=2195)), **Damage** 3d6+12 piercing.\r\n- **Tennin** Speed 30 feet, fly 60 feet; can [Step](/Actions.aspx?ID=2304) into [difficult terrain](/Rules.aspx?ID=2366) and use land and fly Speeds to Step; **Melee** <actions string=\"Single Action\" /> [fist](/Weapons.aspx?ID=356) ([agile](/Traits.aspx?ID=526), [holy](/Traits.aspx?ID=517), [magical](/Traits.aspx?ID=644), [nonlethal](/Traits.aspx?ID=661)), **Damage** 1d6+12 bludgeoning plus 1d6 cold and 1d6 spirit.\r\n\r\n---\r\n**Heightened (9th)** Your battle form is Large. You must have space to expand, or the spell is lost. You instead gain 60 temporary Hit Points, weakness 15 to evil damage, attack modifier +30, damage bonus +20, and Athletics +33.",
  "name": "Angel Form",
- "patron_theme_markdown": "",
  "pfs": "Standard",
+ "primary_source": "Secrets of Magic",
+ "primary_source_raw": "Secrets of Magic pg. 89",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
+ "rarity_id": 1,
  "release_date": "2021-09-01",
  "resistance": {},
  "school": "transmutation",
- "search_markdown": "<traits>\r\n<trait label=\"Good\" url=\"/Traits.aspx?ID=83\" />\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=127\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 89 <sup>1.1</sup></row>\r\n\r\n**Tradition**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Duration** 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTransform into an angel battle form.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Holy\" url=\"/Traits.aspx?ID=517\" />\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=127\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 89 <sup>2.0</sup>\r\n\r\n**Tradition**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n<row gap=\"medium\">\r\n\r\n**Cast** [somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTransform into an angel battle form.\r\n</summary>",
+ "skill_mod": {},
  "source": [
   "Secrets of Magic"
  ],
  "source_raw": [
   "Secrets of Magic pg. 89"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Secrets of Magic](/Sources.aspx?ID=96) pg. 89 <sup>1.1</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Secrets of Magic](/Sources.aspx?ID=96) pg. 89 <sup>2.0</sup>",
  "speed": {},
+ "spell_type": "Spell",
  "summary": "Transform into an angel battle form.",
  "summary_markdown": "Transform into an angel battle form.",
- "text": " Angel Form Source Secrets of Magic pg. 89 1.1 Tradition Divine Cast Two Actions somatic, verbal Duration 1 minute --- Invoking the celestial realms, you transform into a Medium angel battle form. When you cast this spell, choose balisse, choral, monadic deva, or movanic deva. The battle form is Small if you choose choral. While in this form, you gain the angel and celestial traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell. You gain the following statistics and abilities regardless of the form that you choose: AC = 22 + your level. Ignore your armor check's penalty and Speed reduction. 40 temporary Hit Points and weakness 10 to evil damage. Darkvision. One or more attacks specific to the battle form you choose. You're trained with them. Your attack modifier is +25, and you use the listed damage. Melee attacks are Strength based (for the purpose of the enfeebled condition, for example), and ranged attacks are Dexterity based. If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead. Athletics modifier of +25, unless your own modifier is higher. You also gain specific abilities based on the type of angel you choose: - Balisse Speed 30 feet, fly 40 feet; Perception modifier of +26 to detect lies and illusions unless your own modifier is higher; Melee Single Action scimitar (forceful, sweep), Damage 2d6+12 slashing plus 1d6 fire and 1d6 good. - Choral Speed 30 feet, fly 40 feet; +1 status bonus to AC and saves against sonic and auditory; Melee Single Action fist (agile), Damage 2d6+12 bludgeoning plus 1d6 good; Ranged Single Action piercing hymn (range 90 feet), Damage 1d6+12 sonic plus 1d6 good, and deafened for 1 round on a critical hit. - Monadic Deva Speed 30 feet, fly 40 feet; +2 status bonus on saves against death effects and effects that manipulate souls; Melee Single Action holy mace (shove), Damage 2d6+12 bludgeoning plus 1d6 force and 1d6 good. - Movanic Deva Speed 30 feet, fly 40 feet; resistance 10 to negative; Melee Single Action bastard sword (two-hand d12), Damage 1d8+12 slashing plus 1d6 fire and 1d6 good. --- Heightened (9th) Your battle form is Large. You must have space to expand, or the spell is lost. You instead gain 60 temporary Hit Points, weakness 15 to evil damage, attack modifier +30, damage bonus +20, and Athletics +33.",
+ "text": "\nAngel Form Two Actions Source Secrets of Magic pg. 89 2.0 Tradition Divine Cast somatic, verbal Duration 1 minute --- Invoking the celestial realms, you transform into a Medium angel battle form. When you cast this spell, choose balisse, choral, kuribu, or tennin. The battle form is Small if you choose choral or kuribu. While in this form, you gain the angel and celestial traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell. You gain the following statistics and abilities regardless of the form that you choose: AC = 22 + your level. Ignore your armor check's penalty and Speed reduction. 40 temporary Hit Points and weakness 10 to unholy. Darkvision. One or more attacks specific to the battle form you choose. You're trained with them. Your attack modifier is +25, and you use the listed damage. Melee attacks are Strength based (for the purpose of the enfeebled condition, for example), and ranged attacks are Dexterity based. If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead. Athletics modifier of +25, unless your own modifier is higher. You also gain specific abilities based on the type of angel you choose: - Balisse Speed 30 feet, fly 40 feet; Perception modifier of +26 to detect lies and illusions unless your own modifier is higher; Melee Single Action scimitar (fire, forceful, holy, magical, sweep), Damage 2d6+12 slashing plus 2d6 fire. - Choral Speed 30 feet, fly 40 feet; +1 status bonus to AC and saves against sonic and auditory; Melee Single Action fist (agile, holy, magical), Damage 2d6+12 bludgeoning; Ranged Single Action piercing hymn (holy, magical, range 90 feet, sonic), Damage 3d6+12 sonic, and deafened for 1 round on a critical hit. - Kuribu Speed 25 feet, fly 40 feet; resistance 10 to electricity and fire; Melee Single Action fist (agile, holy, magical), Damage 3d4+12 bludgeoning; Ranged Single Action composite shortbow (deadly 2d10, holy, magical, propulsive, range increment 60 feet), Damage 3d6+12 piercing. - Tennin Speed 30 feet, fly 60 feet; can Step into difficult terrain and use land and fly Speeds to Step; Melee Single Action fist (agile, holy, magical, nonlethal), Damage 1d6+12 bludgeoning plus 1d6 cold and 1d6 spirit. --- Heightened (9th) Your battle form is Large. You must have space to expand, or the spell is lost. You instead gain 60 temporary Hit Points, weakness 15 to evil damage, attack modifier +30, damage bonus +20, and Athletics +33.",
  "tradition": [
   "Divine"
  ],
  "tradition_markdown": "[Divine](/SpellLists.aspx?Tradition=2)",
  "trait": [
-  "Good",
+  "Holy",
   "Polymorph",
   "Transmutation"
  ],
- "trait_markdown": "[Good](/Traits.aspx?ID=83), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)",
+ "trait_group": [
+  "Mechanics",
+  "School"
+ ],
+ "trait_markdown": "[Holy](/Traits.aspx?ID=517), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)",
  "trait_raw": [
-  "Good",
+  "Holy",
   "Polymorph",
   "Transmutation"
  ],

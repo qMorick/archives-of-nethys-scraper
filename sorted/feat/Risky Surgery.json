@@ -1,48 +1,60 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Risky Surgery"
  ],
  "feat_markdown": "Risky Surgery",
- "id": "feat-2146",
+ "id": "feat-6498",
+ "legacy_id": [
+  "feat-2146"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Risky Surgery](/Feats.aspx?ID=2146) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=78\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=144\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 208 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nTrained in [Medicine](/Skills.aspx?ID=9)\n\n</column>\r\n\r\n---\r\n\r\nYour surgery can bring a patient back from the brink of death, but might push them over the edge. When you [Treat Wounds](/Actions.aspx?ID=57), you can deal 1d8 slashing damage to your patient just before applying the effects of Treat Wounds. If you do, you gain a +2 circumstance bonus to your [Medicine](/Skills.aspx?ID=9) check to Treat Wounds, and if you roll a success, you get a critical success instead.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Risky Surgery](/Feats.aspx?ID=6498) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=615\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=695\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 233 <sup>1.1</sup>\n\n**Prerequisites**\r\nTrained in [Medicine](/Skills.aspx?ID=42)\n\n</column>\r\n\r\n---\r\n\r\nYour surgery can bring a patient back from the brink of death, but might push them over the edge. When you [Treat Wounds](/Actions.aspx?ID=2399), you can deal 1d8 slashing damage to your patient just before applying the effects of Treat Wounds. If you do, you gain a +2 circumstance bonus to your Medicine check to Treat Wounds, and if you roll a success, you get a critical success instead.",
  "name": "Risky Surgery",
  "pfs": "Standard",
  "prerequisite": "Trained in Medicine",
- "prerequisite_markdown": "Trained in [Medicine](/Skills.aspx?ID=9)",
+ "prerequisite_markdown": "Trained in [Medicine](/Skills.aspx?ID=42)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 233",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=78\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=144\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 208 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nTrained in [Medicine](/Skills.aspx?ID=9)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDeal damage to a patient to gain +2 to Treat Wounds.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=615\" />\r\n<trait label=\"Skill\" url=\"/Traits.aspx?ID=695\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 233 <sup>1.1</sup>\n\n**Prerequisites**\r\nTrained in [Medicine](/Skills.aspx?ID=42)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour surgery can bring a patient back from the brink of death, but might push them over the edge.\r\n</summary>",
  "skill": [
   "Medicine",
   "Medicine"
  ],
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 208"
+  "Player Core 2 pg. 233"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 208 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 233 <sup>1.1</sup>",
  "speed": {},
- "summary": "Deal damage to a patient to gain +2 to Treat Wounds.",
- "summary_markdown": "Deal damage to a patient to gain +2 to Treat Wounds.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Risky Surgery Source Advanced Player's Guide pg. 208 2.0 Prerequisites Trained in Medicine --- Your surgery can bring a patient back from the brink of death, but might push them over the edge. When you Treat Wounds, you can deal 1d8 slashing damage to your patient just before applying the effects of Treat Wounds. If you do, you gain a +2 circumstance bonus to your Medicine check to Treat Wounds, and if you roll a success, you get a critical success instead.",
+ "summary": "Your surgery can bring a patient back from the brink of death, but might push them over the edge.",
+ "summary_markdown": "Your surgery can bring a patient back from the brink of death, but might push them over the edge.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Risky Surgery Source Player Core 2 pg. 233 1.1 Prerequisites Trained in Medicine --- Your surgery can bring a patient back from the brink of death, but might push them over the edge. When you Treat Wounds, you can deal 1d8 slashing damage to your patient just before applying the effects of Treat Wounds. If you do, you gain a +2 circumstance bonus to your Medicine check to Treat Wounds, and if you roll a success, you get a critical success instead.",
  "trait": [
   "General",
   "Skill"
  ],
- "trait_markdown": "[General](/Traits.aspx?ID=78), [Skill](/Traits.aspx?ID=144)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[General](/Traits.aspx?ID=615), [Skill](/Traits.aspx?ID=695)",
  "trait_raw": [
   "General",
   "Skill"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2146",
+ "url": "/Feats.aspx?ID=6498",
  "weakness": {}
 }

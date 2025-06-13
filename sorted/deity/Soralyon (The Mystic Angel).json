@@ -1,23 +1,27 @@
 {
- "ability": [
+ "attribute": [
   "Strength",
   "Intelligence"
  ],
- "alignment": "NG",
- "breadcrumbs_spa": [],
+ "anathema": "Defile sacred buildings, knowingly unearth evil monuments, destroy historical artifacts",
+ "area_of_concern": [
+  "Guardians",
+  "magic",
+  "monuments"
+ ],
+ "area_of_concern_raw": "Guardians, magic, monuments",
  "category": "deity",
  "cleric_spell": [
   "Summon Construct",
-  "Meld into Stone",
-  "Stoneskin"
+  "One with Stone",
+  "Mountain Resilience"
  ],
  "deity": [
   "Soralyon"
  ],
- "deity_markdown": "[Soralyon](/Deities.aspx?ID=128)",
  "deity_category": "Empyreal Lords",
- "deity_category_markdown": "[Empyreal Lords\r\n](/DeityCategories.aspx?ID=10)",
- "deity_category_order": "2Empyreal Lords\r\n",
+ "deity_category_markdown": "[Empyreal Lords](/DeityCategories.aspx?ID=10)",
+ "deity_category_order": "2Empyreal Lords",
  "divine_font": [
   "Heal"
  ],
@@ -26,59 +30,78 @@
   "Creation",
   "Earth",
   "Magic",
-  "Protection"
+  "Protection",
+  "Vigil"
  ],
- "domain_markdown": "[Creation](/Domains.aspx?ID=5), [Earth](/Domains.aspx?ID=10), [Magic](/Domains.aspx?ID=19), [Protection](/Domains.aspx?ID=27)",
- "domain_alternate_markdown": "",
+ "domain_markdown": "[Creation](/Domains.aspx?ID=68), [Earth](/Domains.aspx?ID=73), [Magic](/Domains.aspx?ID=82), [Protection](/Domains.aspx?ID=90), [Vigil](/Domains.aspx?ID=123)",
+ "domain_alternate": [
+  "Vigil"
+ ],
+ "domain_alternate_markdown": "[Vigil](/Domains.aspx?ID=123)",
  "domain_primary": [
   "Creation",
   "Earth",
   "Magic",
   "Protection"
  ],
- "domain_primary_markdown": "[Creation](/Domains.aspx?ID=5), [Earth](/Domains.aspx?ID=10), [Magic](/Domains.aspx?ID=19), [Protection](/Domains.aspx?ID=27)",
+ "domain_primary_markdown": "[Creation](/Domains.aspx?ID=68), [Earth](/Domains.aspx?ID=73), [Magic](/Domains.aspx?ID=82), [Protection](/Domains.aspx?ID=90)",
+ "edict": "Study monuments, craft golems and artwork from stone, guard ancient sites",
  "exclude_from_search": false,
  "favored_weapon": [
   "Pick"
  ],
- "favored_weapon_markdown": "[Pick](/Weapons.aspx?ID=34)",
- "follower_alignment": [
-  "LG",
-  "NG",
-  "N",
-  "CG"
+ "favored_weapon_markdown": "[Pick](/Weapons.aspx?ID=389)",
+ "id": "deity-484",
+ "legacy_id": [
+  "deity-128"
  ],
- "id": "deity-128",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Soralyon (The Mystic Angel)](/Deities.aspx?ID=128)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"NG\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 128 <sup>2.0</sup></row>\n\nGuardians, monuments, and magic are the purview of the Mystic Angel. Soralyon believes that monuments and ruins are important links to the past. Guarding them against those who would defile or destroy them is of tremendous importance, lest people lose memories of who they are, where they came from, and what they have accomplished. As such, those who stand guard over monuments and ruins are blessed. Likewise, those who study monuments to the past and present with respect, or seek to preserve them for the future, are also blessed. Guardianship of others, but especially of those who study and preserve these relics to the past, is also of great importance to Soralyon. As magic is a valuable tool in guarding, studying, and preserving these monuments and people, Soralyon encourages the study of magic, preferably for use in learning or protection.\n\n When the Mystic Angel appears to mortals he usually does so as a handsome being beautifully carved of smooth marble, the hues of which range the entire spectrum of the stone but tend toward those most common locally. Followers of Soralyon include archaeologists, historians, bodyguards, guardians, sculptors, curators, and arcane spellcasters.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Empyreal Lords\r\n](/DeityCategories.aspx?ID=10)\r\n\r\n**Edicts** Study monuments, craft golems and artwork from stone, guard ancient sites\r\n\r\n**Anathema** Defile sacred buildings, knowingly unearth evil monuments, destroy historical artifacts\r\n\r\n**Area of Concern**\r\nguardians, monuments, and magic\r\n\r\n**Follower Alignments**\r\nLG, NG, N, CG\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nStrength or Intelligence\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Arcana](/Skills.aspx?ID=2)\r\n\r\n**Favored Weapon** [Pick](/Weapons.aspx?ID=34)\r\n\r\n**Domains** [Creation](/Domains.aspx?ID=5), [Earth](/Domains.aspx?ID=10), [Magic](/Domains.aspx?ID=19), [Protection](/Domains.aspx?ID=27)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Summon Construct](/Spells.aspx?ID=318)\n\n- **3rd**\r\n[Meld into Stone](/Spells.aspx?ID=188)\n\n- **4th**\r\n[Stoneskin](/Spells.aspx?ID=312)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Soralyon (The Mystic Angel)](/Deities.aspx?ID=484)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 310\n\nGuardians, monuments, and magic are the purview of the Mystic Angel. Soralyon believes that monuments and ruins are important links to the past. Guarding them against those who would defile or destroy them is of tremendous importance, lest people lose memories of who they are, where they came from, and what they have accomplished. As such, those who stand guard over monuments and ruins are blessed. Likewise, those who study monuments to the past and present with respect, or seek to preserve them for the future, are also blessed. Guardianship of others, but especially of those who study and preserve these relics to the past, is also of great importance to Soralyon. As magic is a valuable tool in guarding, studying, and preserving these monuments and people, Soralyon encourages the study of magic, preferably for use in learning or protection. \n\nWhen the Mystic Angel appears to mortals, he usually does so as a handsome being beautifully carved of smooth marble, the hues of which range the entire spectrum of the stone but tend toward those most common locally. Followers of Soralyon include archaeologists, historians, bodyguards, guardians, sculptors, curators, and arcane spellcasters.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Empyreal Lords](/DeityCategories.aspx?ID=10)\r\n\r\n**Edicts** Study monuments, craft golems and artwork from stone, guard ancient sites\r\n\r\n**Anathema** Defile sacred buildings, knowingly unearth evil monuments, destroy historical artifacts\r\n\r\n**Area of Concern**\r\nGuardians, magic, monuments\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nStrength or Intelligence\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** can choose holy\r\n\r\n**Divine Skill** [Arcana](/Skills.aspx?ID=35)\r\n\r\n**Favored Weapon** [Pick](/Weapons.aspx?ID=389)\r\n\r\n**Domains** [Creation](/Domains.aspx?ID=68), [Earth](/Domains.aspx?ID=73), [Magic](/Domains.aspx?ID=82), [Protection](/Domains.aspx?ID=90)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** [Vigil](/Domains.aspx?ID=123)\r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Summon Construct](/Spells.aspx?ID=1696)\n\n- **3rd**\r\n[One with Stone](/Spells.aspx?ID=1619)\n\n- **4th**\r\n[Mountain Resilience](/Spells.aspx?ID=1610)\n\n</column>",
  "name": "Soralyon (The Mystic Angel)",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 310",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "Rune-covered spire",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 128 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Arcana](/Skills.aspx?ID=2)\r\n\r\n**Favored Weapon** [Pick](/Weapons.aspx?ID=34)\r\n\r\n**Domains** [Creation](/Domains.aspx?ID=5), [Earth](/Domains.aspx?ID=10), [Magic](/Domains.aspx?ID=19), [Protection](/Domains.aspx?ID=27)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGuardians, monuments, and magic are the purview of the Mystic Angel. Soralyon believes that monuments and ruins are important links to the past. …\r\n</summary>",
+ "sacred_animal": "Guard dog",
+ "sacred_color": [
+  "gray",
+  "purple"
+ ],
+ "sanctification": [
+  "holy"
+ ],
+ "sanctification_raw": "can choose holy",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 310\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Arcana](/Skills.aspx?ID=35)\r\n\r\n**Favored Weapon** [Pick](/Weapons.aspx?ID=389)\r\n\r\n**Domains** [Creation](/Domains.aspx?ID=68), [Earth](/Domains.aspx?ID=73), [Magic](/Domains.aspx?ID=82), [Protection](/Domains.aspx?ID=90), [Vigil](/Domains.aspx?ID=123)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGuardians, monuments, and magic are the purview of the Mystic Angel. Soralyon believes that monuments and ruins are important links to the past. …\r\n</summary>",
  "skill": [
   "Arcana"
  ],
- "skill_markdown": "[Arcana](/Skills.aspx?ID=2)",
+ "skill_markdown": "[Arcana](/Skills.aspx?ID=35)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 128"
+  "Divine Mysteries pg. 310"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 128 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 310",
  "speed": {},
+ "spell": [
+  "Summon Construct",
+  "One with Stone",
+  "Mountain Resilience"
+ ],
+ "spell_markdown": "[Mountain Resilience](/Spells.aspx?ID=1610), [One with Stone](/Spells.aspx?ID=1619), [Summon Construct](/Spells.aspx?ID=1696)",
  "summary": "Guardians, monuments, and magic are the purview of the Mystic Angel. Soralyon believes that monuments and ruins are important links to the past. …",
  "summary_markdown": "Guardians, monuments, and magic are the purview of the Mystic Angel. Soralyon believes that monuments and ruins are important links to the past. …",
- "text": " Soralyon (The Mystic Angel) Source Gods &amp; Magic pg. 128 2.0 Guardians, monuments, and magic are the purview of the Mystic Angel. Soralyon believes that monuments and ruins are important links to the past. Guarding them against those who would defile or destroy them is of tremendous importance, lest people lose memories of who they are, where they came from, and what they have accomplished. As such, those who stand guard over monuments and ruins are blessed. Likewise, those who study monuments to the past and present with respect, or seek to preserve them for the future, are also blessed. Guardianship of others, but especially of those who study and preserve these relics to the past, is also of great importance to Soralyon. As magic is a valuable tool in guarding, studying, and preserving these monuments and people, Soralyon encourages the study of magic, preferably for use in learning or protection. When the Mystic Angel appears to mortals he usually does so as a handsome being beautifully carved of smooth marble, the hues of which range the entire spectrum of the stone but tend toward those most common locally. Followers of Soralyon include archaeologists, historians, bodyguards, guardians, sculptors, curators, and arcane spellcasters. Category [Empyreal Lords ](/DeityCategories.aspx?ID=10) Edicts Study monuments, craft golems and artwork from stone, guard ancient sites Anathema Defile sacred buildings, knowingly unearth evil monuments, destroy historical artifacts Area of Concern guardians, monuments, and magic Follower Alignments LG, NG, N, CG Devotee Benefits Divine Ability Strength or Intelligence Divine Font Heal Divine Skill Arcana Favored Weapon Pick Domains Creation, Earth, Magic, Protection Alternate Domains Cleric Spells - 1st Summon Construct - 3rd Meld into Stone - 4th Stoneskin\n",
- "trait": [
-  "NG"
- ],
- "trait_raw": [
-  "NG"
- ],
+ "text": " Soralyon (The Mystic Angel) Source Divine Mysteries pg. 310 Guardians, monuments, and magic are the purview of the Mystic Angel. Soralyon believes that monuments and ruins are important links to the past. Guarding them against those who would defile or destroy them is of tremendous importance, lest people lose memories of who they are, where they came from, and what they have accomplished. As such, those who stand guard over monuments and ruins are blessed. Likewise, those who study monuments to the past and present with respect, or seek to preserve them for the future, are also blessed. Guardianship of others, but especially of those who study and preserve these relics to the past, is also of great importance to Soralyon. As magic is a valuable tool in guarding, studying, and preserving these monuments and people, Soralyon encourages the study of magic, preferably for use in learning or protection. When the Mystic Angel appears to mortals, he usually does so as a handsome being beautifully carved of smooth marble, the hues of which range the entire spectrum of the stone but tend toward those most common locally. Followers of Soralyon include archaeologists, historians, bodyguards, guardians, sculptors, curators, and arcane spellcasters. Category Empyreal Lords Edicts Study monuments, craft golems and artwork from stone, guard ancient sites Anathema Defile sacred buildings, knowingly unearth evil monuments, destroy historical artifacts Area of Concern Guardians, magic, monuments Devotee Benefits Divine Attribute Strength or Intelligence Divine Font Heal Divine Sanctification can choose holy Divine Skill Arcana Favored Weapon Pick Domains Creation, Earth, Magic, Protection Alternate Domains Vigil Cleric Spells - 1st Summon Construct - 3rd One with Stone - 4th Mountain Resilience\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=128",
+ "url": "/Deities.aspx?ID=484",
  "weakness": {}
 }

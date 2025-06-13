@@ -3,35 +3,49 @@
   "Chapter 1: Introduction",
   "Character Creation"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-89",
- "markdown": "<title level=\"1\" right=\"Rules\">[Step 9 Calculate Modifiers](/Rules.aspx?ID=89)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 27 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nWith most of the big decisions for your character made, it’s time to calculate the modifiers for each of the following statistics. If your proficiency rank for a statistic is trained, expert, master, and legendary, your bonus equals your character’s level plus another number based on the rank (2, 4, 6, and 8, respectively). If your character is untrained, your proficiency bonus is +0.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Character Sheet</title>\r\n\r\nFor Perception and saving throws, write your proficiency bonus and the appropriate ability modifier in the boxes provided, then record the total modifier in the large space. Record the proficiency bonuses, ability modifiers, and total modifiers for your melee Strikes and ranged Strikes in the box after the name of each weapon, and put the damage for each in the space below, along with the traits for that attack. For skills, record the relevant ability modifier and proficiency bonus in the appropriate box for each skill, and then write the total skill modifiers in the spaces to the left. If your character has any modifiers, bonuses, or penalties from feats or abilities that always apply, add them into the total modifiers. For ones that apply only in certain situations, note them next to the total modifiers.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"rules-90\" />\r\n\r\n<document level=\"2\" id=\"rules-91\" />\r\n\r\n<document level=\"2\" id=\"rules-92\" />\r\n\r\n<document level=\"2\" id=\"rules-93\" />",
- "name": "Step 9 Calculate Modifiers",
+ "id": "rules-2039",
+ "legacy_id": [
+  "rules-89"
+ ],
+ "legacy_name": [
+  "Step 9 Calculate Modifiers"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Step 9: Calculate Modifiers](/Rules.aspx?ID=2039)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 25 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nWith most of the big decisions for your character made, it's time to calculate the modifiers for each of the following statistics. If your proficiency rank for a statistic is trained, expert, master, or legendary, your bonus equals your character's level plus another number based on the rank (2, 4, 6, and 8, respectively). If your character is untrained, your proficiency bonus is +0.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Spells and Spellcasting</title>\r\n\r\nMany characters can learn a few cantrips or focus spells, but the bard, cleric, druid, witch, and wizard all gain spellcasting—the ability to cast a wide variety of spells. If your character’s class grants spells, you should take time during Step 7 to learn about the spells they know and how to cast them. The fourth page of the character sheet provides space to note your character’s magic tradition and their proficiency rank for their spell attack modifier and spell DC. It also gives space to record the spells in your character’s repertoire or spellbook. Each class determines how and which spells a character can cast, but the spells themselves and detailed rules for spellcasting are located in Chapter 7.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"rules-2040\" />\r\n\r\n<document level=\"2\" id=\"rules-2041\" />\r\n\r\n<document level=\"2\" id=\"rules-2042\" />\r\n\r\n<document level=\"2\" id=\"rules-2043\" />",
+ "name": "Step 9: Calculate Modifiers",
  "next_link": {
-  "label": "Step 10 Finishing Details",
-  "url": "/Rules.aspx?ID=94"
+  "label": "Step 10: Finishing Details",
+  "url": "/Rules.aspx?ID=2044"
  },
  "previous_link": {
-  "label": "Step 8 Buy Equipment",
-  "url": "/Rules.aspx?ID=88"
+  "label": "Step 8: Buy Equipment",
+  "url": "/Rules.aspx?ID=2038"
  },
+ "primary_source": "Player Core",
+ "primary_source_raw": "Player Core pg. 25",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 27 <sup>4.0</sup></row>\r\n\r\nChapter 1: Introduction / Character Creation\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 25 <sup>2.0</sup>\r\n\r\nChapter 1: Introduction / Character Creation\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWith most of the big decisions for your character made, it's time to calculate the modifiers for each of the following statistics. If your …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 27"
+  "Player Core pg. 25"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 27 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 25 <sup>2.0</sup>",
  "speed": {},
- "text": " Step 9 Calculate Modifiers Source Core Rulebook pg. 27 4.0 With most of the big decisions for your character made, it’s time to calculate the modifiers for each of the following statistics. If your proficiency rank for a statistic is trained, expert, master, and legendary, your bonus equals your character’s level plus another number based on the rank (2, 4, 6, and 8, respectively). If your character is untrained, your proficiency bonus is +0. Character Sheet For Perception and saving throws, write your proficiency bonus and the appropriate ability modifier in the boxes provided, then record the total modifier in the large space. Record the proficiency bonuses, ability modifiers, and total modifiers for your melee Strikes and ranged Strikes in the box after the name of each weapon, and put the damage for each in the space below, along with the traits for that attack. For skills, record the relevant ability modifier and proficiency bonus in the appropriate box for each skill, and then write the total skill modifiers in the spaces to the left. If your character has any modifiers, bonuses, or penalties from feats or abilities that always apply, add them into the total modifiers. For ones that apply only in certain situations, note them next to the total modifiers. ",
+ "summary": "With most of the big decisions for your character made, it's time to calculate the modifiers for each of the following statistics. If your …",
+ "summary_markdown": "With most of the big decisions for your character made, it's time to calculate the modifiers for each of the following statistics. If your …",
+ "text": " Step 9: Calculate Modifiers Source Player Core pg. 25 2.0 With most of the big decisions for your character made, it's time to calculate the modifiers for each of the following statistics. If your proficiency rank for a statistic is trained, expert, master, or legendary, your bonus equals your character's level plus another number based on the rank (2, 4, 6, and 8, respectively). If your character is untrained, your proficiency bonus is +0. Spells and Spellcasting Many characters can learn a few cantrips or focus spells, but the bard, cleric, druid, witch, and wizard all gain spellcasting—the ability to cast a wide variety of spells. If your character’s class grants spells, you should take time during Step 7 to learn about the spells they know and how to cast them. The fourth page of the character sheet provides space to note your character’s magic tradition and their proficiency rank for their spell attack modifier and spell DC. It also gives space to record the spells in your character’s repertoire or spellbook. Each class determines how and which spells a character can cast, but the spells themselves and detailed rules for spellcasting are located in Chapter 7. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=89",
+ "url": "/Rules.aspx?ID=2039",
  "weakness": {}
 }

@@ -1,42 +1,54 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Soaring Form"
  ],
  "feat_markdown": "Soaring Form",
- "id": "feat-2447",
- "level": 17,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 17\"\r\n    pfs=\"Standard\"\r\n>\r\n[Soaring Form](/Feats.aspx?ID=2447) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Tengu\" url=\"/Traits.aspx?ID=240\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 59 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Soaring Flight](/Feats.aspx?ID=1320)\n\n</column>\r\n\r\n---\r\n\r\nYour wings grow stronger. You gain the effects of Soaring Flight at all times.",
+ "id": "feat-5686",
+ "legacy_id": [
+  "feat-2447"
+ ],
+ "level": 9,
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 9\"\r\n    pfs=\"Standard\"\r\n>\r\n[Soaring Form](/Feats.aspx?ID=5686) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Tengu\" url=\"/Traits.aspx?ID=776\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 35 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Soaring Flight](/Feats.aspx?ID=5684)\n\n</column>\r\n\r\n---\r\n\r\nYou have a fly Speed of 20 feet at all times.",
  "name": "Soaring Form",
  "pfs": "Standard",
  "prerequisite": "Soaring Flight",
- "prerequisite_markdown": "[Soaring Flight](/Feats.aspx?ID=1320)",
+ "prerequisite_markdown": "[Soaring Flight](/Feats.aspx?ID=5684)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 35",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2021-02-24",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Tengu\" url=\"/Traits.aspx?ID=240\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Ancestry Guide](/Sources.aspx?ID=74) pg. 59 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Soaring Flight](/Feats.aspx?ID=1320)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour wings grow stronger.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Tengu\" url=\"/Traits.aspx?ID=776\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 35 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Soaring Flight](/Feats.aspx?ID=5684)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have a fly Speed of 20 feet at all times.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Ancestry Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Ancestry Guide pg. 59"
+  "Player Core 2 pg. 35"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Ancestry Guide](/Sources.aspx?ID=74) pg. 59 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 35 <sup>1.1</sup>",
  "speed": {},
- "summary": "Your wings grow stronger.",
- "summary_markdown": "Your wings grow stronger.",
- "text": "<title level=\"1\" right=\"Feat 17\" pfs=\"Standard\" > Soaring Form Source Ancestry Guide pg. 59 2.0 Prerequisites Soaring Flight --- Your wings grow stronger. You gain the effects of Soaring Flight at all times.",
+ "summary": "You have a fly Speed of 20 feet at all times.",
+ "summary_markdown": "You have a fly Speed of 20 feet at all times.",
+ "text": "<title level=\"1\" right=\"Feat 9\" pfs=\"Standard\" > Soaring Form Source Player Core 2 pg. 35 1.1 Prerequisites Soaring Flight --- You have a fly Speed of 20 feet at all times.",
  "trait": [
   "Tengu"
  ],
- "trait_markdown": "[Tengu](/Traits.aspx?ID=240)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Tengu](/Traits.aspx?ID=776)",
  "trait_raw": [
   "Tengu"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2447",
+ "url": "/Feats.aspx?ID=5686",
  "weakness": {}
 }

@@ -3,35 +3,46 @@
   "Chapter 6: Equipment",
   "Gear"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-241",
- "markdown": "<title level=\"1\" right=\"Rules\">[Alchemical Gear](/Rules.aspx?ID=241)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 292 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThe items listed on Table 6–11 are the most widely available alchemical items from Chapter 11, which a 1st-level character could likely access. The descriptions below are incomplete; each item’s full entry appears in Chapter 11 on the page listed in the table. Your GM might allow you to start with other alchemical items from Chapter 11 on a case-by-case basis.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-242\" />\r\n\r\n<document level=\"2\" id=\"rules-243\" />\r\n\r\n<document level=\"2\" id=\"rules-244\" />",
+ "id": "rules-2209",
+ "legacy_id": [
+  "rules-241"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Alchemical Gear](/Rules.aspx?ID=2209)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 292 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThe items listed on the Alchemical Gear table are the most widely available alchemical items on Golarion, which a 1st-level character could likely access. Each item’s full entry appears in GM Core. Your GM might allow you to start with other alchemical items from there on a case-by-case basis.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-2210\" />\r\n\r\n<document level=\"2\" id=\"rules-2211\" />\r\n\r\n<document level=\"2\" id=\"rules-2212\" />",
  "name": "Alchemical Gear",
  "next_link": {
-  "label": "Magical Gear",
-  "url": "/Rules.aspx?ID=245"
+  "label": "Assistive Items",
+  "url": "/Rules.aspx?ID=2213"
  },
  "previous_link": {
-  "label": "Class Kits",
-  "url": "/Rules.aspx?ID=240"
+  "label": "Adventuring Gear",
+  "url": "/Rules.aspx?ID=2208"
  },
+ "primary_source": "Player Core",
+ "primary_source_raw": "Player Core pg. 292",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 292 <sup>4.0</sup></row>\r\n\r\nChapter 6: Equipment / Gear\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 292 <sup>2.0</sup>\r\n\r\nChapter 6: Equipment / Gear\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe items listed on the Alchemical Gear table are the most widely available alchemical items on Golarion, which a 1st-level character could likely …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 292"
+  "Player Core pg. 292"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 292 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 292 <sup>2.0</sup>",
  "speed": {},
- "text": " Alchemical Gear Source Core Rulebook pg. 292 4.0 The items listed on Table 6–11 are the most widely available alchemical items from Chapter 11, which a 1st-level character could likely access. The descriptions below are incomplete; each item’s full entry appears in Chapter 11 on the page listed in the table. Your GM might allow you to start with other alchemical items from Chapter 11 on a case-by-case basis. ",
+ "summary": "The items listed on the Alchemical Gear table are the most widely available alchemical items on Golarion, which a 1st-level character could likely …",
+ "summary_markdown": "The items listed on the Alchemical Gear table are the most widely available alchemical items on Golarion, which a 1st-level character could likely …",
+ "text": " Alchemical Gear Source Player Core pg. 292 2.0 The items listed on the Alchemical Gear table are the most widely available alchemical items on Golarion, which a 1st-level character could likely access. Each item’s full entry appears in GM Core. Your GM might allow you to start with other alchemical items from there on a case-by-case basis. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=241",
+ "url": "/Rules.aspx?ID=2209",
  "weakness": {}
 }

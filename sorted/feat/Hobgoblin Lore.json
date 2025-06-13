@@ -1,40 +1,52 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Hobgoblin Lore"
  ],
  "feat_markdown": "Hobgoblin Lore",
- "id": "feat-1025",
+ "id": "feat-5570",
+ "legacy_id": [
+  "feat-1025"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Hobgoblin Lore](/Feats.aspx?ID=1025) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=268\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 50 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou’ve studied traditional hobgoblin exercises and fieldcraft, all of which have a militaristic bent. You become trained in [Athletics](/Skills.aspx?ID=3) and [Crafting](/Skills.aspx?ID=4). For each of these skills in which you were already trained, you become trained in a skill of your choice. You also become trained in Hobgoblin [Lore](/Skills.aspx?ID=8).",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Hobgoblin Lore](/Feats.aspx?ID=5570) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=757\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 14 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou've studied traditional hobgoblin exercises and fieldcraft, all of which have a militaristic bent. You gain the trained proficiency rank in [Athletics](/Skills.aspx?ID=36) and [Crafting](/Skills.aspx?ID=37). If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. \n\nYou gain the [Additional Lore](/Feats.aspx?ID=5114) general feat for [Hobgoblin Lore](/Skills.aspx?ID=41).",
  "name": "Hobgoblin Lore",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 14",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-10-16",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=268\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 50 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou’ve studied traditional hobgoblin exercises and fieldcraft, all of which have a militaristic bent.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Hobgoblin\" url=\"/Traits.aspx?ID=757\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 14 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou've studied traditional hobgoblin exercises and fieldcraft, all of which have a militaristic bent.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Character Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Character Guide pg. 50"
+  "Player Core 2 pg. 14"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Character Guide](/Sources.aspx?ID=12) pg. 50 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 14 <sup>1.1</sup>",
  "speed": {},
- "summary": "You’ve studied traditional hobgoblin exercises and fieldcraft, all of which have a militaristic bent.",
- "summary_markdown": "You’ve studied traditional hobgoblin exercises and fieldcraft, all of which have a militaristic bent.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Hobgoblin Lore Source Character Guide pg. 50 2.0 --- You’ve studied traditional hobgoblin exercises and fieldcraft, all of which have a militaristic bent. You become trained in Athletics and Crafting. For each of these skills in which you were already trained, you become trained in a skill of your choice. You also become trained in Hobgoblin Lore.",
+ "summary": "You've studied traditional hobgoblin exercises and fieldcraft, all of which have a militaristic bent.",
+ "summary_markdown": "You've studied traditional hobgoblin exercises and fieldcraft, all of which have a militaristic bent.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Hobgoblin Lore Source Player Core 2 pg. 14 1.1 --- You've studied traditional hobgoblin exercises and fieldcraft, all of which have a militaristic bent. You gain the trained proficiency rank in Athletics and Crafting. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You gain the Additional Lore general feat for Hobgoblin Lore.",
  "trait": [
   "Hobgoblin"
  ],
- "trait_markdown": "[Hobgoblin](/Traits.aspx?ID=268)",
+ "trait_group": [
+  "Monster"
+ ],
+ "trait_markdown": "[Hobgoblin](/Traits.aspx?ID=757)",
  "trait_raw": [
   "Hobgoblin"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1025",
+ "url": "/Feats.aspx?ID=5570",
  "weakness": {}
 }

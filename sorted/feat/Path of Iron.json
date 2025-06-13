@@ -1,9 +1,9 @@
 {
  "actions": "Three Actions",
+ "actions_number": 6,
  "archetype": [
   "Martial Artist"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
@@ -11,39 +11,53 @@
  ],
  "feat_markdown": "Path of Iron",
  "frequency": "once per minute",
- "id": "feat-2021",
+ "id": "feat-6367",
+ "legacy_id": [
+  "feat-2021"
+ ],
  "level": 14,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 14\"\r\n    pfs=\"Standard\"\r\n>\r\n[Path of Iron](/Feats.aspx?ID=2021) <actions string=\"Three Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Flourish\" url=\"/Traits.aspx?ID=73\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 182 <sup>2.0</sup></row>\n\n**Archetype** [Martial Artist](/Archetypes.aspx?ID=67)\n\n**Frequency**\r\nonce per minute\r\n\r\n**Prerequisites**\r\n[Martial Artist Dedication](/Feats.aspx?ID=2018)\n\n</column>\r\n\r\n---\r\n\r\nWith a burst of effort, you weave a path through your enemies, striking each in turn as you move past them. You Stride; this movement doesn't trigger reactions. You can Strike up to three times at any point during your movement, each against a different enemy. Each attack counts toward your multiple attack penalty, but your multiple attack penalty doesn't increase until you have made all your attacks.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 14\"\r\n    pfs=\"Standard\"\r\n>\r\n[Path of Iron](/Feats.aspx?ID=6367) <actions string=\"Three Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Flourish\" url=\"/Traits.aspx?ID=606\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 206 <sup>1.1</sup>\n\n**Archetype** [Martial Artist](/Archetypes.aspx?ID=255)\n\n**Frequency**\r\nonce per minute\r\n\r\n**Prerequisites**\r\n[Martial Artist Dedication](/Feats.aspx?ID=6364)\n\n</column>\r\n\r\n---\r\n\r\nWith a burst of effort and speed, you weave a nimble path through your many enemies, striking each in turn as you move past them. You [Stride](/Actions.aspx?ID=2305); this movement doesn’t trigger reactions. You can attempt a melee [Strike](/Actions.aspx?ID=2306) up to three times at any point during your movement, each against a different enemy. Each attack counts toward your [multiple attack penalty](/Rules.aspx?ID=2289), but your multiple attack penalty doesn’t increase until you have made all your attacks.",
  "name": "Path of Iron",
  "pfs": "Standard",
  "prerequisite": "Martial Artist Dedication",
- "prerequisite_markdown": "[Martial Artist Dedication](/Feats.aspx?ID=2018)",
+ "prerequisite_markdown": "[Martial Artist Dedication](/Feats.aspx?ID=6364)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 206",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Flourish\" url=\"/Traits.aspx?ID=73\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 182 <sup>2.0</sup></row>\r\n\r\n**Frequency**\r\nonce per minute\r\n\r\n**Prerequisites**\r\n[Martial Artist Dedication](/Feats.aspx?ID=2018)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWith a burst of effort, you weave a path through your enemies, striking each in turn as you move past them.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Flourish\" url=\"/Traits.aspx?ID=606\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 206 <sup>1.1</sup>\n\n**Frequency**\r\nonce per minute\r\n\r\n**Prerequisites**\r\n[Martial Artist Dedication](/Feats.aspx?ID=6364)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWith a burst of effort and speed, you weave a nimble path through your many enemies, striking each in turn as you move past them.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 182"
+  "Player Core 2 pg. 206"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 182 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 206 <sup>1.1</sup>",
  "speed": {},
- "summary": "With a burst of effort, you weave a path through your enemies, striking each in turn as you move past them.",
- "summary_markdown": "With a burst of effort, you weave a path through your enemies, striking each in turn as you move past them.",
- "text": "<title level=\"1\" right=\"Feat 14\" pfs=\"Standard\" > Path of Iron Three Actions Source Advanced Player's Guide pg. 182 2.0 Archetype Martial Artist Frequency once per minute Prerequisites Martial Artist Dedication --- With a burst of effort, you weave a path through your enemies, striking each in turn as you move past them. You Stride; this movement doesn't trigger reactions. You can Strike up to three times at any point during your movement, each against a different enemy. Each attack counts toward your multiple attack penalty, but your multiple attack penalty doesn't increase until you have made all your attacks.",
+ "summary": "With a burst of effort and speed, you weave a nimble path through your many enemies, striking each in turn as you move past them.",
+ "summary_markdown": "With a burst of effort and speed, you weave a nimble path through your many enemies, striking each in turn as you move past them.",
+ "text": "<title level=\"1\" right=\"Feat 14\" pfs=\"Standard\" > Path of Iron Three Actions Source Player Core 2 pg. 206 1.1 Archetype Martial Artist Frequency once per minute Prerequisites Martial Artist Dedication --- With a burst of effort and speed, you weave a nimble path through your many enemies, striking each in turn as you move past them. You Stride; this movement doesn’t trigger reactions. You can attempt a melee Strike up to three times at any point during your movement, each against a different enemy. Each attack counts toward your multiple attack penalty, but your multiple attack penalty doesn’t increase until you have made all your attacks.",
  "trait": [
   "Archetype",
   "Flourish"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Flourish](/Traits.aspx?ID=73)",
+ "trait_group": [
+  "Feat",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535), [Flourish](/Traits.aspx?ID=606)",
  "trait_raw": [
   "Archetype",
   "Flourish"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2021",
+ "url": "/Feats.aspx?ID=6367",
  "weakness": {}
 }

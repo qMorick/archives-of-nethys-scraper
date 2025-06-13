@@ -1,26 +1,35 @@
 {
- "breadcrumbs_spa": [],
  "category": "trait",
  "exclude_from_search": false,
- "id": "trait-320",
- "markdown": "<title level=\"1\" right=\"Trait\">[Cursebound](/Traits.aspx?ID=320)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 267 <sup>2.0</sup></row>\n\nSpells with this trait increase the severity of your oracular curse when cast. Usually only revelation spells have this trait. You can't cast a cursebound spell if you don't have an oracular curse.",
+ "id": "trait-800",
+ "legacy_id": [
+  "trait-320"
+ ],
+ "markdown": "<title level=\"1\" right=\"Trait\">[Cursebound](/Traits.aspx?ID=800)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 133 <sup>1.1</sup>\n\nAbilities with this trait tighten your [oracular](/Classes.aspx?ID=61) curse's grasp on your soul in exchange for divine insights, giving you the cursebound condition. When you use a cursebound ability, you become cursebound 1, or if you were already cursebound, you increase the value of your cursebound condition by 1. As cursebound abilities are directly linked to your oracular curse, you can't use a cursebound ability if you don't have an oracular curse or if you are already at your maximum cursebound value. You can't mitigate or bypass the drawbacks of any cursebound ability with spells or other effects, and the effects of any cursebound ability end when you [Refocus](/Actions.aspx?ID=2621) and remove the cursebound condition. A cursebound ability that allows a defense uses your spell attack modifier or spell DC unless noted otherwise.",
  "name": "Cursebound",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 133",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 267 <sup>2.0</sup></row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSpells with this trait increase the severity of your oracular curse when cast. Usually only revelation spells have this trait. You can't cast a …\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 133 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAbilities with this trait tighten your  oracular  curse's grasp on your soul in exchange for divine insights, giving you the cursebound condition. …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 267"
+  "Player Core 2 pg. 133"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 267 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 133 <sup>1.1</sup>",
  "speed": {},
- "summary": "Spells with this trait increase the severity of your oracular curse when cast. Usually only revelation spells have this trait. You can't cast a …",
- "summary_markdown": "Spells with this trait increase the severity of your oracular curse when cast. Usually only revelation spells have this trait. You can't cast a …",
- "text": " Cursebound Source Advanced Player's Guide pg. 267 2.0 Spells with this trait increase the severity of your oracular curse when cast. Usually only revelation spells have this trait. You can't cast a cursebound spell if you don't have an oracular curse.",
+ "summary": "Abilities with this trait tighten your  oracular  curse's grasp on your soul in exchange for divine insights, giving you the cursebound condition. …",
+ "summary_markdown": "Abilities with this trait tighten your  oracular  curse's grasp on your soul in exchange for divine insights, giving you the cursebound condition. …",
+ "text": " Cursebound Source Player Core 2 pg. 133 1.1 Abilities with this trait tighten your oracular curse's grasp on your soul in exchange for divine insights, giving you the cursebound condition. When you use a cursebound ability, you become cursebound 1, or if you were already cursebound, you increase the value of your cursebound condition by 1. As cursebound abilities are directly linked to your oracular curse, you can't use a cursebound ability if you don't have an oracular curse or if you are already at your maximum cursebound value. You can't mitigate or bypass the drawbacks of any cursebound ability with spells or other effects, and the effects of any cursebound ability end when you Refocus and remove the cursebound condition. A cursebound ability that allows a defense uses your spell attack modifier or spell DC unless noted otherwise.",
  "trait": [
   "Cursebound"
  ],
@@ -32,6 +41,6 @@
   "Cursebound"
  ],
  "type": "Trait",
- "url": "/Traits.aspx?ID=320",
+ "url": "/Traits.aspx?ID=800",
  "weakness": {}
 }

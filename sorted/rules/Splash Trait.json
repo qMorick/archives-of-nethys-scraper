@@ -1,38 +1,49 @@
 {
  "breadcrumbs": [
-  "Chapter 11: Crafting & Treasure",
-  "Alchemical Items",
+  "Chapter 5: Treasure Trove",
+  "Alchemy",
   "Alchemical Bombs"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-704",
- "markdown": "<title level=\"1\" right=\"Rules\">[Splash Trait](/Rules.aspx?ID=704)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 544 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nMost bombs also have the [splash](/Traits.aspx?ID=150) trait. When you use a [thrown](/Traits.aspx?ID=195) weapon with the splash trait, you don't add your Strength modifier to the damage roll. If an attack with a splash weapon fails, succeeds, or critically succeeds, all creatures within 5 feet of the target (including the target) take the listed splash damage. On a critical failure, the bomb misses entirely, dealing no damage. Add splash damage together with the initial damage against the target before applying the target's resistance or weakness. You don't multiply splash damage on a critical hit.\n\n For example, if you throw a [lesser acid flask](/Equipment.aspx?ID=74) and hit your target, that creature takes 1 acid damage, 1d6 [persistent acid damage](/Conditions.aspx?ID=29), and 1 acid splash damage. All other creatures within 5 feet of it take 1 acid splash damage. On a critical hit, the target takes 2 acid damage and 2d6 persistent acid damage, but the splash damage is still 1. If you miss, the target and all creatures within 5 feet take only 1 splash damage. If you critically fail, no one takes any damage.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-3182",
+ "legacy_id": [
+  "rules-704"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Splash Trait](/Rules.aspx?ID=3182)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 244 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nSome weapons and effects, such as alchemical bombs, have the [splash](/Traits.aspx?ID=699) trait. When you use a weapon or effect with the splash trait, you don’t add your Strength modifier to the damage roll. A splash weapon or effect deals any listed splash damage to the target on a failure, success, or critical success, and to all other creatures within 5 feet of the target on a success or critical success. On a critical failure, the weapon or effect misses entirely, dealing no damage. Add splash damage together with the initial damage against the target before applying the target’s [resistance](/Rules.aspx?ID=2318) or [weakness](/Rules.aspx?ID=2317). You don’t multiply splash damage on a critical hit.\n\nFor example, if you throw a [lesser acid flask](/Equipment.aspx?ID=2875) and hit your target, that creature takes 1 acid damage, 1d6 persistent acid damage, and 1 acid splash damage. All other creatures within 5 feet of it take 1 acid splash damage. On a critical hit, the target takes 2 acid damage and 2d6 persistent acid damage, but the splash damage is still 1. If you miss, the target takes only 1 acid splash damage. If you critically fail, no one takes any damage.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Splash Trait",
  "next_link": {
   "label": "Alchemical Elixirs",
-  "url": "/Rules.aspx?ID=705"
+  "url": "/Rules.aspx?ID=3183"
  },
  "previous_link": {
-  "label": "Reading Items",
-  "url": "/Rules.aspx?ID=694"
+  "label": "Armor & Armaments",
+  "url": "/Rules.aspx?ID=3161"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 244",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 544 <sup>4.0</sup></row>\r\n\r\nChapter 11: Crafting &amp; Treasure / Alchemical Items / Alchemical Bombs\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 244 <sup>2.0</sup>\r\n\r\nChapter 5: Treasure Trove / Alchemy / Alchemical Bombs\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSome weapons and effects, such as alchemical bombs, have the  splash  trait. When you use a weapon or effect with the splash trait, you don’t add …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 544"
+  "GM Core pg. 244"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 544 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 244 <sup>2.0</sup>",
  "speed": {},
- "text": " Splash Trait Source Core Rulebook pg. 544 4.0 Most bombs also have the splash trait. When you use a thrown weapon with the splash trait, you don't add your Strength modifier to the damage roll. If an attack with a splash weapon fails, succeeds, or critically succeeds, all creatures within 5 feet of the target (including the target) take the listed splash damage. On a critical failure, the bomb misses entirely, dealing no damage. Add splash damage together with the initial damage against the target before applying the target's resistance or weakness. You don't multiply splash damage on a critical hit. For example, if you throw a lesser acid flask and hit your target, that creature takes 1 acid damage, 1d6 persistent acid damage, and 1 acid splash damage. All other creatures within 5 feet of it take 1 acid splash damage. On a critical hit, the target takes 2 acid damage and 2d6 persistent acid damage, but the splash damage is still 1. If you miss, the target and all creatures within 5 feet take only 1 splash damage. If you critically fail, no one takes any damage. ",
+ "summary": "Some weapons and effects, such as alchemical bombs, have the  splash  trait. When you use a weapon or effect with the splash trait, you don’t add …",
+ "summary_markdown": "Some weapons and effects, such as alchemical bombs, have the  splash  trait. When you use a weapon or effect with the splash trait, you don’t add …",
+ "text": " Splash Trait Source GM Core pg. 244 2.0 Some weapons and effects, such as alchemical bombs, have the splash trait. When you use a weapon or effect with the splash trait, you don’t add your Strength modifier to the damage roll. A splash weapon or effect deals any listed splash damage to the target on a failure, success, or critical success, and to all other creatures within 5 feet of the target on a success or critical success. On a critical failure, the weapon or effect misses entirely, dealing no damage. Add splash damage together with the initial damage against the target before applying the target’s resistance or weakness. You don’t multiply splash damage on a critical hit. For example, if you throw a lesser acid flask and hit your target, that creature takes 1 acid damage, 1d6 persistent acid damage, and 1 acid splash damage. All other creatures within 5 feet of it take 1 acid splash damage. On a critical hit, the target takes 2 acid damage and 2d6 persistent acid damage, but the splash damage is still 1. If you miss, the target takes only 1 acid splash damage. If you critically fail, no one takes any damage. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=704",
+ "url": "/Rules.aspx?ID=3182",
  "weakness": {}
 }

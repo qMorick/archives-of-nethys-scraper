@@ -6,34 +6,46 @@
   "Profession",
   "Core"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-73",
+ "id": "archetype-261",
+ "image": [
+  "/Images/Archetypes/Archetype_Scout.webp"
+ ],
+ "legacy_id": [
+  "archetype-73"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Scout](/Archetypes.aspx?ID=73)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 188 <sup>2.0</sup></row>\n\nYou're an expert in espionage and reconnaissance, able to skulk silently through the wilderness to gather intelligence, sneak through enemy lines to report to your comrades, or suddenly and decisively strike your foes. Your skills ease the difficulty of travel for you and your companions and keep you all on guard when you're approaching danger.\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-2047\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-3613\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4135\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2048\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2049\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2050\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2051\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-2052\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-519\"\r\noverride-title-right=\"Feat 12*\"\r\n\r\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Scout](/Archetypes.aspx?ID=261)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 212 <sup>1.1</sup>\n\nYou're an expert in espionage and reconnaissance, able to skulk silently through the wilderness to gather intelligence, sneak through enemy lines and report back to your comrades, or suddenly and decisively take down your foes. Your skills ease the difficulty of travel for you and your companions and keep you all alert to approaching danger. It's not just enemies that you scout out; you also survey the land. You're able to discover the easiest routes as safely as possible and remain watchful while moving with speed and subtlety. The responsibility of the party's safe passage depends on you performing your scouting duties with constant and consistent effort. You take pride in your vigilance, and your allies trust your guidance to ensure the safety of everyone traveling.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Scout.webp\" />\r\n</column>\r\n\r\n</row>\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-6394\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6395\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6396\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6397\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6398\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6399\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4887\"\r\noverride-title-right=\"Feat 12*\"\r\n\r\n/>",
  "name": "Scout",
  "pfs": "Standard",
  "prerequisite": "Trained in Stealth; Trained in Survival",
- "prerequisite_markdown": "Trained in [Stealth](/Skills.aspx?ID=15); Trained in [Survival](/Skills.aspx?ID=16)",
+ "prerequisite_markdown": "Trained in [Stealth](/Skills.aspx?ID=48); Trained in [Survival](/Skills.aspx?ID=49)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 212",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 188 <sup>2.0</sup></row>\r\n\r\n**Prerequisites**\r\nTrained in [Stealth](/Skills.aspx?ID=15); Trained in [Survival](/Skills.aspx?ID=16)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou're an expert in espionage and reconnaissance, able to skulk silently through the wilderness to gather intelligence, sneak through enemy lines to …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 212 <sup>1.1</sup>\r\n\r\n**Prerequisites**\r\nTrained in [Stealth](/Skills.aspx?ID=48); Trained in [Survival](/Skills.aspx?ID=49)\n\n**Archetype Categories**\r\nProfession, Core\r\n\r\n**Number of Feats** 7\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou're an expert in espionage and reconnaissance, able to skulk silently through the wilderness to gather intelligence, sneak through enemy lines and …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 188"
+  "Player Core 2 pg. 212"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 188 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 212 <sup>1.1</sup>",
  "speed": {},
- "summary": "You're an expert in espionage and reconnaissance, able to skulk silently through the wilderness to gather intelligence, sneak through enemy lines to …",
- "summary_markdown": "You're an expert in espionage and reconnaissance, able to skulk silently through the wilderness to gather intelligence, sneak through enemy lines to …",
- "text": " Scout Source Advanced Player's Guide pg. 188 2.0 You're an expert in espionage and reconnaissance, able to skulk silently through the wilderness to gather intelligence, sneak through enemy lines to report to your comrades, or suddenly and decisively strike your foes. Your skills ease the difficulty of travel for you and your companions and keep you all on guard when you're approaching danger. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-3613\" /> <document level=\"2\" id=\"feat-4135\" /> <document level=\"2\" id=\"feat-2048\" /> <document level=\"2\" id=\"feat-2049\" /> <document level=\"2\" id=\"feat-2050\" /> <document level=\"2\" id=\"feat-2051\" /> <document level=\"2\" id=\"feat-2052\" /> <document level=\"2\" id=\"feat-519\" override-title-right=\"Feat 12 \" />",
+ "summary": "You're an expert in espionage and reconnaissance, able to skulk silently through the wilderness to gather intelligence, sneak through enemy lines and …",
+ "summary_markdown": "You're an expert in espionage and reconnaissance, able to skulk silently through the wilderness to gather intelligence, sneak through enemy lines and …",
+ "text": " Scout Source Player Core 2 pg. 212 1.1 You're an expert in espionage and reconnaissance, able to skulk silently through the wilderness to gather intelligence, sneak through enemy lines and report back to your comrades, or suddenly and decisively take down your foes. Your skills ease the difficulty of travel for you and your companions and keep you all alert to approaching danger. It's not just enemies that you scout out; you also survey the land. You're able to discover the easiest routes as safely as possible and remain watchful while moving with speed and subtlety. The responsibility of the party's safe passage depends on you performing your scouting duties with constant and consistent effort. You take pride in your vigilance, and your allies trust your guidance to ensure the safety of everyone traveling. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-6395\" /> <document level=\"2\" id=\"feat-6396\" /> <document level=\"2\" id=\"feat-6397\" /> <document level=\"2\" id=\"feat-6398\" /> <document level=\"2\" id=\"feat-6399\" /> <document level=\"2\" id=\"feat-4887\" override-title-right=\"Feat 12 \" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=73",
+ "url": "/Archetypes.aspx?ID=261",
  "weakness": {}
 }

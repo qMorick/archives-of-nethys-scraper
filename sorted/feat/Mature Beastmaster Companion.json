@@ -3,44 +3,56 @@
   "Beastmaster",
   "Undead Master"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Mature Beastmaster Companion"
  ],
  "feat_markdown": "Mature Beastmaster Companion",
- "id": "feat-1903",
+ "id": "feat-6269",
+ "legacy_id": [
+  "feat-1903"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Mature Beastmaster Companion](/Feats.aspx?ID=1903) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 160 <sup>2.0</sup></row>\n\n**Archetypes** [Beastmaster](/Archetypes.aspx?ID=50), [Undead Master](/Archetypes.aspx?ID=176) (Level 4)\n\n**Prerequisites**\r\n[Beastmaster Dedication](/Feats.aspx?ID=1900)\n\n</column>\r\n\r\n---\r\n\r\nAll of your animal companions grow up, becoming [mature animal companions](/Rules.aspx?ID=155) and gaining additional capabilities. During an encounter, even if you don't use the [Command an Animal](/Actions.aspx?ID=58) action, your animal companion can still use 1 action on your turn to either Stride or Strike.\n\n<title level=\"2\">Mature Beastmaster Companion leads to...</title>\r\n[Incredible Beastmaster Companion](/Feats.aspx?ID=1905), [Lead the Pack](/Feats.aspx?ID=1909)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Mature Beastmaster Companion](/Feats.aspx?ID=6269) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 188 <sup>1.1</sup>\n\n**Archetypes** [Beastmaster](/Archetypes.aspx?ID=241), [Undead Master](/Archetypes.aspx?ID=176) (Level 4)\n\n**Prerequisites**\r\n[Beastmaster Dedication](/Feats.aspx?ID=6267)\n\n</column>\r\n\r\n---\r\n\r\nAll of your animal companions grow up, becoming [mature animal companions](/Rules.aspx?ID=2117) and gaining additional capabilities.\n\nYour animal companion has greater independence. During an encounter, even if you don’t use the [Command an Animal](/Actions.aspx?ID=2400) action, your active animal companion can still use 1 action that round on your turn to [Stride](/Actions.aspx?ID=2305) or [Strike](/Actions.aspx?ID=2306). It can do this at any point during your turn, as long as you aren’t currently taking an action. If it does, that’s all the actions it gets that round— you can’t Command it later.\n\n<title level=\"2\">Mature Beastmaster Companion leads to...</title>\r\n[Incredible Beastmaster Companion](/Feats.aspx?ID=6272), [Lead the Pack](/Feats.aspx?ID=6276)",
  "name": "Mature Beastmaster Companion",
  "pfs": "Standard",
  "prerequisite": "Beastmaster Dedication",
- "prerequisite_markdown": "[Beastmaster Dedication](/Feats.aspx?ID=1900)",
+ "prerequisite_markdown": "[Beastmaster Dedication](/Feats.aspx?ID=6267)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 188",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 160 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Beastmaster Dedication](/Feats.aspx?ID=1900)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAll of your animal companions grow up, becoming mature animal companions and gaining additional capabilities.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 188 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Beastmaster Dedication](/Feats.aspx?ID=6267)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAll of your animal companions grow up, becoming mature animal companions and gaining additional capabilities.\r\n\r\nYour animal companion has greater independence.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 160"
+  "Player Core 2 pg. 188"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 160 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 188 <sup>1.1</sup>",
  "speed": {},
- "summary": "All of your animal companions grow up, becoming mature animal companions and gaining additional capabilities.",
- "summary_markdown": "All of your animal companions grow up, becoming mature animal companions and gaining additional capabilities.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Mature Beastmaster Companion Source Advanced Player's Guide pg. 160 2.0 Archetypes Beastmaster, Undead Master (Level 4) Prerequisites Beastmaster Dedication --- All of your animal companions grow up, becoming mature animal companions and gaining additional capabilities. During an encounter, even if you don't use the Command an Animal action, your animal companion can still use 1 action on your turn to either Stride or Strike. Mature Beastmaster Companion leads to... Incredible Beastmaster Companion, Lead the Pack",
+ "summary": "All of your animal companions grow up, becoming mature animal companions and gaining additional capabilities.  Your animal companion has greater independence.",
+ "summary_markdown": "All of your animal companions grow up, becoming mature animal companions and gaining additional capabilities.\n\nYour animal companion has greater independence.",
+ "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Mature Beastmaster Companion Source Player Core 2 pg. 188 1.1 Archetypes Beastmaster, Undead Master (Level 4) Prerequisites Beastmaster Dedication --- All of your animal companions grow up, becoming mature animal companions and gaining additional capabilities. Your animal companion has greater independence. During an encounter, even if you don’t use the Command an Animal action, your active animal companion can still use 1 action that round on your turn to Stride or Strike. It can do this at any point during your turn, as long as you aren’t currently taking an action. If it does, that’s all the actions it gets that round— you can’t Command it later. Mature Beastmaster Companion leads to... Incredible Beastmaster Companion, Lead the Pack",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1903",
+ "url": "/Feats.aspx?ID=6269",
  "weakness": {}
 }

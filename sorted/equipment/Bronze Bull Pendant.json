@@ -1,56 +1,68 @@
 {
- "actions": "Free Action",
+ "actions": "Single Action",
+ "actions_number": 2,
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
+ "bulk": 0,
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-202",
+ "id": "equipment-2966",
  "item_category": "Consumables",
  "item_subcategory": "Talismans",
+ "legacy_id": [
+  "equipment-202"
+ ],
  "level": 2,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Bronze Bull Pendant](/Equipment.aspx?ID=202)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=155\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 566 <sup>4.0</sup></row>\n\n**Price** 7 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** affixed to armor\n\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Free Action\" /><row>envision</row></row>\r\n\r\n \r\n\r\n**Trigger** You attempt an Athletics check to Shove, but you haven't rolled yet\r\n\r\n**Requirement** You are trained in Athletics\r\n</row>\n\n</column>\r\n\r\n---\n\nThis pendant is forged from grainy steel and depicts a snorting bull’s face. The pendant must be attached to the chest area or on a shoulder guard. When you activate the pendant, you gain a +2 status bonus to the Athletics check to Shove, and if you roll a critical failure on the check, you get a failure instead.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 2\"\r\n    pfs=\"Standard\"\r\n>\r\n[Bronze Bull Pendant](/Equipment.aspx?ID=2966)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=709\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 263 <sup>2.0</sup>\n\n**Price** 7 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** affixed to armor\n\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([concentrate](/Traits.aspx?ID=32))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis pendant is forged from grainy steel and depicts a snorting bull's face. The pendant must be attached to the chest area or on a shoulder guard. When you activate the pendant, attempt an Athletics check to [Shove](/Actions.aspx?ID=38) with a +1 item bonus to check. Increase the distance you Shove your target to 10 feet on a success or 20 feet on a critical success.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Bronze Bull Pendant",
  "pfs": "Standard",
  "price": 700,
  "price_raw": "7 gp",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 263",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
- "requirement": "You are trained in Athletics",
- "requirement_markdown": "You are trained in Athletics",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "school": "evocation",
- "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=155\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 566 <sup>4.0</sup></row>\r\n\r\n**Price** 7 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** affixed to armor\r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Free Action\" /><row>envision</row></row>\r\n\r\n \r\n\r\n**Trigger** You attempt an Athletics check to Shove, but you haven't rolled yet\r\n\r\n**Requirement** You are trained in Athletics\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis pendant is forged from grainy steel and depicts a snorting bull’s face. The pendant must be attached to the chest area or on a shoulder guard. …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Talisman\" url=\"/Traits.aspx?ID=709\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 263 <sup>2.0</sup>\r\n\r\n**Price** 7 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** affixed to armor\r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\r\n<row gap=\"tiny\"><row>**Activate**</row><actions string=\"Single Action\" /><row>([concentrate](/Traits.aspx?ID=32))</row></row>\r\n\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis pendant is forged from grainy steel and depicts a snorting bull's face. The pendant must be attached to the chest area or on a shoulder guard. …\r\n</summary>",
+ "skill": [
+  "Athletics"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=36)",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 566"
+  "GM Core pg. 263"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 566 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 263 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "This pendant is forged from grainy steel and depicts a snorting bull’s face. The pendant must be attached to the chest area or on a shoulder guard. …",
- "summary_markdown": "This pendant is forged from grainy steel and depicts a snorting bull’s face. The pendant must be attached to the chest area or on a shoulder guard. …",
- "text": "<title level=\"1\" right=\"Item 2\" pfs=\"Standard\" > Bronze Bull Pendant Source Core Rulebook pg. 566 4.0 Price 7 gp Usage affixed to armor Activate Free Action envision Trigger You attempt an Athletics check to Shove, but you haven't rolled yet Requirement You are trained in Athletics --- This pendant is forged from grainy steel and depicts a snorting bull’s face. The pendant must be attached to the chest area or on a shoulder guard. When you activate the pendant, you gain a +2 status bonus to the Athletics check to Shove, and if you roll a critical failure on the check, you get a failure instead.\n",
+ "summary": "This pendant is forged from grainy steel and depicts a snorting bull's face. The pendant must be attached to the chest area or on a shoulder guard. …",
+ "summary_markdown": "This pendant is forged from grainy steel and depicts a snorting bull's face. The pendant must be attached to the chest area or on a shoulder guard. …",
+ "text": "<title level=\"1\" right=\"Item 2\" pfs=\"Standard\" > Bronze Bull Pendant Source GM Core pg. 263 2.0 Price 7 gp Usage affixed to armor Activate Single Action (concentrate) --- This pendant is forged from grainy steel and depicts a snorting bull's face. The pendant must be attached to the chest area or on a shoulder guard. When you activate the pendant, attempt an Athletics check to Shove with a +1 item bonus to check. Increase the distance you Shove your target to 10 feet on a success or 20 feet on a critical success.\n",
  "trait": [
   "Consumable",
-  "Evocation",
   "Magical",
   "Talisman"
  ],
- "trait_markdown": "[Consumable](/Traits.aspx?ID=36), [Evocation](/Traits.aspx?ID=65), [Magical](/Traits.aspx?ID=103), [Talisman](/Traits.aspx?ID=155)",
+ "trait_group": [
+  "Equipment",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Consumable](/Traits.aspx?ID=564), [Magical](/Traits.aspx?ID=644), [Talisman](/Traits.aspx?ID=709)",
  "trait_raw": [
   "Consumable",
-  "Evocation",
   "Magical",
   "Talisman"
  ],
- "trigger": "You attempt an Athletics check to Shove, but you haven't rolled yet",
- "trigger_markdown": "You attempt an Athletics check to Shove, but you haven't rolled yet",
  "type": "Item",
- "url": "/Equipment.aspx?ID=202",
+ "url": "/Equipment.aspx?ID=2966",
  "usage": "affixed to armor",
  "usage_markdown": "affixed to armor",
  "weakness": {}

@@ -2,44 +2,56 @@
  "archetype": [
   "Blessed One"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Blessed Sacrifice"
  ],
  "feat_markdown": "Blessed Sacrifice",
- "id": "feat-1911",
+ "id": "feat-6278",
+ "legacy_id": [
+  "feat-1911"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Blessed Sacrifice](/Feats.aspx?ID=1911) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 162 <sup>2.0</sup></row>\n\n**Archetype** [Blessed One](/Archetypes.aspx?ID=51)\n\n**Prerequisites**\r\n[Blessed One Dedication](/Feats.aspx?ID=1910)\n\n</column>\r\n\r\n---\r\n\r\nYou gain the [_protector's sacrifice_](/Spells.aspx?ID=441) domain spell as a devotion spell. Increase the number of Focus Points in your focus pool by 1.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Blessed Sacrifice](/Feats.aspx?ID=6278) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 190 <sup>1.1</sup>\n\n**Archetype** [Blessed One](/Archetypes.aspx?ID=242)\n\n**Prerequisites**\r\n[Blessed One Dedication](/Feats.aspx?ID=6277)\n\n</column>\r\n\r\n---\r\n\r\nYou gain the [_protector’s sacrifice_](/Spells.aspx?ID=1832) domain spell as a devotion spell.",
  "name": "Blessed Sacrifice",
  "pfs": "Standard",
  "prerequisite": "Blessed One Dedication",
- "prerequisite_markdown": "[Blessed One Dedication](/Feats.aspx?ID=1910)",
+ "prerequisite_markdown": "[Blessed One Dedication](/Feats.aspx?ID=6277)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 190",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 162 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Blessed One Dedication](/Feats.aspx?ID=1910)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain the _protector's sacrifice_ domain spell as a devotion spell.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 190 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Blessed One Dedication](/Feats.aspx?ID=6277)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain the protector’s sacrifice domain spell\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 162"
+  "Player Core 2 pg. 190"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 162 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 190 <sup>1.1</sup>",
  "speed": {},
- "summary": "You gain the  protector's sacrifice  domain spell as a devotion spell.",
- "summary_markdown": "You gain the _protector's sacrifice_ domain spell as a devotion spell.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Blessed Sacrifice Source Advanced Player's Guide pg. 162 2.0 Archetype Blessed One Prerequisites Blessed One Dedication --- You gain the protector's sacrifice domain spell as a devotion spell. Increase the number of Focus Points in your focus pool by 1.",
+ "summary": "You gain the protector’s sacrifice domain spell",
+ "summary_markdown": "You gain the protector’s sacrifice domain spell",
+ "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Blessed Sacrifice Source Player Core 2 pg. 190 1.1 Archetype Blessed One Prerequisites Blessed One Dedication --- You gain the protector’s sacrifice domain spell as a devotion spell.",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1911",
+ "url": "/Feats.aspx?ID=6278",
  "weakness": {}
 }

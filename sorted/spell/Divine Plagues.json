@@ -1,65 +1,89 @@
 {
  "actions": "Two Actions",
+ "actions_number": 4,
  "bloodline_markdown": "",
- "breadcrumbs_spa": [],
  "category": "spell",
- "component": [
-  "somatic",
-  "verbal"
- ],
- "deity_markdown": "",
  "domain": [
   "Plague"
  ],
- "domain_markdown": "[Plague](/Domains.aspx?ID=48)",
+ "domain_markdown": "[Plague](/Domains.aspx?ID=115)",
  "exclude_from_search": false,
  "heighten": [
   "5th"
+ ],
+ "heighten_group": [
+  "1st rank",
+  "Heightened 5th rank"
  ],
  "heighten_level": [
   1,
   5
  ],
- "id": "spell-610",
+ "id": "spell-2403",
+ "legacy_id": [
+  "spell-610"
+ ],
  "level": 1,
- "lesson_markdown": "",
- "markdown": "<title level=\"1\" right=\"Focus 1\" pfs=\"Standard\">[Divine Plagues](/Spells.aspx?ID=610)</title>\n\n<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Necromancy\" url=\"/Traits.aspx?ID=117\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 115 <sup>2.0</sup></row>\n\n**Domain**\r\n[Plague](/Domains.aspx?ID=48)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 15 feet\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** Fortitude\n\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYour deity sends wracking plagues. The target must attempt a Fortitude save. When you Cast the Spell, decide whether the disease inflicts the [clumsy](/Conditions.aspx?ID=3), [enfeebled](/Conditions.aspx?ID=13), or [stupefied](/Conditions.aspx?ID=37) condition.<br />\n\n**Success** The target is unaffected.<br />\n**Failure** The target is afflicted with divine plague at stage 1.<br />\n**Critical Failure** The target is afflicted with divine plague at stage 2.\n\n**Divine Plague** (disease) **Level** 1; **Stage 1** clumsy 1, enfeebled 1, or stupefied 1 (1 round); **Stage 2** [slowed 1](/Conditions.aspx?ID=35) and clumsy 1, enfeebled 1, or stupefied 1 (1 round); **Stage 3** clumsy 1, enfeebled 1, or stupefied 1 and the target can’t recover from the condition until they are cured (1 day)\n\n---\r\n**Heightened (5th)** The divine plague disease gains the [virulent](/Traits.aspx?ID=162) trait. The condition value for the clumsy, enfeebled, or stupefied condition is 2 instead of 1.",
- "mystery_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Focus 1\" pfs=\"Standard\">\r\n[Divine Plagues](/Spells.aspx?ID=2403)\r\n<actions string=\"Two Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 268\n\n**Domain**\r\n[Plague](/Domains.aspx?ID=115)\n\n<row gap=\"medium\">\n\n \n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 15 feet\n\n**Target** 1 creature\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\nFortitude\n\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYour deity sends wracking plagues. The target must attempt a Fortitude save. When you [Cast the Spell](/Actions.aspx?ID=2734), decide whether the disease inflicts the [clumsy](/Conditions.aspx?ID=61), [enfeebled](/Conditions.aspx?ID=71), or [stupefied](/Conditions.aspx?ID=94) condition.\n\n**Success** The target is unaffected. <br />**Failure** The target is afflicted with stage 1 divine plague. <br />**Critical Failure** The target is afflicted with stage 2 divine plague. \n\n**Divine Plague** (disease) **Level 1**; Stage 1 clumsy 1, enfeebled 1, or stupefied 1 (1 round); **Stage 2** [slowed](/Conditions.aspx?ID=92) 1 and clumsy 1, enfeebled 1, or stupefied 1 (1 round); **Stage 3** clumsy 1, enfeebled 1, or stupefied 1 and the target can’t recover from the condition until they are cured (1 day)\n\n---\r\n**Heightened (5th)** The divine plague disease gains the [virulent](/Traits.aspx?ID=726) trait. The condition value for the clumsy, enfeebled, or stupefied condition is 2 instead of 1.",
  "name": "Divine Plagues",
- "patron_theme_markdown": "",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 268",
+ "primary_source_category": "Lost Omens",
  "range": 15,
  "range_raw": "15 feet",
- "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity": "uncommon",
+ "rarity_id": 2,
+ "release_date": "2025-01-30",
  "resistance": {},
  "saving_throw": "Fortitude",
  "saving_throw_markdown": "Fortitude",
- "school": "necromancy",
- "search_markdown": "<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Necromancy\" url=\"/Traits.aspx?ID=117\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 115 <sup>2.0</sup></row>\n\n**Domain**\r\n[Plague](/Domains.aspx?ID=48)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 15 feet\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Saving Throw** Fortitude\r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour deity sends wracking plagues.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cleric\" url=\"/Traits.aspx?ID=26\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Focus\" url=\"/Traits.aspx?ID=511\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 268\n\n**Domain**\r\n[Plague](/Domains.aspx?ID=115)\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 15 feet\r\n\r\n \r\n\r\n**Target** 1 creature\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Defense**\r\nFortitude\r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour deity sends wracking plagues.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 115"
+  "Divine Mysteries pg. 268"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 115 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 268",
  "speed": {},
+ "spell_type": "Focus",
  "summary": "Your deity sends wracking plagues.",
  "summary_markdown": "Your deity sends wracking plagues.",
- "text": " Divine Plagues Source Gods &amp; Magic pg. 115 2.0 Domain Plague Cast Two Actions somatic, verbal Range 15 feet Saving Throw Fortitude --- Your deity sends wracking plagues. The target must attempt a Fortitude save. When you Cast the Spell, decide whether the disease inflicts the clumsy, enfeebled, or stupefied condition. Success The target is unaffected. Failure The target is afflicted with divine plague at stage 1. Critical Failure The target is afflicted with divine plague at stage 2. Divine Plague (disease) Level 1; Stage 1 clumsy 1, enfeebled 1, or stupefied 1 (1 round); Stage 2 slowed 1 and clumsy 1, enfeebled 1, or stupefied 1 (1 round); Stage 3 clumsy 1, enfeebled 1, or stupefied 1 and the target can’t recover from the condition until they are cured (1 day) --- Heightened (5th) The divine plague disease gains the virulent trait. The condition value for the clumsy, enfeebled, or stupefied condition is 2 instead of 1.",
+ "target": "1 creature",
+ "target_markdown": "1 creature",
+ "text": "\nDivine Plagues Two Actions Source Divine Mysteries pg. 268 Domain Plague Range 15 feet Target 1 creature Defense Fortitude --- Your deity sends wracking plagues. The target must attempt a Fortitude save. When you Cast the Spell, decide whether the disease inflicts the clumsy, enfeebled, or stupefied condition. Success The target is unaffected. Failure The target is afflicted with stage 1 divine plague. Critical Failure The target is afflicted with stage 2 divine plague. Divine Plague (disease) Level 1 ; Stage 1 clumsy 1, enfeebled 1, or stupefied 1 (1 round); Stage 2 slowed 1 and clumsy 1, enfeebled 1, or stupefied 1 (1 round); Stage 3 clumsy 1, enfeebled 1, or stupefied 1 and the target can’t recover from the condition until they are cured (1 day) --- Heightened (5th) The divine plague disease gains the virulent trait. The condition value for the clumsy, enfeebled, or stupefied condition is 2 instead of 1.",
  "tradition_markdown": "",
  "trait": [
+  "Cleric",
+  "Concentrate",
   "Disease",
-  "Necromancy"
+  "Focus",
+  "Manipulate",
+  "Manipulate",
+  "Uncommon"
  ],
- "trait_markdown": "[Disease](/Traits.aspx?ID=46), [Necromancy](/Traits.aspx?ID=117)",
+ "trait_group": [
+  "Class",
+  "Mechanics",
+  "Affliction",
+  "Rarity"
+ ],
+ "trait_markdown": "[Cleric](/Traits.aspx?ID=26), [Concentrate](/Traits.aspx?ID=32), [Disease](/Traits.aspx?ID=46), [Focus](/Traits.aspx?ID=511), [Manipulate](/Traits.aspx?ID=104), [Manipulate](/Traits.aspx?ID=104), [Uncommon](/Traits.aspx?ID=159)",
  "trait_raw": [
+  "Cleric",
+  "Concentrate",
   "Disease",
-  "Necromancy"
+  "Focus",
+  "Manipulate",
+  "Manipulate",
+  "Uncommon"
  ],
- "type": "Focus",
- "url": "/Spells.aspx?ID=610",
+ "type": "Spell",
+ "url": "/Spells.aspx?ID=2403",
  "weakness": {}
 }

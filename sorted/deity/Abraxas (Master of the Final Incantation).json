@@ -1,88 +1,119 @@
 {
- "ability": [
+ "attribute": [
   "Intelligence",
   "Wisdom"
  ],
- "alignment": "CE",
- "breadcrumbs_spa": [],
+ "anathema": "Destroy forbidden lore, reveal the entirety of a secret",
+ "area_of_concern": [
+  "Forbidden lore",
+  "magic",
+  "snakes"
+ ],
+ "area_of_concern_raw": "Forbidden lore, magic, snakes",
  "category": "deity",
  "cleric_spell": [
   "Share Lore",
-  "Spectral Hand",
+  "Ghostly Carrier",
   "Hypercognition",
   "Reflective Scales",
-  "Black Tentacles",
-  "Feeblemind",
-  "Spell Turning",
+  "Slither",
+  "Never Mind",
+  "Contingency",
   "Unrelenting Observation",
-  "Disjunction"
+  "Detonate Magic"
  ],
  "deity": [
   "Abraxas"
  ],
- "deity_markdown": "[Abraxas](/Deities.aspx?ID=71)",
  "deity_category": "Demon Lords",
- "deity_category_markdown": "[Demon Lords\r\n](/DeityCategories.aspx?ID=5)",
- "deity_category_order": "2Demon Lords\r\n",
+ "deity_category_markdown": "[Demon Lords](/DeityCategories.aspx?ID=5)",
+ "deity_category_order": "2Demon Lords",
  "divine_font": [
   "Harm"
  ],
  "divine_font_markdown": "[Harm](/Spells.aspx?ID=146)",
  "domain": [
   "Destruction",
+  "Dragon",
+  "Glyph",
   "Knowledge",
-  "Magic",
-  "Wyrmkin"
+  "Magic"
  ],
- "domain_markdown": "[Destruction](/Domains.aspx?ID=8), [Knowledge](/Domains.aspx?ID=17), [Magic](/Domains.aspx?ID=19), [Wyrmkin](/Domains.aspx?ID=57)",
- "domain_alternate_markdown": "",
+ "domain_markdown": "[Destruction](/Domains.aspx?ID=71), [Dragon](/Domains.aspx?ID=106), [Glyph](/Domains.aspx?ID=109), [Knowledge](/Domains.aspx?ID=80), [Magic](/Domains.aspx?ID=82)",
+ "domain_alternate": [
+  "Glyph"
+ ],
+ "domain_alternate_markdown": "[Glyph](/Domains.aspx?ID=109)",
  "domain_primary": [
   "Destruction",
+  "Dragon",
   "Knowledge",
-  "Magic",
-  "Wyrmkin"
+  "Magic"
  ],
- "domain_primary_markdown": "[Destruction](/Domains.aspx?ID=8), [Knowledge](/Domains.aspx?ID=17), [Magic](/Domains.aspx?ID=19), [Wyrmkin](/Domains.aspx?ID=57)",
+ "domain_primary_markdown": "[Destruction](/Domains.aspx?ID=71), [Dragon](/Domains.aspx?ID=106), [Knowledge](/Domains.aspx?ID=80), [Magic](/Domains.aspx?ID=82)",
+ "edict": "Learn and hoard forbidden magic, steal secrets from others",
  "exclude_from_search": false,
  "favored_weapon": [
   "Whip"
  ],
- "favored_weapon_markdown": "[Whip](/Weapons.aspx?ID=48)",
- "follower_alignment": [
-  "NE",
-  "CE"
+ "favored_weapon_markdown": "[Whip](/Weapons.aspx?ID=404)",
+ "id": "deity-425",
+ "legacy_id": [
+  "deity-71"
  ],
- "id": "deity-71",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Restricted\">[Abraxas (Master of the Final Incantation)](/Deities.aspx?ID=71)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 124 <sup>2.0</sup></row>\n\nAbraxas, the Master of the Final Incantation, is the demon lord of forbidden lore, magic, and snakes. Abraxas has an encyclopedic knowledge of magical formulas and destructive secrets, favoring those that inflict suffering and destruction. His Final Incantation is a word of power that can unravel the mightiest of spells and unmake even artifacts. He takes the form of a viper-legged humanoid with a fanged, deformed bird’s head. Abraxas’s cults are most prevalent among the drow of Golarion, but small circles devoted to him can be found in most major cities on the surface as well.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Demon Lords\r\n](/DeityCategories.aspx?ID=5)\r\n\r\n**Edicts** Learn and hoard forbidden magic, steal secrets from others\r\n\r\n**Anathema** Destroy forbidden lore, reveal the entirety of a secret\r\n\r\n**Area of Concern**\r\nforbidden lore, magic, and snakes\r\n\r\n**Follower Alignments**\r\nNE, CE\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nIntelligence or Wisdom\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146)\r\n\r\n**Divine Skill** [Arcana](/Skills.aspx?ID=2)\r\n\r\n**Favored Weapon** [Whip](/Weapons.aspx?ID=48)\r\n\r\n**Domains** [Destruction](/Domains.aspx?ID=8), [Knowledge](/Domains.aspx?ID=17), [Magic](/Domains.aspx?ID=19), [Wyrmkin](/Domains.aspx?ID=57)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Share Lore](/Spells.aspx?ID=584)\n\n- **2nd**\r\n[Spectral Hand](/Spells.aspx?ID=295)\n\n- **3rd**\r\n[Hypercognition](/Spells.aspx?ID=156)\n\n- **4th**\r\n[Reflective Scales](/Spells.aspx?ID=583)\n\n- **5th**\r\n[Black Tentacles](/Spells.aspx?ID=23)\n\n- **6th**\r\n[Feeblemind](/Spells.aspx?ID=112)\n\n- **7th**\r\n[Spell Turning](/Spells.aspx?ID=297)\n\n- **8th**\r\n[Unrelenting Observation](/Spells.aspx?ID=351)\n\n- **9th**\r\n[Disjunction](/Spells.aspx?ID=77)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Restricted\">[Abraxas (Master of the Final Incantation)](/Deities.aspx?ID=425)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 302\n\nAbraxas, the Master of the Final Incantation, is the demon lord of forbidden lore, magic, and snakes. Abraxas has an encyclopedic knowledge of magical formulas and destructive secrets, favoring those that inflict suffering and destruction. His Final Incantation is a word of power that can unravel the mightiest of spells and unmake even artifacts. He takes the form of a viperlegged [humanoid](/Traits.aspx?ID=628) with a fanged, deformed bird’s head.\n\nAbraxas’s cults are most prevalent in [the Darklands](/Rules.aspx?ID=2993) of Golarion, but small circles devoted to him can be found in most major cities on the surface as well.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Demon Lords](/DeityCategories.aspx?ID=5)\r\n\r\n**Edicts** Learn and hoard forbidden magic, steal secrets from others\r\n\r\n**Anathema** Destroy forbidden lore, reveal the entirety of a secret\r\n\r\n**Area of Concern**\r\nForbidden lore, magic, snakes\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nIntelligence or Wisdom\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146)\r\n\r\n**Divine Sanctification** must choose unholy\r\n\r\n**Divine Skill** [Arcana](/Skills.aspx?ID=35)\r\n\r\n**Favored Weapon** [Whip](/Weapons.aspx?ID=404)\r\n\r\n**Domains** [Destruction](/Domains.aspx?ID=71), [Dragon](/Domains.aspx?ID=106), [Knowledge](/Domains.aspx?ID=80), [Magic](/Domains.aspx?ID=82)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** [Glyph](/Domains.aspx?ID=109)\r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Share Lore](/Spells.aspx?ID=2363)\n\n- **2nd**\r\n[Ghostly Carrier](/Spells.aspx?ID=1543)\n\n- **3rd**\r\n[Hypercognition](/Spells.aspx?ID=1563)\n\n- **4th**\r\n[Reflective Scales](/Spells.aspx?ID=2362)\n\n- **5th**\r\n[Slither](/Spells.aspx?ID=1676)\n\n- **6th**\r\n[Never Mind](/Spells.aspx?ID=1614)\n\n- **7th**\r\n[Contingency](/Spells.aspx?ID=1472)\n\n- **8th**\r\n[Unrelenting Observation](/Spells.aspx?ID=1734)\n\n- **9th**\r\n[Detonate Magic](/Spells.aspx?ID=1488)\n\n</column>",
  "name": "Abraxas (Master of the Final Incantation)",
  "pfs": "Restricted",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 302",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "Demonic face and snakes",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 124 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Harm\r\n\r\n**Divine Skill** [Arcana](/Skills.aspx?ID=2)\r\n\r\n**Favored Weapon** [Whip](/Weapons.aspx?ID=48)\r\n\r\n**Domains** [Destruction](/Domains.aspx?ID=8), [Knowledge](/Domains.aspx?ID=17), [Magic](/Domains.aspx?ID=19), [Wyrmkin](/Domains.aspx?ID=57)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAbraxas, the Master of the Final Incantation, is the demon lord of forbidden lore, magic, and snakes. Abraxas has an encyclopedic knowledge of …\r\n</summary>",
+ "sacred_animal": "Snake",
+ "sacred_color": [
+  "green",
+  "orange"
+ ],
+ "sanctification": [
+  "unholy"
+ ],
+ "sanctification_raw": "must choose unholy",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 302\r\n\r\n**Divine Font** Harm\r\n\r\n**Divine Skill** [Arcana](/Skills.aspx?ID=35)\r\n\r\n**Favored Weapon** [Whip](/Weapons.aspx?ID=404)\r\n\r\n**Domains** [Destruction](/Domains.aspx?ID=71), [Dragon](/Domains.aspx?ID=106), [Glyph](/Domains.aspx?ID=109), [Knowledge](/Domains.aspx?ID=80), [Magic](/Domains.aspx?ID=82)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAbraxas, the Master of the Final Incantation, is the demon lord of forbidden lore, magic, and snakes. Abraxas has an encyclopedic knowledge of …\r\n</summary>",
  "skill": [
   "Arcana"
  ],
- "skill_markdown": "[Arcana](/Skills.aspx?ID=2)",
+ "skill_markdown": "[Arcana](/Skills.aspx?ID=35)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 124"
+  "Divine Mysteries pg. 302"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 124 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 302",
  "speed": {},
+ "spell": [
+  "Share Lore",
+  "Ghostly Carrier",
+  "Hypercognition",
+  "Reflective Scales",
+  "Slither",
+  "Never Mind",
+  "Contingency",
+  "Unrelenting Observation",
+  "Detonate Magic"
+ ],
+ "spell_markdown": "[Contingency](/Spells.aspx?ID=1472), [Detonate Magic](/Spells.aspx?ID=1488), [Ghostly Carrier](/Spells.aspx?ID=1543), [Hypercognition](/Spells.aspx?ID=1563), [Never Mind](/Spells.aspx?ID=1614), [Reflective Scales](/Spells.aspx?ID=2362), [Share Lore](/Spells.aspx?ID=2363), [Slither](/Spells.aspx?ID=1676), [Unrelenting Observation](/Spells.aspx?ID=1734)",
  "summary": "Abraxas, the Master of the Final Incantation, is the demon lord of forbidden lore, magic, and snakes. Abraxas has an encyclopedic knowledge of …",
  "summary_markdown": "Abraxas, the Master of the Final Incantation, is the demon lord of forbidden lore, magic, and snakes. Abraxas has an encyclopedic knowledge of …",
- "text": " Abraxas (Master of the Final Incantation) Source Gods &amp; Magic pg. 124 2.0 Abraxas, the Master of the Final Incantation, is the demon lord of forbidden lore, magic, and snakes. Abraxas has an encyclopedic knowledge of magical formulas and destructive secrets, favoring those that inflict suffering and destruction. His Final Incantation is a word of power that can unravel the mightiest of spells and unmake even artifacts. He takes the form of a viper-legged humanoid with a fanged, deformed bird’s head. Abraxas’s cults are most prevalent among the drow of Golarion, but small circles devoted to him can be found in most major cities on the surface as well. Category [Demon Lords ](/DeityCategories.aspx?ID=5) Edicts Learn and hoard forbidden magic, steal secrets from others Anathema Destroy forbidden lore, reveal the entirety of a secret Area of Concern forbidden lore, magic, and snakes Follower Alignments NE, CE Devotee Benefits Divine Ability Intelligence or Wisdom Divine Font Harm Divine Skill Arcana Favored Weapon Whip Domains Destruction, Knowledge, Magic, Wyrmkin Alternate Domains Cleric Spells - 1st Share Lore - 2nd Spectral Hand - 3rd Hypercognition - 4th Reflective Scales - 5th Black Tentacles - 6th Feeblemind - 7th Spell Turning - 8th Unrelenting Observation - 9th Disjunction\n",
- "trait": [
-  "CE"
- ],
- "trait_raw": [
-  "CE"
- ],
+ "text": " Abraxas (Master of the Final Incantation) Source Divine Mysteries pg. 302 Abraxas, the Master of the Final Incantation, is the demon lord of forbidden lore, magic, and snakes. Abraxas has an encyclopedic knowledge of magical formulas and destructive secrets, favoring those that inflict suffering and destruction. His Final Incantation is a word of power that can unravel the mightiest of spells and unmake even artifacts. He takes the form of a viperlegged humanoid with a fanged, deformed bird’s head. Abraxas’s cults are most prevalent in the Darklands of Golarion, but small circles devoted to him can be found in most major cities on the surface as well. Category Demon Lords Edicts Learn and hoard forbidden magic, steal secrets from others Anathema Destroy forbidden lore, reveal the entirety of a secret Area of Concern Forbidden lore, magic, snakes Devotee Benefits Divine Attribute Intelligence or Wisdom Divine Font Harm Divine Sanctification must choose unholy Divine Skill Arcana Favored Weapon Whip Domains Destruction, Dragon, Knowledge, Magic Alternate Domains Glyph Cleric Spells - 1st Share Lore - 2nd Ghostly Carrier - 3rd Hypercognition - 4th Reflective Scales - 5th Slither - 6th Never Mind - 7th Contingency - 8th Unrelenting Observation - 9th Detonate Magic\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=71",
+ "url": "/Deities.aspx?ID=425",
  "weakness": {}
 }

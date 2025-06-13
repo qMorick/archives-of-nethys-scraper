@@ -2,57 +2,68 @@
  "base_item": [
   "Leather Armor"
  ],
- "base_item_markdown": "[Leather Armor](/Armor.aspx?ID=4)",
- "breadcrumbs_spa": [],
+ "base_item_markdown": "[Leather Armor](/Armor.aspx?ID=41)",
  "bulk": 1,
  "bulk_raw": "1",
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-152",
+ "id": "equipment-2805",
  "item_category": "Armor",
  "item_subcategory": "Specific Magic Armor",
+ "legacy_id": [
+  "equipment-152"
+ ],
  "level": 10,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Electric Eelskin](/Equipment.aspx?ID=152)\r\n</title>\n\n<traits>\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 557 <sup>4.0</sup></row>\n\n**Price** 950 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** worn armor\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Base Armor** [Leather Armor](/Armor.aspx?ID=4)\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nShining, slippery eelskin covers the plates of this +_1 resilient [greater slick](/Equipment.aspx?ID=289) [leather armor](/Armor.aspx?ID=4) _. The armor gives you the ability to breathe water and grants you a +2 item bonus to [Athletics](/Skills.aspx?ID=3) checks to Swim and [Stealth](/Skills.aspx?ID=15) checks you attempt in the water.\n\n<document level=\"2\" id=\"action-108\" />\n\n**Craft Requirements** Supply one casting of _shocking grasp_.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 10\"\r\n    pfs=\"Standard\"\r\n>\r\n[Electric Eelskin](/Equipment.aspx?ID=2805)\r\n</title>\n\n<traits>\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=637\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 230 <sup>2.0</sup>\n\n**Price** 950 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** worn armor\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Base Armor** [Leather Armor](/Armor.aspx?ID=41)\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nShining, slippery eelskin covers the plates of this _+1 [resilient](/Equipment.aspx?ID=147) [greater slick](/Equipment.aspx?ID=289) [leather armor](/Armor.aspx?ID=4)_. The armor gives you the ability to breathe water and grants you a +2 item bonus to [Athletics](/Skills.aspx?ID=3) checks to [Swim](/Actions.aspx?ID=39) and [Stealth](/Skills.aspx?ID=15) checks you attempt in the water. \n\n**Activate—Unleash Charge** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=104)) **Frequency** once per hour;   **Effect** You cast a 2nd-rank [_thunderstrike_](/Spells.aspx?ID=1721) with a DC of 29.\n\n**Craft Requirements** Supply one casting of _thunderstrike_.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Electric Eelskin",
  "pfs": "Standard",
  "price": 95000,
  "price_raw": "950 gp",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 230",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "school": "transmutation",
- "search_markdown": "<traits>\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 557 <sup>4.0</sup></row>\r\n\r\n**Price** 950 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** worn armor\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nShining, slippery eelskin covers the plates of this + 1 resilient  greater slick   leather armor   . The armor gives you the ability to breathe water …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=637\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 230 <sup>2.0</sup>\r\n\r\n**Price** 950 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** worn armor\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Base Armor** [Leather Armor](/Armor.aspx?ID=41)\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nShining, slippery eelskin covers the plates of this  +1  resilient   greater slick   leather armor  . The armor gives you the ability to breathe …\r\n</summary>",
  "skill": [
   "Athletics",
   "Stealth"
  ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3), [Stealth](/Skills.aspx?ID=15)",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 557"
+  "GM Core pg. 230"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 557 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 230 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "Shining, slippery eelskin covers the plates of this + 1 resilient  greater slick   leather armor   . The armor gives you the ability to breathe water …",
- "summary_markdown": "Shining, slippery eelskin covers the plates of this + 1 resilient  greater slick   leather armor   . The armor gives you the ability to breathe water …",
- "text": "<title level=\"1\" right=\"Item 10\" pfs=\"Standard\" > Electric Eelskin Source Core Rulebook pg. 557 4.0 Price 950 gp Usage worn armor Bulk 1 Base Armor Leather Armor --- Shining, slippery eelskin covers the plates of this + 1 resilient greater slick leather armor . The armor gives you the ability to breathe water and grants you a +2 item bonus to Athletics checks to Swim and Stealth checks you attempt in the water. Craft Requirements Supply one casting of shocking grasp .\n",
+ "summary": "Shining, slippery eelskin covers the plates of this  +1  resilient   greater slick   leather armor  . The armor gives you the ability to breathe …",
+ "summary_markdown": "Shining, slippery eelskin covers the plates of this  +1  resilient   greater slick   leather armor  . The armor gives you the ability to breathe …",
+ "text": "<title level=\"1\" right=\"Item 10\" pfs=\"Standard\" > Electric Eelskin Source GM Core pg. 230 2.0 Price 950 gp Usage worn armor Bulk 1 Base Armor Leather Armor --- Shining, slippery eelskin covers the plates of this +1 resilient greater slick leather armor . The armor gives you the ability to breathe water and grants you a +2 item bonus to Athletics checks to Swim and Stealth checks you attempt in the water. Activate—Unleash Charge Two Actions (manipulate) Frequency once per hour; Effect You cast a 2nd-rank thunderstrike with a DC of 29. Craft Requirements Supply one casting of thunderstrike .\n",
  "trait": [
   "Invested",
-  "Magical",
-  "Transmutation"
+  "Magical"
  ],
- "trait_markdown": "[Invested](/Traits.aspx?ID=98), [Magical](/Traits.aspx?ID=103), [Transmutation](/Traits.aspx?ID=157)",
+ "trait_group": [
+  "Equipment",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Invested](/Traits.aspx?ID=637), [Magical](/Traits.aspx?ID=644)",
  "trait_raw": [
   "Invested",
-  "Magical",
-  "Transmutation"
+  "Magical"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=152",
+ "url": "/Equipment.aspx?ID=2805",
  "usage": "worn armor",
  "usage_markdown": "worn armor",
  "weakness": {}

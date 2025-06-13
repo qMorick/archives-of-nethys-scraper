@@ -1,38 +1,49 @@
 {
  "breadcrumbs": [
-  "Chapter 1: Gamemastery Basics",
+  "Chapter 1: Running the Game",
   "Running Downtime",
   "Long-Term Goals"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-875",
- "markdown": "<title level=\"1\" right=\"Rules\">[Success and Failure](/Rules.aspx?ID=875)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 23</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nSuccess at a reasonable long-term goal should be likely, but not guaranteed. Give the player an expectation of how likely their goal is to work out based on how ambitious it is. Be clear about how much downtime it will take compared to the amount of downtime you expect the party will get during your campaign. Then let the player decide how to commit their downtime, and to which tasks.\n\n Repeated failures or outside problems could lead to the whole goal failing. It happens! But give the player a fair chance. Even if their goal is really hard to achieve—like driving the undead out of Ustalav—they might find a way. Don’t undermine their efforts or ideas, but do make clear the magnitude of the task they’ve chosen. Remember that even if a goal fails, the effort was worthwhile.\n\n A failure or a success at a long-term goal can be a major emotional beat for the character. They’ve changed the world, after all! Don’t shortchange it just because it happened in downtime. In fact, because it might have taken place over multiple sessions, the player might have been looking forward to the results for a really long time!\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2609",
+ "legacy_id": [
+  "rules-875"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Success and Failure](/Rules.aspx?ID=2609)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 46 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nSuccess at a reasonable long-term goal should be likely, but not guaranteed. Give the player an expectation of how likely their goal is to work out based on how ambitious it is. Be clear about how much downtime it will take compared to the amount of downtime you expect the party will get during your campaign. Then, let the player decide how to commit their downtime and to which tasks.\n\nRepeated failures or outside problems could lead to the whole goal failing. It happens! But give the player a fair chance. Even if their goal is really hard to achieve—like driving the undead out of Ustalav—they might find a way. Don't undermine their efforts or ideas, but do make clear the magnitude of the task they've chosen. Remember that even if a goal fails, the effort was worthwhile, and the PCs might still achieve smaller successes along the way that open up new goals. For instance, the PCs might not succeed at driving the undead out of Ustalav, but in the process, they might discover part of a powerful holy spell that might be able to, if it can somehow be reassembled.\n\nA failure or a success at a long-term goal can be a major emotional beat for the character. They've changed the world, after all! Don't shortchange it just because it happened in downtime. In fact, because it might have taken place over multiple sessions, the player might have been looking forward to the results for a really long time!\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Success and Failure",
  "next_link": {
-  "label": "Buying and Selling",
-  "url": "/Rules.aspx?ID=876"
+  "label": "Playing out a Downtime Day",
+  "url": "/Rules.aspx?ID=2610"
  },
  "previous_link": {
   "label": "Depth of Downtime",
-  "url": "/Rules.aspx?ID=871"
+  "url": "/Rules.aspx?ID=2605"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 46",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 23</row>\r\n\r\nChapter 1: Gamemastery Basics / Running Downtime / Long-Term Goals\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 46 <sup>2.0</sup>\r\n\r\nChapter 1: Running the Game / Running Downtime / Long-Term Goals\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSuccess at a reasonable long-term goal should be likely, but not guaranteed. Give the player an expectation of how likely their goal is to work out …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 23"
+  "GM Core pg. 46"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 23</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 46 <sup>2.0</sup>",
  "speed": {},
- "text": " Success and Failure Source Gamemastery Guide pg. 23 Success at a reasonable long-term goal should be likely, but not guaranteed. Give the player an expectation of how likely their goal is to work out based on how ambitious it is. Be clear about how much downtime it will take compared to the amount of downtime you expect the party will get during your campaign. Then let the player decide how to commit their downtime, and to which tasks. Repeated failures or outside problems could lead to the whole goal failing. It happens! But give the player a fair chance. Even if their goal is really hard to achieve—like driving the undead out of Ustalav—they might find a way. Don’t undermine their efforts or ideas, but do make clear the magnitude of the task they’ve chosen. Remember that even if a goal fails, the effort was worthwhile. A failure or a success at a long-term goal can be a major emotional beat for the character. They’ve changed the world, after all! Don’t shortchange it just because it happened in downtime. In fact, because it might have taken place over multiple sessions, the player might have been looking forward to the results for a really long time! ",
+ "summary": "Success at a reasonable long-term goal should be likely, but not guaranteed. Give the player an expectation of how likely their goal is to work out …",
+ "summary_markdown": "Success at a reasonable long-term goal should be likely, but not guaranteed. Give the player an expectation of how likely their goal is to work out …",
+ "text": " Success and Failure Source GM Core pg. 46 2.0 Success at a reasonable long-term goal should be likely, but not guaranteed. Give the player an expectation of how likely their goal is to work out based on how ambitious it is. Be clear about how much downtime it will take compared to the amount of downtime you expect the party will get during your campaign. Then, let the player decide how to commit their downtime and to which tasks. Repeated failures or outside problems could lead to the whole goal failing. It happens! But give the player a fair chance. Even if their goal is really hard to achieve—like driving the undead out of Ustalav—they might find a way. Don't undermine their efforts or ideas, but do make clear the magnitude of the task they've chosen. Remember that even if a goal fails, the effort was worthwhile, and the PCs might still achieve smaller successes along the way that open up new goals. For instance, the PCs might not succeed at driving the undead out of Ustalav, but in the process, they might discover part of a powerful holy spell that might be able to, if it can somehow be reassembled. A failure or a success at a long-term goal can be a major emotional beat for the character. They've changed the world, after all! Don't shortchange it just because it happened in downtime. In fact, because it might have taken place over multiple sessions, the player might have been looking forward to the results for a really long time! ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=875",
+ "url": "/Rules.aspx?ID=2609",
  "weakness": {}
 }

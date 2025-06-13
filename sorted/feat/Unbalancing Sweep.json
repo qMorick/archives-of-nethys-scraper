@@ -1,48 +1,61 @@
 {
  "actions": "Three Actions",
+ "actions_number": 6,
  "archetype": [
-  "Mauler"
+  "Mauler",
+  "Warrior Of Legend"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Unbalancing Sweep"
  ],
  "feat_markdown": "Unbalancing Sweep",
- "id": "feat-1625",
+ "id": "feat-5861",
+ "legacy_id": [
+  "feat-1625"
+ ],
  "level": 12,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Unbalancing Sweep](/Feats.aspx?ID=1625) <actions string=\"Three Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Flourish\" url=\"/Traits.aspx?ID=73\" />\r\n<trait label=\"Open\" url=\"/Traits.aspx?ID=123\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 111 <sup>2.0</sup></row>\n\n**Archetype** [Mauler](/Archetypes.aspx?ID=68) (Level 14)\n\n</column>\r\n\r\n---\r\n\r\nYou make a great sweep about yourself, knocking creatures off their feet and away from you. Choose up to three adjacent foes and choose whether to [Shove](/Actions.aspx?ID=38) or [Trip](/Actions.aspx?ID=40) all three of them. Whichever of the two options you choose, roll a separate [Athletics](/Skills.aspx?ID=3) check against each foe, performing the same action against each foe. Each attempt counts toward your multiple attack penalty, but don't increase your penalty until you have made all the attempts.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Unbalancing Sweep](/Feats.aspx?ID=5861) <actions string=\"Three Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Flourish\" url=\"/Traits.aspx?ID=606\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 83 <sup>1.1</sup>\n\n**Archetypes** [Mauler](/Archetypes.aspx?ID=68) (Level 14), [Mauler](/Archetypes.aspx?ID=256) (Level 14), [Warrior Of Legend](/Archetypes.aspx?ID=286) (Level 14)\n\n</column>\r\n\r\n---\r\n\r\nYou make a great sweep with your weapon or fists about yourself, knocking creatures off their feet and away from you. Choose up to three enemies within your reach and choose whether to [Shove](/Actions.aspx?ID=2380) or [Trip](/Actions.aspx?ID=2382) all three of them. Whichever of the two options you choose, roll a separate [Athletics](/Skills.aspx?ID=36) check against each enemy, performing the same action against each enemy. Each attempt counts toward your multiple attack penalty, but don't increase your penalty until you have made all the attempts.",
  "name": "Unbalancing Sweep",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 83",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Flourish\" url=\"/Traits.aspx?ID=73\" />\r\n<trait label=\"Open\" url=\"/Traits.aspx?ID=123\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 111 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou make a great sweep about yourself, knocking creatures off their feet and away from you.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Flourish\" url=\"/Traits.aspx?ID=606\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 83 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou make a great sweep with your weapon or fists about yourself, knocking creatures off their feet and away from you.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 111"
+  "Player Core 2 pg. 83"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 111 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 83 <sup>1.1</sup>",
  "speed": {},
- "summary": "You make a great sweep about yourself, knocking creatures off their feet and away from you.",
- "summary_markdown": "You make a great sweep about yourself, knocking creatures off their feet and away from you.",
- "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Unbalancing Sweep Three Actions Source Advanced Player's Guide pg. 111 2.0 Archetype Mauler (Level 14) --- You make a great sweep about yourself, knocking creatures off their feet and away from you. Choose up to three adjacent foes and choose whether to Shove or Trip all three of them. Whichever of the two options you choose, roll a separate Athletics check against each foe, performing the same action against each foe. Each attempt counts toward your multiple attack penalty, but don't increase your penalty until you have made all the attempts.",
+ "summary": "You make a great sweep with your weapon or fists about yourself, knocking creatures off their feet and away from you.",
+ "summary_markdown": "You make a great sweep with your weapon or fists about yourself, knocking creatures off their feet and away from you.",
+ "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Unbalancing Sweep Three Actions Source Player Core 2 pg. 83 1.1 Archetypes Mauler (Level 14), Mauler (Level 14), Warrior Of Legend (Level 14) --- You make a great sweep with your weapon or fists about yourself, knocking creatures off their feet and away from you. Choose up to three enemies within your reach and choose whether to Shove or Trip all three of them. Whichever of the two options you choose, roll a separate Athletics check against each enemy, performing the same action against each enemy. Each attempt counts toward your multiple attack penalty, but don't increase your penalty until you have made all the attempts.",
  "trait": [
   "Barbarian",
-  "Flourish",
-  "Open"
+  "Flourish"
  ],
- "trait_markdown": "[Barbarian](/Traits.aspx?ID=18), [Flourish](/Traits.aspx?ID=73), [Open](/Traits.aspx?ID=123)",
+ "trait_group": [
+  "Class",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Barbarian](/Traits.aspx?ID=813), [Flourish](/Traits.aspx?ID=606)",
  "trait_raw": [
   "Barbarian",
-  "Flourish",
-  "Open"
+  "Flourish"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1625",
+ "url": "/Feats.aspx?ID=5861",
  "weakness": {}
 }

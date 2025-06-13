@@ -1,40 +1,56 @@
 {
- "breadcrumbs_spa": [],
+ "actions": "Free Action",
+ "actions_number": 0,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Blaze of Revelation"
  ],
  "feat_markdown": "Blaze of Revelation",
- "id": "feat-1507",
+ "id": "feat-6084",
+ "legacy_id": [
+  "feat-1507"
+ ],
  "level": 18,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 18\"\r\n    pfs=\"Standard\"\r\n>\r\n[Blaze of Revelation](/Feats.aspx?ID=1507) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 81 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYour mind and body can, for a short time, withstand the devastation of overdrawing your curse. When you would become overwhelmed by your curse, you can forestall the effects for up to 1 minute. On each of your turns during that time, you can cast one revelation spell granted by your mystery (but not domain spells, spells from [Diverse Mystery](/Feats.aspx?ID=1505), or other revelation spells you gained from other abilities) without spending Focus Points or taking any further negative effects.\n\n At the end of the minute, the durations of any revelation spells you cast during that time end, you take the normal effects from being overwhelmed by your curse, and you must attempt a DC 40 Fortitude save.\n\n**Critical Success** You aren't otherwise affected.<br />\r\n**Success** You are [drained 2](/Conditions.aspx?ID=10) and can't reduce or remove this condition until your next preparations.<br />\r\n**Failure** You are drained 4 and can't reduce or remove this condition until your next preparations.<br />\r\n**Critical Failure** You die.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 18\"\r\n    pfs=\"Standard\"\r\n>\r\n[Blaze of Revelation](/Feats.aspx?ID=6084) <actions string=\"Free Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 143 <sup>1.1</sup>\n\n**Requirements**\r\nYou are cursebound 4.\n\n</column>\r\n\r\n---\r\n\r\nYour mind and body can, for a short time and with great peril, surpass the final limits of your curse. For 1 minute, you shed torrential flames, become surrounded by spirits, or otherwise overflow with [divine](/Traits.aspx?ID=579) power in a way that suits your mystery. On each of your turns during that time, you can cast one revelation spell without spending Focus Points. <br />At the end of the minute, the durations of any revelation spells you cast during that time end, and you must attempt a DC 40 Fortitude save.\n\n**Critical Success** You aren’t otherwise affected.<br />\r\n**Success** You are [drained](/Conditions.aspx?ID=68) 2 and can't reduce or remove this condition until your next preparations.<br />\r\n**Failure** You are drained 4 and can't reduce or remove this condition until your next preparations.<br />\r\n**Critical Failure** You die.",
  "name": "Blaze of Revelation",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 143",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
+ "requirement": "You are cursebound 4.",
+ "requirement_markdown": "You are cursebound 4.",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=319\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 81 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour mind and body can, for a short time, withstand the devastation of overdrawing your curse.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 143 <sup>1.1</sup>\n\n**Requirements**\r\nYou are cursebound 4.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour mind and body can, for a short time and with great peril, surpass the final limits of your curse.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 81"
+  "Player Core 2 pg. 143"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 81 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 143 <sup>1.1</sup>",
  "speed": {},
- "summary": "Your mind and body can, for a short time, withstand the devastation of overdrawing your curse.",
- "summary_markdown": "Your mind and body can, for a short time, withstand the devastation of overdrawing your curse.",
- "text": "<title level=\"1\" right=\"Feat 18\" pfs=\"Standard\" > Blaze of Revelation Source Advanced Player's Guide pg. 81 2.0 --- Your mind and body can, for a short time, withstand the devastation of overdrawing your curse. When you would become overwhelmed by your curse, you can forestall the effects for up to 1 minute. On each of your turns during that time, you can cast one revelation spell granted by your mystery (but not domain spells, spells from Diverse Mystery, or other revelation spells you gained from other abilities) without spending Focus Points or taking any further negative effects. At the end of the minute, the durations of any revelation spells you cast during that time end, you take the normal effects from being overwhelmed by your curse, and you must attempt a DC 40 Fortitude save. Critical Success You aren't otherwise affected. Success You are drained 2 and can't reduce or remove this condition until your next preparations. Failure You are drained 4 and can't reduce or remove this condition until your next preparations. Critical Failure You die.",
+ "summary": "Your mind and body can, for a short time and with great peril, surpass the final limits of your curse.",
+ "summary_markdown": "Your mind and body can, for a short time and with great peril, surpass the final limits of your curse.",
+ "text": "<title level=\"1\" right=\"Feat 18\" pfs=\"Standard\" > Blaze of Revelation Free Action Source Player Core 2 pg. 143 1.1 Requirements You are cursebound 4. --- Your mind and body can, for a short time and with great peril, surpass the final limits of your curse. For 1 minute, you shed torrential flames, become surrounded by spirits, or otherwise overflow with divine power in a way that suits your mystery. On each of your turns during that time, you can cast one revelation spell without spending Focus Points. At the end of the minute, the durations of any revelation spells you cast during that time end, and you must attempt a DC 40 Fortitude save. Critical Success You aren’t otherwise affected. Success You are drained 2 and can't reduce or remove this condition until your next preparations. Failure You are drained 4 and can't reduce or remove this condition until your next preparations. Critical Failure You die.",
  "trait": [
   "Oracle"
  ],
- "trait_markdown": "[Oracle](/Traits.aspx?ID=319)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Oracle](/Traits.aspx?ID=817)",
  "trait_raw": [
   "Oracle"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1507",
+ "url": "/Feats.aspx?ID=6084",
  "weakness": {}
 }

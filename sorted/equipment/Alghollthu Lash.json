@@ -3,7 +3,6 @@
   "Whip"
  ],
  "base_item_markdown": "[Whip](/Weapons.aspx?ID=48)",
- "breadcrumbs_spa": [],
  "bulk": 1,
  "bulk_raw": "1",
  "category": "equipment",
@@ -12,39 +11,47 @@
  "item_category": "Weapons",
  "item_subcategory": "Specific Magic Weapons",
  "level": 7,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 7\"\r\n    pfs=\"Standard\"\r\n>\r\n[Alghollthu Lash](/Equipment.aspx?ID=1881)\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 35 <sup>1.1</sup></row>\n\n**Price** 350 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Base Weapon** [Whip](/Weapons.aspx?ID=48)\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis fleshy _+1 [striking](/Equipment.aspx?ID=280) [whip](/Weapons.aspx?ID=48)_ is obviously crafted from the tentacle of some fearsome beast, likely an [alghollthu](/MonsterFamilies.aspx?ID=1), and constantly drips slime.\n\n<document level=\"2\" id=\"action-1575\" />\n\n**Craft Requirements** The initial raw materials must include a tentacle from an alghollthu.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 7\"\r\n    pfs=\"Standard\"\r\n>\r\n[Alghollthu Lash](/Equipment.aspx?ID=1881)\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 35 <sup>2.0</sup>\n\n**Price** 350 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Base Weapon** [Whip](/Weapons.aspx?ID=48)\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis fleshy _[+1 striking](/Equipment.aspx?ID=2861) [whip](/Weapons.aspx?ID=404)_ is obviously crafted from the tentacle of some fearsome beast, likely an aqudel, and constantly strobes with small patterns of light.\n\n**Activate** <actions string=\"Single Action\" /> ([concentrate](/Traits.aspx?ID=561), [occult](/Traits.aspx?ID=662), [visual](/Traits.aspx?ID=727)) **Frequency** once per day;  **Requirements** Your last action was a successful [Strike](/Actions.aspx?ID=2306), [Grapple](/Actions.aspx?ID=2376), or [Trip](/Actions.aspx?ID=2382) with the _alghollthu whip_; **Effect** Patterns on the skin of the whip strobe in a rapid pulse. The creature your attack succeeded against must attempt a DC 23 Will save.\r\n\r\n**Critical Success** The target is unaffected.<br />\r\n**Success** The target is [dazzled](/Conditions.aspx?ID=65) until the end of your next turn.<br />\r\n**Failure** The target is dazzled until the end of your next turn and [stunned](/Conditions.aspx?ID=93) 1.<br />\r\n**Critical Failure** The target is dazzled until the end of your next turn and [stunned](/Conditions.aspx?ID=93) 2.\n\n**Craft Requirements** The initial raw materials must include a tentacle from an aqudel.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Alghollthu Lash",
  "pfs": "Standard",
  "price": 35000,
  "price_raw": "350 gp",
+ "primary_source": "Treasure Vault",
+ "primary_source_raw": "Treasure Vault pg. 35",
+ "primary_source_category": "Rulebooks",
  "rarity": "uncommon",
+ "rarity_id": 2,
  "release_date": "2023-02-22",
  "resistance": {},
- "school": "transmutation",
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 35 <sup>1.1</sup></row>\r\n\r\n**Price** 350 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis fleshy  +1  striking   whip   is obviously crafted from the tentacle of some fearsome beast, likely an  alghollthu , and constantly drips slime. \r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 35 <sup>2.0</sup>\r\n\r\n**Price** 350 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Base Weapon** [Whip](/Weapons.aspx?ID=48)\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis fleshy   +1 striking   whip   is obviously crafted from the tentacle of some fearsome beast, likely an aqudel, and constantly strobes with small …\r\n</summary>",
+ "skill_mod": {},
  "source": [
   "Treasure Vault"
  ],
  "source_raw": [
   "Treasure Vault pg. 35"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Treasure Vault](/Sources.aspx?ID=191) pg. 35 <sup>1.1</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Treasure Vault](/Sources.aspx?ID=191) pg. 35 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "This fleshy  +1  striking   whip   is obviously crafted from the tentacle of some fearsome beast, likely an  alghollthu , and constantly drips slime. ",
- "summary_markdown": "This fleshy  +1  striking   whip   is obviously crafted from the tentacle of some fearsome beast, likely an  alghollthu , and constantly drips slime. ",
- "text": "<title level=\"1\" right=\"Item 7\" pfs=\"Standard\" > Alghollthu Lash Source Treasure Vault pg. 35 1.1 Price 350 gp Usage held in 1 hand Bulk 1 Base Weapon Whip --- This fleshy +1 striking whip is obviously crafted from the tentacle of some fearsome beast, likely an alghollthu, and constantly drips slime. Craft Requirements The initial raw materials must include a tentacle from an alghollthu.\n",
+ "summary": "This fleshy   +1 striking   whip   is obviously crafted from the tentacle of some fearsome beast, likely an aqudel, and constantly strobes with small …",
+ "summary_markdown": "This fleshy   +1 striking   whip   is obviously crafted from the tentacle of some fearsome beast, likely an aqudel, and constantly strobes with small …",
+ "text": "<title level=\"1\" right=\"Item 7\" pfs=\"Standard\" > Alghollthu Lash Source Treasure Vault pg. 35 2.0 Price 350 gp Usage held in 1 hand Bulk 1 Base Weapon Whip --- This fleshy +1 striking whip is obviously crafted from the tentacle of some fearsome beast, likely an aqudel, and constantly strobes with small patterns of light. Activate Single Action (concentrate, occult, visual) Frequency once per day; Requirements Your last action was a successful Strike, Grapple, or Trip with the alghollthu whip ; Effect Patterns on the skin of the whip strobe in a rapid pulse. The creature your attack succeeded against must attempt a DC 23 Will save. Critical Success The target is unaffected. Success The target is dazzled until the end of your next turn. Failure The target is dazzled until the end of your next turn and stunned 1. Critical Failure The target is dazzled until the end of your next turn and stunned 2. Craft Requirements The initial raw materials must include a tentacle from an aqudel.\n",
  "trait": [
   "Magical",
-  "Transmutation",
   "Uncommon"
  ],
- "trait_markdown": "[Magical](/Traits.aspx?ID=103), [Transmutation](/Traits.aspx?ID=157), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Mechanics",
+  "Rarity"
+ ],
+ "trait_markdown": "[Magical](/Traits.aspx?ID=103), [Uncommon](/Traits.aspx?ID=159)",
  "trait_raw": [
   "Magical",
-  "Transmutation",
   "Uncommon"
  ],
  "type": "Item",

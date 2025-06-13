@@ -1,41 +1,53 @@
 {
  "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions_number": 2,
  "category": "action",
- "cost": "1 batch of infused reagents",
- "cost_markdown": "1 batch of infused reagents",
  "exclude_from_search": false,
- "id": "action-2",
- "markdown": "<title level=\"1\" right=\"Action\">[Quick Alchemy](/Actions.aspx?ID=2) <actions string=\"Single Action\" /></title>\r\n\r\n<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 72 <sup>4.0</sup></row>\r\n\r\n**Cost** 1 batch of infused reagents\n\n**Requirements** You have the formula for the alchemical item you're creating, and you're either holding or wearing [alchemist's tools](/Equipment.aspx?ID=2).\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou swiftly mix up a short-lived alchemical item to use at a moment's notice. You create a single [alchemical consumable item](/equipment/alchemical-items) of your advanced alchemy level or lower that's in your formula book without having to spend the normal monetary cost in alchemical reagents or needing to attempt a [Crafting](/Skills.aspx?ID=4) check. This item has the [infused](/Traits.aspx?ID=94) trait, but it remains potent only until the start of your next turn.",
+ "id": "action-2801",
+ "legacy_id": [
+  "action-2"
+ ],
+ "markdown": "<title level=\"1\" right=\"Action\">[Quick Alchemy](/Actions.aspx?ID=2801) <actions string=\"Single Action\" /></title>\r\n\r\n<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=812\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=645\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 59 <sup>1.1</sup>\n\n**Requirements** You're either holding or wearing an [alchemist's toolkit](/Equipment.aspx?ID=2702) and you have a free hand\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou can either use up a versatile vial to make another alchemical consumable at a moment's notice or create an especially short-lived versatile vial. Any effect created by an item made with Quick Alchemy that would have a duration longer than 10 minutes lasts for 10 minutes instead.\n<ul><li>**Create Consumable** You expend one of your versatile vials to create a single alchemical consumable item of your level or lower that's in your formula book. You don't have to spend the normal monetary cost in alchemical raw materials or need to attempt a Crafting check. This item has the [infused](/Traits.aspx?ID=797) trait, but it remains potent only until the start of your next turn. (As normal, you need only one formula for an item to create any level of that item.)</li><li>**Quick Vial** You create a versatile vial that can be used only as a bomb or for the versatile vial option from your research field (it can't be used to create a consumable, for example). This item has the infused trait, but it remains potent only until the end of your current turn.</li></ul>",
  "name": "Quick Alchemy",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 59",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
- "requirement": "You have the formula for the alchemical item you're creating, and you're either holding or wearing  alchemist's tools .",
- "requirement_markdown": "You have the formula for the alchemical item you're creating, and you're either holding or wearing [alchemist's tools](/Equipment.aspx?ID=2).",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
+ "requirement": "You're either holding or wearing an  alchemist's toolkit  and you have a free hand",
+ "requirement_markdown": "You're either holding or wearing an [alchemist's toolkit](/Equipment.aspx?ID=2702) and you have a free hand",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 72 <sup>4.0</sup></row>\n\n**Requirement**\r\nYou have the formula for the alchemical item you're creating, and you're either holding or wearing [alchemist's tools](/Equipment.aspx?ID=2).\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou swiftly mix up a short-lived alchemical item to use at a moment's notice. You create a single  alchemical consumable item  of your advanced …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=812\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=645\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 59 <sup>1.1</sup>\n\n**Requirement**\r\nYou're either holding or wearing an [alchemist's toolkit](/Equipment.aspx?ID=2702) and you have a free hand\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can either use up a versatile vial to make another alchemical consumable at a moment's notice or create an especially short-lived versatile vial. …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 72"
+  "Player Core 2 pg. 59"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 72 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 59 <sup>1.1</sup>",
  "speed": {},
- "summary": "You swiftly mix up a short-lived alchemical item to use at a moment's notice. You create a single  alchemical consumable item  of your advanced …",
- "summary_markdown": "You swiftly mix up a short-lived alchemical item to use at a moment's notice. You create a single  alchemical consumable item  of your advanced …",
- "text": " Quick Alchemy Single Action Source Core Rulebook pg. 72 4.0 Cost 1 batch of infused reagents Requirements You have the formula for the alchemical item you're creating, and you're either holding or wearing alchemist's tools. --- You swiftly mix up a short-lived alchemical item to use at a moment's notice. You create a single alchemical consumable item of your advanced alchemy level or lower that's in your formula book without having to spend the normal monetary cost in alchemical reagents or needing to attempt a Crafting check. This item has the infused trait, but it remains potent only until the start of your next turn.",
+ "summary": "You can either use up a versatile vial to make another alchemical consumable at a moment's notice or create an especially short-lived versatile vial. …",
+ "summary_markdown": "You can either use up a versatile vial to make another alchemical consumable at a moment's notice or create an especially short-lived versatile vial. …",
+ "text": " Quick Alchemy Single Action Source Player Core 2 pg. 59 1.1 Requirements You're either holding or wearing an alchemist's toolkit and you have a free hand --- You can either use up a versatile vial to make another alchemical consumable at a moment's notice or create an especially short-lived versatile vial. Any effect created by an item made with Quick Alchemy that would have a duration longer than 10 minutes lasts for 10 minutes instead. Create Consumable You expend one of your versatile vials to create a single alchemical consumable item of your level or lower that's in your formula book. You don't have to spend the normal monetary cost in alchemical raw materials or need to attempt a Crafting check. This item has the infused trait, but it remains potent only until the start of your next turn. (As normal, you need only one formula for an item to create any level of that item.) Quick Vial You create a versatile vial that can be used only as a bomb or for the versatile vial option from your research field (it can't be used to create a consumable, for example). This item has the infused trait, but it remains potent only until the end of your current turn. ",
  "trait": [
   "Alchemist",
   "Manipulate"
  ],
- "trait_markdown": "[Alchemist](/Traits.aspx?ID=7), [Manipulate](/Traits.aspx?ID=104)",
+ "trait_group": [
+  "Class",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Alchemist](/Traits.aspx?ID=812), [Manipulate](/Traits.aspx?ID=645)",
  "trait_raw": [
   "Alchemist",
   "Manipulate"
  ],
  "type": "Action",
- "url": "/Actions.aspx?ID=2",
+ "url": "/Actions.aspx?ID=2801",
  "weakness": {}
 }

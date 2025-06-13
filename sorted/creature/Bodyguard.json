@@ -1,54 +1,110 @@
 {
  "ac": 16,
- "alignment": "N",
- "breadcrumbs_spa": [],
+ "ac_scale": "High",
+ "ac_scale_number": 4,
+ "attack_bonus": [
+  5,
+  7,
+  7,
+  7
+ ],
+ "attack_bonus_scale": [
+  "Low",
+  "Moderate"
+ ],
+ "attack_bonus_scale_number": [
+  2,
+  3
+ ],
  "category": "creature",
  "charisma": 0,
+ "charisma_scale": "Low",
+ "charisma_scale_number": 2,
  "constitution": 3,
+ "constitution_scale": "Moderate",
+ "constitution_scale_number": 3,
  "creature_ability": [
+  "Bodyguard's Reprisal",
   "Bodyguard's Defense"
  ],
- "creature_family": "Mercenaries",
- "creature_family_markdown": "[Mercenaries](/MonsterFamilies.aspx?ID=190)",
+ "creature_family": "Mercenary",
+ "creature_family_markdown": "[Mercenary](/MonsterFamilies.aspx?ID=542)",
  "dexterity": 2,
+ "dexterity_scale": "Low",
+ "dexterity_scale_number": 2,
  "exclude_from_search": false,
  "fortitude_save": 8,
+ "fortitude_save_scale": "Moderate",
+ "fortitude_save_scale_number": 3,
  "hp": 25,
  "hp_raw": "25",
- "id": "creature-921",
+ "hp_scale": "High",
+ "hp_scale_number": 4,
+ "id": "creature-3513",
+ "image": [
+  "/Images/Monsters/Bodyguard.webp"
+ ],
  "intelligence": -1,
+ "intelligence_scale": "Low",
+ "intelligence_scale_number": 2,
+ "item": [
+  "Greatclub",
+  "Sap",
+  "Sling",
+  "studded leather"
+ ],
  "language": [
   "Common"
  ],
  "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "legacy_id": [
+  "creature-921"
+ ],
  "level": 1,
- "markdown": "<title level=\"1\" pfs=\"Limited\">[Bodyguard](/NPCs.aspx?ID=921)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nHired to protect someone famous or powerful, bodyguards use intimidation, quick wits, and martial skill to keep their charges safe. Such mercenaries might be auxiliaries to a noble's own guards, but with special directives to safeguard their patrons.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 15\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 13\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 10\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Bodyguard](/NPCs.aspx?ID=921)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 226</row>\n\n**Perception** +8\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +7, [Intimidation](/Skills.aspx?ID=7) +6, [Society](/Skills.aspx?ID=14) +2\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +2\r\n\r\n**Con** +3\r\n\r\n**Int** -1\r\n\r\n**Wis** +1\r\n\r\n**Cha** +0\r\n</row>\n\n**Items**\r\n[Greatclub](/Weapons.aspx?ID=22), [Sap](/Weapons.aspx?ID=37), [Studded Leather Armor](/Armor.aspx?ID=5)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +4 \n\n</row>\r\n\r\n**HP** 25\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ngreatclub +7 ([Backswing](/Traits.aspx?ID=173), [Shove](/Traits.aspx?ID=193)),\r\n**Damage** 1d10+4 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nsap +7 ([Agile](/Traits.aspx?ID=170), [Nonlethal](/Traits.aspx?ID=188)),\r\n**Damage** 1d6+4 bludgeoning\n\n**Bodyguard's Defense** <actions string=\"Two Actions\" />  The bodyguard selects one creature they can see and hear within 30 feet. That creature gains a +2 circumstance bonus to AC as long as the bodyguard is adjacent to the chosen creature and can act; this bonus lasts until the start of the bodyguard's next turn.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-190\" />",
+ "markdown": "<title level=\"1\" pfs=\"\">[Bodyguard](/NPCs.aspx?ID=3513)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nHired to protect someone famous or powerful, bodyguards use intimidation, quick wits, and martial skill to keep their charges safe. Such mercenaries might be auxiliaries to a noble's personal guards, but with special directives to safeguard their patrons.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=47)): DC 15\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 13\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 10\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Bodyguard.webp\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Bodyguard](/NPCs.aspx?ID=3513)</title>\r\n\r\n<traits>\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=627\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=628\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [NPC Core](/Sources.aspx?ID=236) pg. 82\n\n**Perception** +8\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=36) +7, [Intimidation](/Skills.aspx?ID=40) +6, [Society](/Skills.aspx?ID=47) +2\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +2\r\n\r\n**Con** +3\r\n\r\n**Int** -1\r\n\r\n**Wis** +1\r\n\r\n**Cha** +0\r\n</row>\n\n**Items**\r\n[Greatclub](/Weapons.aspx?ID=22), [Sap](/Weapons.aspx?ID=37), [Sling](/Weapons.aspx?ID=72), [studded leather](/Armor.aspx?ID=5)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +4 \n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**HP** 25\n\n</row>\n\n**Bodyguard's Reprisal** <actions string=\"Reaction\" /> **Trigger** A creature attacks the subject of bodyguard's defense; **Effect** The bodyguard makes a Strike against the triggering creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ngreatclub +7 ([Backswing](/Traits.aspx?ID=173), [Shove](/Traits.aspx?ID=193)),\r\n**Damage** 1d10+4 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nsap +7 ([Agile](/Traits.aspx?ID=170), [Nonlethal](/Traits.aspx?ID=188)),\r\n**Damage** 1d6+4 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +7 ([Agile](/Traits.aspx?ID=170), [Nonlethal](/Traits.aspx?ID=188), [Unarmed](/Traits.aspx?ID=199)),\r\n**Damage** 1d4+4 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nsling +5 ([Propulsive](/Traits.aspx?ID=191), [range increment 50 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 1d6+2 bludgeoning\n\n**Bodyguard's Defense** <actions string=\"Single Action\" />  The bodyguard grants an adjacent ally a +2 circumstance bonus to AC. This lasts until the start of the bodyguard's next turn or until the ally is no longer adjacent, whichever comes first.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-542\" />",
  "name": "Bodyguard",
  "npc": true,
  "perception": 8,
- "pfs": "Limited",
+ "perception_scale": "Moderate",
+ "perception_scale_number": 3,
+ "primary_source": "NPC Core",
+ "primary_source_raw": "NPC Core pg. 82",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
+ "rarity_id": 1,
  "reflex_save": 7,
- "release_date": "2020-02-26",
+ "reflex_save_scale": "Moderate",
+ "reflex_save_scale_number": 3,
+ "release_date": "2025-02-26",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 226</row>\r\n\r\n**Creature Family** [Mercenaries](/MonsterFamilies.aspx?ID=190)\r\n\r\n<row gap=\"medium\">\r\n**HP** 25\r\n\r\n**AC** 16\r\n\r\n**Fort** +8\r\n\r\n**Ref** +7\r\n\r\n**Will** +4\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHired to protect someone famous or powerful, bodyguards use intimidation, quick wits, and martial skill to keep their charges safe. Such mercenaries …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=627\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=628\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [NPC Core](/Sources.aspx?ID=236) pg. 82\r\n\r\n**Creature Family** [Mercenary](/MonsterFamilies.aspx?ID=542)\r\n\r\n<row gap=\"medium\">\r\n**HP** 25\r\n\r\n**AC** 16\r\n\r\n**Fort** +8\r\n\r\n**Ref** +7\r\n\r\n**Will** +4\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHired to protect someone famous or powerful, bodyguards use intimidation, quick wits, and martial skill to keep their charges safe. Such mercenaries …\r\n</summary>",
  "size": [
   "Medium"
  ],
- "skill": [
-  "Athletics +7",
-  "Intimidation +6",
-  "Society +2"
+ "size_id": [
+  3
  ],
- "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +7, [Intimidation](/Skills.aspx?ID=7) +6, [Society](/Skills.aspx?ID=14) +2",
+ "skill": [
+  "Athletics",
+  "Intimidation",
+  "Society"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=36) +7, [Intimidation](/Skills.aspx?ID=40) +6, [Society](/Skills.aspx?ID=47) +2",
+ "skill_mod": {
+  "athletics": 7,
+  "intimidation": 6,
+  "society": 2
+ },
  "source": [
-  "Gamemastery Guide"
+  "NPC Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 226"
+  "NPC Core pg. 82"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 226</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[NPC Core](/Sources.aspx?ID=236) pg. 82",
  "speed": {
   "land": 25,
   "max": 25
@@ -56,31 +112,59 @@
  "speed_markdown": "25 feet",
  "speed_raw": "25 feet",
  "spell_markdown": "",
+ "strike_damage_average": [
+  5,
+  6,
+  7,
+  9
+ ],
+ "strike_damage_scale": [
+  "Moderate",
+  "High",
+  "Extreme"
+ ],
+ "strike_damage_scale_number": [
+  3,
+  4,
+  5
+ ],
  "strength": 4,
+ "strength_scale": "High",
+ "strength_scale_number": 4,
  "strongest_save": [
   "fort",
   "fortitude"
  ],
  "summary": "Hired to protect someone famous or powerful, bodyguards use intimidation, quick wits, and martial skill to keep their charges safe. Such mercenaries …",
  "summary_markdown": "Hired to protect someone famous or powerful, bodyguards use intimidation, quick wits, and martial skill to keep their charges safe. Such mercenaries …",
- "text": " Bodyguard Hired to protect someone famous or powerful, bodyguards use intimidation, quick wits, and martial skill to keep their charges safe. Such mercenaries might be auxiliaries to a noble's own guards, but with special directives to safeguard their patrons. Recall Knowledge - Humanoid (Society): DC 15 Unspecific Lore : DC 13 Specific Lore : DC 10 Bodyguard Source Gamemastery Guide pg. 226 Perception +8 Languages Common Skills Athletics +7, Intimidation +6, Society +2 Str +4 Dex +2 Con +3 Int -1 Wis +1 Cha +0 Items Greatclub, Sap, Studded Leather Armor --- AC 16 Fort +8 Ref +7 Will +4 HP 25 --- Speed 25 feet Melee Single Action greatclub +7 (Backswing, Shove), Damage 1d10+4 bludgeoning Melee Single Action sap +7 (Agile, Nonlethal), Damage 1d6+4 bludgeoning Bodyguard's Defense Two Actions The bodyguard selects one creature they can see and hear within 30 feet. That creature gains a +2 circumstance bonus to AC as long as the bodyguard is adjacent to the chosen creature and can act; this bonus lasts until the start of the bodyguard's next turn. ",
+ "text": " Bodyguard Hired to protect someone famous or powerful, bodyguards use intimidation, quick wits, and martial skill to keep their charges safe. Such mercenaries might be auxiliaries to a noble's personal guards, but with special directives to safeguard their patrons. Recall Knowledge - Humanoid (Society): DC 15 Unspecific Lore : DC 13 Specific Lore : DC 10 Bodyguard Source NPC Core pg. 82 Perception +8 Languages Common Skills Athletics +7, Intimidation +6, Society +2 Str +4 Dex +2 Con +3 Int -1 Wis +1 Cha +0 Items Greatclub, Sap, Sling, studded leather --- AC 16 Fort +8 Ref +7 Will +4 HP 25 Bodyguard's Reprisal Reaction Trigger A creature attacks the subject of bodyguard's defense; Effect The bodyguard makes a Strike against the triggering creature. --- Speed 25 feet Melee Single Action greatclub +7 (Backswing, Shove), Damage 1d10+4 bludgeoning Melee Single Action sap +7 (Agile, Nonlethal), Damage 1d6+4 bludgeoning Melee Single Action fist +7 (Agile, Nonlethal, Unarmed), Damage 1d4+4 bludgeoning Melee Single Action sling +5 (Propulsive, range increment 50 feet, reload 1), Damage 1d6+2 bludgeoning Bodyguard's Defense Single Action The bodyguard grants an adjacent ally a +2 circumstance bonus to AC. This lasts until the start of the bodyguard's next turn or until the ally is no longer adjacent, whichever comes first. ",
+ "tradition_markdown": "",
  "trait": [
   "Human",
   "Humanoid",
-  "N",
   "Medium"
  ],
- "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_group": [
+  "Ancestry",
+  "Half-Elf",
+  "Half-Orc",
+  "Creature Type"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=627), [Humanoid](/Traits.aspx?ID=628)",
  "trait_raw": [
   "Human",
   "Humanoid"
  ],
  "type": "Creature",
- "url": "/NPCs.aspx?ID=921",
+ "url": "/NPCs.aspx?ID=3513",
  "weakest_save": [
   "will"
  ],
  "weakness": {},
  "will_save": 4,
- "wisdom": 1
+ "will_save_scale": "Low",
+ "will_save_scale_number": 2,
+ "wisdom": 1,
+ "wisdom_scale": "Low",
+ "wisdom_scale_number": 2
 }

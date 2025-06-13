@@ -1,30 +1,37 @@
 {
- "actions": "Two Actions",
- "breadcrumbs_spa": [],
+ "actions": "Single Action",
+ "actions_number": 2,
  "category": "action",
  "exclude_from_search": true,
- "frequency": "once per hour",
- "id": "action-1022",
- "markdown": "**Activate** <actions string=\"Two Actions\" />Raise a Shield;  **Frequency** once per hour;   **Effect** You unleash the kraken's wrath. You Raise the Shield. The shield's appendages briefly extend to impossible length as they wriggle and lash out at your foes, dealing 10d10 bludgeoning damage to all enemies in a 30-foot cone (DC 41 [basic](/Rules.aspx?ID=329) Reflex save). The shield remains animated for 1 minute, during which you can use it to [Grapple](/Actions.aspx?ID=35) a creature within 10 feet of you without needing a free hand. When you use the shield to Grapple, you gain a +3 item bonus to your [Athletics](/Skills.aspx?ID=3) check.",
+ "frequency": "once per day",
+ "id": "action-194",
+ "markdown": "**Activate** <actions string=\"Single Action\" /> Raise a Shield;  **Frequency** once per day;   **Effect** You animate the lion’s head. You [Raise the Shield](/Actions.aspx?ID=98) and make a melee Strike with it as part of the same action. The shield’s biting maw is a martial melee weapon that deals 2d6 piercing damage and has the deadly 1d6 trait; it can’t be enhanced by runes. The shield remains animated for 1 minute, during which time you can Strike with it each time you Raise the Shield, as well as with a Strike action.",
  "name": "Raise a Shield",
+ "primary_source": "Core Rulebook",
+ "primary_source_raw": "Core Rulebook pg. 587",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2021-10-13",
+ "rarity_id": 1,
+ "release_date": "2019-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Grand Bazaar](/Sources.aspx?ID=100) pg. 38</row>\r\n\r\n**Frequency**\r\nonce per hour\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou unleash the kraken's wrath. You Raise the Shield. The shield's appendages briefly extend to impossible length as they wriggle and lash out at …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 587 <sup>4.0</sup>\r\n\r\n**Frequency**\r\nonce per day\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou animate the lion’s head. You  Raise the Shield  and make a melee Strike with it as part of the same action. The shield’s biting maw is a martial …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Grand Bazaar"
+  "Core Rulebook"
  ],
  "source_raw": [
-  "Grand Bazaar pg. 38"
+  "Core Rulebook pg. 587"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Grand Bazaar](/Sources.aspx?ID=100) pg. 38</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 587 <sup>4.0</sup>",
  "speed": {},
- "summary": "You unleash the kraken's wrath. You Raise the Shield. The shield's appendages briefly extend to impossible length as they wriggle and lash out at …",
- "summary_markdown": "You unleash the kraken's wrath. You Raise the Shield. The shield's appendages briefly extend to impossible length as they wriggle and lash out at …",
- "text": " Activate Two ActionsRaise a Shield; Frequency once per hour; Effect You unleash the kraken's wrath. You Raise the Shield. The shield's appendages briefly extend to impossible length as they wriggle and lash out at your foes, dealing 10d10 bludgeoning damage to all enemies in a 30-foot cone (DC 41 basic Reflex save). The shield remains animated for 1 minute, during which you can use it to Grapple a creature within 10 feet of you without needing a free hand. When you use the shield to Grapple, you gain a +3 item bonus to your Athletics check.",
+ "summary": "You animate the lion’s head. You  Raise the Shield  and make a melee Strike with it as part of the same action. The shield’s biting maw is a martial …",
+ "summary_markdown": "You animate the lion’s head. You  Raise the Shield  and make a melee Strike with it as part of the same action. The shield’s biting maw is a martial …",
+ "text": " Activate Single Action Raise a Shield; Frequency once per day; Effect You animate the lion’s head. You Raise the Shield and make a melee Strike with it as part of the same action. The shield’s biting maw is a martial melee weapon that deals 2d6 piercing damage and has the deadly 1d6 trait; it can’t be enhanced by runes. The shield remains animated for 1 minute, during which time you can Strike with it each time you Raise the Shield, as well as with a Strike action.",
  "trait_markdown": "",
  "type": "Action",
- "url": "/Actions.aspx?ID=1022",
+ "url": "/Actions.aspx?ID=194",
  "weakness": {}
 }

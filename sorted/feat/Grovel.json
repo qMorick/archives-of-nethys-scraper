@@ -1,39 +1,49 @@
 {
  "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions_number": 2,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Grovel"
  ],
  "feat_markdown": "Grovel",
- "id": "feat-1277",
+ "id": "feat-5619",
+ "legacy_id": [
+  "feat-1277"
+ ],
  "level": 5,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Grovel](/Feats.aspx?ID=1277) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=16\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Emotion\" url=\"/Traits.aspx?ID=60\" />\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=224\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 14 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nTrained in [Deception](/Skills.aspx?ID=5)\n\n</column>\r\n\r\n---\r\n\r\nWith obsequious words and begging gestures, you convince your foe you're less of a threat. You attempt to [Feint](/Actions.aspx?ID=48) against a creature. Unlike a normal Feint, the creature can be within 30 feet instead of in your melee reach, and you make your check against its Will DC instead of its Perception DC.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 5\"\r\n    pfs=\"Standard\"\r\n>\r\n[Grovel](/Feats.aspx?ID=5619) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=541\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n<trait label=\"Emotion\" url=\"/Traits.aspx?ID=590\" />\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=759\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=647\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 22 <sup>1.1</sup>\n\n**Prerequisites**\r\nTrained in [Deception](/Skills.aspx?ID=5)\n\n</column>\r\n\r\n---\r\n\r\nYou convince your foe you're less of a threat. You attempt to [Feint](/Actions.aspx?ID=2390) against a creature. Unlike a normal Feint, the creature can be within 30 feet instead of in your melee reach, and you make your check against its Will DC instead of its Perception DC.",
  "name": "Grovel",
  "pfs": "Standard",
  "prerequisite": "Trained in Deception",
  "prerequisite_markdown": "Trained in [Deception](/Skills.aspx?ID=5)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 22",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=16\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Emotion\" url=\"/Traits.aspx?ID=60\" />\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=224\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=106\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 14 <sup>2.0</sup></row>\n\n**Prerequisites**\r\nTrained in [Deception](/Skills.aspx?ID=5)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWith obsequious words and begging gestures, you convince your foe you're less of a threat.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=541\" />\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=561\" />\r\n<trait label=\"Emotion\" url=\"/Traits.aspx?ID=590\" />\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=759\" />\r\n<trait label=\"Mental\" url=\"/Traits.aspx?ID=647\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 22 <sup>1.1</sup>\n\n**Prerequisites**\r\nTrained in [Deception](/Skills.aspx?ID=5)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou convince your foe you're less of a threat.\r\n</summary>",
  "skill": [
   "Deception",
   "Deception"
  ],
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 14"
+  "Player Core 2 pg. 22"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 14 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 22 <sup>1.1</sup>",
  "speed": {},
- "summary": "With obsequious words and begging gestures, you convince your foe you're less of a threat.",
- "summary_markdown": "With obsequious words and begging gestures, you convince your foe you're less of a threat.",
- "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Grovel Single Action Source Advanced Player's Guide pg. 14 2.0 Prerequisites Trained in Deception --- With obsequious words and begging gestures, you convince your foe you're less of a threat. You attempt to Feint against a creature. Unlike a normal Feint, the creature can be within 30 feet instead of in your melee reach, and you make your check against its Will DC instead of its Perception DC.",
+ "summary": "You convince your foe you're less of a threat.",
+ "summary_markdown": "You convince your foe you're less of a threat.",
+ "text": "<title level=\"1\" right=\"Feat 5\" pfs=\"Standard\" > Grovel Single Action Source Player Core 2 pg. 22 1.1 Prerequisites Trained in Deception --- You convince your foe you're less of a threat. You attempt to Feint against a creature. Unlike a normal Feint, the creature can be within 30 feet instead of in your melee reach, and you make your check against its Will DC instead of its Perception DC.",
  "trait": [
   "Auditory",
   "Concentrate",
@@ -41,7 +51,12 @@
   "Kobold",
   "Mental"
  ],
- "trait_markdown": "[Auditory](/Traits.aspx?ID=16), [Concentrate](/Traits.aspx?ID=32), [Emotion](/Traits.aspx?ID=60), [Kobold](/Traits.aspx?ID=224), [Mental](/Traits.aspx?ID=106)",
+ "trait_group": [
+  "Sense",
+  "Mechanics",
+  "Monster"
+ ],
+ "trait_markdown": "[Auditory](/Traits.aspx?ID=541), [Concentrate](/Traits.aspx?ID=561), [Emotion](/Traits.aspx?ID=590), [Kobold](/Traits.aspx?ID=759), [Mental](/Traits.aspx?ID=647)",
  "trait_raw": [
   "Auditory",
   "Concentrate",
@@ -50,6 +65,6 @@
   "Mental"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1277",
+ "url": "/Feats.aspx?ID=5619",
  "weakness": {}
 }

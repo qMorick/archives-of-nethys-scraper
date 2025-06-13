@@ -1,37 +1,49 @@
 {
  "breadcrumbs": [
-  "Chapter 6: Items",
-  "Crafting and Treasure"
+  "Chapter 2: Building Games",
+  "Building Items",
+  "Designing by Type"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1449",
- "markdown": "<title level=\"1\" right=\"Rules\">[Alchemical Items](/Rules.aspx?ID=1449)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 247 <sup>2.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nAlchemical items are consumable, non-magical items that rely on the properties of volatile alchemical reagents to produce their effects. Rules for alchemical items, including the rules for [bombs](/equipment/alchemical-items/alchemical-bombs), [elixirs](/equipment/alchemical-items/alchemical-elixirs), and [poisons](/equipment/alchemical-items/alchemical-poisons), are located [here](/Rules.aspx?ID=702).\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2934",
+ "legacy_id": [
+  "rules-1064"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Alchemical Items](/Rules.aspx?ID=2934)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 131 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nAlchemical items are consumables. Because alchemists can make a large number for free, alchemical items tend to be on the weaker end for their level, with lower Prices. Avoid alchemical effects that feel too much like magic. Alchemy is capable of fantastical things, but should have its own distinct feel; where you draw the line depends on your game.\n\nAlchemical bombs are like weapons for alchemists and should primarily deal damage, with small extra effects. Existing bombs are great models. Elixirs are varied; make sure not to duplicate potions, especially highly magical ones. Poisons are one of the trickier alchemical items to make, and it's usually best to just tweak one found on pages 248–250 to avoid making something that's overpowered; compare to poisons of the same type that have similar onset and stage duration, as longer onset and duration poisons tend to deal drastically more damage. Alchemical tools are best used for adding a little weirdness. They can be creative and interesting, but tend not to be powerful.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Alchemical Items",
  "next_link": {
-  "label": "Snares",
-  "url": "/Rules.aspx?ID=1450"
+  "label": "Ammunition",
+  "url": "/Rules.aspx?ID=2935"
  },
  "previous_link": {
-  "label": "Weapons and Adventuring Gear",
-  "url": "/Rules.aspx?ID=1446"
+  "label": "Item Effects",
+  "url": "/Rules.aspx?ID=2927"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 131",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 247 <sup>2.0</sup></row>\r\n\r\nChapter 6: Items / Crafting and Treasure\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 131 <sup>2.0</sup>\r\n\r\nChapter 2: Building Games / Building Items / Designing by Type\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAlchemical items are consumables. Because alchemists can make a large number for free, alchemical items tend to be on the weaker end for their level, …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 247"
+  "GM Core pg. 131"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 247 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 131 <sup>2.0</sup>",
  "speed": {},
- "text": " Alchemical Items Source Advanced Player's Guide pg. 247 2.0 Alchemical items are consumable, non-magical items that rely on the properties of volatile alchemical reagents to produce their effects. Rules for alchemical items, including the rules for bombs, elixirs, and poisons, are located here. ",
+ "summary": "Alchemical items are consumables. Because alchemists can make a large number for free, alchemical items tend to be on the weaker end for their level, …",
+ "summary_markdown": "Alchemical items are consumables. Because alchemists can make a large number for free, alchemical items tend to be on the weaker end for their level, …",
+ "text": " Alchemical Items Source GM Core pg. 131 2.0 Alchemical items are consumables. Because alchemists can make a large number for free, alchemical items tend to be on the weaker end for their level, with lower Prices. Avoid alchemical effects that feel too much like magic. Alchemy is capable of fantastical things, but should have its own distinct feel; where you draw the line depends on your game. Alchemical bombs are like weapons for alchemists and should primarily deal damage, with small extra effects. Existing bombs are great models. Elixirs are varied; make sure not to duplicate potions, especially highly magical ones. Poisons are one of the trickier alchemical items to make, and it's usually best to just tweak one found on pages 248–250 to avoid making something that's overpowered; compare to poisons of the same type that have similar onset and stage duration, as longer onset and duration poisons tend to deal drastically more damage. Alchemical tools are best used for adding a little weirdness. They can be creative and interesting, but tend not to be powerful. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1449",
+ "url": "/Rules.aspx?ID=2934",
  "weakness": {}
 }

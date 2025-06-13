@@ -1,38 +1,49 @@
 {
  "breadcrumbs": [
-  "Chapter 1: Gamemastery Basics",
+  "Chapter 2: Building Games",
   "Campaign Structure",
-  "Starting The Campaign"
+  "Starting the Campaign"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-940",
- "markdown": "<title level=\"1\" right=\"Rules\">[Starting at a Higher Level](/Rules.aspx?ID=940)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 39</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nA typical campaign starts at 1st level, but you can start at a higher level if you choose. This can be especially satisfying for a one-shot or short campaign, or if your group wants to play a specific adventure made for higher-level groups. The PCs should start at the same level. They simply make a 1st-level character, then level it up the number of times needed to reach the starting level.\n\n The [Character Wealth](/Rules.aspx?ID=587) table on page 511 of the Core Rulebook indicates how much currency and what common items of various levels the character should start with. Let the players choose their own items and spend their currency on common items as well if they choose. This table gives them fewer items than they might have had if they had gained items through adventuring, balancing the fact that they can choose what items they want.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-2684",
+ "legacy_id": [
+  "rules-940"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Starting at a Higher Level](/Rules.aspx?ID=2684)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 67 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nA typical campaign starts at 1st level, but you can start at a higher level if you choose. This can be especially satisfying for a one-shot or short campaign, or if your group wants to play a specific adventure made for higher-level groups. The PCs should all start at the same level. They simply make a 1st-level character, then level it up the number of times needed to reach the starting level.\n\nThe Character Wealth table on page 61 indicates how much currency and what common items of various levels the character should start with. Let the players choose their own items as well as spend their currency on common items if they choose. This table gives them fewer items than they might have had if they'd gained items through adventuring, but it balances the fact that they can choose what items they want.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Starting at a Higher Level",
  "next_link": {
   "label": "Ending the Campaign",
-  "url": "/Rules.aspx?ID=941"
+  "url": "/Rules.aspx?ID=2685"
  },
  "previous_link": {
   "label": "At the First Session",
-  "url": "/Rules.aspx?ID=939"
+  "url": "/Rules.aspx?ID=2683"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 67",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 39</row>\r\n\r\nChapter 1: Gamemastery Basics / Campaign Structure / Starting The Campaign\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 67 <sup>2.0</sup>\r\n\r\nChapter 2: Building Games / Campaign Structure / Starting the Campaign\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA typical campaign starts at 1st level, but you can start at a higher level if you choose. This can be especially satisfying for a one-shot or short …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 39"
+  "GM Core pg. 67"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 39</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 67 <sup>2.0</sup>",
  "speed": {},
- "text": " Starting at a Higher Level Source Gamemastery Guide pg. 39 A typical campaign starts at 1st level, but you can start at a higher level if you choose. This can be especially satisfying for a one-shot or short campaign, or if your group wants to play a specific adventure made for higher-level groups. The PCs should start at the same level. They simply make a 1st-level character, then level it up the number of times needed to reach the starting level. The Character Wealth table on page 511 of the Core Rulebook indicates how much currency and what common items of various levels the character should start with. Let the players choose their own items and spend their currency on common items as well if they choose. This table gives them fewer items than they might have had if they had gained items through adventuring, balancing the fact that they can choose what items they want. ",
+ "summary": "A typical campaign starts at 1st level, but you can start at a higher level if you choose. This can be especially satisfying for a one-shot or short …",
+ "summary_markdown": "A typical campaign starts at 1st level, but you can start at a higher level if you choose. This can be especially satisfying for a one-shot or short …",
+ "text": " Starting at a Higher Level Source GM Core pg. 67 2.0 A typical campaign starts at 1st level, but you can start at a higher level if you choose. This can be especially satisfying for a one-shot or short campaign, or if your group wants to play a specific adventure made for higher-level groups. The PCs should all start at the same level. They simply make a 1st-level character, then level it up the number of times needed to reach the starting level. The Character Wealth table on page 61 indicates how much currency and what common items of various levels the character should start with. Let the players choose their own items as well as spend their currency on common items if they choose. This table gives them fewer items than they might have had if they'd gained items through adventuring, but it balances the fact that they can choose what items they want. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=940",
+ "url": "/Rules.aspx?ID=2684",
  "weakness": {}
 }

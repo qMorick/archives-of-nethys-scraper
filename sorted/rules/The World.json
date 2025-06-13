@@ -1,37 +1,48 @@
 {
  "breadcrumbs": [
-  "Chapter 2: Tools\r\n",
+  "Chapter 2: Building Games",
   "Building Worlds"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1121",
- "markdown": "<title level=\"1\" right=\"Rules\">[The World](/Rules.aspx?ID=1121)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 122</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nWhile world building might include building much more than a single planet, most adventures occur entirely on one world. It’s a good idea to have a broad understanding of that world as a whole.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-1122\" />\r\n\r\n<document level=\"2\" id=\"rules-1125\" />\r\n\r\n<document level=\"2\" id=\"rules-1128\" />",
+ "id": "rules-2956",
+ "legacy_id": [
+  "rules-1121"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[The World](/Rules.aspx?ID=2956)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 134 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nWhile world building might include designing much more than a single planet, most adventures occur entirely on one world. It’s a good idea to have a broad understanding of that world as a whole.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-2957\" />\r\n\r\n<document level=\"2\" id=\"rules-2960\" />\r\n\r\n<document level=\"2\" id=\"rules-2963\" />",
  "name": "The World",
  "next_link": {
   "label": "Civilization",
-  "url": "/Rules.aspx?ID=1129"
+  "url": "/Rules.aspx?ID=2964"
  },
  "previous_link": {
   "label": "Design Approach",
-  "url": "/Rules.aspx?ID=1118"
+  "url": "/Rules.aspx?ID=2953"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 134",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-02-26",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 122</row>\r\n\r\nChapter 2: Tools\r\n/ Building Worlds\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 134 <sup>2.0</sup>\r\n\r\nChapter 2: Building Games / Building Worlds\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile world building might include designing much more than a single planet, most adventures occur entirely on one world. It’s a good idea to have a …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Gamemastery Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Gamemastery Guide pg. 122"
+  "GM Core pg. 134"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 122</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 134 <sup>2.0</sup>",
  "speed": {},
- "text": " The World Source Gamemastery Guide pg. 122 While world building might include building much more than a single planet, most adventures occur entirely on one world. It’s a good idea to have a broad understanding of that world as a whole. ",
+ "summary": "While world building might include designing much more than a single planet, most adventures occur entirely on one world. It’s a good idea to have a …",
+ "summary_markdown": "While world building might include designing much more than a single planet, most adventures occur entirely on one world. It’s a good idea to have a …",
+ "text": " The World Source GM Core pg. 134 2.0 While world building might include designing much more than a single planet, most adventures occur entirely on one world. It’s a good idea to have a broad understanding of that world as a whole. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1121",
+ "url": "/Rules.aspx?ID=2956",
  "weakness": {}
 }

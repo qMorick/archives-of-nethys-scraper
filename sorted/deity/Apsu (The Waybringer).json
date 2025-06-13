@@ -1,20 +1,25 @@
 {
- "ability": [
+ "attribute": [
   "Wisdom",
   "Charisma"
  ],
- "alignment": "LG",
- "breadcrumbs_spa": [],
+ "anathema": "fail to pursue a foe who has betrayed your mercy, attack a creature without certainty of wrongdoing",
+ "area_of_concern": [
+  "leadership",
+  "peace",
+  "virtuous dragons"
+ ],
+ "area_of_concern_raw": "leadership, peace, virtuous dragons",
  "category": "deity",
  "cleric_spell": [
-  "Magic Fang",
+  "Anticipate Peril",
   "Creation",
-  "Dragon Form"
+  "Summon Dragon",
+  "Falling Stars"
  ],
  "deity": [
   "Apsu"
  ],
- "deity_markdown": "[Apsu](/Deities.aspx?ID=149)",
  "deity_category": "Other Gods",
  "deity_category_markdown": "[Other Gods](/DeityCategories.aspx?ID=2)",
  "deity_category_order": "2Other Gods",
@@ -24,61 +29,84 @@
  "divine_font_markdown": "[Heal](/Spells.aspx?ID=148)",
  "domain": [
   "Creation",
+  "Dragon",
+  "Freedom",
+  "Introspection",
   "Protection",
-  "Travel",
-  "Wyrmkin"
+  "Travel"
  ],
- "domain_markdown": "[Creation](/Domains.aspx?ID=5), [Protection](/Domains.aspx?ID=27), [Travel](/Domains.aspx?ID=30), [Wyrmkin](/Domains.aspx?ID=57)",
- "domain_alternate_markdown": "",
+ "domain_markdown": "[Creation](/Domains.aspx?ID=68), [Dragon](/Domains.aspx?ID=106), [Freedom](/Domains.aspx?ID=77), [Introspection](/Domains.aspx?ID=110), [Protection](/Domains.aspx?ID=90), [Travel](/Domains.aspx?ID=93)",
+ "domain_alternate": [
+  "Freedom",
+  "Introspection"
+ ],
+ "domain_alternate_markdown": "[Freedom](/Domains.aspx?ID=77), [Introspection](/Domains.aspx?ID=110)",
  "domain_primary": [
   "Creation",
+  "Dragon",
   "Protection",
-  "Travel",
-  "Wyrmkin"
+  "Travel"
  ],
- "domain_primary_markdown": "[Creation](/Domains.aspx?ID=5), [Protection](/Domains.aspx?ID=27), [Travel](/Domains.aspx?ID=30), [Wyrmkin](/Domains.aspx?ID=57)",
+ "domain_primary_markdown": "[Creation](/Domains.aspx?ID=68), [Dragon](/Domains.aspx?ID=106), [Protection](/Domains.aspx?ID=90), [Travel](/Domains.aspx?ID=93)",
+ "edict": "seek and destroy evil, travel the world, help others fend for themselves",
  "exclude_from_search": false,
  "favored_weapon": [
   "jaws",
   "Staff"
  ],
- "favored_weapon_markdown": "[jaws](/Weapons.aspx?ID=1) or [Staff](/Weapons.aspx?ID=12)",
- "follower_alignment": [
-  "LG",
-  "NG",
-  "CG"
+ "favored_weapon_markdown": "[jaws](/Weapons.aspx?ID=356) or [Staff](/Weapons.aspx?ID=367)",
+ "id": "deity-330",
+ "legacy_id": [
+  "deity-149"
  ],
- "id": "deity-149",
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Apsu (The Waybringer)](/Deities.aspx?ID=149)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"LG\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 130 <sup>2.0</sup></row>\n\n_Nethys Note: no description has been provided of this deity_\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Other Gods](/DeityCategories.aspx?ID=2)\r\n\r\n**Edicts** Seek and destroy evil, travel the world, help others fend for themselves\r\n\r\n**Anathema** Fail to pursue a foe who has betrayed your mercy, attack a creature without certainty of wrongdoing\n\n**Follower Alignments**\r\nLG, NG, CG\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nWisdom or Charisma\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Diplomacy](/Skills.aspx?ID=6)\r\n\r\n**Favored Weapon** [jaws](/Weapons.aspx?ID=1) or [Staff](/Weapons.aspx?ID=12)\r\n\r\n**Domains** [Creation](/Domains.aspx?ID=5), [Protection](/Domains.aspx?ID=27), [Travel](/Domains.aspx?ID=30), [Wyrmkin](/Domains.aspx?ID=57)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** \r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Magic Fang](/Spells.aspx?ID=179)\n\n- **4th**\r\n[Creation](/Spells.aspx?ID=54)\n\n- **6th**\r\n[Dragon Form](/Spells.aspx?ID=88)\r\n(metallic dragons only)\n\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Apsu (The Waybringer)](/Deities.aspx?ID=330)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 128\n\nTexts more ancient than recorded time kept in the halls of draconic sages assert that Apsu and his mate Sarshallatu were the first dragons. The two spawned seven children and as a family, they shaped the mortal world of Golarion. However, one of these children broke Apsu’s heart during that time. Instead of wanting to create, his child, named [Dahak](/Deities.aspx?ID=150), sought only to destroy. As much as it pained Apsu to fight his child, he could not let this world be destroyed senselessly, but when Apsu had gained the upper hand, his partner stopped him. Dahak then fled to [Hell](/Planes.aspx?ID=42) to nurse his wounds.\n\nTo this day, Apsu continues to battle against the forces that seek to destroy this world, forever reminded of his failure to stop his child and the pain of Sarshallatu’s betrayal. Though he strives for peace, he knows that one day, he will have to confront Dahak once again and that all dragonkind will be involved in the inevitable conflict. Such a war would sweep across Golarion like a massive wildfire. Until that time, Apsu entreats mortal artists and leaders to make the world the best place it can possibly be. Somewhat ironically, when Apsu contemplates these acts of beauty and harmony, he grows ever more despondent about his fated battle against his son. \n\nOn Golarion, Apsu’s faith is scattered. His primary worshippers are dragons. As dragons tend to be solitary creatures, they rarely form any kind of greater community based around Apsu’s worship. Apsu does see worship among non-dragons. Typically, creatures with some kind of draconic influence in their lineage, such as [dragonblood](/Ancestries.aspx?ID=86) mortals or [draconic](/Bloodlines.aspx?ID=23) sorcerers, are most likely to be among his non-dragon followers. Within the Inner Sea, a group known as the Platinum Band makes up the largest bulk of non-dragon Apsu worshippers. The group is primarily made up of humans, though plenty of other ancestries number among the group’s ranks, and they are most prevalent in Absalom, Taldor, and Thuvia.\n\nThough few and far between, larger temples to Apsu are grandiose affairs of sturdy stone architecture etched with gold, silver, and platinum. Instead of a standard altar, a temple’s main hall contains a large, polished mirror embedded in the floor.\n\nWorshippers are encouraged to look into the mirror and reflect upon their deeds under the gaze of a statue of the Waybringer. Smaller, simpler mirrors can usually be found in those roadside shrines, where travelers can perform the same contemplation, though on a more intimate scale.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Other Gods](/DeityCategories.aspx?ID=2)\r\n\r\n**Edicts** seek and destroy evil, travel the world, help others fend for themselves\r\n\r\n**Anathema** fail to pursue a foe who has betrayed your mercy, attack a creature without certainty of wrongdoing\r\n\r\n**Area of Concern**\r\nleadership, peace, virtuous dragons\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nWisdom or Charisma\r\n\r\n**Divine Font** [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** must choose holy\r\n\r\n**Divine Skill** [Diplomacy](/Skills.aspx?ID=39)\r\n\r\n**Favored Weapon** [jaws](/Weapons.aspx?ID=356) or [Staff](/Weapons.aspx?ID=367)\r\n\r\n**Domains** [Creation](/Domains.aspx?ID=68), [Dragon](/Domains.aspx?ID=106), [Protection](/Domains.aspx?ID=90), [Travel](/Domains.aspx?ID=93)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** [Freedom](/Domains.aspx?ID=77), [Introspection](/Domains.aspx?ID=110)\r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Anticipate Peril](/Spells.aspx?ID=2343)\n\n- **4th**\r\n[Creation](/Spells.aspx?ID=1477)\n\n- **5th**\r\n[Summon Dragon](/Spells.aspx?ID=1697)\r\n(can summon any dragon, regardless of tradition)\n\n- **9th**\r\n[Falling Stars](/Spells.aspx?ID=1521)\n\n</column>",
  "name": "Apsu (The Waybringer)",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 128",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "silvery dragon above a mirrored pool",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 130 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Diplomacy](/Skills.aspx?ID=6)\r\n\r\n**Favored Weapon** [jaws](/Weapons.aspx?ID=1) or [Staff](/Weapons.aspx?ID=12)\r\n\r\n**Domains** [Creation](/Domains.aspx?ID=5), [Protection](/Domains.aspx?ID=27), [Travel](/Domains.aspx?ID=30), [Wyrmkin](/Domains.aspx?ID=57)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Nethys Note: no description has been provided of this deity \r\n</summary>",
+ "sacred_animal": "none",
+ "sacred_color": [
+  "gold",
+  "silver"
+ ],
+ "sanctification": [
+  "holy"
+ ],
+ "sanctification_raw": "must choose holy",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 128\r\n\r\n**Divine Font** Heal\r\n\r\n**Divine Skill** [Diplomacy](/Skills.aspx?ID=39)\r\n\r\n**Favored Weapon** [jaws](/Weapons.aspx?ID=356) or [Staff](/Weapons.aspx?ID=367)\r\n\r\n**Domains** [Creation](/Domains.aspx?ID=68), [Dragon](/Domains.aspx?ID=106), [Freedom](/Domains.aspx?ID=77), [Introspection](/Domains.aspx?ID=110), [Protection](/Domains.aspx?ID=90), [Travel](/Domains.aspx?ID=93)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTexts more ancient than recorded time kept in the halls of draconic sages assert that Apsu and his mate Sarshallatu were the first dragons. The two …\r\n</summary>",
  "skill": [
   "Diplomacy"
  ],
- "skill_markdown": "[Diplomacy](/Skills.aspx?ID=6)",
+ "skill_markdown": "[Diplomacy](/Skills.aspx?ID=39)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 130"
+  "Divine Mysteries pg. 128"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 130 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 128",
  "speed": {},
- "summary": " Nethys Note: no description has been provided of this deity ",
- "summary_markdown": " Nethys Note: no description has been provided of this deity ",
- "text": " Apsu (The Waybringer) Source Gods &amp; Magic pg. 130 2.0 Nethys Note: no description has been provided of this deity Category Other Gods Edicts Seek and destroy evil, travel the world, help others fend for themselves Anathema Fail to pursue a foe who has betrayed your mercy, attack a creature without certainty of wrongdoing Follower Alignments LG, NG, CG Devotee Benefits Divine Ability Wisdom or Charisma Divine Font Heal Divine Skill Diplomacy Favored Weapon jaws or Staff Domains Creation, Protection, Travel, Wyrmkin Alternate Domains Cleric Spells - 1st Magic Fang - 4th Creation - 6th Dragon Form (metallic dragons only)\n",
- "trait": [
-  "LG"
+ "spell": [
+  "Anticipate Peril",
+  "Creation",
+  "Summon Dragon",
+  "Falling Stars"
  ],
- "trait_raw": [
-  "LG"
- ],
+ "spell_markdown": "[Anticipate Peril](/Spells.aspx?ID=2343), [Creation](/Spells.aspx?ID=1477), [Falling Stars](/Spells.aspx?ID=1521), [Summon Dragon](/Spells.aspx?ID=1697)",
+ "summary": "Texts more ancient than recorded time kept in the halls of draconic sages assert that Apsu and his mate Sarshallatu were the first dragons. The two …",
+ "summary_markdown": "Texts more ancient than recorded time kept in the halls of draconic sages assert that Apsu and his mate Sarshallatu were the first dragons. The two …",
+ "text": " Apsu (The Waybringer) Source Divine Mysteries pg. 128 Texts more ancient than recorded time kept in the halls of draconic sages assert that Apsu and his mate Sarshallatu were the first dragons. The two spawned seven children and as a family, they shaped the mortal world of Golarion. However, one of these children broke Apsu’s heart during that time. Instead of wanting to create, his child, named Dahak, sought only to destroy. As much as it pained Apsu to fight his child, he could not let this world be destroyed senselessly, but when Apsu had gained the upper hand, his partner stopped him. Dahak then fled to Hell to nurse his wounds. To this day, Apsu continues to battle against the forces that seek to destroy this world, forever reminded of his failure to stop his child and the pain of Sarshallatu’s betrayal. Though he strives for peace, he knows that one day, he will have to confront Dahak once again and that all dragonkind will be involved in the inevitable conflict. Such a war would sweep across Golarion like a massive wildfire. Until that time, Apsu entreats mortal artists and leaders to make the world the best place it can possibly be. Somewhat ironically, when Apsu contemplates these acts of beauty and harmony, he grows ever more despondent about his fated battle against his son. On Golarion, Apsu’s faith is scattered. His primary worshippers are dragons. As dragons tend to be solitary creatures, they rarely form any kind of greater community based around Apsu’s worship. Apsu does see worship among non-dragons. Typically, creatures with some kind of draconic influence in their lineage, such as dragonblood mortals or draconic sorcerers, are most likely to be among his non-dragon followers. Within the Inner Sea, a group known as the Platinum Band makes up the largest bulk of non-dragon Apsu worshippers. The group is primarily made up of humans, though plenty of other ancestries number among the group’s ranks, and they are most prevalent in Absalom, Taldor, and Thuvia. Though few and far between, larger temples to Apsu are grandiose affairs of sturdy stone architecture etched with gold, silver, and platinum. Instead of a standard altar, a temple’s main hall contains a large, polished mirror embedded in the floor. Worshippers are encouraged to look into the mirror and reflect upon their deeds under the gaze of a statue of the Waybringer. Smaller, simpler mirrors can usually be found in those roadside shrines, where travelers can perform the same contemplation, though on a more intimate scale. Category Other Gods Edicts seek and destroy evil, travel the world, help others fend for themselves Anathema fail to pursue a foe who has betrayed your mercy, attack a creature without certainty of wrongdoing Area of Concern leadership, peace, virtuous dragons Devotee Benefits Divine Attribute Wisdom or Charisma Divine Font Heal Divine Sanctification must choose holy Divine Skill Diplomacy Favored Weapon jaws or Staff Domains Creation, Dragon, Protection, Travel Alternate Domains Freedom, Introspection Cleric Spells - 1st Anticipate Peril - 4th Creation - 5th Summon Dragon (can summon any dragon, regardless of tradition) - 9th Falling Stars\n",
  "type": "Deity",
- "url": "/Deities.aspx?ID=149",
+ "url": "/Deities.aspx?ID=330",
  "weakness": {}
 }

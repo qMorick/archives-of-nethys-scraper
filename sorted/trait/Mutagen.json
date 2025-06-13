@@ -1,26 +1,35 @@
 {
- "breadcrumbs_spa": [],
  "category": "trait",
  "exclude_from_search": false,
- "id": "trait-116",
- "markdown": "<title level=\"1\" right=\"Trait\">[Mutagen](/Traits.aspx?ID=116)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 634 <sup>4.0</sup></row>\n\nAn [elixir](/Traits.aspx?ID=59) with the mutagen trait temporarily transmogrifies the subject's body and alters its mind. A mutagen always conveys one or more beneficial effects paired with one or more detrimental effects. Mutagens are [polymorph](/Traits.aspx?ID=127) effects, meaning you can benefit from only one at a time.",
+ "id": "trait-808",
+ "legacy_id": [
+  "trait-116"
+ ],
+ "markdown": "<title level=\"1\" right=\"Trait\">[Mutagen](/Traits.aspx?ID=808)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 289 <sup>1.1</sup>\n\nMutagens are a special type of [elixir](/Traits.aspx?ID=589) that temporarily transmogrify the subject's body and mind. Typically, only [alchemists](/Classes.aspx?ID=56) have the expertise to craft mutagens. \n\nA mutagen always conveys one or more beneficial effects (listed in the Benefit entry) and one or more detrimental effects (shown in the Drawback entry). Mutagens are [polymorph](/Traits.aspx?ID=670) effects, and a subsequent polymorph effect attempts to counteract an existing effect; the [counteract](/Rules.aspx?ID=2250) check for a mutagen uses the item's level and a modifier equal to that [level's DC](/Rules.aspx?ID=2948) – 10.",
  "name": "Mutagen",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 289",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 634 <sup>4.0</sup></row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn  elixir  with the mutagen trait temporarily transmogrifies the subject's body and alters its mind. A mutagen always conveys one or more beneficial …\r\n</summary>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 289 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMutagens are a special type of  elixir  that temporarily transmogrify the subject's body and mind. Typically, only  alchemists  have the expertise to …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 634"
+  "Player Core 2 pg. 289"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 634 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 289 <sup>1.1</sup>",
  "speed": {},
- "summary": "An  elixir  with the mutagen trait temporarily transmogrifies the subject's body and alters its mind. A mutagen always conveys one or more beneficial …",
- "summary_markdown": "An  elixir  with the mutagen trait temporarily transmogrifies the subject's body and alters its mind. A mutagen always conveys one or more beneficial …",
- "text": " Mutagen Source Core Rulebook pg. 634 4.0 An elixir with the mutagen trait temporarily transmogrifies the subject's body and alters its mind. A mutagen always conveys one or more beneficial effects paired with one or more detrimental effects. Mutagens are polymorph effects, meaning you can benefit from only one at a time.",
+ "summary": "Mutagens are a special type of  elixir  that temporarily transmogrify the subject's body and mind. Typically, only  alchemists  have the expertise to …",
+ "summary_markdown": "Mutagens are a special type of  elixir  that temporarily transmogrify the subject's body and mind. Typically, only  alchemists  have the expertise to …",
+ "text": " Mutagen Source Player Core 2 pg. 289 1.1 Mutagens are a special type of elixir that temporarily transmogrify the subject's body and mind. Typically, only alchemists have the expertise to craft mutagens. A mutagen always conveys one or more beneficial effects (listed in the Benefit entry) and one or more detrimental effects (shown in the Drawback entry). Mutagens are polymorph effects, and a subsequent polymorph effect attempts to counteract an existing effect; the counteract check for a mutagen uses the item's level and a modifier equal to that level's DC – 10.",
  "trait": [
   "Mutagen"
  ],
@@ -32,6 +41,6 @@
   "Mutagen"
  ],
  "type": "Trait",
- "url": "/Traits.aspx?ID=116",
+ "url": "/Traits.aspx?ID=808",
  "weakness": {}
 }

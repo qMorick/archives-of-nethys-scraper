@@ -1,42 +1,54 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Greater Mental Evolution"
  ],
  "feat_markdown": "Greater Mental Evolution",
- "id": "feat-626",
+ "id": "feat-6119",
+ "legacy_id": [
+  "feat-626"
+ ],
  "level": 16,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 16\"\r\n    pfs=\"Standard\"\r\n>\r\n[Greater Mental Evolution](/Feats.aspx?ID=626) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=148\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 201 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Arcane Evolution](/Feats.aspx?ID=609) or [Occult Evolution](/Feats.aspx?ID=612)\n\n</column>\r\n\r\n---\r\n\r\nYour bloodline’s deep connection to mental essence greatly enhances your spell repertoire. Add one spell to your spell repertoire for each spell level you can cast.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 16\"\r\n    pfs=\"Standard\"\r\n>\r\n[Greater Mental Evolution](/Feats.aspx?ID=6119) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=824\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 157 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Arcane Evolution](/Feats.aspx?ID=6094) or [Occult Evolution](/Feats.aspx?ID=6096)\n\n</column>\r\n\r\n---\r\n\r\nYour bloodline's deep connection to mental essence greatly enhances your spell repertoire. Add one spell to your spell repertoire for each spell rank you can cast.",
  "name": "Greater Mental Evolution",
  "pfs": "Standard",
  "prerequisite": "Arcane Evolution or Occult Evolution",
- "prerequisite_markdown": "[Arcane Evolution](/Feats.aspx?ID=609) or [Occult Evolution](/Feats.aspx?ID=612)",
+ "prerequisite_markdown": "[Arcane Evolution](/Feats.aspx?ID=6094) or [Occult Evolution](/Feats.aspx?ID=6096)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 157",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=148\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 201 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Arcane Evolution](/Feats.aspx?ID=609) or [Occult Evolution](/Feats.aspx?ID=612)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour bloodline’s deep connection to mental essence greatly enhances your spell repertoire.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Sorcerer\" url=\"/Traits.aspx?ID=824\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 157 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Arcane Evolution](/Feats.aspx?ID=6094) or [Occult Evolution](/Feats.aspx?ID=6096)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour bloodline's deep connection to mental essence greatly enhances your spell repertoire.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 201"
+  "Player Core 2 pg. 157"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 201 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 157 <sup>1.1</sup>",
  "speed": {},
- "summary": "Your bloodline’s deep connection to mental essence greatly enhances your spell repertoire.",
- "summary_markdown": "Your bloodline’s deep connection to mental essence greatly enhances your spell repertoire.",
- "text": "<title level=\"1\" right=\"Feat 16\" pfs=\"Standard\" > Greater Mental Evolution Source Core Rulebook pg. 201 4.0 Prerequisites Arcane Evolution or Occult Evolution --- Your bloodline’s deep connection to mental essence greatly enhances your spell repertoire. Add one spell to your spell repertoire for each spell level you can cast.",
+ "summary": "Your bloodline's deep connection to mental essence greatly enhances your spell repertoire.",
+ "summary_markdown": "Your bloodline's deep connection to mental essence greatly enhances your spell repertoire.",
+ "text": "<title level=\"1\" right=\"Feat 16\" pfs=\"Standard\" > Greater Mental Evolution Source Player Core 2 pg. 157 1.1 Prerequisites Arcane Evolution or Occult Evolution --- Your bloodline's deep connection to mental essence greatly enhances your spell repertoire. Add one spell to your spell repertoire for each spell rank you can cast.",
  "trait": [
   "Sorcerer"
  ],
- "trait_markdown": "[Sorcerer](/Traits.aspx?ID=148)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Sorcerer](/Traits.aspx?ID=824)",
  "trait_raw": [
   "Sorcerer"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=626",
+ "url": "/Feats.aspx?ID=6119",
  "weakness": {}
 }

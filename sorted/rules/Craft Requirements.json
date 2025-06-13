@@ -1,37 +1,48 @@
 {
  "breadcrumbs": [
-  "Chapter 11: Crafting & Treasure",
+  "Chapter 5: Treasure Trove",
   "Reading Items"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-701",
- "markdown": "<title level=\"1\" right=\"Rules\">[Craft Requirements](/Rules.aspx?ID=701)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 535 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nAn item might require the crafter to provide specific raw materials, supply spells, have a certain alignment, or meet other special requirements to [Craft](/Actions.aspx?ID=43) it. These appear in the Craft Requirements entry of the stat block. Every item also has default requirements, as listed in the Craft activity. In addition, creating alchemical items requires the [Alchemical Crafting](/Feats.aspx?ID=752) feat, creating magic items requires the [Magical Crafting](/Feats.aspx?ID=812) feat, and crafting snares requires the [Snare Crafting](/Feats.aspx?ID=843) feat. Finally, crafting higher-level items requires greater proficiency in [Crafting](/Skills.aspx?ID=4). Unless stated otherwise, creating items of 9th level and higher requires you to have the master proficiency rank in Crafting, and items of 16th level and higher require legendary Crafting.\n\n The GM might allow you to Craft a permanent item from a lower-level version of the same item as an upgrade. For example, you might upgrade a [_bag of holding_](/Equipment.aspx?ID=249) from a type I to a type II bag, but you couldn't upgrade a [_clear spindle aeon stone_](/Equipment.aspx?ID=407) into an _orange prism aeon stone_. The cost for this upgrade is the full difference in Price between the items, and the Crafting check uses a DC for the item's new level.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-3156",
+ "legacy_id": [
+  "rules-701"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Craft Requirements](/Rules.aspx?ID=3156)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 223 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nAn item might require the crafter to provide specific raw materials, supply spells, or meet other special requirements to [Craft](/Actions.aspx?ID=2385) it. These appear in the Craft Requirements entry of the stat block. Any of these Craft Requirements are in addition to the normal requirements for crafting the item.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Craft Requirements",
  "next_link": {
-  "label": "Alchemical Items",
-  "url": "/Rules.aspx?ID=702"
+  "label": "Crafting Items",
+  "url": "/Rules.aspx?ID=3157"
  },
  "previous_link": {
   "label": "Usage",
-  "url": "/Rules.aspx?ID=698"
+  "url": "/Rules.aspx?ID=3151"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 223",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 535 <sup>4.0</sup></row>\r\n\r\nChapter 11: Crafting &amp; Treasure / Reading Items\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 223 <sup>2.0</sup>\r\n\r\nChapter 5: Treasure Trove / Reading Items\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn item might require the crafter to provide specific raw materials, supply spells, or meet other special requirements to  Craft  it. These appear in …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 535"
+  "GM Core pg. 223"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 535 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 223 <sup>2.0</sup>",
  "speed": {},
- "text": " Craft Requirements Source Core Rulebook pg. 535 4.0 An item might require the crafter to provide specific raw materials, supply spells, have a certain alignment, or meet other special requirements to Craft it. These appear in the Craft Requirements entry of the stat block. Every item also has default requirements, as listed in the Craft activity. In addition, creating alchemical items requires the Alchemical Crafting feat, creating magic items requires the Magical Crafting feat, and crafting snares requires the Snare Crafting feat. Finally, crafting higher-level items requires greater proficiency in Crafting. Unless stated otherwise, creating items of 9th level and higher requires you to have the master proficiency rank in Crafting, and items of 16th level and higher require legendary Crafting. The GM might allow you to Craft a permanent item from a lower-level version of the same item as an upgrade. For example, you might upgrade a bag of holding from a type I to a type II bag, but you couldn't upgrade a clear spindle aeon stone into an orange prism aeon stone . The cost for this upgrade is the full difference in Price between the items, and the Crafting check uses a DC for the item's new level. ",
+ "summary": "An item might require the crafter to provide specific raw materials, supply spells, or meet other special requirements to  Craft  it. These appear in …",
+ "summary_markdown": "An item might require the crafter to provide specific raw materials, supply spells, or meet other special requirements to  Craft  it. These appear in …",
+ "text": " Craft Requirements Source GM Core pg. 223 2.0 An item might require the crafter to provide specific raw materials, supply spells, or meet other special requirements to Craft it. These appear in the Craft Requirements entry of the stat block. Any of these Craft Requirements are in addition to the normal requirements for crafting the item. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=701",
+ "url": "/Rules.aspx?ID=3156",
  "weakness": {}
 }

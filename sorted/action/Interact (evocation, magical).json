@@ -1,30 +1,39 @@
 {
- "actions": "Two Actions",
- "breadcrumbs_spa": [],
+ "actions": "Three Actions",
+ "actions_number": 6,
  "category": "action",
  "exclude_from_search": true,
- "frequency": "once per minute",
- "id": "action-1578",
- "markdown": "**Activate** <actions string=\"Two Actions\" />Interact ([evocation](/Equipment.aspx?ID=1671), [magical](/Traits.aspx?ID=103)) **Frequency** once per minute;   **Effect** You swing the leiomano, sending several of the dragon teeth shooting through the air on jets of energy. The dragon teeth deal 3d6 piercing damage and 3d6 damage of the energy type corresponding to the weapon in a 15-foot cone (DC 29 [basic](/Rules.aspx?ID=329) Reflex save). The teeth hunt down their targets, correcting their flight in midair, which reduces any circumstance bonus from [cover](/Rules.aspx?ID=459) by 2.",
+ "frequency": "once per day",
+ "id": "action-960",
+ "markdown": "**Activate** <actions string=\"Three Actions\" /> Interact ([evocation](/Traits.aspx?ID=65), [magical](/Traits.aspx?ID=103)) **Frequency** once per day;  **Requirements** The _spike launcher_ is loaded; **Effect** The _spike launcher_ fires a volley of smaller spikes in a 10-foot burst centered anywhere within its range. Make a Strike with the _spike launcher_ against each creature in the area. These attacks count toward the your multiple attack penalty, but the multiple attack penalty doesn't increase until after you make all of your attacks. On a success, the spike causes the creature to take a –5-foot status penalty to their Speed. On a critical success, the creature becomes [immobilized](/Conditions.aspx?ID=24) instead. In either case, the creature, or an adjacent creature, can use an Interact action to remove the spike and end the penalty or immobilized condition.",
  "name": "Interact (evocation, magical)",
+ "primary_source": "Guns & Gears",
+ "primary_source_raw": "Guns & Gears pg. 156",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2023-02-22",
+ "rarity_id": 1,
+ "release_date": "2021-10-13",
+ "requirement": "The  spike launcher  is loaded",
+ "requirement_markdown": "The _spike launcher_ is loaded",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 35 <sup>1.1</sup></row>\r\n\r\n**Frequency**\r\nonce per minute\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou swing the leiomano, sending several of the dragon teeth shooting through the air on jets of energy. The dragon teeth deal 3d6 piercing damage and …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 156 <sup>2.0</sup>\r\n\r\n**Frequency**\r\nonce per day\n\n**Requirement**\r\nThe _spike launcher_ is loaded\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe  spike launcher  fires a volley of smaller spikes in a 10-foot burst centered anywhere within its range. Make a Strike with the  spike launcher  …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Treasure Vault"
+  "Guns & Gears"
  ],
  "source_raw": [
-  "Treasure Vault pg. 35"
+  "Guns & Gears pg. 156"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Treasure Vault](/Sources.aspx?ID=191) pg. 35 <sup>1.1</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 156 <sup>2.0</sup>",
  "speed": {},
- "summary": "You swing the leiomano, sending several of the dragon teeth shooting through the air on jets of energy. The dragon teeth deal 3d6 piercing damage and …",
- "summary_markdown": "You swing the leiomano, sending several of the dragon teeth shooting through the air on jets of energy. The dragon teeth deal 3d6 piercing damage and …",
- "text": " Activate Two ActionsInteract (evocation, magical) Frequency once per minute; Effect You swing the leiomano, sending several of the dragon teeth shooting through the air on jets of energy. The dragon teeth deal 3d6 piercing damage and 3d6 damage of the energy type corresponding to the weapon in a 15-foot cone (DC 29 basic Reflex save). The teeth hunt down their targets, correcting their flight in midair, which reduces any circumstance bonus from cover by 2.",
+ "summary": "The  spike launcher  fires a volley of smaller spikes in a 10-foot burst centered anywhere within its range. Make a Strike with the  spike launcher  …",
+ "summary_markdown": "The  spike launcher  fires a volley of smaller spikes in a 10-foot burst centered anywhere within its range. Make a Strike with the  spike launcher  …",
+ "text": " Activate Three Actions Interact (evocation, magical) Frequency once per day; Requirements The spike launcher is loaded; Effect The spike launcher fires a volley of smaller spikes in a 10-foot burst centered anywhere within its range. Make a Strike with the spike launcher against each creature in the area. These attacks count toward the your multiple attack penalty, but the multiple attack penalty doesn't increase until after you make all of your attacks. On a success, the spike causes the creature to take a –5-foot status penalty to their Speed. On a critical success, the creature becomes immobilized instead. In either case, the creature, or an adjacent creature, can use an Interact action to remove the spike and end the penalty or immobilized condition.",
  "trait_markdown": "",
  "type": "Action",
- "url": "/Actions.aspx?ID=1578",
+ "url": "/Actions.aspx?ID=960",
  "weakness": {}
 }

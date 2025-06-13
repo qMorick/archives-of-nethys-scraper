@@ -1,42 +1,57 @@
 {
  "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions_number": 2,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Share Rage"
  ],
  "feat_markdown": "Share Rage",
- "id": "feat-154",
+ "id": "feat-5843",
+ "legacy_id": [
+  "feat-154"
+ ],
  "level": 8,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Share Rage](/Feats.aspx?ID=154) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=16\" />\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n<trait label=\"Visual\" url=\"/Traits.aspx?ID=163\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 91 <sup>4.0</sup></row>\n\n**Requirements**\r\nYou haven’t used this ability since you last Raged.\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou stoke an ally’s fury. While you are raging, one willing creature within 30 feet gains the effects of the Rage action, except it can still use [concentrate](/Traits.aspx?ID=32) actions.\n\n<title level=\"2\">Share Rage leads to...</title>\r\n[Contagious Rage](/Feats.aspx?ID=177)",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Share Rage](/Feats.aspx?ID=5843) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=541\" />\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n<trait label=\"Visual\" url=\"/Traits.aspx?ID=727\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 81 <sup>1.1</sup>\n\n**Requirements**\r\nYou haven’t used this ability since you last Raged.\n\n</column>\r\n\r\n---\r\n\r\nYou stoke an ally's fury. While you are raging, one willing creature within 30 feet gains the effects of the [Rage](/Actions.aspx?ID=2802) action, except it can still use [concentrate](/Traits.aspx?ID=561) actions. It doesn't get any added benefits from your instinct, feats, or the like.\n\n<title level=\"2\">Share Rage leads to...</title>\r\n[Contagious Rage](/Feats.aspx?ID=5878)",
  "name": "Share Rage",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 81",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "requirement": "You haven’t used this ability since you last Raged.",
  "requirement_markdown": "You haven’t used this ability since you last Raged.",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=16\" />\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n<trait label=\"Visual\" url=\"/Traits.aspx?ID=163\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 91 <sup>4.0</sup></row>\n\n**Requirements**\r\nYou haven’t used this ability since you last Raged.\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou stoke an ally’s fury.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=541\" />\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n<trait label=\"Visual\" url=\"/Traits.aspx?ID=727\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 81 <sup>1.1</sup>\n\n**Requirements**\r\nYou haven’t used this ability since you last Raged.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou stoke an ally's fury.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 91"
+  "Player Core 2 pg. 81"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 91 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 81 <sup>1.1</sup>",
  "speed": {},
- "summary": "You stoke an ally’s fury.",
- "summary_markdown": "You stoke an ally’s fury.",
- "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Share Rage Single Action Source Core Rulebook pg. 91 4.0 Requirements You haven’t used this ability since you last Raged. --- You stoke an ally’s fury. While you are raging, one willing creature within 30 feet gains the effects of the Rage action, except it can still use concentrate actions. Share Rage leads to... Contagious Rage",
+ "summary": "You stoke an ally's fury.",
+ "summary_markdown": "You stoke an ally's fury.",
+ "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Share Rage Single Action Source Player Core 2 pg. 81 1.1 Requirements You haven’t used this ability since you last Raged. --- You stoke an ally's fury. While you are raging, one willing creature within 30 feet gains the effects of the Rage action, except it can still use concentrate actions. It doesn't get any added benefits from your instinct, feats, or the like. Share Rage leads to... Contagious Rage",
  "trait": [
   "Auditory",
   "Barbarian",
   "Rage",
   "Visual"
  ],
- "trait_markdown": "[Auditory](/Traits.aspx?ID=16), [Barbarian](/Traits.aspx?ID=18), [Rage](/Traits.aspx?ID=135), [Visual](/Traits.aspx?ID=163)",
+ "trait_group": [
+  "Sense",
+  "Class",
+  "Class-Specific"
+ ],
+ "trait_markdown": "[Auditory](/Traits.aspx?ID=541), [Barbarian](/Traits.aspx?ID=813), [Rage](/Traits.aspx?ID=680), [Visual](/Traits.aspx?ID=727)",
  "trait_raw": [
   "Auditory",
   "Barbarian",
@@ -44,6 +59,6 @@
   "Visual"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=154",
+ "url": "/Feats.aspx?ID=5843",
  "weakness": {}
 }

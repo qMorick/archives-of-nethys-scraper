@@ -1,54 +1,71 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
  "bulk": 1,
  "bulk_raw": "1",
  "category": "equipment",
+ "element": [
+  "Fire"
+ ],
  "exclude_from_search": false,
- "id": "equipment-735",
+ "id": "equipment-3088",
  "item_category": "Worn Items",
  "item_subcategory": "Other Worn Items",
+ "legacy_id": [
+  "equipment-735"
+ ],
  "level": 13,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 13\"\r\n    pfs=\"Standard\"\r\n>\r\n[Hellfire Boots](/Equipment.aspx?ID=735)\r\n</title>\n\n<traits>\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 261 <sup>2.0</sup></row>\n\n**Price** 3,000 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** worn\r\n\r\n**Bulk** 1\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThese heavy boots are made of blackened metal and always feel warm to the touch, with streams of glowing embers cascading off their heels. While wearing _hellfire boots_, you gain resistance 10 to fire damage.\n\n<document level=\"2\" id=\"action-581\" />\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 13\"\r\n    pfs=\"Standard\"\r\n>\r\n[Hellfire Boots](/Equipment.aspx?ID=3088)\r\n</title>\n\n<traits>\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=604\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=637\" />\r\n<trait label=\"Occult\" url=\"/Traits.aspx?ID=662\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 290 <sup>2.0</sup>\n\n**Price** 3,000 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** worn shoes\r\n\r\n**Bulk** 1\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThese heavy boots are made of blackened metal and always feel warm to the touch, with streams of glowing embers cascading off their heels. While wearing hellfire boots, you gain resistance 10 to fire damage. \n\n**Activate—Devil's Dance** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=104)) **Frequency** once per minute;   **Effect** You Stride. Each square you move through during your Stride is scorched with hellish flames, becoming hazardous terrain for 1 minute. A creature that moves through one of these spaces takes 3d6 fire damage.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Hellfire Boots",
  "pfs": "Standard",
  "price": 300000,
  "price_raw": "3,000 gp",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 290",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "school": "evocation",
- "search_markdown": "<traits>\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=98\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 261 <sup>2.0</sup></row>\r\n\r\n**Price** 3,000 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** worn\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese heavy boots are made of blackened metal and always feel warm to the touch, with streams of glowing embers cascading off their heels. While …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=604\" />\r\n<trait label=\"Invested\" url=\"/Traits.aspx?ID=637\" />\r\n<trait label=\"Occult\" url=\"/Traits.aspx?ID=662\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 290 <sup>2.0</sup>\r\n\r\n**Price** 3,000 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** worn shoes\r\n\r\n**Bulk** 1\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese heavy boots are made of blackened metal and always feel warm to the touch, with streams of glowing embers cascading off their heels. While …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "GM Core"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 261"
+  "GM Core pg. 290"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 261 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 290 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
  "summary": "These heavy boots are made of blackened metal and always feel warm to the touch, with streams of glowing embers cascading off their heels. While …",
  "summary_markdown": "These heavy boots are made of blackened metal and always feel warm to the touch, with streams of glowing embers cascading off their heels. While …",
- "text": "<title level=\"1\" right=\"Item 13\" pfs=\"Standard\" > Hellfire Boots Source Advanced Player's Guide pg. 261 2.0 Price 3,000 gp Usage worn Bulk 1 --- These heavy boots are made of blackened metal and always feel warm to the touch, with streams of glowing embers cascading off their heels. While wearing hellfire boots , you gain resistance 10 to fire damage.\n",
+ "text": "<title level=\"1\" right=\"Item 13\" pfs=\"Standard\" > Hellfire Boots Source GM Core pg. 290 2.0 Price 3,000 gp Usage worn shoes Bulk 1 --- These heavy boots are made of blackened metal and always feel warm to the touch, with streams of glowing embers cascading off their heels. While wearing hellfire boots, you gain resistance 10 to fire damage. Activate—Devil's Dance Two Actions (manipulate) Frequency once per minute; Effect You Stride. Each square you move through during your Stride is scorched with hellish flames, becoming hazardous terrain for 1 minute. A creature that moves through one of these spaces takes 3d6 fire damage.\n",
  "trait": [
-  "Evocation",
   "Fire",
   "Invested",
-  "Magical"
+  "Occult"
  ],
- "trait_markdown": "[Evocation](/Traits.aspx?ID=65), [Fire](/Traits.aspx?ID=72), [Invested](/Traits.aspx?ID=98), [Magical](/Traits.aspx?ID=103)",
+ "trait_group": [
+  "Energy",
+  "Elemental",
+  "Planar",
+  "Monster",
+  "Equipment",
+  "Tradition"
+ ],
+ "trait_markdown": "[Fire](/Traits.aspx?ID=604), [Invested](/Traits.aspx?ID=637), [Occult](/Traits.aspx?ID=662)",
  "trait_raw": [
-  "Evocation",
   "Fire",
   "Invested",
-  "Magical"
+  "Occult"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=735",
- "usage": "worn",
- "usage_markdown": "worn",
+ "url": "/Equipment.aspx?ID=3088",
+ "usage": "worn shoes",
+ "usage_markdown": "worn shoes",
  "weakness": {}
 }

@@ -1,6 +1,6 @@
 {
  "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions_number": 2,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
@@ -8,37 +8,52 @@
  ],
  "feat_markdown": "Enforce Oath",
  "frequency": "once per hour",
- "id": "feat-1684",
+ "id": "feat-7522",
+ "legacy_id": [
+  "feat-1684"
+ ],
  "level": 12,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Enforce Oath](/Feats.aspx?ID=1684) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 120 <sup>2.0</sup></row>\n\n**Frequency**\r\nonce per hour\r\n\r\n**Prerequisites**\r\nYou've sworn to an [oath](/Traits.aspx?ID=119) against a specific type of creature.\n\n</column>\r\n\r\n---\r\n\r\nYou call on your oath to embolden you in combat. When you Enforce your Oath, select one creature you can see that you've sworn to defeat as part of your oath. You gain a +1 status bonus to AC and saves against attacks and effects by the chosen creature. You also gain a +1 status bonus to attack rolls against the chosen creature. However, your dedication to Enforcing your Oath draws your focus away from all other foes. While you are Enforcing your Oath, you take a –1 status penalty to AC, attack rolls, and saves against all other creatures until you stop Enforcing your Oath. \n\nYou stop Enforcing your Oath once the chosen creature is reduced to 0 Hit Points or offers a legitimate surrender to you or your allies. You immediately stop Enforcing your Oath if you are unconscious or if the chosen creature goes [unnoticed](/Conditions.aspx?ID=41) by you for more than 1 minute. You can also stop Enforcing your Oath at any time during your turn as a free action.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Enforce Oath](/Feats.aspx?ID=7522) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 277\n\n**Frequency**\r\nonce per hour\r\n\r\n**Prerequisites**\r\nAny feat with the [oath](/Traits.aspx?ID=119)  trait\n\n**Requirements**\r\nYou can see a creature you’ve sworn an oath against.\n\n</column>\r\n\r\n---\r\n\r\nYou call on your oath to embolden you in combat. Select one creature you can see that you’ve sworn an oath against (per the terms of your oath feat). You gain a +1 status bonus to AC and saves against attacks and effects by the chosen creature. You also gain a +1 status bonus to attack rolls against the chosen creature. However, your dedication draws your focus away from all other enemies. You take a –1 status penalty to AC, attack rolls, and saves against all other creatures until you stop Enforcing your Oath.\n\nEnforce Oath lasts indefinitely, but it ends if the enemy is reduced to 0 Hit Points, the enemy offers a legitimate surrender to you or your allies, you fall [unconscious](/Conditions.aspx?ID=95), or the enemy goes [unnoticed](/Conditions.aspx?ID=98) by you for more than 1 minute. You can also [Dismiss](/Actions.aspx?ID=2311) the effect as a free action.",
  "name": "Enforce Oath",
  "pfs": "Standard",
- "prerequisite": "You've sworn to an oath against a specific type of creature.",
- "prerequisite_markdown": "You've sworn to an [oath](/Traits.aspx?ID=119) against a specific type of creature.",
+ "prerequisite": "Any feat with the oath  trait",
+ "prerequisite_markdown": "Any feat with the [oath](/Traits.aspx?ID=119)  trait",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 277",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "requirement": "You can see a creature you’ve sworn an oath against.",
+ "requirement_markdown": "You can see a creature you’ve sworn an oath against.",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 120 <sup>2.0</sup></row>\r\n\r\n**Frequency**\r\nonce per hour\r\n\r\n**Prerequisites**\r\nYou've sworn to an [oath](/Traits.aspx?ID=119) against a specific type of creature.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou call on your oath to embolden you in combat.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 277\n\n**Frequency**\r\nonce per hour\r\n\r\n**Prerequisites**\r\nAny feat with the [oath](/Traits.aspx?ID=119)  trait\n\n**Requirements**\r\nYou can see a creature you’ve sworn an oath against.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou call on your oath to embolden you in combat.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 120"
+  "Divine Mysteries pg. 277"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 120 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 277",
  "speed": {},
  "summary": "You call on your oath to embolden you in combat.",
  "summary_markdown": "You call on your oath to embolden you in combat.",
- "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Enforce Oath Single Action Source Advanced Player's Guide pg. 120 2.0 Frequency once per hour Prerequisites You've sworn to an oath against a specific type of creature. --- You call on your oath to embolden you in combat. When you Enforce your Oath, select one creature you can see that you've sworn to defeat as part of your oath. You gain a +1 status bonus to AC and saves against attacks and effects by the chosen creature. You also gain a +1 status bonus to attack rolls against the chosen creature. However, your dedication to Enforcing your Oath draws your focus away from all other foes. While you are Enforcing your Oath, you take a –1 status penalty to AC, attack rolls, and saves against all other creatures until you stop Enforcing your Oath. You stop Enforcing your Oath once the chosen creature is reduced to 0 Hit Points or offers a legitimate surrender to you or your allies. You immediately stop Enforcing your Oath if you are unconscious or if the chosen creature goes unnoticed by you for more than 1 minute. You can also stop Enforcing your Oath at any time during your turn as a free action.",
+ "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Enforce Oath Single Action Source Divine Mysteries pg. 277 Frequency once per hour Prerequisites Any feat with the oath trait Requirements You can see a creature you’ve sworn an oath against. --- You call on your oath to embolden you in combat. Select one creature you can see that you’ve sworn an oath against (per the terms of your oath feat). You gain a +1 status bonus to AC and saves against attacks and effects by the chosen creature. You also gain a +1 status bonus to attack rolls against the chosen creature. However, your dedication draws your focus away from all other enemies. You take a –1 status penalty to AC, attack rolls, and saves against all other creatures until you stop Enforcing your Oath. Enforce Oath lasts indefinitely, but it ends if the enemy is reduced to 0 Hit Points, the enemy offers a legitimate surrender to you or your allies, you fall unconscious, or the enemy goes unnoticed by you for more than 1 minute. You can also Dismiss the effect as a free action.",
  "trait": [
   "Champion"
+ ],
+ "trait_group": [
+  "Class"
  ],
  "trait_markdown": "[Champion](/Traits.aspx?ID=24)",
  "trait_raw": [
   "Champion"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1684",
+ "url": "/Feats.aspx?ID=7522",
  "weakness": {}
 }

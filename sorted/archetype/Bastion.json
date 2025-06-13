@@ -6,34 +6,46 @@
   "Combat Style",
   "Core"
  ],
- "breadcrumbs_spa": [],
  "category": "archetype",
  "exclude_from_search": false,
- "id": "archetype-49",
+ "id": "archetype-240",
+ "image": [
+  "/Images/Archetypes/Archetype_Bastion.webp"
+ ],
+ "legacy_id": [
+  "archetype-49"
+ ],
  "level": 2,
- "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Bastion](/Archetypes.aspx?ID=49)</title>\n\n<traits>\r\n\r\n</traits>\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 159 <sup>2.0</sup></row>\n\nSome say that a good offense is the best defense, but you find such boasting smacks of overconfidence. In your experience, the best defense is a good, solid shield between you and your enemies. You've focused your training on how best to use a shield to protect yourself and those around you.\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-1895\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1896\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1087\"\r\noverride-title-right=\"Feat 4*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1088\"\r\noverride-title-right=\"Feat 6*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1897\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-375\"\r\noverride-title-right=\"Feat 6*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-3617\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-383\"\r\noverride-title-right=\"Feat 8*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-229\"\r\noverride-title-right=\"Feat 8*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1898\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-394\"\r\noverride-title-right=\"Feat 10*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-404\"\r\noverride-title-right=\"Feat 12*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1899\"\n\n/>",
+ "markdown": "<title level=\"1\" right=\"Archetype 2\" pfs=\"Standard\">[Bastion](/Archetypes.aspx?ID=240)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<traits>\r\n\r\n</traits>\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 187 <sup>1.1</sup>\n\nSome say that a good offense is the best defense, but you find such boasting smacks of overconfidence. In your experience, the best defense is a good, solid shield between you and your enemies. You've focused your training on how best to use a shield to protect yourself and those around you. Darting around in search of cover isn't necessary when you carry your cover with you. With a shield in your hand, you are akin to a mobile fortress. You repel assaults and stand strong against the tide of enemies, secure in the knowledge that you have your most trusted companion at your side: your shield. This long-lasting fighting style has existed for ages due to its practicality and propensity for survival among its practitioners. While some prefer the nimbleness of a free hand or the power of a larger weapon, a bastion knows that surviving a little bit longer is worth more than a quicker or stronger attack.\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Archetypes/Archetype_Bastion.webp\" />\r\n</column>\r\n\r\n</row>\n\n<title level=\"3\">Additional Feats</title>\r\n\r\nThis archetype has some feats at a level other than their original level.\r\nSuch feats are marked with a \\*.\r\n\r\n[Click here for the full rules on Additional Feats](/Rules.aspx?ID=1432).\r\n\r\n<document level=\"2\" id=\"feat-6262\" />\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-3622\"\r\noverride-title-right=\"Feat 4*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6263\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1087\"\r\noverride-title-right=\"Feat 4*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-1088\"\r\noverride-title-right=\"Feat 6*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6264\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4793\"\r\noverride-title-right=\"Feat 6*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4803\"\r\noverride-title-right=\"Feat 8*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4807\"\r\noverride-title-right=\"Feat 8*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6265\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4816\"\r\noverride-title-right=\"Feat 10*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4828\"\r\noverride-title-right=\"Feat 12*\"\r\n\r\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-6266\"\n\n/>\r\n\r\n<document\r\nlevel=\"2\"\r\nid=\"feat-4849\"\r\noverride-title-right=\"Feat 18*\"\r\n\r\n/>",
  "name": "Bastion",
  "pfs": "Standard",
  "prerequisite": "Shield Block",
- "prerequisite_markdown": "[Shield Block](/Feats.aspx?ID=839)",
+ "prerequisite_markdown": "[Shield Block](/Feats.aspx?ID=5212)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 187",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 159 <sup>2.0</sup></row>\r\n\r\n**Prerequisites**\r\n[Shield Block](/Feats.aspx?ID=839)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSome say that a good offense is the best defense, but you find such boasting smacks of overconfidence. In your experience, the best defense is a …\r\n</summary>",
+ "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 187 <sup>1.1</sup>\r\n\r\n**Prerequisites**\r\n[Shield Block](/Feats.aspx?ID=5212)\n\n**Archetype Categories**\r\nCombat Style, Core\r\n\r\n**Number of Feats** 14\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSome say that a good offense is the best defense, but you find such boasting smacks of overconfidence. In your experience, the best defense is a …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 159"
+  "Player Core 2 pg. 187"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 159 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 187 <sup>1.1</sup>",
  "speed": {},
  "summary": "Some say that a good offense is the best defense, but you find such boasting smacks of overconfidence. In your experience, the best defense is a …",
  "summary_markdown": "Some say that a good offense is the best defense, but you find such boasting smacks of overconfidence. In your experience, the best defense is a …",
- "text": " Bastion Source Advanced Player's Guide pg. 159 2.0 Some say that a good offense is the best defense, but you find such boasting smacks of overconfidence. In your experience, the best defense is a good, solid shield between you and your enemies. You've focused your training on how best to use a shield to protect yourself and those around you. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-1896\" /> <document level=\"2\" id=\"feat-1087\" override-title-right=\"Feat 4 \" /> <document level=\"2\" id=\"feat-1088\" override-title-right=\"Feat 6 \" /> <document level=\"2\" id=\"feat-1897\" /> <document level=\"2\" id=\"feat-375\" override-title-right=\"Feat 6 \" /> <document level=\"2\" id=\"feat-3617\" /> <document level=\"2\" id=\"feat-383\" override-title-right=\"Feat 8 \" /> <document level=\"2\" id=\"feat-229\" override-title-right=\"Feat 8 \" /> <document level=\"2\" id=\"feat-1898\" /> <document level=\"2\" id=\"feat-394\" override-title-right=\"Feat 10 \" /> <document level=\"2\" id=\"feat-404\" override-title-right=\"Feat 12 \" /> <document level=\"2\" id=\"feat-1899\" />",
+ "text": " Bastion Source Player Core 2 pg. 187 1.1 Some say that a good offense is the best defense, but you find such boasting smacks of overconfidence. In your experience, the best defense is a good, solid shield between you and your enemies. You've focused your training on how best to use a shield to protect yourself and those around you. Darting around in search of cover isn't necessary when you carry your cover with you. With a shield in your hand, you are akin to a mobile fortress. You repel assaults and stand strong against the tide of enemies, secure in the knowledge that you have your most trusted companion at your side: your shield. This long-lasting fighting style has existed for ages due to its practicality and propensity for survival among its practitioners. While some prefer the nimbleness of a free hand or the power of a larger weapon, a bastion knows that surviving a little bit longer is worth more than a quicker or stronger attack. Additional Feats This archetype has some feats at a level other than their original level. Such feats are marked with a \\ . Click here for the full rules on Additional Feats. <document level=\"2\" id=\"feat-3622\" override-title-right=\"Feat 4 \" /> <document level=\"2\" id=\"feat-6263\" /> <document level=\"2\" id=\"feat-1087\" override-title-right=\"Feat 4 \" /> <document level=\"2\" id=\"feat-1088\" override-title-right=\"Feat 6 \" /> <document level=\"2\" id=\"feat-6264\" /> <document level=\"2\" id=\"feat-4793\" override-title-right=\"Feat 6 \" /> <document level=\"2\" id=\"feat-4803\" override-title-right=\"Feat 8 \" /> <document level=\"2\" id=\"feat-4807\" override-title-right=\"Feat 8 \" /> <document level=\"2\" id=\"feat-6265\" /> <document level=\"2\" id=\"feat-4816\" override-title-right=\"Feat 10 \" /> <document level=\"2\" id=\"feat-4828\" override-title-right=\"Feat 12 \" /> <document level=\"2\" id=\"feat-6266\" /> <document level=\"2\" id=\"feat-4849\" override-title-right=\"Feat 18 \" />",
  "trait_markdown": "",
  "type": "Archetype",
- "url": "/Archetypes.aspx?ID=49",
+ "url": "/Archetypes.aspx?ID=240",
  "weakness": {}
 }

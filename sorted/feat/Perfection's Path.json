@@ -2,44 +2,56 @@
  "archetype": [
   "Monk"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Perfection's Path"
  ],
  "feat_markdown": "Perfection's Path",
- "id": "feat-721",
+ "id": "feat-6216",
+ "legacy_id": [
+  "feat-721"
+ ],
  "level": 12,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Perfection's Path](/Feats.aspx?ID=721) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 227 <sup>4.0</sup></row>\n\n**Archetype** [Monk](/Archetypes.aspx?ID=8)\n\n**Prerequisites**\r\n[Monk Dedication](/Feats.aspx?ID=715); expert in at least one saving throw\n\n</column>\r\n\r\n---\r\n\r\nChoose one saving throw (Fortitude, Reflex, or Will) in which you are an expert. Your proficiency rank in the chosen saving throw increases to master.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Perfection's Path](/Feats.aspx?ID=6216) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 179 <sup>1.1</sup>\n\n**Archetype** [Monk](/Archetypes.aspx?ID=232)\n\n**Prerequisites**\r\n[Monk Dedication](/Feats.aspx?ID=6210); expert in at least one saving throw\n\n</column>\r\n\r\n---\r\n\r\nChoose one saving throw (Fortitude, Reflex, or Will) in which you’re an expert. Your proficiency rank in the chosen saving throw increases to master.",
  "name": "Perfection's Path",
  "pfs": "Standard",
  "prerequisite": "Monk Dedication; expert in at least one saving throw",
- "prerequisite_markdown": "[Monk Dedication](/Feats.aspx?ID=715); expert in at least one saving throw",
+ "prerequisite_markdown": "[Monk Dedication](/Feats.aspx?ID=6210); expert in at least one saving throw",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 179",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 227 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[Monk Dedication](/Feats.aspx?ID=715); expert in at least one saving throw\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIncrease the proiciency rank for one saving throw to master.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 179 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Monk Dedication](/Feats.aspx?ID=6210); expert in at least one saving throw\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nChoose one saving throw (Fortitude, Reflex, or Will) in which you’re an expert.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 227"
+  "Player Core 2 pg. 179"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 227 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 179 <sup>1.1</sup>",
  "speed": {},
- "summary": "Increase the proiciency rank for one saving throw to master.",
- "summary_markdown": "Increase the proiciency rank for one saving throw to master.",
- "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Perfection's Path Source Core Rulebook pg. 227 4.0 Archetype Monk Prerequisites Monk Dedication; expert in at least one saving throw --- Choose one saving throw (Fortitude, Reflex, or Will) in which you are an expert. Your proficiency rank in the chosen saving throw increases to master.",
+ "summary": "Choose one saving throw (Fortitude, Reflex, or Will) in which you’re an expert.",
+ "summary_markdown": "Choose one saving throw (Fortitude, Reflex, or Will) in which you’re an expert.",
+ "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Perfection's Path Source Player Core 2 pg. 179 1.1 Archetype Monk Prerequisites Monk Dedication; expert in at least one saving throw --- Choose one saving throw (Fortitude, Reflex, or Will) in which you’re an expert. Your proficiency rank in the chosen saving throw increases to master.",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=721",
+ "url": "/Feats.aspx?ID=6216",
  "weakness": {}
 }

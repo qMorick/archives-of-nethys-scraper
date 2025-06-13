@@ -2,42 +2,54 @@
  "archetype": [
   "Poisoner"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Pinpoint Poisoner"
  ],
  "feat_markdown": "Pinpoint Poisoner",
- "id": "feat-1599",
+ "id": "feat-5785",
+ "legacy_id": [
+  "feat-1599"
+ ],
  "level": 8,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Pinpoint Poisoner](/Feats.aspx?ID=1599) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 107 <sup>2.0</sup></row>\n\n**Archetype** [Poisoner](/Archetypes.aspx?ID=71) (Level 10)\n\n</column>\r\n\r\n---\r\n\r\nUnsuspecting targets are especially vulnerable to your poisons. When you successfully Strike a [flat-footed](/Conditions.aspx?ID=16) creature with a poisoned weapon or expose a flat-footed creature to an inhaled poison, the flat-footed condition also gives that creature a –2 circumstance penalty to its initial save against that poison.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 8\"\r\n    pfs=\"Standard\"\r\n>\r\n[Pinpoint Poisoner](/Feats.aspx?ID=5785) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=812\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 67 <sup>1.1</sup>\n\n**Archetypes** [Poisoner](/Archetypes.aspx?ID=71) (Level 10), [Poisoner](/Archetypes.aspx?ID=259) (Level 10)\n\n</column>\r\n\r\n---\r\n\r\nUnsuspecting targets are especially vulnerable to your poisons. When you successfully Strike an [off-guard](/Conditions.aspx?ID=58) creature with a poisoned weapon or expose an off-guard creature to an [inhaled](/Traits.aspx?ID=634) poison, that creature takes a –2 circumstance penalty to its initial save against that poison.",
  "name": "Pinpoint Poisoner",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 67",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=7\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 107 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nUnsuspecting targets are especially vulnerable to your poisons.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Alchemist\" url=\"/Traits.aspx?ID=812\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 67 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nUnsuspecting targets are especially vulnerable to your poisons.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 107"
+  "Player Core 2 pg. 67"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 107 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 67 <sup>1.1</sup>",
  "speed": {},
  "summary": "Unsuspecting targets are especially vulnerable to your poisons.",
  "summary_markdown": "Unsuspecting targets are especially vulnerable to your poisons.",
- "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Pinpoint Poisoner Source Advanced Player's Guide pg. 107 2.0 Archetype Poisoner (Level 10) --- Unsuspecting targets are especially vulnerable to your poisons. When you successfully Strike a flat-footed creature with a poisoned weapon or expose a flat-footed creature to an inhaled poison, the flat-footed condition also gives that creature a –2 circumstance penalty to its initial save against that poison.",
+ "text": "<title level=\"1\" right=\"Feat 8\" pfs=\"Standard\" > Pinpoint Poisoner Source Player Core 2 pg. 67 1.1 Archetypes Poisoner (Level 10), Poisoner (Level 10) --- Unsuspecting targets are especially vulnerable to your poisons. When you successfully Strike an off-guard creature with a poisoned weapon or expose an off-guard creature to an inhaled poison, that creature takes a –2 circumstance penalty to its initial save against that poison.",
  "trait": [
   "Alchemist"
  ],
- "trait_markdown": "[Alchemist](/Traits.aspx?ID=7)",
+ "trait_group": [
+  "Class"
+ ],
+ "trait_markdown": "[Alchemist](/Traits.aspx?ID=812)",
  "trait_raw": [
   "Alchemist"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1599",
+ "url": "/Feats.aspx?ID=5785",
  "weakness": {}
 }

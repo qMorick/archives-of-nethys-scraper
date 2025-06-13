@@ -1,48 +1,62 @@
 {
  "actions": "Three Actions",
+ "actions_number": 6,
  "archetype": [
   "Snarecrafter"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Surprise Snare"
  ],
  "feat_markdown": "Surprise Snare",
- "id": "feat-2075",
+ "id": "feat-6415",
+ "legacy_id": [
+  "feat-2075"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Surprise Snare](/Feats.aspx?ID=2075) <actions string=\"Three Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 194 <sup>2.0</sup></row>\n\n**Archetype** [Snarecrafter](/Archetypes.aspx?ID=78)\n\n**Prerequisites**\r\n[Snarecrafter Dedication](/Feats.aspx?ID=2074)\n\n</column>\r\n\r\n---\r\n\r\nYou install one of your snares prepared for quick deployment in a space that's occupied by an opponent. It must be a snare that normally takes 1 minute or less to [Craft](/Actions.aspx?ID=43). The snare automatically triggers, but it takes a –2 circumstance penalty to any applicable save DC, as well as any attack rolls or other checks the snare attempts.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Surprise Snare](/Feats.aspx?ID=6415) <actions string=\"Three Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=645\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 216 <sup>1.1</sup>\n\n**Archetype** [Snarecrafter](/Archetypes.aspx?ID=265)\n\n**Prerequisites**\r\n[Snarecrafter Dedication](/Feats.aspx?ID=6414)\n\n</column>\r\n\r\n---\r\n\r\nYou install one prepared [snare](/Traits.aspx?ID=809) for deployment in a space that's occupied by an enemy. It must be a snare that normally takes 1 minute or less to [Craft](/Actions.aspx?ID=2385). The snare automatically triggers.",
  "name": "Surprise Snare",
  "pfs": "Standard",
  "prerequisite": "Snarecrafter Dedication",
- "prerequisite_markdown": "[Snarecrafter Dedication](/Feats.aspx?ID=2074)",
+ "prerequisite_markdown": "[Snarecrafter Dedication](/Feats.aspx?ID=6414)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 216",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 194 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Snarecrafter Dedication](/Feats.aspx?ID=2074)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou install one of your snares prepared for quick deployment in a space that's occupied by an opponent.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=645\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 216 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Snarecrafter Dedication](/Feats.aspx?ID=6414)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou install one prepared [snare](/Traits.aspx?ID=809) for deployment in a space that's occupied by an enemy.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 194"
+  "Player Core 2 pg. 216"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 194 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 216 <sup>1.1</sup>",
  "speed": {},
- "summary": "You install one of your snares prepared for quick deployment in a space that's occupied by an opponent.",
- "summary_markdown": "You install one of your snares prepared for quick deployment in a space that's occupied by an opponent.",
- "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Surprise Snare Three Actions Source Advanced Player's Guide pg. 194 2.0 Archetype Snarecrafter Prerequisites Snarecrafter Dedication --- You install one of your snares prepared for quick deployment in a space that's occupied by an opponent. It must be a snare that normally takes 1 minute or less to Craft. The snare automatically triggers, but it takes a –2 circumstance penalty to any applicable save DC, as well as any attack rolls or other checks the snare attempts.",
+ "summary": "You install one prepared  snare  for deployment in a space that's occupied by an enemy.",
+ "summary_markdown": "You install one prepared [snare](/Traits.aspx?ID=809) for deployment in a space that's occupied by an enemy.",
+ "text": "<title level=\"1\" right=\"Feat 4\" pfs=\"Standard\" > Surprise Snare Three Actions Source Player Core 2 pg. 216 1.1 Archetype Snarecrafter Prerequisites Snarecrafter Dedication --- You install one prepared snare for deployment in a space that's occupied by an enemy. It must be a snare that normally takes 1 minute or less to Craft. The snare automatically triggers.",
  "trait": [
   "Archetype",
   "Manipulate"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12), [Manipulate](/Traits.aspx?ID=104)",
+ "trait_group": [
+  "Feat",
+  "Mechanics"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535), [Manipulate](/Traits.aspx?ID=645)",
  "trait_raw": [
   "Archetype",
   "Manipulate"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2075",
+ "url": "/Feats.aspx?ID=6415",
  "weakness": {}
 }

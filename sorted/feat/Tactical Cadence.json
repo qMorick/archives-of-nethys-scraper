@@ -2,44 +2,56 @@
  "archetype": [
   "Marshal"
  ],
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Tactical Cadence"
  ],
  "feat_markdown": "Tactical Cadence",
- "id": "feat-2016",
+ "id": "feat-6362",
+ "legacy_id": [
+  "feat-2016"
+ ],
  "level": 14,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 14\"\r\n    pfs=\"Standard\"\r\n>\r\n[Tactical Cadence](/Feats.aspx?ID=2016) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 181 <sup>2.0</sup></row>\n\n**Archetype** [Marshal](/Archetypes.aspx?ID=66)\n\n**Prerequisites**\r\n[Cadence Call](/Feats.aspx?ID=2010)\n\n</column>\r\n\r\n---\r\n\r\nYour remarkable breath control and concise instructions allow you to coordinate your allies more effectively. When you grant allies the [quickened](/Conditions.aspx?ID=32) condition using [Cadence Call](/Feats.aspx?ID=2010), they can use the extra action to either Stride or Strike, and they aren't [slowed 1](/Conditions.aspx?ID=35) on their following turn if they use the extra action.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 14\"\r\n    pfs=\"Standard\"\r\n>\r\n[Tactical Cadence](/Feats.aspx?ID=6362) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 205 <sup>1.1</sup>\n\n**Archetype** [Marshal](/Archetypes.aspx?ID=254)\n\n**Prerequisites**\r\n[Cadence Call](/Feats.aspx?ID=6356); [Marshal Dedication](/Feats.aspx?ID=6351)\n\n</column>\r\n\r\n---\r\n\r\nYour remarkable breath control and concise instructions allow you to coordinate your allies more effectively, even in desperate situations. When you grant allies the [quickened](/Conditions.aspx?ID=89) condition using [Cadence Call](/Feats.aspx?ID=6356), they can use the extra action to either [Stride](/Actions.aspx?ID=2305) or [Strike](/Actions.aspx?ID=2306), and they aren’t [slowed](/Conditions.aspx?ID=92) 1 on their following turn if they use the extra action.",
  "name": "Tactical Cadence",
  "pfs": "Standard",
- "prerequisite": "Cadence Call",
- "prerequisite_markdown": "[Cadence Call](/Feats.aspx?ID=2010)",
+ "prerequisite": "Cadence Call; Marshal Dedication",
+ "prerequisite_markdown": "[Cadence Call](/Feats.aspx?ID=6356); [Marshal Dedication](/Feats.aspx?ID=6351)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 205",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=12\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 181 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[Cadence Call](/Feats.aspx?ID=2010)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour remarkable breath control and concise instructions allow you to coordinate your allies more effectively.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Archetype\" url=\"/Traits.aspx?ID=535\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 205 <sup>1.1</sup>\n\n**Prerequisites**\r\n[Cadence Call](/Feats.aspx?ID=6356); [Marshal Dedication](/Feats.aspx?ID=6351)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour remarkable breath control and concise instructions allow you to coordinate your allies more effectively, even in desperate situations.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 181"
+  "Player Core 2 pg. 205"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 181 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 205 <sup>1.1</sup>",
  "speed": {},
- "summary": "Your remarkable breath control and concise instructions allow you to coordinate your allies more effectively.",
- "summary_markdown": "Your remarkable breath control and concise instructions allow you to coordinate your allies more effectively.",
- "text": "<title level=\"1\" right=\"Feat 14\" pfs=\"Standard\" > Tactical Cadence Source Advanced Player's Guide pg. 181 2.0 Archetype Marshal Prerequisites Cadence Call --- Your remarkable breath control and concise instructions allow you to coordinate your allies more effectively. When you grant allies the quickened condition using Cadence Call, they can use the extra action to either Stride or Strike, and they aren't slowed 1 on their following turn if they use the extra action.",
+ "summary": "Your remarkable breath control and concise instructions allow you to coordinate your allies more effectively, even in desperate situations.",
+ "summary_markdown": "Your remarkable breath control and concise instructions allow you to coordinate your allies more effectively, even in desperate situations.",
+ "text": "<title level=\"1\" right=\"Feat 14\" pfs=\"Standard\" > Tactical Cadence Source Player Core 2 pg. 205 1.1 Archetype Marshal Prerequisites Cadence Call; Marshal Dedication --- Your remarkable breath control and concise instructions allow you to coordinate your allies more effectively, even in desperate situations. When you grant allies the quickened condition using Cadence Call, they can use the extra action to either Stride or Strike, and they aren’t slowed 1 on their following turn if they use the extra action.",
  "trait": [
   "Archetype"
  ],
- "trait_markdown": "[Archetype](/Traits.aspx?ID=12)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[Archetype](/Traits.aspx?ID=535)",
  "trait_raw": [
   "Archetype"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2016",
+ "url": "/Feats.aspx?ID=6362",
  "weakness": {}
 }

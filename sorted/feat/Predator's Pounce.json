@@ -1,51 +1,64 @@
 {
  "actions": "Single Action",
- "breadcrumbs_spa": [],
+ "actions_number": 2,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Predator's Pounce"
  ],
  "feat_markdown": "Predator's Pounce",
- "id": "feat-164",
+ "id": "feat-5857",
+ "legacy_id": [
+  "feat-164"
+ ],
  "level": 12,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Predator's Pounce](/Feats.aspx?ID=164) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Flourish\" url=\"/Traits.aspx?ID=73\" />\r\n<trait label=\"Open\" url=\"/Traits.aspx?ID=123\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 92 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[animal instinct](/Instincts.aspx?ID=1)\n\n**Requirements**\r\nYou are unarmored or wearing light armor.\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou close the distance to your prey in a blur, pouncing on the creature before it can react. You Stride up to your Speed and make a Strike at the end of your movement.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 12\"\r\n    pfs=\"Standard\"\r\n>\r\n[Predator's Pounce](/Feats.aspx?ID=5857) <actions string=\"Single Action\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Flourish\" url=\"/Traits.aspx?ID=606\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 82 <sup>1.1</sup>\n\n**Prerequisites**\r\n[animal instinct](/Instincts.aspx?ID=8)\n\n**Requirements**\r\nYou are unarmored or wearing light armor.\n\n</column>\r\n\r\n---\r\n\r\nYou close the distance to your prey in a blur, pouncing on the creature before it can react. You Stride up to your Speed and make a Strike at the end of your movement.",
  "name": "Predator's Pounce",
  "pfs": "Standard",
  "prerequisite": "animal instinct",
- "prerequisite_markdown": "[animal instinct](/Instincts.aspx?ID=1)",
+ "prerequisite_markdown": "[animal instinct](/Instincts.aspx?ID=8)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 82",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "requirement": "You are unarmored or wearing light armor.",
  "requirement_markdown": "You are unarmored or wearing light armor.",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=18\" />\r\n<trait label=\"Flourish\" url=\"/Traits.aspx?ID=73\" />\r\n<trait label=\"Open\" url=\"/Traits.aspx?ID=123\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=135\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 92 <sup>4.0</sup></row>\n\n**Prerequisites**\r\n[animal instinct](/Instincts.aspx?ID=1)\n\n**Requirements**\r\nYou are unarmored or wearing light armor.\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou close the distance to your prey in a blur.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Barbarian\" url=\"/Traits.aspx?ID=813\" />\r\n<trait label=\"Flourish\" url=\"/Traits.aspx?ID=606\" />\r\n<trait label=\"Rage\" url=\"/Traits.aspx?ID=680\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 82 <sup>1.1</sup>\n\n**Prerequisites**\r\n[animal instinct](/Instincts.aspx?ID=8)\n\n**Requirements**\r\nYou are unarmored or wearing light armor.\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou close the distance to your prey in a blur, pouncing on the creature before it can react.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 92"
+  "Player Core 2 pg. 82"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 92 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 82 <sup>1.1</sup>",
  "speed": {},
- "summary": "You close the distance to your prey in a blur.",
- "summary_markdown": "You close the distance to your prey in a blur.",
- "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Predator's Pounce Single Action Source Core Rulebook pg. 92 4.0 Prerequisites animal instinct Requirements You are unarmored or wearing light armor. --- You close the distance to your prey in a blur, pouncing on the creature before it can react. You Stride up to your Speed and make a Strike at the end of your movement.",
+ "summary": "You close the distance to your prey in a blur, pouncing on the creature before it can react.",
+ "summary_markdown": "You close the distance to your prey in a blur, pouncing on the creature before it can react.",
+ "text": "<title level=\"1\" right=\"Feat 12\" pfs=\"Standard\" > Predator's Pounce Single Action Source Player Core 2 pg. 82 1.1 Prerequisites animal instinct Requirements You are unarmored or wearing light armor. --- You close the distance to your prey in a blur, pouncing on the creature before it can react. You Stride up to your Speed and make a Strike at the end of your movement.",
  "trait": [
   "Barbarian",
   "Flourish",
-  "Open",
   "Rage"
  ],
- "trait_markdown": "[Barbarian](/Traits.aspx?ID=18), [Flourish](/Traits.aspx?ID=73), [Open](/Traits.aspx?ID=123), [Rage](/Traits.aspx?ID=135)",
+ "trait_group": [
+  "Class",
+  "Mechanics",
+  "Class-Specific"
+ ],
+ "trait_markdown": "[Barbarian](/Traits.aspx?ID=813), [Flourish](/Traits.aspx?ID=606), [Rage](/Traits.aspx?ID=680)",
  "trait_raw": [
   "Barbarian",
   "Flourish",
-  "Open",
   "Rage"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=164",
+ "url": "/Feats.aspx?ID=5857",
  "weakness": {}
 }

@@ -1,41 +1,54 @@
 {
  "actions": "Three Actions",
- "breadcrumbs_spa": [],
+ "actions_number": 6,
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Improvised Repair"
  ],
  "feat_markdown": "Improvised Repair",
- "id": "feat-2132",
+ "id": "feat-6486",
+ "legacy_id": [
+  "feat-2132"
+ ],
  "level": 3,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 3\"\r\n    pfs=\"Standard\"\r\n>\r\n[Improvised Repair](/Feats.aspx?ID=2132) <actions string=\"Three Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=78\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 206 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou are skilled at making quick fixes to damaged equipment, but your fixes aren't meant to last forever. You make a quick repair to a [broken](/Conditions.aspx?ID=2) non-magical item in your possession. Until the item takes damage again, you can still use it as a [shoddy item](/Rules.aspx?ID=197) of its type. This repair restores no Hit Points, so the item is easy to destroy. Once the item is [Repaired](/Actions.aspx?ID=42) normally such that it is no longer broken, it is also no longer shoddy.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 3\"\r\n    pfs=\"Standard\"\r\n>\r\n[Improvised Repair](/Feats.aspx?ID=6486) <actions string=\"Three Actions\" />\r\n</title>\n\n<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=615\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 231 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou can hastily patch damaged equipment together, but the temporary fix lacks the full care required for lasting repairs. You patch together a broken item possessed by you or an adjacent willing creature. Until the item takes damage again, it still functions as a [shoddy](/Rules.aspx?ID=2162) item of its type. If it's a magic item or another item with activations, it can't be activated while patched together, but can be used for normal functions (such as [Striking](/Actions.aspx?ID=2306) with a weapon or using [Shield Block](/Feats.aspx?ID=5212) with a shield). This activity restores no Hit Points, so the item is easy to [destroy](/Rules.aspx?ID=2160) . Once the item is [Repaired](/Actions.aspx?ID=2384) normally such that it is no longer [broken](/Conditions.aspx?ID=60), it is also no longer shoddy.",
  "name": "Improvised Repair",
  "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 231",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2020-07-30",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=78\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 206 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nQuickly patch a broken item.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"General\" url=\"/Traits.aspx?ID=615\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 231 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can hastily patch damaged equipment together, but the temporary fix lacks the full care required for lasting repairs.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 206"
+  "Player Core 2 pg. 231"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 206 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 231 <sup>1.1</sup>",
  "speed": {},
- "summary": "Quickly patch a broken item.",
- "summary_markdown": "Quickly patch a broken item.",
- "text": "<title level=\"1\" right=\"Feat 3\" pfs=\"Standard\" > Improvised Repair Three Actions Source Advanced Player's Guide pg. 206 2.0 --- You are skilled at making quick fixes to damaged equipment, but your fixes aren't meant to last forever. You make a quick repair to a broken non-magical item in your possession. Until the item takes damage again, you can still use it as a shoddy item of its type. This repair restores no Hit Points, so the item is easy to destroy. Once the item is Repaired normally such that it is no longer broken, it is also no longer shoddy.",
+ "summary": "You can hastily patch damaged equipment together, but the temporary fix lacks the full care required for lasting repairs.",
+ "summary_markdown": "You can hastily patch damaged equipment together, but the temporary fix lacks the full care required for lasting repairs.",
+ "text": "<title level=\"1\" right=\"Feat 3\" pfs=\"Standard\" > Improvised Repair Three Actions Source Player Core 2 pg. 231 1.1 --- You can hastily patch damaged equipment together, but the temporary fix lacks the full care required for lasting repairs. You patch together a broken item possessed by you or an adjacent willing creature. Until the item takes damage again, it still functions as a shoddy item of its type. If it's a magic item or another item with activations, it can't be activated while patched together, but can be used for normal functions (such as Striking with a weapon or using Shield Block with a shield). This activity restores no Hit Points, so the item is easy to destroy . Once the item is Repaired normally such that it is no longer broken, it is also no longer shoddy.",
  "trait": [
   "General"
  ],
- "trait_markdown": "[General](/Traits.aspx?ID=78)",
+ "trait_group": [
+  "Feat"
+ ],
+ "trait_markdown": "[General](/Traits.aspx?ID=615)",
  "trait_raw": [
   "General"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2132",
+ "url": "/Feats.aspx?ID=6486",
  "weakness": {}
 }

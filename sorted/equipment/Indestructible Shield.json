@@ -2,53 +2,63 @@
  "base_item": [
   "Steel Shield"
  ],
- "base_item_markdown": "[Steel Shield](/Shields.aspx?ID=3)",
- "breadcrumbs_spa": [],
+ "base_item_markdown": "[Steel Shield](/Shields.aspx?ID=19)",
  "bulk": 1,
  "bulk_raw": "1",
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-322",
+ "id": "equipment-2822",
  "item_category": "Shields",
  "item_subcategory": "Specific Shields",
+ "legacy_id": [
+  "equipment-322"
+ ],
  "level": 18,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 18\"\r\n    pfs=\"Standard\"\r\n>\r\n[Indestructible Shield](/Equipment.aspx?ID=322)\r\n</title>\n\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Abjuration\" url=\"/Traits.aspx?ID=2\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 588 <sup>4.0</sup></row>\n\n**Price** 24,000 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Base Shield** [Steel Shield](/Shields.aspx?ID=3)\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nAn _indestructible shield_ is a [high-grade adamantine](/Equipment.aspx?ID=310) [shield](/Shields.aspx?ID=3) (Hardness 13, HP 90) that can withstand just about any damage. It can be damaged only by a [_disintegrate_](/Spells.aspx?ID=76) spell (roll damage as if against a creature that failed its save) or by an artifact tied to destruction, such as a [_sphere of annihilation_](/Equipment.aspx?ID=620).\n\n**Craft Requirements** The raw materials must include at least 4,400 gp of adamantine.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 18\"\r\n    pfs=\"Standard\"\r\n>\r\n[Indestructible Shield](/Equipment.aspx?ID=2822)\r\n</title>\n\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=683\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 234 <sup>2.0</sup>\n\n**Price** 24,000 gp\r\n\r\n<row gap=\"medium\">\n\n**Usage** held in 1 hand\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Base Shield** [Steel Shield](/Shields.aspx?ID=19)\r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nAn indestructible shield is a _high-grade greater reinforcing adamantine shield_ (Hardness 17, HP 136) that can withstand just about any damage. It can be damaged only by a [disintegrate](/Spells.aspx?ID=1492) spell (roll damage as if against a creature that failed its save) or by an artifact tied to destruction.\n\n**Craft Requirements** The raw materials must include at least 4,400 gp of adamantine.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Indestructible Shield",
  "pfs": "Standard",
  "price": 2400000,
  "price_raw": "24,000 gp",
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 234",
+ "primary_source_category": "Rulebooks",
  "rarity": "rare",
- "release_date": "2019-08-01",
+ "rarity_id": 3,
+ "release_date": "2023-11-15",
  "resistance": {},
- "school": "abjuration",
- "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Abjuration\" url=\"/Traits.aspx?ID=2\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 588 <sup>4.0</sup></row>\r\n\r\n**Price** 24,000 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn  indestructible shield  is a  high-grade adamantine   shield  (Hardness 13, HP 90) that can withstand just about any damage. It can be damaged …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=683\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 234 <sup>2.0</sup>\r\n\r\n**Price** 24,000 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Usage** held in 1 hand\r\n\r\n**Bulk** 1\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Base Shield** [Steel Shield](/Shields.aspx?ID=19)\r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn indestructible shield is a  high-grade greater reinforcing adamantine shield  (Hardness 17, HP 136) that can withstand just about any damage. It …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 588"
+  "GM Core pg. 234"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 588 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 234 <sup>2.0</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "An  indestructible shield  is a  high-grade adamantine   shield  (Hardness 13, HP 90) that can withstand just about any damage. It can be damaged …",
- "summary_markdown": "An  indestructible shield  is a  high-grade adamantine   shield  (Hardness 13, HP 90) that can withstand just about any damage. It can be damaged …",
- "text": "<title level=\"1\" right=\"Item 18\" pfs=\"Standard\" > Indestructible Shield Source Core Rulebook pg. 588 4.0 Price 24,000 gp Usage held in 1 hand Bulk 1 Base Shield Steel Shield --- An indestructible shield is a high-grade adamantine shield (Hardness 13, HP 90) that can withstand just about any damage. It can be damaged only by a disintegrate spell (roll damage as if against a creature that failed its save) or by an artifact tied to destruction, such as a sphere of annihilation . Craft Requirements The raw materials must include at least 4,400 gp of adamantine.\n",
+ "summary": "An indestructible shield is a  high-grade greater reinforcing adamantine shield  (Hardness 17, HP 136) that can withstand just about any damage. It …",
+ "summary_markdown": "An indestructible shield is a  high-grade greater reinforcing adamantine shield  (Hardness 17, HP 136) that can withstand just about any damage. It …",
+ "text": "<title level=\"1\" right=\"Item 18\" pfs=\"Standard\" > Indestructible Shield Source GM Core pg. 234 2.0 Price 24,000 gp Usage held in 1 hand Bulk 1 Base Shield Steel Shield --- An indestructible shield is a high-grade greater reinforcing adamantine shield (Hardness 17, HP 136) that can withstand just about any damage. It can be damaged only by a disintegrate spell (roll damage as if against a creature that failed its save) or by an artifact tied to destruction. Craft Requirements The raw materials must include at least 4,400 gp of adamantine.\n",
  "trait": [
-  "Abjuration",
   "Magical",
   "Rare"
  ],
- "trait_markdown": "[Abjuration](/Traits.aspx?ID=2), [Magical](/Traits.aspx?ID=103), [Rare](/Traits.aspx?ID=137)",
+ "trait_group": [
+  "Mechanics",
+  "Rarity"
+ ],
+ "trait_markdown": "[Magical](/Traits.aspx?ID=644), [Rare](/Traits.aspx?ID=683)",
  "trait_raw": [
-  "Abjuration",
   "Magical",
   "Rare"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=322",
+ "url": "/Equipment.aspx?ID=2822",
  "usage": "held in 1 hand",
  "usage_markdown": "held in 1 hand",
  "weakness": {}

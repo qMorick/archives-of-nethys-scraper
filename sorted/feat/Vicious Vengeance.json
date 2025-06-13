@@ -1,44 +1,57 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Vicious Vengeance"
  ],
  "feat_markdown": "Vicious Vengeance",
- "id": "feat-1667",
+ "id": "feat-5890",
+ "legacy_id": [
+  "feat-1667"
+ ],
  "level": 1,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Vicious Vengeance](/Feats.aspx?ID=1667) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 118 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[antipaladin cause](/Causes.aspx?ID=6)\n\n</column>\r\n\r\n---\r\n\r\nWhile your vengeance is painful for both you and your foe, none can doubt that your enemies suffer more. You gain a circumstance bonus to the damage you deal from [Destructive Vengeance](/Actions.aspx?ID=554) equal to the number of damage dice from the reaction. This only applies to the damage the enemy takes, not the damage to yourself or the extra damage you gain after using the reaction.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 1\"\r\n    pfs=\"Standard\"\r\n>\r\n[Vicious Vengeance](/Feats.aspx?ID=5890) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 94 <sup>1.1</sup>\n\n**Prerequisites**\r\n[iniquity cause](/Causes.aspx?ID=10)\n\n</column>\r\n\r\n---\r\n\r\nWhile your vengeance is painful for both you and your foe, none can doubt that your enemies suffer more. You gain a circumstance bonus to the damage you deal from [Destructive Vengeance](/Actions.aspx?ID=2806) equal to the number of damage dice from the reaction. This applies to only the damage the enemy takes, not the damage to yourself or the extra damage you gain after using the reaction.",
  "name": "Vicious Vengeance",
  "pfs": "Standard",
- "prerequisite": "antipaladin cause",
- "prerequisite_markdown": "[antipaladin cause](/Causes.aspx?ID=6)",
+ "prerequisite": "iniquity cause",
+ "prerequisite_markdown": "[iniquity cause](/Causes.aspx?ID=10)",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 94",
+ "primary_source_category": "Rulebooks",
  "rarity": "uncommon",
- "release_date": "2020-07-30",
+ "rarity_id": 2,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=24\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 118 <sup>2.0</sup></row>\n\n**Prerequisites**\r\n[antipaladin cause](/Causes.aspx?ID=6)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile your vengeance is painful for both you and your foe, none can doubt that your enemies suffer more.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Champion\" url=\"/Traits.aspx?ID=811\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 94 <sup>1.1</sup>\n\n**Prerequisites**\r\n[iniquity cause](/Causes.aspx?ID=10)\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile your vengeance is painful for both you and your foe, none can doubt that your enemies suffer more.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Advanced Player's Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Advanced Player's Guide pg. 118"
+  "Player Core 2 pg. 94"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 118 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 94 <sup>1.1</sup>",
  "speed": {},
  "summary": "While your vengeance is painful for both you and your foe, none can doubt that your enemies suffer more.",
  "summary_markdown": "While your vengeance is painful for both you and your foe, none can doubt that your enemies suffer more.",
- "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Vicious Vengeance Source Advanced Player's Guide pg. 118 2.0 Prerequisites antipaladin cause --- While your vengeance is painful for both you and your foe, none can doubt that your enemies suffer more. You gain a circumstance bonus to the damage you deal from Destructive Vengeance equal to the number of damage dice from the reaction. This only applies to the damage the enemy takes, not the damage to yourself or the extra damage you gain after using the reaction.",
+ "text": "<title level=\"1\" right=\"Feat 1\" pfs=\"Standard\" > Vicious Vengeance Source Player Core 2 pg. 94 1.1 Prerequisites iniquity cause --- While your vengeance is painful for both you and your foe, none can doubt that your enemies suffer more. You gain a circumstance bonus to the damage you deal from Destructive Vengeance equal to the number of damage dice from the reaction. This applies to only the damage the enemy takes, not the damage to yourself or the extra damage you gain after using the reaction.",
  "trait": [
   "Champion",
   "Uncommon"
  ],
- "trait_markdown": "[Champion](/Traits.aspx?ID=24), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_group": [
+  "Class",
+  "Rarity"
+ ],
+ "trait_markdown": "[Champion](/Traits.aspx?ID=811), [Uncommon](/Traits.aspx?ID=721)",
  "trait_raw": [
   "Champion",
   "Uncommon"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=1667",
+ "url": "/Feats.aspx?ID=5890",
  "weakness": {}
 }

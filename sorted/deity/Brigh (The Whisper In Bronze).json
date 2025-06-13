@@ -1,10 +1,15 @@
 {
- "ability": [
+ "attribute": [
   "Intelligence",
   "Wisdom"
  ],
- "alignment": "N",
- "breadcrumbs_spa": [],
+ "anathema": "carelessly destroy others’ creations or research, enslave intelligent constructs, abuse constructs, refuse to acknowledge or learn from mistakes",
+ "area_of_concern": [
+  "clockwork",
+  "invention",
+  "time"
+ ],
+ "area_of_concern_raw": "clockwork, invention, time",
  "category": "deity",
  "cleric_spell": [
   "Temporary Tool",
@@ -12,9 +17,10 @@
   "Duplicate Foe"
  ],
  "deity": [
-  "Brigh"
+  "Brigh",
+  "Wheels Of Innovation"
  ],
- "deity_markdown": "[Brigh](/Deities.aspx?ID=33)",
+ "deity_markdown": "[Wheels Of Innovation](/Deities.aspx?ID=385)",
  "deity_category": "Other Gods",
  "deity_category_markdown": "[Other Gods](/DeityCategories.aspx?ID=2)",
  "deity_category_order": "2Other Gods",
@@ -28,67 +34,84 @@
   "Earth",
   "Fire",
   "Knowledge",
+  "Metal",
   "Time"
  ],
- "domain_markdown": "[Creation](/Domains.aspx?ID=5), [Earth](/Domains.aspx?ID=10), [Fire](/Domains.aspx?ID=13), [Knowledge](/Domains.aspx?ID=17), [Time](/Domains.aspx?ID=54)",
+ "domain_markdown": "[Creation](/Domains.aspx?ID=68), [Earth](/Domains.aspx?ID=73), [Fire](/Domains.aspx?ID=76), [Knowledge](/Domains.aspx?ID=80), [Metal](/Domains.aspx?ID=112), [Time](/Domains.aspx?ID=121)",
  "domain_alternate": [
+  "Earth",
   "Fire"
  ],
- "domain_alternate_markdown": "[Fire](/Domains.aspx?ID=13)",
+ "domain_alternate_markdown": "[Earth](/Domains.aspx?ID=73), [Fire](/Domains.aspx?ID=76)",
  "domain_primary": [
   "Creation",
-  "Earth",
   "Knowledge",
+  "Metal",
   "Time"
  ],
- "domain_primary_markdown": "[Creation](/Domains.aspx?ID=5), [Earth](/Domains.aspx?ID=10), [Knowledge](/Domains.aspx?ID=17), [Time](/Domains.aspx?ID=54)",
+ "domain_primary_markdown": "[Creation](/Domains.aspx?ID=68), [Knowledge](/Domains.aspx?ID=80), [Metal](/Domains.aspx?ID=112), [Time](/Domains.aspx?ID=121)",
+ "edict": "craft new creations, pay attention to details, share achievements",
  "exclude_from_search": false,
  "favored_weapon": [
   "Light Hammer"
  ],
- "favored_weapon_markdown": "[Light Hammer](/Weapons.aspx?ID=29)",
- "follower_alignment": [
-  "LN",
-  "NG",
-  "N",
-  "NE",
-  "CN"
+ "favored_weapon_markdown": "[Light Hammer](/Weapons.aspx?ID=384)",
+ "id": "deity-333",
+ "legacy_id": [
+  "deity-33"
  ],
- "icon_image": "/Images/Deities/Brigh.png",
- "id": "deity-33",
- "image": [
-  "/Images/Deities/Brigh.png"
- ],
- "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Brigh (The Whisper In Bronze)](/Deities.aspx?ID=33)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 56 <sup>2.0</sup></row>\n\nBrigh’s exact origins are unknown, though her priests and various religious scholars have many theories on the matter. Some believe she was a construct who achieved consciousness and a spark of divinity, while others think she was a human alchemist and inventor who discovered ways to fuse mechanical components with her own physiology. Regardless of her origins, Brigh is a patient and thoughtful god who promotes unending curiosity and constant intellectual advancement. Her two most common forms are a humanoid woman made of bronze clockwork and a human woman wearing a bronze skullcap and armor composed of gears and other movable metal pieces. Though Brigh’s usual demeanor is composed and reserved, she isn’t an unfeeling automaton; she deeply cherishes the creations she and her followers make, and most of her worshippers feel the same way.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Other Gods](/DeityCategories.aspx?ID=2)\r\n\r\n**Edicts** craft new creations, pay attention to details, share achievements\r\n\r\n**Anathema** carelessly destroy others’ creations or research, enslave intelligent constructs, abuse constructs, refuse to acknowledge or learn from mistakes\r\n\r\n**Area of Concern**\r\nclockwork, invention, and time\r\n\r\n**Follower Alignments**\r\nLN, NG, N, NE, CN\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Deities/Brigh.png\" />\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Ability](/Backgrounds.aspx?ID=132)**\r\nIntelligence or Wisdom\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Skill** [Crafting](/Skills.aspx?ID=4)\r\n\r\n**Favored Weapon** [Light Hammer](/Weapons.aspx?ID=29)\r\n\r\n**Domains** [Creation](/Domains.aspx?ID=5), [Earth](/Domains.aspx?ID=10), [Knowledge](/Domains.aspx?ID=17), [Time](/Domains.aspx?ID=54)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** [Fire](/Domains.aspx?ID=13)\r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Temporary Tool](/Spells.aspx?ID=590)\n\n- **4th**\r\n[Creation](/Spells.aspx?ID=54)\n\n- **7th**\r\n[Duplicate Foe](/Spells.aspx?ID=93)\n\n</column><title level=\"2\">Divine Intercession</title>\r\n\r\nThe Whisper in Bronze doesn’t dole out punishments or rewards to her followers lightly.\r\n\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic - Web Supplement](/Sources.aspx?ID=19) pg. 4</row>\r\n\r\n<column gap=\"tiny\">\r\n**Minor Boon** Knowledge floods your mind. Once, you can reroll a failed skill check to [Recall Knowledge](/Actions.aspx?ID=26); you must use the second result, even if it’s worse.\r\n\r\n**Moderate Boon** You become a wellspring of invention. You gain the [Inventor](/Feats.aspx?ID=798) feat, even if you don’t meet its prerequisites, and when you roll a [Crafting](/Skills.aspx?ID=4) check for the Inventor feat, you use the result one degree of success better than the result you rolled.\r\n\r\n**Major Boon** You gain the companionship of a loyal construct ally of Brigh’s choice at least 1 level lower than you. If the construct is destroyed, it rebuilds itself over the course of a week, and as you gain levels, the construct upgrades and improves itself, becoming more powerful.\r\n</column>\r\n\r\n<column gap=\"tiny\">\r\n**Minor Curse** Your hands shake when attempting delicate work. All your failures to [Craft](/Actions.aspx?ID=43) or [Repair items](/Actions.aspx?ID=42) are instead critical failures.\r\n\r\n**Moderate Curse** Whenever you try to perform engineering or science tasks, everything just seems to explode. Whenever you attempt to create or use an alchemical item or a construct, [Disable a Device](/Actions.aspx?ID=69), and so on, you must attempt a DC 15 flat check. On a failure, something explodes and you take 1d6 fire damage (or a different type of damage, if appropriate) per level of the item, construct, or device (DC 40 basic Reflex save).\r\n\r\n**Major Curse** Constructs—even mindless constructs you thought you could control—seek your demise. All constructs are [hostile](/Conditions.aspx?ID=23) to you and attack you when they notice your presence. Occasionally, inanimate statues and other objects animate as constructs to pursue Brigh’s vengeance.\r\n</column>",
+ "markdown": "<title level=\"1\" right=\"Deity \" pfs=\"Standard\">[Brigh (The Whisper In Bronze)](/Deities.aspx?ID=333)</title>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 131\n\nBrigh’s exact origins are unknown, though her priests and various religious scholars have many theories on the matter. Some believe she was a construct who achieved consciousness and a spark of divinity, while others think she was a human alchemist and inventor who discovered ways to fuse mechanical components with her own physiology. Regardless of her origins, Brigh is a patient and thoughtful god who promotes unending curiosity and constant intellectual advancement. Her two most common forms are a humanoid woman made of bronze clockwork and a human woman wearing a bronze skullcap and armor composed of gears and other movable metal pieces. Though Brigh’s usual demeanor is composed and reserved, she isn’t an unfeeling automaton; she deeply cherishes the creations she and her followers make, and most of her worshippers feel the same way. \n\nBrigh’s faith isn’t as widespread as that of most other gods, though she does have pockets of worship in areas where machinery and constructs are common. Among these are Alkenstar, where much of that city’s production of firearms is overseen by priests of Brigh; Numeria, where the proliferation of strange technological artifacts draws followers of the Whisper in Bronze like moths to a flame; and Absalom, where the mysterious Clockwork Cathedral teaches the crafts of mechanical engineering and construct-building to eager students. Brigh encourages her faithful to improve upon the work of others and allow others to build on their own achievements in Brigh turn. Typical followers of Brigh are those who work with their hands, especially gem cutters, inventors, and toy makers. Numerous gnomes are drawn to her religion, thanks to its emphasis on searching for new and exciting innovations. Many of her followers dedicate their lives to research and projects of great scope, crafting magnificent inventions that take years to create. Other followers are content with creating smaller inventions or tinkering with those of others. Brigh is pleased regardless of the size of the project, so long as new technologies and discoveries result from the work.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Category** [Other Gods](/DeityCategories.aspx?ID=2)\r\n\r\n**Edicts** craft new creations, pay attention to details, share achievements\r\n\r\n**Anathema** carelessly destroy others’ creations or research, enslave intelligent constructs, abuse constructs, refuse to acknowledge or learn from mistakes\r\n\r\n**Area of Concern**\r\nclockwork, invention, time\n\n**Pantheons**\r\n[Wheels Of Innovation](/Deities.aspx?ID=385)\n\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n<title level=\"2\">Devotee Benefits</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**[Divine Attribute](/Backgrounds.aspx?ID=132)**\r\nIntelligence or Wisdom\r\n\r\n**Divine Font** [Harm](/Spells.aspx?ID=146) or [Heal](/Spells.aspx?ID=148)\r\n\r\n**Divine Sanctification** can choose holy or unholy\r\n\r\n**Divine Skill** [Crafting](/Skills.aspx?ID=37)\r\n\r\n**Favored Weapon** [Light Hammer](/Weapons.aspx?ID=384)\r\n\r\n**Domains** [Creation](/Domains.aspx?ID=68), [Knowledge](/Domains.aspx?ID=80), [Metal](/Domains.aspx?ID=112), [Time](/Domains.aspx?ID=121)\r\n\r\n**[Alternate Domains](/Rules.aspx?ID=802)** [Earth](/Domains.aspx?ID=73), [Fire](/Domains.aspx?ID=76)\r\n\r\n**Cleric Spells**\n\n- **1st**\r\n[Temporary Tool](/Spells.aspx?ID=2369)\n\n- **4th**\r\n[Creation](/Spells.aspx?ID=1477)\n\n- **7th**\r\n[Duplicate Foe](/Spells.aspx?ID=1505)\n\n</column><title level=\"2\">Divine Intercession</title>\r\n\r\nThe Whisper in Bronze doesn’t dole out punishments or rewards to her followers lightly.\r\n\r\n**Source** [Gods &amp; Magic - Web Supplement](/Sources.aspx?ID=19) pg. 4\r\n\r\n<column gap=\"tiny\">\r\n**Minor Boon** Knowledge floods your mind. Once, you can reroll a failed skill check to [Recall Knowledge](/Actions.aspx?ID=26); you must use the second result, even if it’s worse.\r\n\r\n**Moderate Boon** You become a wellspring of invention. You gain the [Inventor](/Feats.aspx?ID=798) feat, even if you don’t meet its prerequisites, and when you roll a [Crafting](/Skills.aspx?ID=4) check for the Inventor feat, you use the result one degree of success better than the result you rolled.\r\n\r\n**Major Boon** You gain the companionship of a loyal construct ally of Brigh’s choice at least 1 level lower than you. If the construct is destroyed, it rebuilds itself over the course of a week, and as you gain levels, the construct upgrades and improves itself, becoming more powerful.\r\n</column>\r\n\r\n<column gap=\"tiny\">\r\n**Minor Curse** Your hands shake when attempting delicate work. All your failures to [Craft](/Actions.aspx?ID=43) or [Repair items](/Actions.aspx?ID=42) are instead critical failures.\r\n\r\n**Moderate Curse** Whenever you try to perform engineering or science tasks, everything just seems to explode. Whenever you attempt to create or use an alchemical item or a construct, [Disable a Device](/Actions.aspx?ID=69), and so on, you must attempt a DC 15 flat check. On a failure, something explodes and you take 1d6 fire damage (or a different type of damage, if appropriate) per level of the item, construct, or device (DC 40 basic Reflex save).\r\n\r\n**Major Curse** Constructs—even mindless constructs you thought you could control—seek your demise. All constructs are [hostile](/Conditions.aspx?ID=23) to you and attack you when they notice your presence. Occasionally, inanimate statues and other objects animate as constructs to pursue Brigh’s vengeance.\r\n</column>",
  "name": "Brigh (The Whisper In Bronze)",
+ "pantheon": [
+  "Wheels Of Innovation"
+ ],
+ "pantheon_markdown": "[Wheels Of Innovation](/Deities.aspx?ID=385)",
  "pfs": "Standard",
+ "primary_source": "Divine Mysteries",
+ "primary_source_raw": "Divine Mysteries pg. 131",
+ "primary_source_category": "Lost Omens",
  "rarity": "common",
- "release_date": "2020-01-29",
+ "rarity_id": 1,
+ "release_date": "2025-01-30",
+ "religious_symbol": "mask with forehead rune",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 56 <sup>2.0</sup></row>\r\n\r\n**Divine Font** Harm or Heal\r\n\r\n**Divine Skill** [Crafting](/Skills.aspx?ID=4)\r\n\r\n**Favored Weapon** [Light Hammer](/Weapons.aspx?ID=29)\r\n\r\n**Domains** [Creation](/Domains.aspx?ID=5), [Earth](/Domains.aspx?ID=10), [Fire](/Domains.aspx?ID=13), [Knowledge](/Domains.aspx?ID=17), [Time](/Domains.aspx?ID=54)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBrigh’s exact origins are unknown, though her priests and various religious scholars have many theories on the matter. Some believe she was a …\r\n</summary>",
+ "sacred_animal": "termite",
+ "sacred_color": [
+  "bronze",
+  "silver"
+ ],
+ "sanctification": [
+  "holy",
+  "unholy"
+ ],
+ "sanctification_raw": "can choose holy or unholy",
+ "search_markdown": "<additional-info>\r\n**Source** [Divine Mysteries](/Sources.aspx?ID=234) pg. 131\r\n\r\n**Divine Font** Harm or Heal\r\n\r\n**Divine Skill** [Crafting](/Skills.aspx?ID=37)\r\n\r\n**Favored Weapon** [Light Hammer](/Weapons.aspx?ID=384)\r\n\r\n**Domains** [Creation](/Domains.aspx?ID=68), [Earth](/Domains.aspx?ID=73), [Fire](/Domains.aspx?ID=76), [Knowledge](/Domains.aspx?ID=80), [Metal](/Domains.aspx?ID=112), [Time](/Domains.aspx?ID=121)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBrigh’s exact origins are unknown, though her priests and various religious scholars have many theories on the matter. Some believe she was a …\r\n</summary>",
  "skill": [
   "Crafting"
  ],
- "skill_markdown": "[Crafting](/Skills.aspx?ID=4)",
+ "skill_markdown": "[Crafting](/Skills.aspx?ID=37)",
+ "skill_mod": {},
  "source": [
-  "Gods & Magic"
+  "Divine Mysteries"
  ],
  "source_raw": [
-  "Gods & Magic pg. 56"
+  "Divine Mysteries pg. 131"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Gods &amp; Magic](/Sources.aspx?ID=17) pg. 56 <sup>2.0</sup></row>",
+ "source_category": [
+  "Lost Omens"
+ ],
+ "source_markdown": "[Divine Mysteries](/Sources.aspx?ID=234) pg. 131",
  "speed": {},
+ "spell": [
+  "Temporary Tool",
+  "Creation",
+  "Duplicate Foe"
+ ],
+ "spell_markdown": "[Creation](/Spells.aspx?ID=1477), [Duplicate Foe](/Spells.aspx?ID=1505), [Temporary Tool](/Spells.aspx?ID=2369)",
  "summary": "Brigh’s exact origins are unknown, though her priests and various religious scholars have many theories on the matter. Some believe she was a …",
  "summary_markdown": "Brigh’s exact origins are unknown, though her priests and various religious scholars have many theories on the matter. Some believe she was a …",
- "text": " Brigh (The Whisper In Bronze) Source Gods &amp; Magic pg. 56 2.0 Brigh’s exact origins are unknown, though her priests and various religious scholars have many theories on the matter. Some believe she was a construct who achieved consciousness and a spark of divinity, while others think she was a human alchemist and inventor who discovered ways to fuse mechanical components with her own physiology. Regardless of her origins, Brigh is a patient and thoughtful god who promotes unending curiosity and constant intellectual advancement. Her two most common forms are a humanoid woman made of bronze clockwork and a human woman wearing a bronze skullcap and armor composed of gears and other movable metal pieces. Though Brigh’s usual demeanor is composed and reserved, she isn’t an unfeeling automaton; she deeply cherishes the creations she and her followers make, and most of her worshippers feel the same way. Category Other Gods Edicts craft new creations, pay attention to details, share achievements Anathema carelessly destroy others’ creations or research, enslave intelligent constructs, abuse constructs, refuse to acknowledge or learn from mistakes Area of Concern clockwork, invention, and time Follower Alignments LN, NG, N, NE, CN Devotee Benefits Divine Ability Intelligence or Wisdom Divine Font Harm or Heal Divine Skill Crafting Favored Weapon Light Hammer Domains Creation, Earth, Knowledge, Time Alternate Domains Fire Cleric Spells - 1st Temporary Tool - 4th Creation - 7th Duplicate Foe Divine Intercession The Whisper in Bronze doesn’t dole out punishments or rewards to her followers lightly. Source Gods &amp; Magic - Web Supplement pg. 4 Minor Boon Knowledge floods your mind. Once, you can reroll a failed skill check to Recall Knowledge; you must use the second result, even if it’s worse. Moderate Boon You become a wellspring of invention. You gain the Inventor feat, even if you don’t meet its prerequisites, and when you roll a Crafting check for the Inventor feat, you use the result one degree of success better than the result you rolled. Major Boon You gain the companionship of a loyal construct ally of Brigh’s choice at least 1 level lower than you. If the construct is destroyed, it rebuilds itself over the course of a week, and as you gain levels, the construct upgrades and improves itself, becoming more powerful. Minor Curse Your hands shake when attempting delicate work. All your failures to Craft or Repair items are instead critical failures. Moderate Curse Whenever you try to perform engineering or science tasks, everything just seems to explode. Whenever you attempt to create or use an alchemical item or a construct, Disable a Device, and so on, you must attempt a DC 15 flat check. On a failure, something explodes and you take 1d6 fire damage (or a different type of damage, if appropriate) per level of the item, construct, or device (DC 40 basic Reflex save). Major Curse Constructs—even mindless constructs you thought you could control—seek your demise. All constructs are hostile to you and attack you when they notice your presence. Occasionally, inanimate statues and other objects animate as constructs to pursue Brigh’s vengeance. ",
- "trait": [
-  "N"
- ],
- "trait_raw": [
-  "N"
- ],
+ "text": " Brigh (The Whisper In Bronze) Source Divine Mysteries pg. 131 Brigh’s exact origins are unknown, though her priests and various religious scholars have many theories on the matter. Some believe she was a construct who achieved consciousness and a spark of divinity, while others think she was a human alchemist and inventor who discovered ways to fuse mechanical components with her own physiology. Regardless of her origins, Brigh is a patient and thoughtful god who promotes unending curiosity and constant intellectual advancement. Her two most common forms are a humanoid woman made of bronze clockwork and a human woman wearing a bronze skullcap and armor composed of gears and other movable metal pieces. Though Brigh’s usual demeanor is composed and reserved, she isn’t an unfeeling automaton; she deeply cherishes the creations she and her followers make, and most of her worshippers feel the same way. Brigh’s faith isn’t as widespread as that of most other gods, though she does have pockets of worship in areas where machinery and constructs are common. Among these are Alkenstar, where much of that city’s production of firearms is overseen by priests of Brigh; Numeria, where the proliferation of strange technological artifacts draws followers of the Whisper in Bronze like moths to a flame; and Absalom, where the mysterious Clockwork Cathedral teaches the crafts of mechanical engineering and construct-building to eager students. Brigh encourages her faithful to improve upon the work of others and allow others to build on their own achievements in Brigh turn. Typical followers of Brigh are those who work with their hands, especially gem cutters, inventors, and toy makers. Numerous gnomes are drawn to her religion, thanks to its emphasis on searching for new and exciting innovations. Many of her followers dedicate their lives to research and projects of great scope, crafting magnificent inventions that take years to create. Other followers are content with creating smaller inventions or tinkering with those of others. Brigh is pleased regardless of the size of the project, so long as new technologies and discoveries result from the work. Category Other Gods Edicts craft new creations, pay attention to details, share achievements Anathema carelessly destroy others’ creations or research, enslave intelligent constructs, abuse constructs, refuse to acknowledge or learn from mistakes Area of Concern clockwork, invention, time Pantheons Wheels Of Innovation Devotee Benefits Divine Attribute Intelligence or Wisdom Divine Font Harm or Heal Divine Sanctification can choose holy or unholy Divine Skill Crafting Favored Weapon Light Hammer Domains Creation, Knowledge, Metal, Time Alternate Domains Earth, Fire Cleric Spells - 1st Temporary Tool - 4th Creation - 7th Duplicate Foe Divine Intercession The Whisper in Bronze doesn’t dole out punishments or rewards to her followers lightly. Source Gods &amp; Magic - Web Supplement pg. 4 Minor Boon Knowledge floods your mind. Once, you can reroll a failed skill check to Recall Knowledge; you must use the second result, even if it’s worse. Moderate Boon You become a wellspring of invention. You gain the Inventor feat, even if you don’t meet its prerequisites, and when you roll a Crafting check for the Inventor feat, you use the result one degree of success better than the result you rolled. Major Boon You gain the companionship of a loyal construct ally of Brigh’s choice at least 1 level lower than you. If the construct is destroyed, it rebuilds itself over the course of a week, and as you gain levels, the construct upgrades and improves itself, becoming more powerful. Minor Curse Your hands shake when attempting delicate work. All your failures to Craft or Repair items are instead critical failures. Moderate Curse Whenever you try to perform engineering or science tasks, everything just seems to explode. Whenever you attempt to create or use an alchemical item or a construct, Disable a Device, and so on, you must attempt a DC 15 flat check. On a failure, something explodes and you take 1d6 fire damage (or a different type of damage, if appropriate) per level of the item, construct, or device (DC 40 basic Reflex save). Major Curse Constructs—even mindless constructs you thought you could control—seek your demise. All constructs are hostile to you and attack you when they notice your presence. Occasionally, inanimate statues and other objects animate as constructs to pursue Brigh’s vengeance. ",
  "type": "Deity",
- "url": "/Deities.aspx?ID=33",
+ "url": "/Deities.aspx?ID=333",
  "weakness": {}
 }

@@ -1,39 +1,53 @@
 {
- "breadcrumbs_spa": [],
  "category": "feat",
  "exclude_from_search": false,
  "feat": [
   "Primal Rampage"
  ],
  "feat_markdown": "Primal Rampage",
- "id": "feat-2846",
+ "id": "feat-5648",
+ "legacy_id": [
+  "feat-2846"
+ ],
  "level": 13,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 13\"\r\n    pfs=\"\"\r\n>\r\n[Primal Rampage](/Feats.aspx?ID=2846) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 59 <sup>2.0</sup></row>\n\n</column>\r\n\r\n---\r\n\r\nYou tap into the unstoppable, primeval strength of your ancient kin. You gain [_freedom of movement_](/Spells.aspx?ID=128) and [_stoneskin_](/Spells.aspx?ID=312) as 4th-level primal innate spells that you can cast once per day. As a 3-action activity, you can Cast a Spell twice to cast both of these innate spells, as long as they are both still available for the day.",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Feat 13\"\r\n    pfs=\"Standard\"\r\n>\r\n[Primal Rampage](/Feats.aspx?ID=5648) <actions string=\"\" />\r\n</title>\n\n<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=760\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 27 <sup>1.1</sup>\n\n</column>\r\n\r\n---\r\n\r\nYou gain [_unfettered movement_](/Spells.aspx?ID=1732) and [_mountain resilience_](/Spells.aspx?ID=1610) as 4th-rank primal innate spells that you can cast once per day. As a 3-action activity, you can Cast a Spell twice to cast both of these innate spells, as long as they are both still available for the day.",
  "name": "Primal Rampage",
+ "pfs": "Standard",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 27",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-10-16",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 59 <sup>2.0</sup></row>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou tap into the unstoppable, primeval strength of your ancient kin.\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=760\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 27 <sup>1.1</sup>\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain [_unfettered movement_](/Spells.aspx?ID=1732) and [_mountain resilience_](/Spells.aspx?ID=1610) as 4th-rank primal innate spells that you can cast once per day.\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Character Guide"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Character Guide pg. 59"
+  "Player Core 2 pg. 27"
  ],
- "source_category": "Lost Omens",
- "source_markdown": "<row gap=\"tiny\">[Character Guide](/Sources.aspx?ID=12) pg. 59 <sup>2.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 27 <sup>1.1</sup>",
  "speed": {},
- "summary": "You tap into the unstoppable, primeval strength of your ancient kin.",
- "summary_markdown": "You tap into the unstoppable, primeval strength of your ancient kin.",
- "text": "<title level=\"1\" right=\"Feat 13\" pfs=\"\" > Primal Rampage Source Character Guide pg. 59 2.0 --- You tap into the unstoppable, primeval strength of your ancient kin. You gain freedom of movement and stoneskin as 4th-level primal innate spells that you can cast once per day. As a 3-action activity, you can Cast a Spell twice to cast both of these innate spells, as long as they are both still available for the day.",
+ "summary": "You gain   unfettered movement   and   mountain resilience   as 4th-rank primal innate spells that you can cast once per day.",
+ "summary_markdown": "You gain [_unfettered movement_](/Spells.aspx?ID=1732) and [_mountain resilience_](/Spells.aspx?ID=1610) as 4th-rank primal innate spells that you can cast once per day.",
+ "text": "<title level=\"1\" right=\"Feat 13\" pfs=\"Standard\" > Primal Rampage Source Player Core 2 pg. 27 1.1 --- You gain unfettered movement and mountain resilience as 4th-rank primal innate spells that you can cast once per day. As a 3-action activity, you can Cast a Spell twice to cast both of these innate spells, as long as they are both still available for the day.",
  "trait": [
   "Lizardfolk"
  ],
- "trait_markdown": "[Lizardfolk](/Traits.aspx?ID=226)",
+ "trait_group": [
+  "Monster",
+  "Ancestry"
+ ],
+ "trait_markdown": "[Lizardfolk](/Traits.aspx?ID=760)",
  "trait_raw": [
   "Lizardfolk"
  ],
  "type": "Feat",
- "url": "/Feats.aspx?ID=2846",
+ "url": "/Feats.aspx?ID=5648",
  "weakness": {}
 }

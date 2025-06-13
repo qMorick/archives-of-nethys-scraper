@@ -1,37 +1,47 @@
 {
  "breadcrumbs": [
-  "Chapter 9: Playing the Game",
-  "General Rules"
+  "Chapter 8: Playing the Game"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-395",
- "markdown": "<title level=\"1\" right=\"Rules\">[Movement](/Rules.aspx?ID=395)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 463 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nYour movement and position determine how you can interact with the world. Moving around in exploration and downtime modes is relatively fluid and free form. Movement in encounter mode, by contrast, is governed by rules explained in [Movement in Encounters](/Rules.aspx?ID=443). The rules below apply regardless of which mode you’re playing in.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-396\" />\r\n\r\n<document level=\"2\" id=\"rules-402\" />",
+ "id": "rules-2345",
+ "legacy_id": [
+  "rules-395"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Movement](/Rules.aspx?ID=2345)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 420 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nYour movement and position determine how you interact with the world. Moving in exploration and downtime modes is relatively fluid. Movement in encounter mode follows additional rules explained in [Tactical Movement](/Rules.aspx?ID=2355). The rules below apply in all modes of play.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-2346\" />\r\n\r\n<document level=\"2\" id=\"rules-2352\" />\r\n\r\n<document level=\"2\" id=\"rules-2355\" />\r\n\r\n<document level=\"2\" id=\"rules-2365\" />\r\n\r\n<document level=\"2\" id=\"rules-2372\" />\r\n\r\n<document level=\"2\" id=\"rules-2375\" />",
  "name": "Movement",
  "next_link": {
-  "label": "Perception",
-  "url": "/Rules.aspx?ID=405"
+  "label": "Effects",
+  "url": "/Rules.aspx?ID=2377"
  },
  "previous_link": {
   "label": "Actions",
-  "url": "/Rules.aspx?ID=387"
+  "url": "/Rules.aspx?ID=2335"
  },
+ "primary_source": "Player Core",
+ "primary_source_raw": "Player Core pg. 420",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 463 <sup>4.0</sup></row>\r\n\r\nChapter 9: Playing the Game / General Rules\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 420 <sup>2.0</sup>\r\n\r\nChapter 8: Playing the Game\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour movement and position determine how you interact with the world. Moving in exploration and downtime modes is relatively fluid. Movement in …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 463"
+  "Player Core pg. 420"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 463 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 420 <sup>2.0</sup>",
  "speed": {},
- "text": " Movement Source Core Rulebook pg. 463 4.0 Your movement and position determine how you can interact with the world. Moving around in exploration and downtime modes is relatively fluid and free form. Movement in encounter mode, by contrast, is governed by rules explained in Movement in Encounters. The rules below apply regardless of which mode you’re playing in. ",
+ "summary": "Your movement and position determine how you interact with the world. Moving in exploration and downtime modes is relatively fluid. Movement in …",
+ "summary_markdown": "Your movement and position determine how you interact with the world. Moving in exploration and downtime modes is relatively fluid. Movement in …",
+ "text": " Movement Source Player Core pg. 420 2.0 Your movement and position determine how you interact with the world. Moving in exploration and downtime modes is relatively fluid. Movement in encounter mode follows additional rules explained in Tactical Movement. The rules below apply in all modes of play. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=395",
+ "url": "/Rules.aspx?ID=2345",
  "weakness": {}
 }

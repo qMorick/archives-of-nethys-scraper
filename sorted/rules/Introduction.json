@@ -1,33 +1,41 @@
 {
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-1587",
- "markdown": "<title level=\"1\" right=\"Rules\">[Introduction](/Rules.aspx?ID=1587)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 5</row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nThe Pathfinder Roleplaying Game features a high-fantasy setting where almost any story can be told. Where the _Core Rulebook_ provides classic options for play and _Secrets of Magic_ provides options for characters to delve deep into the magical mysteries of Golarion, _Guns &amp; Gears_ presents the secrets of black powder weapons and clockwork technology, combining grit and steampunk to produce a flavor all its own.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-1635\" />\r\n\r\n<document level=\"2\" id=\"rules-1636\" />\r\n\r\n<document level=\"2\" id=\"rules-1638\" />",
+ "id": "rules-3355",
+ "markdown": "<title level=\"1\" right=\"Rules\">[Introduction](/Rules.aspx?ID=3355)</title>\r\n\r\n**Source** [NPC Core](/Sources.aspx?ID=236) pg. 5\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nWelcome to _Pathfinder NPC Core_! Here you'll find hundreds of characters to populate your towns, castles, guildhouses, slums, caravans, and even the wilds beyond. To use this book, you'll need the rules and guidance of _Pathfinder Player Core_ and _Pathfinder GM Core_.\n\n Each section of this book includes a group of related creatures, presenting their game statistics, illustrating their place within the game world, and providing details about their behavior or society. Chapter 1 includes broadly useful human NPCs, Chapter 2 covers a few iconic NPCs for non-human ancestries, and the appendix contains numerous tools, from pets to spell lists to a relationship subsystem.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\n\n<document level=\"2\" id=\"rules-3356\" />",
  "name": "Introduction",
  "next_link": {
-  "label": "Gears Characters",
-  "url": "/Rules.aspx?ID=1599"
+  "label": "Chapter 1: NPC Gallery",
+  "url": "/Rules.aspx?ID=3363"
  },
  "previous_link": {
-  "label": "Eidolons",
-  "url": "/Rules.aspx?ID=1581"
+  "label": "Rules Elements",
+  "url": "/Rules.aspx?ID=3352"
  },
+ "primary_source": "NPC Core",
+ "primary_source_raw": "NPC Core pg. 5",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2021-10-13",
+ "rarity_id": 1,
+ "release_date": "2025-02-26",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 5</row>\n\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [NPC Core](/Sources.aspx?ID=236) pg. 5\n\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWelcome to  Pathfinder NPC Core ! Here you'll find hundreds of characters to populate your towns, castles, guildhouses, slums, caravans, and even the …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Guns & Gears"
+  "NPC Core"
  ],
  "source_raw": [
-  "Guns & Gears pg. 5"
+  "NPC Core pg. 5"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Guns &amp; Gears](/Sources.aspx?ID=98) pg. 5</row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[NPC Core](/Sources.aspx?ID=236) pg. 5",
  "speed": {},
- "text": " Introduction Source Guns &amp; Gears pg. 5 The Pathfinder Roleplaying Game features a high-fantasy setting where almost any story can be told. Where the Core Rulebook provides classic options for play and Secrets of Magic provides options for characters to delve deep into the magical mysteries of Golarion, Guns &amp; Gears presents the secrets of black powder weapons and clockwork technology, combining grit and steampunk to produce a flavor all its own. ",
+ "summary": "Welcome to  Pathfinder NPC Core ! Here you'll find hundreds of characters to populate your towns, castles, guildhouses, slums, caravans, and even the …",
+ "summary_markdown": "Welcome to  Pathfinder NPC Core ! Here you'll find hundreds of characters to populate your towns, castles, guildhouses, slums, caravans, and even the …",
+ "text": " Introduction Source NPC Core pg. 5 Welcome to Pathfinder NPC Core ! Here you'll find hundreds of characters to populate your towns, castles, guildhouses, slums, caravans, and even the wilds beyond. To use this book, you'll need the rules and guidance of Pathfinder Player Core and Pathfinder GM Core . Each section of this book includes a group of related creatures, presenting their game statistics, illustrating their place within the game world, and providing details about their behavior or society. Chapter 1 includes broadly useful human NPCs, Chapter 2 covers a few iconic NPCs for non-human ancestries, and the appendix contains numerous tools, from pets to spell lists to a relationship subsystem. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=1587",
+ "url": "/Rules.aspx?ID=3355",
  "weakness": {}
 }

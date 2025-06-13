@@ -1,38 +1,48 @@
 {
  "breadcrumbs": [
-  "Chapter 11: Crafting & Treasure",
-  "Reading Items",
-  "Level"
+  "Chapter 5: Treasure Trove",
+  "Crafting Items"
  ],
- "breadcrumbs_spa": [],
  "category": "rules",
  "exclude_from_search": false,
- "id": "rules-696",
- "markdown": "<title level=\"1\" right=\"Rules\">[Multiple Types](/Rules.aspx?ID=696)</title>\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 534 <sup>4.0</sup></row>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nIf multiple types of an item exist, the title line gives the minimum level followed by a plus symbol (“+”). The description includes information on the base version of the item, and the Type entries at the bottom of the stat block lists the specifics for each version, including the level, Price, and any modified or added abilities of the different types. For some items, the types listed are upgrades to the base item. For other items, such as aeon stones and wondrous figurines, each type is distinct from the others.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
+ "id": "rules-3159",
+ "legacy_id": [
+  "rules-696"
+ ],
+ "markdown": "<title level=\"1\" right=\"Rules\">[Multiple Types](/Rules.aspx?ID=3159)</title>\r\n\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 223 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\nSome items with multiple type entries get special treatment when it comes to formulas and upgrades. The existing knowledge you have about the item means you don't need to start from scratch with these items.\n\nIf you have the formula for an item, you don't need a different formula to [Craft](/Actions.aspx?ID=2385) a different type of that item that's just a higher-level upgrade. For example, if you have the formula for a _[+1 weapon potency rune](/Equipment.aspx?ID=2830)_, you don't need to secure a new formula to etch a _+2 weapon potency rune_. This works similarly with items such as a spacious pouch with its multiple types or [doubling rings](/Equipment.aspx?ID=3079) with a base version and greater version.\n\nYou can also upgrade an item or rune to a stronger version. This essentially means you Craft a permanent item from a lower-level version of the same item. For example, you might upgrade _+1 weapon potency rune_ to a _+2 weapon potency rune_ or upgrade a _[spacious pouch type I](/Equipment.aspx?ID=3032)_ to a _spacious pouch type II_. The cost for this upgrade is the full difference in Price between the items, and the Crafting check uses a DC for the item's new level. You don't have to upgrade step by step either! You could upgrade a _spacious pouch type I_ directly to type III or type IV.\n\nIf the different types in an item entry are wildly different, such as with _aeon stones or marvelous miniatures_, you need separate formulas and can't directly upgrade the items. If a type of the item has a higher rarity, that type requires its own formula. The GM will make the determination if it's unclear and might bypass these rules in special circumstances or if it suits the theme of their game.\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>",
  "name": "Multiple Types",
  "next_link": {
-  "label": "Price",
-  "url": "/Rules.aspx?ID=697"
+  "label": "Important Items",
+  "url": "/Rules.aspx?ID=3160"
  },
  "previous_link": {
-  "label": "Activating Items",
-  "url": "/Rules.aspx?ID=690"
+  "label": "Runes",
+  "url": "/Rules.aspx?ID=3158"
  },
+ "primary_source": "GM Core",
+ "primary_source_raw": "GM Core pg. 223",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2023-11-15",
  "resistance": {},
- "search_markdown": "<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 534 <sup>4.0</sup></row>\r\n\r\nChapter 11: Crafting &amp; Treasure / Reading Items / Level\r\n</additional-info>",
+ "search_markdown": "<additional-info>\r\n**Source** [GM Core](/Sources.aspx?ID=218) pg. 223 <sup>2.0</sup>\r\n\r\nChapter 5: Treasure Trove / Crafting Items\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSome items with multiple type entries get special treatment when it comes to formulas and upgrades. The existing knowledge you have about the item …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "GM Core"
  ],
  "source_raw": [
-  "Core Rulebook pg. 534"
+  "GM Core pg. 223"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 534 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[GM Core](/Sources.aspx?ID=218) pg. 223 <sup>2.0</sup>",
  "speed": {},
- "text": " Multiple Types Source Core Rulebook pg. 534 4.0 If multiple types of an item exist, the title line gives the minimum level followed by a plus symbol (“+”). The description includes information on the base version of the item, and the Type entries at the bottom of the stat block lists the specifics for each version, including the level, Price, and any modified or added abilities of the different types. For some items, the types listed are upgrades to the base item. For other items, such as aeon stones and wondrous figurines, each type is distinct from the others. ",
+ "summary": "Some items with multiple type entries get special treatment when it comes to formulas and upgrades. The existing knowledge you have about the item …",
+ "summary_markdown": "Some items with multiple type entries get special treatment when it comes to formulas and upgrades. The existing knowledge you have about the item …",
+ "text": " Multiple Types Source GM Core pg. 223 2.0 Some items with multiple type entries get special treatment when it comes to formulas and upgrades. The existing knowledge you have about the item means you don't need to start from scratch with these items. If you have the formula for an item, you don't need a different formula to Craft a different type of that item that's just a higher-level upgrade. For example, if you have the formula for a +1 weapon potency rune , you don't need to secure a new formula to etch a +2 weapon potency rune . This works similarly with items such as a spacious pouch with its multiple types or doubling rings with a base version and greater version. You can also upgrade an item or rune to a stronger version. This essentially means you Craft a permanent item from a lower-level version of the same item. For example, you might upgrade +1 weapon potency rune to a +2 weapon potency rune or upgrade a spacious pouch type I to a spacious pouch type II . The cost for this upgrade is the full difference in Price between the items, and the Crafting check uses a DC for the item's new level. You don't have to upgrade step by step either! You could upgrade a spacious pouch type I directly to type III or type IV. If the different types in an item entry are wildly different, such as with aeon stones or marvelous miniatures , you need separate formulas and can't directly upgrade the items. If a type of the item has a higher rarity, that type requires its own formula. The GM will make the determination if it's unclear and might bypass these rules in special circumstances or if it suits the theme of their game. ",
  "type": "Rules",
- "url": "/Rules.aspx?ID=696",
+ "url": "/Rules.aspx?ID=3159",
  "weakness": {}
 }

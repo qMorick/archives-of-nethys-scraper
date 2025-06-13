@@ -1,41 +1,55 @@
 {
  "base_item_markdown": "",
- "breadcrumbs_spa": [],
+ "bulk": 0,
  "category": "equipment",
  "exclude_from_search": false,
- "id": "equipment-329",
+ "id": "equipment-3364",
  "item_category": "Snares",
+ "legacy_id": [
+  "equipment-329"
+ ],
  "level": 4,
- "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Biting Snare](/Equipment.aspx?ID=329)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Snare\" url=\"/Traits.aspx?ID=146\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 589 <sup>4.0</sup></row>\n\n**Price** 15 gp\r\n\r\n<row gap=\"medium\">\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThe snare’s jaws shut on the leg of a creature that steps on it. The snare deals 5d6 piercing damage to the first creature that enters its square; that creature must attempt a DC 18 Reflex save. \n\n**Critical Success** The creature is unaffected.<br />\r\n**Success** The creature takes half damage.<br />\r\n**Failure** The creature takes full damage.<br />\r\n**Critical Failure** The creature takes double damage and takes a –10-foot status penalty to its Speed until it recovers at least 1 Hit Point.\n\n<column gap=\"tiny\">\n\n</column>",
+ "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Item 4\"\r\n    pfs=\"Standard\"\r\n>\r\n[Biting Snare](/Equipment.aspx?ID=3364)\r\n</title>\n\n<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=646\" />\r\n<trait label=\"Snare\" url=\"/Traits.aspx?ID=809\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=715\" />\r\n</traits>\n\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 297 <sup>1.1</sup>\n\n**Price** 15 gp\r\n\r\n<row gap=\"medium\">\n\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\n\n</column>\r\n\r\n---\n\nThis snare closes shut on the leg of a creature. The snare deals 5d6 piercing damage to the first creature that enters its square; that creature must attempt a DC 21 Reflex save.\n\n**Critical Success** The creature is unaffected.<br />\r\n**Success** The creature takes half damage.<br />\r\n**Failure** The creature takes full damage.<br />\r\n**Critical Failure** The creature takes double damage and takes a -10-foot status penalty to its Speed until it recovers at least 1 Hit Point.\n\n<column gap=\"tiny\">\n\n</column>",
  "name": "Biting Snare",
  "pfs": "Standard",
  "price": 1500,
  "price_raw": "15 gp",
+ "primary_source": "Player Core 2",
+ "primary_source_raw": "Player Core 2 pg. 297",
+ "primary_source_category": "Rulebooks",
  "rarity": "common",
- "release_date": "2019-08-01",
+ "rarity_id": 1,
+ "release_date": "2024-08-01",
  "resistance": {},
- "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=36\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Snare\" url=\"/Traits.aspx?ID=146\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 589 <sup>4.0</sup></row>\r\n\r\n**Price** 15 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe snare’s jaws shut on the leg of a creature that steps on it. The snare deals 5d6 piercing damage to the first creature that enters its square; …\r\n</summary>",
+ "search_markdown": "<traits>\r\n<trait label=\"Consumable\" url=\"/Traits.aspx?ID=564\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=646\" />\r\n<trait label=\"Snare\" url=\"/Traits.aspx?ID=809\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=715\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 297 <sup>1.1</sup>\r\n\r\n**Price** 15 gp\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\n\n<row gap=\"medium\">\n\n \r\n\r\n \r\n\r\n \r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis snare closes shut on the leg of a creature. The snare deals 5d6 piercing damage to the first creature that enters its square; that creature must …\r\n</summary>",
+ "skill_mod": {},
  "source": [
-  "Core Rulebook"
+  "Player Core 2"
  ],
  "source_raw": [
-  "Core Rulebook pg. 589"
+  "Player Core 2 pg. 297"
  ],
- "source_category": "Rulebooks",
- "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 589 <sup>4.0</sup></row>",
+ "source_category": [
+  "Rulebooks"
+ ],
+ "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 297 <sup>1.1</sup>",
  "speed": {},
  "spell_markdown": "",
  "stage_markdown": "",
- "summary": "The snare’s jaws shut on the leg of a creature that steps on it. The snare deals 5d6 piercing damage to the first creature that enters its square; …",
- "summary_markdown": "The snare’s jaws shut on the leg of a creature that steps on it. The snare deals 5d6 piercing damage to the first creature that enters its square; …",
- "text": "<title level=\"1\" right=\"Item 4\" pfs=\"Standard\" > Biting Snare Source Core Rulebook pg. 589 4.0 Price 15 gp --- The snare’s jaws shut on the leg of a creature that steps on it. The snare deals 5d6 piercing damage to the first creature that enters its square; that creature must attempt a DC 18 Reflex save. Critical Success The creature is unaffected. Success The creature takes half damage. Failure The creature takes full damage. Critical Failure The creature takes double damage and takes a –10-foot status penalty to its Speed until it recovers at least 1 Hit Point.\n",
+ "summary": "This snare closes shut on the leg of a creature. The snare deals 5d6 piercing damage to the first creature that enters its square; that creature must …",
+ "summary_markdown": "This snare closes shut on the leg of a creature. The snare deals 5d6 piercing damage to the first creature that enters its square; that creature must …",
+ "text": "<title level=\"1\" right=\"Item 4\" pfs=\"Standard\" > Biting Snare Source Player Core 2 pg. 297 1.1 Price 15 gp --- This snare closes shut on the leg of a creature. The snare deals 5d6 piercing damage to the first creature that enters its square; that creature must attempt a DC 21 Reflex save. Critical Success The creature is unaffected. Success The creature takes half damage. Failure The creature takes full damage. Critical Failure The creature takes double damage and takes a -10-foot status penalty to its Speed until it recovers at least 1 Hit Point.\n",
  "trait": [
   "Consumable",
   "Mechanical",
   "Snare",
   "Trap"
  ],
- "trait_markdown": "[Consumable](/Traits.aspx?ID=36), [Mechanical](/Traits.aspx?ID=105), [Snare](/Traits.aspx?ID=146), [Trap](/Traits.aspx?ID=158)",
+ "trait_group": [
+  "Equipment",
+  "Hazard"
+ ],
+ "trait_markdown": "[Consumable](/Traits.aspx?ID=564), [Mechanical](/Traits.aspx?ID=646), [Snare](/Traits.aspx?ID=809), [Trap](/Traits.aspx?ID=715)",
  "trait_raw": [
   "Consumable",
   "Mechanical",
@@ -43,6 +57,6 @@
   "Trap"
  ],
  "type": "Item",
- "url": "/Equipment.aspx?ID=329",
+ "url": "/Equipment.aspx?ID=3364",
  "weakness": {}
 }
